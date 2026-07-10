@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54057
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Haw Bridge
+NOMINAL AREA, 9885.46
+NOMINAL NGR,3844,2278
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384500,227900
+CENTROID NGR,GB,369150,284667
+DTM AREA, 9885.46
+ALTBAR, 145
+ASPBAR,119
+ASPVAR,0.04
+BFIHOST,0.513
+DPLBAR,134.61
+DPSBAR, 73.2
+FARL,0.978
+FPEXT,0.1060
+LDP,286.61
+PROPWET,0.32
+RMED-1H, 10.3
+RMED-1D, 33.3
+RMED-2D, 42.5
+SAAR, 793
+SAAR4170, 815
+SPRHOST,35.90
+URBCONC1990, 0.716
+URBEXT1990,0.0269
+URBLOC1990, 0.755
+URBCONC2000, 0.838
+URBEXT2000,0.0347
+URBLOC2000, 0.789
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station downstream of Warwickshire Avon inflow that is tidally affected and subject to heavily regulated/modified flows owing to PWS exports and effluent returns - provides the lowest gauge on the Severn. GENERAL: Haw Bridge is a velocity-area measurement station located on the B4213. It is downstream of the Warwickshire Avon inflow and is the lowest flow gauge on the River Severn. The site is impacted by the tide, however flows values will not account for this. Tidal influences are taken into account by the Deerhurst ADCP gauge approximately 2.21miles upstream (54110). STATION HYDROMETRY: Gauging possible from bridge up until bankfull. Difficult to access at times of very high flows if access to the bridge and road are restricted. Previously at very high flows gauging have been conducted along the B4213 and within the channel itself. There remains a high percentage of error with high flow gaugings due to the complexity of the site. Hysteresis observed during high flow events. The site is tidal influenced, however it is not possible to measure this, at this gauge. Deerhurst approximately 2.21 miles further upstream is able to account for the resultant change in velocity and flow direction as it is an ADCP site. The site itself can be prone to weed growth and bed movement, as well as siltation problems with the stilling tube on site. Multiple ratings have been applied across the period of record. Ratings applied are a compromise between allowing for bed movement and making the best use of out of bank gaugings. Most recent rating fits well to corresponding out of bank gaugings. FLOW RECORD: July 2007 peak exceeded limits of rating curve by a large margin, all flows for event estimated using National Flow Forecasting System hydrodynamic model. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Heavily regulated/modified flows; compensation flows from Llyn Clywedog and the Shropshire Groundwater Scheme, with PWS exports (to Liverpool, West Midlands and Gloucestershire) and effluent returns (chiefly to Avon, Stour (Worcs.) and Severn at Worcester). The flows are affected by tides.
+CATCHMENT,Very large, diverse catchment, lowest on the Severn. Paleozoic slates in Welsh headwaters, Permo-Triassic sediments in middle reaches and Jurassic and Liassic clays in the Avon basin.
+Qmed Suitability,Although considerable scatter in gaugings is evident. Recent rating fits well to out of bank gaugings.
+Pooling Suitability,Although considerable scatter in gaugings is evident. Recent rating fits well to out of bank gaugings (within 7% of AMAX3).
+[END]

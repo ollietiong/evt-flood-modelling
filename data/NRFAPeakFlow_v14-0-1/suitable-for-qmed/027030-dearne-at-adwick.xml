@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SE4767702022" x="447677" y="402022">
+        <CatchmentCentroid grid="GB" ngr="SE3427706336" x="434277" y="406336"/>
+        <area>310.9775</area>
+        <altbar>105.0</altbar>
+        <aspbar>86.0</aspbar>
+        <aspvar>0.2</aspvar>
+        <bfihost>0.533</bfihost>
+        <bfihost19>0.566</bfihost19>
+        <bfihost19scaled>0.563</bfihost19scaled>
+        <dplbar>21.51</dplbar>
+        <dpsbar>61.5</dpsbar>
+        <draindens>0.975</draindens>
+        <farl>0.952</farl>
+        <farl2015>0.8635</farl2015>
+        <fpext>0.0715</fpext>
+        <fpdbar>0.637</fpdbar>
+        <fploc>0.67</fploc>
+        <ihdtmeasting>447700</ihdtmeasting>
+        <ihdtmnorthing>402050</ihdtmnorthing>
+        <ldp>45.53</ldp>
+        <propwet>0.32</propwet>
+        <rmed_1h>10.3</rmed_1h>
+        <rmed_1d>33.8</rmed_1d>
+        <rmed_2d>45.7</rmed_2d>
+        <saar>696.0</saar>
+        <saar4170>707.0</saar4170>
+        <saar9120>727</saar9120>
+        <sprhost>25.42</sprhost>
+        <urbconc1990>0.717</urbconc1990>
+        <urbext1990>0.0971</urbext1990>
+        <urbloc1990>0.822</urbloc1990>
+        <urbconc2000>0.852</urbconc2000>
+        <urbext2000>0.1056</urbext2000>
+        <urbloc2000>0.83</urbloc2000>
+        <urbext2015>0.1397</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SE4767702022" x="447677" y="402022">
+        <c>-0.02499</c>
+        <d1>0.36318</d1>
+        <d2>0.44402</d2>
+        <d3>0.24994</d3>
+        <e>0.29957</e>
+        <f>2.37178</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SE480020" x="448000" y="402000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.327</d1_1_km>
+        <d2_1_km>0.405</d2_1_km>
+        <d3_1_km>0.226</d3_1_km>
+        <e_1_km>0.298</e_1_km>
+        <f_1_km>2.401</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.7, 3.4, 4, 5.1, 6.8, 8.1, 9.5, 10.7, 12.2, 13.9, 15.8, 17.9, 20.4, 23.3, 26.2, 28.9, 32, 34.8, 37.8, 40.3, 43.1, 45.7</Depths>
+        <Depths duration="0.25">4.5, 5.7, 6.9, 8.9, 11.9, 14.1, 16.8, 19.3, 22.3, 25.6, 29.6, 33.8, 39.1, 44.9, 51.2, 57.3, 63.9, 70.4, 77.1, 83.3, 89.9, 96.4</Depths>
+        <Depths duration="0.5">5.9, 7.4, 9, 11.6, 15.6, 18.5, 22.1, 25.6, 29.7, 34.3, 39.8, 45.6, 53.1, 61.3, 70.1, 78.8, 88.3, 97.8, 107.6, 116.6, 126.6, 136.4</Depths>
+        <Depths duration="0.75">6.7, 8.5, 10.4, 13.3, 17.8, 21.3, 25.6, 29.6, 34.4, 39.9, 46.1, 53.1, 61.8, 71.7, 82.2, 92.4, 103.8, 115.2, 126.9, 137.9, 149.9, 161.8</Depths>
+        <Depths duration="1">7.4, 9.3, 11.3, 14.5, 19.6, 23.4, 28, 32.5, 37.9, 43.9, 50.9, 58.6, 68.4, 79.2, 91, 102.4, 115.1, 127.9, 141.1, 153.4, 167, 180.4</Depths>
+        <Depths duration="2">11.2, 13.4, 15.6, 19.1, 24.7, 28.9, 34, 39.1, 45.3, 52.4, 60.8, 69.9, 81.1, 92.8, 105.3, 117.2, 130.4, 143.5, 156.9, 169.4, 183.1, 196.7</Depths>
+        <Depths duration="4">15.6, 18.1, 20.6, 24.5, 30.6, 35.3, 40.9, 46.8, 54, 62.4, 72.4, 82.7, 94.7, 107.1, 120.1, 132.2, 145.7, 159, 172.6, 185.4, 199.3, 213</Depths>
+        <Depths duration="6">18.6, 21.3, 23.9, 28, 34.5, 39.5, 45.6, 51.9, 59.9, 69.1, 79.7, 90.6, 103, 115.7, 128.8, 141.2, 154.7, 168.2, 181.9, 194.7, 208.7, 222.5</Depths>
+        <Depths duration="12">24.6, 27.6, 30.5, 35, 42.3, 47.8, 54.8, 62.1, 71.3, 81.7, 93.4, 104.9, 118, 131, 144.5, 157, 170.9, 184.5, 198.4, 211.3, 225.5, 239.4</Depths>
+        <Depths duration="18">28.7, 31.9, 35, 39.8, 47.6, 53.6, 61.1, 69, 78.9, 89.9, 102.1, 114, 127.3, 140.6, 154.2, 167, 180.9, 194.7, 208.8, 221.8, 236, 250.1</Depths>
+        <Depths duration="24">31.9, 35.2, 38.5, 43.5, 51.8, 58.1, 66, 74.4, 84.8, 96.2, 108.6, 120.7, 134.2, 147.7, 161.5, 174.4, 188.5, 202.4, 216.5, 229.6, 243.9, 258</Depths>
+        <Depths duration="48">40.7, 44.5, 48.2, 53.9, 63.3, 70.5, 79.6, 89, 100.4, 112.7, 125.8, 138.4, 152.4, 166.3, 180.6, 193.8, 208.3, 222.6, 237, 250.4, 265, 279.5</Depths>
+        <Depths duration="96">51.4, 55.8, 60.1, 66.7, 77.5, 85.8, 96, 106.4, 118.7, 131.6, 145.5, 158.6, 173.1, 187.4, 202.1, 215.8, 230.7, 245.5, 260.4, 274.2, 289.3, 304.1</Depths>
+        <Depths duration="192">65.7, 71, 76.2, 84, 96.5, 105.7, 116.9, 128, 140.8, 154.3, 168.5, 182, 196.9, 211.8, 227.2, 241.6, 257.2, 272.6, 288.2, 302.6, 318.4, 333.9</Depths>
+        <Depths duration="240">71.9, 77.5, 83, 91.3, 104.4, 114, 125.5, 136.7, 149.6, 163.1, 177.4, 190.9, 205.9, 220.9, 236.5, 251.1, 267, 282.6, 298.4, 313.1, 329.2, 344.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.6, 4.3, 5.4, 7.1, 8.4, 9.7, 10.9, 12.1, 13.5, 15, 16.4, 18, 19.8, 21.9, 24, 26.6, 29, 31.7, 34, 36.5, 39</Depths>
+        <Depths duration="0.25">4.8, 6.1, 7.3, 9.4, 12.5, 14.7, 17.3, 19.7, 22.2, 25, 28, 30.9, 34.4, 38.3, 42.8, 47.4, 53, 58.7, 64.7, 70.3, 76.3, 82.2</Depths>
+        <Depths duration="0.5">6.3, 7.9, 9.6, 12.2, 16.4, 19.3, 22.8, 26.1, 29.6, 33.5, 37.6, 41.7, 46.7, 52.2, 58.6, 65.2, 73.3, 81.5, 90.3, 98.5, 107.4, 116.4</Depths>
+        <Depths duration="0.75">7.2, 9.1, 11, 14, 18.7, 22.2, 26.3, 30.2, 34.3, 38.9, 43.6, 48.6, 54.4, 61.1, 68.6, 76.5, 86.1, 96, 106.5, 116.4, 127.2, 138.1</Depths>
+        <Depths duration="1">7.9, 9.9, 12, 15.3, 20.6, 24.4, 28.8, 33.1, 37.8, 42.8, 48.2, 53.6, 60.2, 67.5, 76, 84.8, 95.5, 106.6, 118.4, 129.5, 141.7, 153.9</Depths>
+        <Depths duration="2">11.9, 14.3, 16.7, 20.3, 26.1, 30.2, 35.1, 39.7, 45, 50.5, 56.7, 63, 70.9, 79.7, 89.7, 99.9, 111.5, 123.4, 135.6, 147, 159.6, 172</Depths>
+        <Depths duration="4">16.7, 19.4, 22, 26.1, 32.4, 37, 42.3, 47.5, 53.5, 60, 67.4, 75.2, 84.8, 95.3, 106.8, 118, 130.4, 142.8, 155.4, 167.3, 180.2, 192.9</Depths>
+        <Depths duration="6">19.8, 22.7, 25.5, 29.9, 36.6, 41.5, 47.2, 52.8, 59.5, 66.7, 75.1, 84, 94.8, 106.2, 118.5, 130.1, 142.9, 155.6, 168.6, 180.6, 193.8, 206.8</Depths>
+        <Depths duration="12">25.5, 28.7, 32, 36.8, 44.4, 50, 56.7, 63.4, 71.6, 80.8, 91.4, 102.3, 114.8, 127.6, 140.8, 153.1, 166.6, 179.8, 193.3, 205.8, 219.4, 232.8</Depths>
+        <Depths duration="18">29, 32.5, 35.9, 41.1, 49.4, 55.5, 63, 70.7, 80.1, 90.6, 102.5, 114.3, 127.6, 141, 154.7, 167.4, 181.2, 194.8, 208.6, 221.4, 235.3, 249</Depths>
+        <Depths duration="24">31.5, 35.2, 38.9, 44.4, 53.2, 59.7, 67.8, 76.2, 86.5, 97.9, 110.5, 122.9, 136.7, 150.4, 164.4, 177.3, 191.3, 205.2, 219.3, 232.3, 246.4, 260.2</Depths>
+        <Depths duration="48">38.4, 42.7, 46.9, 53.3, 63.5, 71.2, 80.8, 90.6, 102.5, 115.3, 129, 142.3, 156.9, 171.3, 186, 199.5, 214.1, 228.5, 243.1, 256.5, 271.1, 285.3</Depths>
+        <Depths duration="96">47.9, 53, 58, 65.5, 77.4, 86, 96.5, 106.8, 118.8, 131.5, 145.2, 158.3, 173.1, 187.7, 202.7, 216.6, 231.6, 246.3, 261.3, 275.1, 290.1, 304.7</Depths>
+        <Depths duration="192">63.8, 70.3, 76.6, 85.9, 100, 109.9, 121.2, 131.7, 143.4, 155.1, 167.3, 178.9, 192, 205.1, 218.8, 231.8, 246.2, 260.5, 275.1, 288.8, 303.7, 318.4</Depths>
+        <Depths duration="240">71.4, 78.5, 85.5, 95.7, 111, 121.6, 133.6, 144.6, 156.5, 168.3, 180.5, 191.8, 204.4, 217, 229.9, 242.1, 255.6, 269.1, 282.9, 295.9, 310.2, 324.4</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Adwick" name="Dearne" number="27030">
+        <Comments>
+            <Comment type="Station Summary">Crump profile weir in a heavily urbanised and industrialised catchment. Flow regime controlled by washlands since the gradual closure of mines.</Comment>
+            <Comment type="Hydrometric">Compound weir with central Crump profile section 5.5m wide, broad-crested flanking weirs with crests 0.4m higher than central weir, sloping side walls and no divide piers. No known bypassing, flow contained by raised embankments, however site is subject to variable back-water from the river Don confluence downstream in large flood events. Problems with draw down effect in stilling well were remedied in 1968. Weir possibly subject to mining subsidence. Rating developed from Crump formula modified to fit to check gaugings at cableway 25m upstream. Rating revised in 2016 to account for drowning / variable backwater but considerable scatter in gaugings above 1.2m stage. Separate level record and rating for fish pass (installed 2013) with flow added to weir flow to calculate total flow. Flood Studies Report grade A2 to 1.4m then B for straight-line extrapolation.</Comment>
+            <Comment type="General">Compound Crump weir with broad-crested flanks built 1963, total width 17.4m, 400m d/s of Adwick Bridge. Cableway located 25m upstream of weir. Fish pass installed June 2013.</Comment>
+            <Comment type="Flow record">Continuous level data from 1961. Flow data from November 1963 but data pre-1975 is thought to be less reliable. Post-1975 flows reprocessed in 1996 (low flows reduced, high flows increased) and again in 2016 (high flows reduced). Major flood events affected by backwater, allowed for in rating but with considerable uncertainty above 1.2m stage (40 cumecs). Increased flows 02/12/2013-05/12/2013 a result on contractors working on site affecting the water level. Data marked as estimated. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10).</Comment>
+            <Comment type="Flow regime">Abstraction to supply from Scout Dike reservoir group and Midhope reservoirs in the Don, discharged to Dearne. Reservoir influence from Worsborough and Bretton Lakes draining around 20% of the catchment. Moderately heavy industrialisation, mine drainage, sewage effluent augmentation and net import of water from Don. Hydrological characteristics altered by surface works and groundwater rebound in response to mine water pumping. The construction of washlands in the Dearne catchment has been an ongoing activity since the gradual closure of mines. Some of the washlands are controlled by two structures: A river regulator at Bolton (upstream of Adwick) and a side sluice gate at Dearne Mouth (downstream). Uncontrolled washlands operate at flows from QMED upwards, the sluice and regulator are operated only in major flood events.</Comment>
+            <Comment type="Catchment">Geology: primarily Carboniferous Coal Measures. Lower Coal Measures dip gently east northeast under more extensive Middle Coal Measures. Shales, overlain by alluvium. Land use: arable farming and moorland pasture in the headwaters. Significant urban development in middle reaches and valleys, including Barnsely. Coal mining and subsequent subsidence of land. Decline of coal mining and manufacturing industries throughout the period of record. Barnsley's growing population (and thereby development) peaked with the mining economy in 1971 (a quarter of Barnsley's population of Barnsley worked in mining by 1981). All mines were closed by 1994 with population decline since. The death of the industry left a legacy of abandoned deep mining pits and opencast coalmines, their associated spoil tips and mine works.</Comment>
+            <Comment type="Factors affecting runoff">PGEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged to well above QMED. Variable backwater starts to affect at around QMED but estimate expected to be within 10% of true value." suitable="Yes" type="QMED"/>
+            <Usage notes="Although gauged very close to AMAX1 during 2007 flood event, variable backwater leads to considerable variability in check gaugings at high flows, so not considered reliable enough for pooling." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>2.42</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

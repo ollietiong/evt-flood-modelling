@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54036
+[END]
+[CDS DETAILS]
+NAME,Isbourne
+LOCATION,Hinton on the Green
+NOMINAL AREA,   92.83
+NOMINAL NGR,4023,2406
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,402400,240700
+CENTROID NGR,GB,403963,231925
+DTM AREA,   92.83
+ALTBAR, 127
+ASPBAR,329
+ASPVAR,0.27
+BFIHOST,0.479
+DPLBAR, 12.29
+DPSBAR, 77.7
+FARL,0.990
+FPEXT,0.0695
+LDP, 21.50
+PROPWET,0.32
+RMED-1H, 10.5
+RMED-1D, 32.4
+RMED-2D, 42.1
+SAAR, 701
+SAAR4170, 737
+SPRHOST,39.20
+URBCONC1990, 0.565
+URBEXT1990,0.0169
+URBLOC1990, 0.848
+URBCONC2000, 0.663
+URBEXT2000,0.0116
+URBLOC2000, 0.895
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir (with fish baffles installed Oct 2012) in an incised trapezoidal channel with cableway, until 2014, now roped or RC boat for high flows. Used as a tributary index gauge in flood forecasting system. GENERAL: Crump profile weir, 4.5m wide by 0.5m deep, in an incised trapezoidal channel. Low cost fish baffles installed in Oct 2012. Cableway for high flows until 2014. High flows (to bankfull, and possibly above) are now gauged by rope or radio controlled boat. Commonly exceeds bankfull and does bypass some of the gauging section. Insensitive at low flows. EA use site as a tributary index gauge in flood forecasting system. STATION HYDROMETRY: Cableway until 2014 for high flows, by rope or remote control boat after. Commonly exceeds bankfull and does bypass some of the gauging section. Insensitive at low flows. One peak flow rating across period of record based on check gaugings and extrapolation above. FLOW RECORD: Station submerged and rating exceeded during July 2007 high flow event. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: PWS from headwater springs; spray irrigation and WRW effluent have dominant effect on the lowest flows. The Isbourne is spring-fed but flashy response to storms.
+CATCHMENT,Steep headwaters; rises from springs from the Cotswold Oolites; Drift free, most of the catchment drains Lias clays. Agriculture and horticulture dominate.
+Qmed Suitability,Gaugings confirm rating up to bankfull/QMED.
+Pooling Suitability,Gaugings approach AMAX3 with several above 3m (but still within bank) lending confidence to rating extrapolation. However apply some caution using rating above bank full, as site often bypassed.
+[END]

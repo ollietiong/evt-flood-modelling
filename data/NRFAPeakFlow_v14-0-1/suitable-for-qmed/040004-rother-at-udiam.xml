@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="TQ77252441" x="577250" y="124410">
+        <CatchmentCentroid grid="GB" ngr="TQ6604825059" x="566048" y="125059"/>
+        <area>204.64</area>
+        <altbar>81.0</altbar>
+        <aspbar>114.0</aspbar>
+        <aspvar>0.11</aspvar>
+        <bfihost>0.388</bfihost>
+        <bfihost19>0.358</bfihost19>
+        <bfihost19scaled>0.355</bfihost19scaled>
+        <dplbar>17.75</dplbar>
+        <dpsbar>92.7</dpsbar>
+        <draindens>1.341</draindens>
+        <farl>0.975</farl>
+        <farl2015>0.9614</farl2015>
+        <fpext>0.0573</fpext>
+        <fpdbar>0.712</fpdbar>
+        <fploc>0.674</fploc>
+        <ihdtmeasting>577250</ihdtmeasting>
+        <ihdtmnorthing>124400</ihdtmnorthing>
+        <ldp>33.27</ldp>
+        <propwet>0.35</propwet>
+        <rmed_1h>11.6</rmed_1h>
+        <rmed_1d>36.6</rmed_1d>
+        <rmed_2d>48.8</rmed_2d>
+        <saar>857.0</saar>
+        <saar4170>861.0</saar4170>
+        <saar9120>904</saar9120>
+        <sprhost>44.42</sprhost>
+        <urbconc1990>0.508</urbconc1990>
+        <urbext1990>0.0078</urbext1990>
+        <urbloc1990>0.977</urbloc1990>
+        <urbconc2000>0.684</urbconc2000>
+        <urbext2000>0.0111</urbext2000>
+        <urbloc2000>1.059</urbloc2000>
+        <urbext2015>0.0186</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="TQ77252441" x="577250" y="124410">
+        <c>-0.02346</c>
+        <d1>0.36541</d1>
+        <d2>0.3166</d2>
+        <d3>0.38381</d3>
+        <e>0.30924</e>
+        <f>2.47503</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="TQ770240" x="577000" y="124000">
+        <c_1_km>-0.023</c_1_km>
+        <d1_1_km>0.386</d1_1_km>
+        <d2_1_km>0.263</d2_1_km>
+        <d3_1_km>0.394</d3_1_km>
+        <e_1_km>0.309</e_1_km>
+        <f_1_km>2.468</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3, 3.8, 4.6, 5.8, 7.6, 8.8, 10.3, 11.4, 12.7, 14, 15.5, 16.7, 18.3, 20.1, 22.2, 24.6, 27.6, 30.9, 34.2, 37.4, 40.7, 43.9</Depths>
+        <Depths duration="0.25">5.2, 6.5, 8, 10.1, 13.4, 15.8, 18.4, 20.8, 23.5, 26.2, 29.1, 31.9, 35.3, 39.2, 44.1, 49.3, 56, 63.3, 71, 78.3, 86.3, 94</Depths>
+        <Depths duration="0.5">6.8, 8.6, 10.4, 13.3, 17.6, 20.8, 24.4, 27.8, 31.4, 35.3, 39.4, 43.4, 48.3, 53.9, 60.7, 68.3, 77.9, 88.4, 99.7, 110.3, 122.2, 133.8</Depths>
+        <Depths duration="0.75">7.9, 9.9, 11.9, 15.2, 20.3, 24, 28.3, 32.1, 36.5, 41, 46, 50.7, 56.5, 63.1, 71.3, 80.2, 91.7, 104.3, 117.7, 130.5, 144.8, 158.9</Depths>
+        <Depths duration="1">8.7, 10.9, 13.2, 16.8, 22.4, 26.4, 31.1, 35.4, 40.3, 45.3, 50.7, 56, 62.5, 69.8, 78.9, 88.9, 101.7, 115.7, 130.7, 145, 160.9, 176.7</Depths>
+        <Depths duration="2">13.2, 15.8, 18.4, 22.4, 28.5, 32.9, 37.9, 42.6, 47.9, 53.4, 59.5, 65.8, 73.8, 83.1, 94.5, 106.8, 121.4, 136.6, 152.4, 167.3, 183.7, 199.9</Depths>
+        <Depths duration="4">18.2, 21.2, 24.2, 28.6, 35.3, 40, 45.5, 50.6, 56.5, 62.8, 70.1, 77.9, 88.1, 99.9, 113.9, 128.1, 144.1, 160.1, 176.6, 192, 208.9, 225.5</Depths>
+        <Depths duration="6">21.3, 24.5, 27.7, 32.4, 39.4, 44.4, 50.1, 55.6, 62, 68.9, 77.1, 86.2, 98, 111.5, 126.7, 141.7, 158.4, 174.8, 191.7, 207.4, 224.6, 241.5</Depths>
+        <Depths duration="12">26.9, 30.4, 33.9, 38.9, 46.6, 52, 58.4, 64.5, 71.9, 80.2, 90.6, 102.4, 117.3, 133.1, 149.8, 165.7, 183.3, 200.6, 218.1, 234.3, 252.1, 269.6</Depths>
+        <Depths duration="18">30.5, 34.2, 37.8, 43.1, 51.2, 56.9, 63.6, 70.2, 78.2, 87.6, 99.5, 112.9, 129.3, 146, 163.5, 179.9, 198, 215.8, 233.7, 250.2, 268.3, 286.2</Depths>
+        <Depths duration="24">33.4, 37.3, 41, 46.5, 54.8, 60.8, 67.7, 74.7, 83.3, 93.4, 106.3, 120.7, 137.8, 155.2, 173.2, 190.1, 208.5, 226.7, 244.8, 261.6, 279.9, 298</Depths>
+        <Depths duration="48">42.8, 47, 51.2, 57.2, 66.3, 72.9, 80.6, 88.3, 98, 109.8, 124.8, 141, 159.8, 178.6, 197.8, 215.6, 235.2, 254.1, 272.8, 290.2, 309.3, 328</Depths>
+        <Depths duration="96">58.3, 63.2, 67.9, 74.7, 84.9, 92.1, 100.6, 109.1, 119.7, 132.4, 148.5, 165.9, 186.2, 206.4, 226.9, 246.2, 267, 286.8, 306.6, 325, 345, 364.7</Depths>
+        <Depths duration="192">86.4, 92.2, 97.9, 105.8, 117.3, 125.4, 134.7, 143.8, 154.9, 167.7, 183.7, 201.5, 223.2, 245.1, 267.6, 288.1, 310.3, 332.1, 354, 374.2, 396, 417.3</Depths>
+        <Depths duration="240">99.8, 106, 112, 120.4, 132.5, 140.9, 150.5, 159.9, 171.1, 183.8, 199.5, 217.2, 239.3, 262, 285.3, 306.7, 329.7, 352.3, 375, 395.9, 418.5, 440.6</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.6, 4.4, 5.6, 7.3, 8.5, 9.9, 10.9, 12.1, 13.3, 14.5, 15.5, 16.7, 18, 19.4, 21, 23.1, 25.6, 28.4, 31.2, 34.2, 37.1</Depths>
+        <Depths duration="0.25">4.9, 6.2, 7.7, 9.7, 13, 15.2, 17.7, 19.9, 22.4, 24.8, 27.3, 29.6, 32.3, 35.2, 38.5, 42.1, 46.8, 52.5, 59, 65.4, 72.5, 79.5</Depths>
+        <Depths duration="0.5">6.4, 8.2, 10, 12.8, 17.1, 20.1, 23.5, 26.6, 29.9, 33.4, 36.9, 40.3, 44.1, 48.3, 53, 58.3, 65.2, 73.4, 82.8, 92.1, 102.6, 113.1</Depths>
+        <Depths duration="0.75">7.4, 9.4, 11.5, 14.7, 19.7, 23.1, 27.2, 30.7, 34.8, 38.8, 43.1, 47, 51.6, 56.6, 62.3, 68.4, 76.7, 86.6, 97.8, 109, 121.6, 134.2</Depths>
+        <Depths duration="1">8.2, 10.4, 12.7, 16.2, 21.7, 25.5, 29.9, 33.9, 38.4, 42.8, 47.5, 51.9, 57.1, 62.6, 68.9, 75.8, 85.1, 96, 108.6, 121.1, 135.2, 149.3</Depths>
+        <Depths duration="2">12.9, 15.6, 18.3, 22.4, 28.5, 32.8, 37.6, 42, 46.8, 51.7, 56.8, 61.8, 67.7, 74.3, 82.2, 91.2, 102.8, 115.8, 129.8, 143.2, 157.9, 172.5</Depths>
+        <Depths duration="4">18.1, 21.3, 24.4, 28.9, 35.7, 40.4, 45.6, 50.5, 55.8, 61.3, 67.1, 73, 80.3, 88.9, 99.7, 111.5, 125.8, 140.5, 155.6, 169.7, 185.2, 200.4</Depths>
+        <Depths duration="6">21.2, 24.6, 27.9, 32.7, 39.8, 44.8, 50.3, 55.5, 61.2, 67, 73.5, 80.2, 88.9, 99.6, 112.6, 126.1, 141.6, 157.1, 172.9, 187.4, 203.4, 219</Depths>
+        <Depths duration="12">26.4, 30.2, 33.8, 39.1, 46.9, 52.3, 58.3, 64.1, 70.6, 77.6, 85.8, 95.2, 107.9, 122.8, 139.2, 154.7, 171.7, 188.4, 205.2, 220.8, 237.6, 254.1</Depths>
+        <Depths duration="18">29.8, 33.7, 37.5, 43.1, 51.3, 56.9, 63.4, 69.5, 76.7, 84.7, 94.5, 106, 121.5, 138.4, 156, 172.4, 190.1, 207.4, 224.9, 241, 258.4, 275.4</Depths>
+        <Depths duration="24">32.4, 36.6, 40.5, 46.3, 54.8, 60.7, 67.4, 73.9, 81.6, 90.3, 101.5, 114.6, 131.7, 149.6, 167.9, 184.8, 203, 220.8, 238.8, 255.3, 273, 290.4</Depths>
+        <Depths duration="48">41.2, 45.8, 50.2, 56.5, 65.9, 72.4, 79.8, 87.1, 96.1, 106.7, 120.7, 136.8, 156.4, 176, 195.8, 213.9, 233.4, 252.3, 271.2, 288.5, 307.3, 325.6</Depths>
+        <Depths duration="96">56.4, 61.7, 66.7, 73.9, 84.3, 91.5, 99.8, 107.7, 117.4, 128.8, 143.5, 160.6, 181.7, 202.8, 224, 243.4, 264.3, 284.4, 304.6, 323.1, 343.1, 362.6</Depths>
+        <Depths duration="192">84.7, 91.1, 97.1, 105.4, 117.5, 125.5, 134.6, 143, 152.8, 163.6, 176.9, 192.5, 213.2, 235.8, 258.9, 280.2, 303, 325.2, 347.4, 367.7, 389.6, 410.8</Depths>
+        <Depths duration="240">98.5, 105.3, 111.7, 120.6, 133.3, 141.8, 151.1, 159.8, 169.6, 180.3, 192.9, 207.4, 227.1, 249.7, 273.6, 295.6, 319.3, 342.4, 365.4, 386.5, 409.1, 431.2</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Udiam" name="Rother" number="40004">
+        <Comments>
+            <Comment type="Station Summary">Flat V weir with, since September 2012, one path ultrasonic to monitor higher non-modular flows. The flow up to 4.75 cumecs is based on power law rating in three sections. Above this the ultrasonic calculates flow.</Comment>
+            <Comment type="Hydrometric">Section consists of a narrow, well-defined channel with rock bed and good fall. Flows confined except in extreme floods when station is bypassed. Weir is non-modular above 0.6 m, and drowns early (due to downstream tidal sluice). Ultrasonics were installed in 2012 to calculate flows above the non-modular limit. Flood embankment constructed to encapsulate higher flows up to 1.54 m3/s. Stage-discharge relationship affected by downstream conditions following high flows. Difficult to produce fixed rating due to backwater effects and land drainage works.</Comment>
+            <Comment type="General">Flat V Weir with multi-path ultrasonics. Ultrasonics were installed in 2000 but not incorporated into the flow record until 2012. 2000 Rebuild superseded original Flat V (1992-2000) in embanked river section with paved bed and weir control for low stages that was insensitive at low flows. Deformation of crest was suspected and station rebuilt as a new flat-V weir with cableway in July 1992. Previously a broad-crested weir (1961-1992) and velocity-area section (pre-1961) (274m d/s of road bridge) and a flume at Robertsbridge pumping station (for flows below 1.54 m3/s, some turbulence was experienced at lower flows).</Comment>
+            <Comment type="Flow record">Revised and alternating ratings Historic_Summer and Historic_Winter have been applied between 1992 and 2012. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).</Comment>
+            <Comment type="Flow regime">Large areas of on-field storage exist during flood events, floodplain is approx. 400m wide at the gauge site. Offtake for Bough Beech Reservoir is upstream - occupying less than 1 per cent of the total catchment area, it causes a small net export of water but does not operate during summer periods. Some slight regulation by Hever Castle Lake 3.2km upstream. Leigh Flood Barrier, constructed 1981, d/s can cause some hysteresis at the gauge. Consists of a flood storage reservoir capable of retaining up to 5.58 million cubic metres of water and is the largest on line flood storage reservoir of its kind in the UK. Vexour Bridge is one of the main flood warning stations used for input to the Leigh Barrier. Possible change in channel dimensions over time. Large areas of on-field storage exist during flood events (floodplain is approx. 400m wide at the gauge site).</Comment>
+            <Comment type="Catchment">Catchment developed on sands and clays of the Wealden Series - impervious types predominate. Includes mostly Weald Clay and Upper and Lower Tunbridge Wells Sand, with the remainder made up of Upper Greensand, Ashdown Sand, Folkestone Beds, Sandgate Beds, Hythe Beds, and Atherfield, Grinstead, Gault and Wadhurst Clays. Resulting in a responsive flow regime in a small baseflow supported from the Upper Greensand. Predominantly rural catchment with scattered settlements including Edenbridge, Godstone, Lingfield and East Grinstead (which occupy approx. 3% of the total catchment area). With a catchment area u/s of Penshurst of 224km2,, with Penshurst G/S only 2.8km U/S of the confluence with the River Medway.</Comment>
+            <Comment type="Factors affecting runoff">SGE</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED and reasonably confident in estimates." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3 but significant scatter in gaugings at high flow." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>1.81</value>
+            <significance comment="Significant at the 10% level">10</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

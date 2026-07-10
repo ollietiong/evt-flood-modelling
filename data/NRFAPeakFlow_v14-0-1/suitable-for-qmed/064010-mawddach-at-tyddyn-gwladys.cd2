@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 64010
+[END]
+[CDS DETAILS]
+NAME,Mawddach
+LOCATION,Tyddyn Gwladys
+NOMINAL AREA,   63.65
+NOMINAL NGR,2735,3267
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,273550,326750
+DTM AREA,   63.65
+ALTBAR, 387
+ASPBAR,255
+ASPVAR,0.19
+BFIHOST,0.326
+DPLBAR,  8.46
+DPSBAR,159.8
+FARL,0.997
+LDP, 14.60
+PROPWET,0.71
+RMED-1H, 11.7
+RMED-1D, 61.8
+RMED-2D, 80.0
+SAAR,2007
+SAAR4170,2123
+SPRHOST,52.00
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity Area station; predominantly forested catchment, highly responsive. GENERAL: Velocity Area station with pitching strip 100m downstream of cableway that is used to stabilise rating curve at low flow. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: Problems with scouring of bed from boulders and shale movements in flood events. Station destroyed during 2001 flood event. Bed has since thought to have remained relatively stable. High responsiveness and geographical location make site difficult to gauge particularly in high flows. Multiple peak flow ratings across period of record. FLOW RECORD: Suspect data 2001-2004 following flooding event that destroyed station. FLOW REGIME: Highly responsive and largely natural.
+CATCHMENT,Steep mountainous catchment with much bare rock. Predominantly forested.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged above QMED but highest AMAX is a catastrophic event, unlikely to be within 30%.
+[END]

@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47010
+[END]
+[CDS DETAILS]
+NAME,Tamar
+LOCATION,Crowford Bridge
+NOMINAL AREA,   77.77
+NOMINAL NGR,2290, 990
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,229050,99100
+CENTROID NGR,GB,228557,108389
+DTM AREA,   77.77
+ALTBAR, 145
+ASPBAR,192
+ASPVAR,0.16
+BFIHOST,0.386
+DPLBAR, 14.37
+DPSBAR, 53.1
+FARL,0.947
+FPEXT,0.0636
+LDP, 25.87
+PROPWET,0.50
+RMED-1H, 12.4
+RMED-1D, 37.8
+RMED-2D, 49.1
+SAAR,1181
+SAAR4170,1202
+SPRHOST,41.61
+URBEXT1990,0.0038
+URBEXT2000,0.0016
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir. GENERAL: Compound Crump profile weir, total crest length 11m. STATION HYDROMETRY: Piers submerge around 1.65m. Drowning occurs when stage > 0.6m, but non-modular flows can be gauged from the footbridge. Evidence of hysteresis in rating due to the size of the downstream flood plain. One peak flow rating applied across period of record. Above piers (>1.65m), theoretical within pier rating extrapolated. Transit time of flight installed in 10/2013 and used to apply a new high flow limb for the POR in 2015. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Unusual flood response, not indicative of upper Tamar conditions. Flows substantially modified by the impoundment of the Tamar Lakes 15km u/s. Runoff also reduced by public water supply abstraction.
+CATCHMENT,River drains coastal hills of West Cornwall; relief is quite subdued, and rocks outcropping are shales and sandstones of Carboniferous Culm Measures. Land use is wholly rural with some artificially induced vegetation, moorland and low-grade agriculture. Impoundment of the Tamar Lakes.
+Qmed Suitability,Gauged to QMED, although with some scatter in gaugings.
+Pooling Suitability,Rating uncertain at higher flows, and significant unmeasured floodplain flows.
+[END]

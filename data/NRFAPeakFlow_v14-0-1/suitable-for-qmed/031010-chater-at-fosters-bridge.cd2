@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 31010
+[END]
+[CDS DETAILS]
+NAME,Chater
+LOCATION,Fosters Bridge
+NOMINAL AREA,   68.81
+NOMINAL NGR,4960,3030
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,496050,303000
+DTM AREA,   68.81
+ALTBAR, 113
+ASPBAR,107
+ASPVAR,0.17
+BFIHOST,0.529
+DPLBAR, 11.49
+DPSBAR, 61.5
+FARL,0.998
+LDP, 25.06
+PROPWET,0.30
+RMED-1H, 12.2
+RMED-1D, 30.6
+RMED-2D, 39.6
+SAAR, 640
+SAAR4170, 640
+SPRHOST,33.10
+URBEXT1990,0.0041
+URBEXT2000,0.0050
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump gauging a rural, near-natural catchment with minimal artificial influences and with mixed geology. GENERAL: Compound Crump profile weir. Central weir 1.054m wide, total width 6.077m. STATION HYDROMETRY: Not drowned but possibly bypassed in very extreme floods. Theoretical rating applied across period of record. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: No major abstractions or returns - natural to within 10% at Q95.
+CATCHMENT,Geology mixed, predominantly clay but contains also limestone and sandstone. Some Boulder Clay cover. Rural catchment with mixed farming, some woodland in lower catchment.
+Qmed Suitability,Although not gauged to within 30% of QMED, all flows contained and remains modular.
+Pooling Suitability,Structure may be passed at stage above 1.5m, below AMAX3.
+[END]

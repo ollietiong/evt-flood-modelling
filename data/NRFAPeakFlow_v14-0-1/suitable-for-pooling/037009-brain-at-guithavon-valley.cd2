@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 37009
+[END]
+[CDS DETAILS]
+NAME,Brain
+LOCATION,Guithavon Valley
+NOMINAL AREA,   60.27
+NOMINAL NGR,5817,2147
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,581800,214750
+DTM AREA,   60.27
+ALTBAR,  64
+ASPBAR,105
+ASPVAR,0.23
+BFIHOST,0.534
+DPLBAR, 14.02
+DPSBAR, 24.2
+FARL,0.997
+LDP, 28.26
+PROPWET,0.30
+RMED-1H, 11.6
+RMED-1D, 28.7
+RMED-2D, 36.0
+SAAR, 572
+SAAR4170, 596
+SPRHOST,36.43
+URBCONC1990, 0.709
+URBEXT1990,0.0566
+URBLOC1990, 0.811
+URBCONC2000, 0.887
+URBEXT2000,0.0737
+URBLOC2000, 0.778
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile gauging an elongated, predominantly rural, catchment on London Clay overlain with superficial deposits, with some artificial influences. GENERAL: 'Essex' profile (modified Flat V Crump) weir with throat tapping. Secondary instrument installed in 2003 to record non-modular flows. STATION HYDROMETRY: Drowning occurs at very high levels but with limited non-modular flow. Station has throat tapping. Station prone to vandalism. One peak flow rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Runoff increased by effluent returns and reduced by industrial/agricultural abstraction.
+CATCHMENT,London Clay with superficial deposits, mainly Boulder Clay and some sands and gravels. Predominantly rural, but some built-up areas (Braintree in mid-catchment and parts of Witham just u/s of station).
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged to within 8% of AMAX3. Out of bank flows starts at 1.225m but only two records are above this since 1962. Confident in rating up to this point.
+[END]

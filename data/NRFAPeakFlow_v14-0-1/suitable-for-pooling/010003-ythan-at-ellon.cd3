@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 10003
+[END]
+[CDS DETAILS]
+NAME,Ythan
+LOCATION,Ellon
+NOMINAL AREA,  532.29
+NOMINAL NGR,3946,8303
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,394700,830350
+CENTROID NGR,GB,382301,837609
+DTM AREA,  532.29
+ALTBAR, 108
+ASPBAR,104
+ASPVAR,0.14
+BFIHOST,0.620
+DPLBAR, 24.96
+DPSBAR, 55.1
+FARL,0.993
+FPEXT,0.0470
+LDP, 55.13
+PROPWET,0.42
+RMED-1H,  8.3
+RMED-1D, 33.6
+RMED-2D, 44.3
+SAAR, 826
+SAAR4170, 857
+SPRHOST,27.83
+URBEXT1990,0.0016
+URBEXT2000,0.0024
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in largely agricultural catchment. Replacement for station 10001 - Ythan at Ardlethen. GENERAL: Velocity area station with natural control; about 18m wide. Replacement for 10001 (2.5km u/s, 1965-1983, chart records back to 1939). STATION HYDROMETRY: Multiple peak flow rating across period of record however higher flood estimates are based on two ratings, QHigh1983 and QHigh1994, applied as upper segments to regular low to medium flow ratings. QHigh1983 is based on gaugings up to 2.980m (measured flow of 90.7 cumecs) and then simple extrapolation. QHigh1994 is based on gaugings up to 2.954m (measured flow of 85.4 cumecs) and then further informed by hydraulic modelling, providing some confidence in the flow estimate of higher events. The cause of the shift of the flood control between QHigh1983 an QHigh1994 is currently not understood and based on gauging evidence alone. Small amounts of bypassing occur on left bank during extreme flows. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: Likely influence of agricultural drainage/abstraction on low flows. Superficial deposits dampen the responsiveness of the catchment.
+CATCHMENT,Gently undulating, relatively low lying catchment. Impermeable metamorphic Lower Dalradian formations overlain with Boulder Clay and morainic drift. Intrusion of ORS in the NW. Largely agricultural with some forest cover. No significant catchment changes known.
+Qmed Suitability,No comment.
+Pooling Suitability,Gauged to nearly 3m and higher flow estimates benefit from hydraulic modelling.
+[END]

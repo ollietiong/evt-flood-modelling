@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 18005
+[END]
+[CDS DETAILS]
+NAME,Allan Water
+LOCATION,Bridge of Allan
+NOMINAL AREA,  209.82
+NOMINAL NGR,2785,6979
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,278600,698000
+DTM AREA,  209.82
+ALTBAR, 232
+ASPBAR,191
+ASPVAR,0.05
+BFIHOST,0.504
+DPLBAR, 22.56
+DPSBAR, 92.2
+FARL,0.976
+LDP, 36.91
+PROPWET,0.59
+RMED-1H,  9.4
+RMED-1D, 41.5
+RMED-2D, 55.6
+SAAR,1337
+SAAR4170,1290
+SPRHOST,42.06
+URBEXT1990,0.0046
+URBCONC2000, 0.728
+URBEXT2000,0.0061
+URBLOC2000, 0.371
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A station useful for flood data north of Stirling. GENERAL: Flood rating stable but large boulders make gauging a problem at low flows. STATION HYDROMETRY: Flood rating stable but large boulders make current meter gaugings a problem at low flows. As site is within a caravan park the low flow control is susceptible to rearrangement by children. No longer a caravan park, now a private housing estate, so no access to control. Control is stable. FLOW RECORD: Although GDF data is available from 1971 the station was impacted by land raising for development on the left bank in 1995 which changed the channel geometry: hence peak flow data only available after 1995. A few (relatively low) peak flow values are actually lower than values at upstream station (Kinbuck, 18001) but effect is attributed to in-channel attenuation as flood volumes at Bridge of Allan are greater. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Some minor upstream abstractions but natural to within 10% at 95%ile. Upstream quarry and hydroschemes have an effect on flow regime.
+CATCHMENT,The Allan Water occupies a broad flat valley with steep lateral tributaries. Bedrock predominantly Old Red Sandstone; ~85% overlain by superficial deposits. Land use grassland with some arable and forest cover.
+Qmed Suitability,Gauged to near QMED.
+Pooling Suitability,Well defined steep banks at station and flows are largely contained, but is not gauged above QMED.
+[END]

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 25003
+[END]
+[CDS DETAILS]
+NAME,Trout Beck
+LOCATION,Moor House
+NOMINAL AREA,   11.40
+NOMINAL NGR,3757,5335
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,375800,533450
+DTM AREA,   11.40
+ALTBAR, 657
+ASPBAR, 47
+ASPVAR,0.55
+BFIHOST,0.227
+DPLBAR,  3.29
+DPSBAR, 92.0
+FARL,1.000
+LDP,  5.91
+PROPWET,0.64
+RMED-1H, 11.7
+RMED-1D, 53.0
+RMED-2D, 75.7
+SAAR,1905
+SAAR4170,2027
+SPRHOST,59.86
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound crump weir. Closed in 1980 but re-opened in 1991 as part of a global environmental research initiative. GENERAL: Three Crump-profile crests (1:2, 1:5 slopes), totalling 12.8 m wide, with central low flow crest of 1.5 m; no cableway. River ice above weir may affect rating in winter, and in severe winters may freeze in well giving a flat float trace (e.g. 1963, 1979). Inaccessible in severe winters (e.g. 1979). Dividing piers added, creating flanking weirs, and abutment walls altered to alleviate shoaling problem by narrowing channel, in 1962. Closed in 1980 but recommissioned 1991 for global environmental research initiative. Data presented for the present structure, from water year 1962/63. STATION HYDROMETRY: U/s shoaling and low winter temperatures affected precision of flows. Two peak flow ratings applied across period of record, valid until station closure in 1980, and after recommissioning in 1991, respectively. FLOW RECORD: Severe winters in 1963 and 1979 caused the river to freeze resulting in a flat float trace. Missing data 19/08/2001-09/11/2001 due to lack of access due to foot and mouth disease, logger data overwritten and lost as a result of the rolling memory. Missing data 07-21/01/2003 due to telemetry issues. Missing data 24/07/2003-31/31/08/2003 due to site refurbishment works. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Responsive natural regime. No known artificial influences.
+CATCHMENT,Small, relatively remote, upland catchment located in a nature reserve in upper Teesdale. Former lead mining area with hushing (channnels created by deliberate dam burst) in upper catchment. Part of National Nature Reserve managed by English Nature. Catchment is almost entirely covered by peaty moorland, developed mainly on Carboniferous Limestone. No known catchment changes.
+Qmed Suitability,Gauged to within 50% of QMED.Formal structure with gaugings fitting well to rating adds confidence in flow estimates.
+Pooling Suitability,One high flow gauging at 53% of QMED, only one AMAX above wing walls and rating extrapolation thought to be reliable.
+[END]

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 60013
+[END]
+[CDS DETAILS]
+NAME,Cothi
+LOCATION,Pont Ynys Brechfa
+NOMINAL AREA,  243.01
+NOMINAL NGR,2537,2301
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,253700,230100
+DTM AREA,  243.01
+ALTBAR, 242
+ASPBAR,197
+ASPVAR,0.10
+BFIHOST,0.493
+DPLBAR, 21.21
+DPSBAR,169.1
+FARL,0.997
+LDP, 41.59
+PROPWET,0.57
+RMED-1H, 11.5
+RMED-1D, 50.7
+RMED-2D, 67.5
+SAAR,1538
+SAAR4170,1635
+SPRHOST,38.53
+URBEXT1990,0.0002
+URBEXT2000,0.0009
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,River section with gravel bed. Station was a subsidiary to 60002 Felin Mynachdy. Natural flow regime. Station now closed. GENERAL: River section with gravel bed. Station was a subsidiary to 60002 Felin Mynachdy. Station closed in 1981 after damage from Dec 1979 flood when station floor level was exceeded. STATION HYDROMETRY: Shoaling occurs downstream near bridge. Steep sides above bankfull, station on right bank. One peak flow rating applied across period of record. Recommended rating upper limit at level of highest gauging (3.0m). FLOW RECORD: NRFA only holds 1971 - 1976 GDF data but peak flow data available up to 1981. Event on 27/12/1979 estimated using wrack marks since level exceeded station floor and rating upper limit, but flow consistent with peak at 60002 d/s. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Mainly impermeable Silurian with Ordovician along south-eastern boundary. Predominantly grassland, hill farming in upper areas, dairy farming in lower areas with extensive patches of woodland.
+Qmed Suitability,Gauged above QMED. Rating fits well to available gaugings up to 3m.
+Pooling Suitability,Gauged to within 21% of AMAX3. Single gauging beyond QMED lends confidence to rating.
+[END]

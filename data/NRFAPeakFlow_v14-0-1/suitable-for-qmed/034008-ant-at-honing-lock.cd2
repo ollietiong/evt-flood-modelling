@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 34008
+[END]
+[CDS DETAILS]
+NAME,Ant
+LOCATION,Honing Lock
+NOMINAL AREA,   44.43
+NOMINAL NGR,6331,3270
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,633100,327050
+DTM AREA,   44.43
+ALTBAR,  31
+ASPBAR,121
+ASPVAR,0.20
+BFIHOST,0.806
+DPLBAR, 10.38
+DPSBAR, 21.4
+FARL,0.978
+LDP, 18.10
+PROPWET,0.31
+RMED-1H, 11.4
+RMED-1D, 29.8
+RMED-2D, 38.5
+SAAR, 632
+SAAR4170, 647
+SPRHOST,19.04
+URBCONC1990, 0.752
+URBEXT1990,0.0437
+URBLOC1990, 1.135
+URBCONC2000, 0.835
+URBEXT2000,0.0500
+URBLOC2000, 1.089
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Structure utilising the fall of an old navigation lock, gauging a rural catchment with sand, gravel, and loam, some flow bypasses the station through a marsh u/s of station. GENERAL: Crump type weir utilising the fall of an old navigation lock. No chart back up: limited space within kiosk. STATION HYDROMETRY: One rating applied across period of record. FLOW RECORD: Logger failure Jan 1998 so no DMFs. Suspect data in summer 1996. Pre-digital data peak flow data are rejected as stage cannot be reprocessed following a datum change pre-1992. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). No data between 17 May 2019 to 3 July 2019 due to due to weir works to restore upstream levels. FLOW REGIME: Groundwater abstractions for public water supply moderately reduce the natural runoff.
+CATCHMENT,Predominantly rural catchment of approximately half sand and gravel and half loam. Immediately u/s is a large marshy area with dense weed growth from which some flow bypasses the station.
+Qmed Suitability,Gaugings support rating close to QMED.
+Pooling Suitability,Rating cannot be confirmed for high flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 17005
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Polmonthill
+NOMINAL AREA,  194.81
+NOMINAL NGR,2951,6796
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,295200,679650
+CENTROID NGR,GB,291517,672069
+DTM AREA,  194.81
+ALTBAR, 161
+ASPBAR, 28
+ASPVAR,0.11
+BFIHOST,0.411
+DPLBAR, 22.22
+DPSBAR, 56.5
+FARL,0.964
+FPEXT,0.0793
+LDP, 41.79
+PROPWET,0.56
+RMED-1H,  8.8
+RMED-1D, 35.5
+RMED-2D, 46.8
+SAAR, 990
+SAAR4170, 990
+SPRHOST,40.30
+URBCONC1990, 0.653
+URBEXT1990,0.0189
+URBLOC1990, 0.812
+URBCONC2000, 0.786
+URBEXT2000,0.0362
+URBLOC2000, 0.857
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows affected by some storage in reservoirs and industrial and agricultural abstractions. GENERAL: Velocity area station; the river takes a sharp left turn u/s at a site of river capture. STATION HYDROMETRY: Archive notes state the low flow control was an unstable gravel control 40m d/s; replaced by gabion weir in Aug 1989. It was subsequently capped with concrete and the upstream face lined with sheet piling; this was completed on the Sept 1995. High flow control was a small island in mid-channel immediately below station; now it is probably the channel bend d/s. Following a full review of ratings in 2021, it is suspected that the stage discharge relation is complex. The random scatter of available flood gaugings suggests the site is affected by variable tidal states, being so near to the Firth of Forth, assuming the weirs between the station and river mouth are drowned out. There is very poor confidence in the flood estimates from this site and especially during the early period before the gabion weir was built on 01/08/89 as tidal influence will likely have been more pronounced in this early period. Flows in the period between the gabion weir build up to the upgrade to the concrete design (01/08/89 to a date between 1995 and 1999) will likely be a period of relatively lower confidence considering the typical poor performance of gabion weirs. The exact date of the weir rebuild has yet to be confirmed as different dates exist in the records ranging from 01/10/1995 to 01/01/1999. The pre 1999 records have been rejected until the all the pre digital information is available to allow a thorough assessment of this early period. The banks have contained all recorded flows. It has tentatively been kept in Peak Flows as a QMED only site. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8), and in September 2022 (WINFAP Files v11). FLOW REGIME: Extensive moorland drainage schemes in headwaters. Industrial and agricultural abstractions. Low flows are moderately affected by effluent discharges. Some storage in Linlithgow, Lochcota and Forrestburn Reservoirs and Loch Ellrig.
+CATCHMENT,Lowland catchment. Bedrock Carboniferous sedimentaries; predominantly overlain by superficial deposits, mainly boulder clay. The catchment is predominantly rural; grassland, arable and forest landuse dominate, with a few small former coal-mining towns. No significant catchment changes known.
+Qmed Suitability,Complex stage discharge relation, likely due to a variably tidal influence, hence there is low confidence in the flood estimations. The station was tentatively been kept in Peak Flows as a QMED only station, but the uncertainties must be considered in the data use.
+Pooling Suitability,Complex stage dicharge relation, likely due to a variably tidal influence, hence there is low confidence in the flood estimations.
+[END]

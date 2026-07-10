@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 49003
+[END]
+[CDS DETAILS]
+NAME,De Lank
+LOCATION,De Lank
+NOMINAL AREA,   21.61
+NOMINAL NGR,2132, 765
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,213250,76550
+DTM AREA,   21.61
+ALTBAR, 284
+ASPBAR,244
+ASPVAR,0.16
+BFIHOST,0.379
+DPLBAR,  4.78
+DPSBAR, 76.0
+FARL,0.998
+LDP,  7.74
+PROPWET,0.45
+RMED-1H, 12.9
+RMED-1D, 47.7
+RMED-2D, 66.4
+SAAR,1628
+SAAR4170,1719
+SPRHOST,47.75
+URBCONC1990, 0.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three-bay compound weir gauging a responsive, wet catchment with headwaters on Bodmin Moor. GENERAL: Three-bay compound Crump profile weir, with middle crest length 1.22m and side crests 3.2m (7.62m total). Divide piers 1.01m high, wing walls 1.62m. Unusually small difference between crest elevations (the central crest is 0.095m below the outer two crests). Fish pass easements including vertically mounted eel tiles in the right hand bank crest/ wingwall and bristles on the central glacis installed in March 2019. STATION HYDROMETRY: Very seldom drowned or outflanked; no bypassing. Possible siltation problems in summer months. Difficult site to spot gauge due to high velocities. Theoretical rating applied to period of record. Confirmed by gaugings to 0.4m and site never bypassed. Since the installation of fish easements in March 2019, no significant deviations from the current rating have been identified. A webcam is used to identify maintenence issues. FLOW RECORD: Missing data in 02/2002 due to logger failure during maintenance work. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Flows modified by public water supply works.
+CATCHMENT,Moderate relief, responsive, wet catchment on Bodmin Moor Granite. Unusually the river occupies marshy alluvial flats in the headwaters. No major changes to catchment.
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating expected to perform well at QMED.
+Pooling Suitability,No reported bypassing or drowning. Despite occasional out of bank flow, theoretical rating expected to perform well.
+[END]

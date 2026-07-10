@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28058
+[END]
+[CDS DETAILS]
+NAME,Henmore Brook
+LOCATION,Ashbourne
+NOMINAL AREA,   38.52
+NOMINAL NGR,4175,3462
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,417550,346200
+CENTROID NGR,GB,422845,349881
+DTM AREA,   38.52
+ALTBAR, 208
+ASPBAR,185
+ASPVAR,0.21
+BFIHOST,0.448
+DPLBAR,  9.19
+DPSBAR, 92.9
+FARL,0.977
+FPEXT,0.0304
+LDP, 16.74
+PROPWET,0.36
+RMED-1H, 11.2
+RMED-1D, 34.9
+RMED-2D, 42.6
+SAAR, 895
+SAAR4170, 872
+SPRHOST,31.03
+URBCONC1990, 0.505
+URBEXT1990,0.0096
+URBLOC1990, 0.189
+URBCONC2000, 0.710
+URBEXT2000,0.0210
+URBLOC2000, 0.430
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir within vertical wing walls - station closed between 1984 and 1993. GENERAL: Crump profile Flat V weir, 6.0m wide, within vertical wing walls. Right bank approach built up into low floodbank. Modular limit high, but no arrangements to deal with non-modular discharge. Contains Carsington pump storage reservoir - impounded from September 1991. Station closed between 1984 and 1993. Peak flow data are for record before Carsington Reservoir. Fish baffles added to the downstream weir face in March 2021. STATION HYDROMETRY: Single rating applied across the period of record. This accounts for non-modular flow due to the high modular limit of the station. Station closed between 1984 and 1993. Remote controlled ADCP gaugings carried out within weir wing walls or a few metres upstream of the weir, across the flow range. FLOW RECORD: Impounded from September 1991, and post-reservoir data marked as rejected. Rating reviewed in 2022 and data reprocessed from full period of record. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Responsive catchment affected by Carsington pump storage reservoir.
+CATCHMENT,Catchment of moderate relief in South Pennines, draining Drift free Millstone Grit and Carboniferous Limestone. Predominantly forest and pasture, some moorland. Pre-reservoir FARL2015 (for WINFAP 5.3 or later) or FARL (for earlier versions of WINFAP) should be used with these records because the peak flow data after the reservoir started impounding is rejected. Pre- and post-reservoir values for FARL2015 are 0.966 and 0.7447, respectively. Pre-reservoir value for FARL is 0.977, while post-reservoir cannot be calculated from the original FARL water layer.
+Qmed Suitability,Gauged beyond QMED and non-modular flow confirmed by gaugings.
+Pooling Suitability,Non-modular flow confirmed by gaugings.
+[END]

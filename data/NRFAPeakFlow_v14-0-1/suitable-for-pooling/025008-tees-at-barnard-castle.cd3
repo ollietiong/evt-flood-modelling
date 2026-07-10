@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25008
+[END]
+[CDS DETAILS]
+NAME,Tees
+LOCATION,Barnard Castle
+NOMINAL AREA,  510.15
+NOMINAL NGR,4046,5166
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,404600,516650
+CENTROID NGR,GB,388626,525153
+DTM AREA,  510.15
+ALTBAR, 452
+ASPBAR,109
+ASPVAR,0.20
+BFIHOST,0.321
+DPLBAR, 26.88
+DPSBAR, 99.0
+FARL,0.912
+FPEXT,0.0345
+LDP, 54.95
+PROPWET,0.60
+RMED-1H, 10.7
+RMED-1D, 43.4
+RMED-2D, 57.8
+SAAR,1310
+SAAR4170,1442
+SPRHOST,50.43
+URBEXT1990,0.0012
+URBEXT2000,0.0026
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir. Major rebuild of the weir during 2012/13 included the addition of a Larinier fish pass and the removal of the old pool fish pass on the left bank. Regime heavily influenced by reservoir storage and abstractions. GENERAL: Compound Crump weir 52.2m broad with central low flow crest (6.7m). Instrument hut moved to left bank in 2006 and cableway installed. Major refurbishment 2012-14 included addition of Larinier fish pass (3m wide). STATION HYDROMETRY: Weir remains modular and no by-passing, but overtops left bank (contained on right) and can surge up Deepdale Beck. Theoretical calibration (check gaugings up to Qmed). Original peak flow rating confirmed by hydraulic modelling in 1998. Weir reconstruction and fish pass addition (2012-2013) necessitated a re-rating using standard weir equations. Check gaugings approaching QMED since rebuild confirm new rating, which applies from 07/03/2014 when the majority of the temporary works were removed. FLOW RECORD: Step-changes in flow June-September 2014 due to increased outflows from Cow Green Reservoir (to flush and clean Cow Green weir, also seen at 25018 and 25023). No daily or peak flow data are available from 01/10/2012 to 07/03/2014 due to temporary in river works and diversion of flow during weir reconstruction. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Responsive regime. Six reservoirs in catchment with a total area of 180.7 sq.km (35.5% of catchment), progressively influencing during record period (Balderhead 1965, Cow Green 1970). River regulation from Cow Green to support PWS abstractions and minimum flows; Cow Green operation includes winter flood storage drawdown. Export from direct supply (Lartington); import from Tyne via Kielder Tunnel only in exceptional drought. Net export of water.
+CATCHMENT,Upland Pennine catchment developed mostly on Carboniferous Limestone and Millstone Grit, with nearly four fifths of the catchment overlain by superficial deposits of peat in headwaters and Boulder Clay in valley. Land use almost entirely moorland and grass pasture. No known catchment changes.
+Qmed Suitability,Formal structure that fully contains all flows and gauged close to Qmed.
+Pooling Suitability,Formal structure remains modular and contains all flows. Consistent with Middleton upstream and Broken Scar downstream. Hydraulic modelling adds confidence to rating extrapolation.
+[END]

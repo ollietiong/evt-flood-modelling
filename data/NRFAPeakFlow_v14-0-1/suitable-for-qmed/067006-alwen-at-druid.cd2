@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 67006
+[END]
+[CDS DETAILS]
+NAME,Alwen
+LOCATION,Druid
+NOMINAL AREA,  185.48
+NOMINAL NGR,3040,3436
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,304100,343600
+DTM AREA,  185.48
+ALTBAR, 356
+ASPBAR,130
+ASPVAR,0.10
+BFIHOST,0.403
+DPLBAR, 16.48
+DPSBAR,120.4
+FARL,0.897
+LDP, 30.59
+PROPWET,0.62
+RMED-1H, 10.0
+RMED-1D, 41.7
+RMED-2D, 56.2
+SAAR,1305
+SAAR4170,1296
+SPRHOST,44.07
+URBEXT1990,0.0004
+URBEXT2000,0.0005
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Natural river section about 20m wide. Abstraction for PWS and industrial/agricultural use. GENERAL: Natural river section about 20m wide. STATION HYDROMETRY: Stable since last major flood in 1964. Bypassed during floods on left bank. Some minor revisions of rating from time to time. One peak flow rating applied across period of record, gauged above QMED with good fit to rating. FLOW RECORD: Flows greater than 60 cumecs are estimated. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Abstraction for public water supply and industrial/agricultural use. Reservoirs (Llyn Brenig and Alwen) control 15% of catchment.
+CATCHMENT,Impermeable Palaeozoic rocks, with some patchy Boulder Clay in valleys, overlain by peat. Grassland, mostly upland pasture. Significant forest cover, mainly in N of catchment. Catchment area changed in 1976 to exclude Llyn Bran (0.8 sq.km).
+Qmed Suitability,Gauged above QMED. QMED within bank and well gauged.
+Pooling Suitability,Station is bypassed at high flows with out of bank flow not accounted for in rating.
+[END]

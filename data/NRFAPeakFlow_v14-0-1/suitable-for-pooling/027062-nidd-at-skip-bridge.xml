@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SE4824756080" x="448247" y="456080">
+        <CatchmentCentroid grid="GB" ngr="SE2459460849" x="424594" y="460849"/>
+        <area>523.4725</area>
+        <altbar>185.0</altbar>
+        <aspbar>91.0</aspbar>
+        <aspvar>0.22</aspvar>
+        <bfihost>0.416</bfihost>
+        <bfihost19>0.417</bfihost19>
+        <bfihost19scaled>0.411</bfihost19scaled>
+        <dplbar>51.02</dplbar>
+        <dpsbar>71.8</dpsbar>
+        <draindens>1.109</draindens>
+        <farl>0.95</farl>
+        <farl2015>0.9422</farl2015>
+        <fpext>0.1024</fpext>
+        <fpdbar>1.131</fpdbar>
+        <fploc>0.579</fploc>
+        <ihdtmeasting>448250</ihdtmeasting>
+        <ihdtmnorthing>456100</ihdtmnorthing>
+        <ldp>91.82</ldp>
+        <propwet>0.36</propwet>
+        <rmed_1h>11.4</rmed_1h>
+        <rmed_1d>38.3</rmed_1d>
+        <rmed_2d>48.3</rmed_2d>
+        <saar>945.0</saar>
+        <saar4170>951.0</saar4170>
+        <saar9120>996</saar9120>
+        <sprhost>39.36</sprhost>
+        <urbconc1990>0.777</urbconc1990>
+        <urbext1990>0.0244</urbext1990>
+        <urbloc1990>0.749</urbloc1990>
+        <urbconc2000>0.847</urbconc2000>
+        <urbext2000>0.0308</urbext2000>
+        <urbloc2000>0.767</urbloc2000>
+        <urbext2015>0.0369</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SE4824756080" x="448247" y="456080">
+        <c>-0.024</c>
+        <d1>0.38687</d1>
+        <d2>0.38141</d2>
+        <d3>0.28404</d3>
+        <e>0.2966</e>
+        <f>2.44291</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SE480560" x="448000" y="456000">
+        <c_1_km>-0.023</c_1_km>
+        <d1_1_km>0.351</d1_1_km>
+        <d2_1_km>0.297</d2_1_km>
+        <d3_1_km>0.24</d3_1_km>
+        <e_1_km>0.294</e_1_km>
+        <f_1_km>2.422</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.3, 3.9, 5, 6.7, 7.8, 9, 10.3, 11.6, 13, 14.6, 16.3, 18.4, 20.7, 23.2, 25.6, 28.2, 30.7, 33.3, 35.6, 38, 40.4</Depths>
+        <Depths duration="0.25">4.4, 5.6, 6.8, 8.7, 11.8, 13.9, 16.4, 18.8, 21.4, 24.5, 27.8, 31.3, 35.8, 40.8, 46.2, 51.5, 57.4, 63.4, 69.3, 75, 81, 86.9</Depths>
+        <Depths duration="0.5">5.8, 7.5, 8.9, 11.5, 15.6, 18.5, 21.9, 25.3, 29.1, 33.3, 38, 43.1, 49.5, 56.5, 64.3, 72.1, 80.8, 89.6, 98.6, 107, 116.3, 125.3</Depths>
+        <Depths duration="0.75">6.8, 8.6, 10.4, 13.3, 18, 21.5, 25.6, 29.5, 33.9, 39, 44.6, 50.6, 58.3, 66.7, 76.1, 85.5, 95.9, 106.6, 117.5, 127.9, 139.2, 150.3</Depths>
+        <Depths duration="1">7.5, 9.5, 11.5, 14.7, 19.9, 23.7, 28.2, 32.6, 37.7, 43.3, 49.6, 56.3, 64.8, 74.3, 84.9, 95.4, 107.2, 119.2, 131.6, 143.2, 156, 168.6</Depths>
+        <Depths duration="2">11.8, 14.1, 16.4, 20, 25.7, 29.9, 34.8, 39.6, 45.3, 51.5, 58.7, 66.5, 76, 86.4, 97.7, 108.7, 120.9, 133.2, 145.8, 157.5, 170.5, 183.2</Depths>
+        <Depths duration="4">17.2, 19.9, 22.5, 26.5, 32.8, 37.3, 42.7, 48.1, 54.4, 61.4, 69.5, 78.1, 88.6, 99.6, 111.5, 122.8, 135.3, 147.9, 160.7, 172.6, 185.7, 198.7</Depths>
+        <Depths duration="6">21, 23.8, 26.7, 30.9, 37.6, 42.4, 48.1, 53.8, 60.5, 68, 76.7, 85.8, 96.7, 108.1, 120.2, 131.7, 144.5, 157.2, 170.1, 182.2, 195.4, 208.5</Depths>
+        <Depths duration="12">28.4, 31.7, 34.9, 39.6, 47, 52.3, 58.7, 65, 72.6, 81.1, 90.8, 100.8, 112.4, 124.4, 137, 148.9, 162, 175, 188.3, 200.6, 214.1, 227.4</Depths>
+        <Depths duration="18">33.3, 36.7, 40.2, 45.2, 53.1, 58.8, 65.7, 72.5, 80.8, 90, 100.4, 110.9, 123, 135.4, 148.4, 160.5, 173.9, 187.1, 200.6, 213.1, 226.8, 240.2</Depths>
+        <Depths duration="24">36.9, 40.5, 44.1, 49.5, 57.8, 63.8, 71.1, 78.4, 87.3, 97, 107.9, 118.9, 131.4, 144.1, 157.3, 169.6, 183.2, 196.6, 210.3, 223, 236.8, 250.4</Depths>
+        <Depths duration="48">46.2, 50.4, 54.5, 60.7, 70.4, 77.5, 86.2, 94.9, 105.5, 116.9, 129.4, 141.5, 155, 168.6, 182.4, 195.4, 209.6, 223.5, 237.7, 250.9, 265.3, 279.4</Depths>
+        <Depths duration="96">57.9, 62.9, 67.9, 75.3, 87.2, 96.1, 106.9, 117.8, 130.7, 144.1, 158.3, 171.7, 186.5, 201.2, 216.1, 229.9, 245, 259.8, 274.8, 288.7, 303.9, 318.8</Depths>
+        <Depths duration="192">76.5, 83, 89.4, 99.2, 114.8, 126.3, 140.1, 153.6, 169, 184.7, 200.9, 216.1, 232.7, 249, 265.5, 280.7, 297.3, 313.5, 329.9, 345.1, 361.7, 377.9</Depths>
+        <Depths duration="240">85.3, 92.6, 99.7, 110.6, 127.8, 140.4, 155.3, 169.7, 186, 202.5, 219.5, 235.5, 252.8, 269.8, 287, 302.8, 320.1, 336.9, 354, 369.8, 387, 403.8</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.7, 3.4, 4.1, 5.1, 6.8, 7.9, 9, 10.2, 11.3, 12.4, 13.5, 14.7, 16, 17.4, 18.9, 20.6, 22.5, 24.6, 27, 29.1, 31.5, 34</Depths>
+        <Depths duration="0.25">4.6, 5.8, 7, 8.9, 11.9, 14, 16.4, 18.6, 20.9, 23.3, 25.7, 28.2, 31.1, 34.2, 37.6, 41.3, 45.7, 50.7, 56.1, 61.4, 67.2, 73.1</Depths>
+        <Depths duration="0.5">6.1, 7.7, 9.2, 11.8, 15.8, 18.7, 21.9, 25, 28.3, 31.7, 35.2, 38.8, 43, 47.4, 52.4, 57.8, 64.4, 71.7, 79.8, 87.7, 96.5, 105.5</Depths>
+        <Depths duration="0.75">7.1, 8.9, 10.8, 13.7, 18.3, 21.7, 25.6, 29.1, 33, 37.1, 41.3, 45.6, 50.6, 55.9, 62, 68.6, 76.5, 85.3, 95.1, 104.7, 115.6, 126.5</Depths>
+        <Depths duration="1">7.8, 9.8, 11.9, 15.1, 20.2, 23.9, 28.2, 32.2, 36.7, 41.2, 46, 50.7, 56.3, 62.3, 69.2, 76.5, 85.5, 95.4, 106.5, 117.3, 129.5, 141.9</Depths>
+        <Depths duration="2">12.3, 14.7, 17.1, 20.7, 26.4, 30.4, 35, 39.3, 44.2, 49.1, 54.4, 59.7, 66, 73.1, 81.3, 89.9, 100.4, 111.6, 123.6, 135.1, 147.8, 160.5</Depths>
+        <Depths duration="4">18, 20.7, 23.5, 27.6, 33.9, 38.3, 43.3, 48.1, 53.4, 59, 65, 71.1, 78.7, 87.3, 97.2, 107.3, 119.1, 131.4, 144.2, 156.2, 169.4, 182.5</Depths>
+        <Depths duration="6">21.8, 24.8, 27.8, 32.1, 38.8, 43.5, 48.9, 54, 59.7, 65.8, 72.4, 79.4, 88, 97.7, 108.6, 119.6, 132.2, 145, 158.3, 170.6, 184.2, 197.5</Depths>
+        <Depths duration="12">28.9, 32.3, 35.7, 40.6, 48.1, 53.4, 59.5, 65.4, 72.1, 79.4, 87.8, 96.7, 107.7, 119.5, 132.2, 144.5, 158.3, 172, 186, 198.9, 213.1, 227</Depths>
+        <Depths duration="18">33.3, 37, 40.6, 45.9, 54, 59.7, 66.4, 72.8, 80.5, 88.9, 98.7, 109, 121.4, 134.3, 148, 161, 175.3, 189.5, 203.9, 217.3, 231.8, 246.1</Depths>
+        <Depths duration="24">36.5, 40.4, 44.2, 49.8, 58.4, 64.5, 71.6, 78.7, 87.1, 96.5, 107.4, 118.6, 131.9, 145.5, 159.8, 173.2, 188, 202.5, 217.3, 230.9, 245.7, 260.2</Depths>
+        <Depths duration="48">45.1, 49.6, 54.1, 60.6, 70.6, 77.8, 86.4, 95, 105.3, 116.9, 130, 143.1, 158, 173.1, 188.5, 202.9, 218.5, 233.8, 249.3, 263.6, 279.1, 294.3</Depths>
+        <Depths duration="96">57.3, 62.8, 68.2, 76.1, 88.2, 96.9, 107.1, 117.1, 129, 141.8, 156, 169.9, 185.6, 201.4, 217.6, 232.6, 249, 265.1, 281.3, 296.3, 312.5, 328.4</Depths>
+        <Depths duration="192">78.2, 85.5, 92.6, 102.9, 118.4, 129.2, 141.6, 153.1, 166.2, 179.5, 193.7, 207.4, 222.9, 238.3, 254.3, 269.3, 285.8, 302.1, 318.7, 334.1, 350.8, 367.2</Depths>
+        <Depths duration="240">88.2, 96.4, 104.3, 115.8, 132.9, 144.7, 158.1, 170.5, 184.2, 198, 212.4, 226.1, 241.4, 256.8, 272.6, 287.5, 303.8, 320, 336.4, 351.6, 368.3, 384.6</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Skip Bridge" name="Nidd" number="27062">
+        <Comments>
+            <Comment type="Station Summary">Full range ultrasonic station since 1999. Previously a flat-V weir, intended to measure low flows to complement high flow measurement at 27001.</Comment>
+            <Comment type="Hydrometric">Crossed-path multi-path ultrasonic in trapezoidal channel (installed 2018), replaced previous two-stage channel configuration (from 2001), rectangular channel configuration (from 1999) and earlier Flat V weir (12m wide, from 1979). Weir suffered from variable backwater from the Ouse downstream. Original ultrasonic gauge suffered from siltation, mainly affected low flows which are thought to be too high as a result. Section modified and downstream weir removed to reduce sediment deposition (by increasing velocity) but only partially successful. Full rebuild, converting channel to a trapezoid in 2017/18 appears to have resolved this problem. Significant attenuation of peak flows between Hunsingore and Skip Bridge because of flood plain inundation. Flow measured directly by ultrasonic gauge, no rating available since weir removal. Several gaugings &gt;75 cumecs give close agreement with ultrasonic gauge flow. Level measurement by pressure transducer.</Comment>
+            <Comment type="General">Full-range multi-path ultrasonic operating since 1999, replaced previous flat-V weir. The weir was for low flow measurement in conjunction with high flow data from Hunsingore (27001), which is insensitive at low flows. The weir was removed in 1999 and station converted to ultrasonic to improve fish passage. Ultrasonic gauge originally only set to measure up to 100 cumecs, but range extended after June 2000 event (and before October 2000 event) to cover full range. Station suffered problems from siltation affecting low flows, until the trapezoidal channel was built in 2017/18.</Comment>
+            <Comment type="Flow record">Original Flat V weir rating modified to try to take account of drowning, flows from 1979 reprocessed and high flows substantially reduced. High flows from this period (1979-1999) are still considered unsuitable for flood estimation and are not presented with the peak flows, only ultrasonic peak flow data is presented (from 1999). Low flow data 1999-2018 considered less reliable due to impact of sediment deposition in measuring section, several data gaps in this period also a result of sediment problems. Significant gaps 11/2001 to 05/2002 and 05/2017 to 09/2018 due to site refurbishment. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).</Comment>
+            <Comment type="Flow regime">Heavily reservoired headwaters of the Nidd valley significantly affect flows; Gouthwaite Reservoir outflows especially significant in low flow conditions.</Comment>
+            <Comment type="Catchment">Geology: Carboniferous Millstone Grits, Permian Marls and Triassic Sandstones. Predominantly rural, rugged in headwaters. No known catchment changes.</Comment>
+            <Comment type="Factors affecting runoff">SRPE</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Comparison between gaugings and ultrasonic gauge is reasonable; flows are lower than those at Hunsingore but this is attributed to attenuation and storage between the two sites." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

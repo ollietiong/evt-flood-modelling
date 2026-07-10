@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 39053
+[END]
+[CDS DETAILS]
+NAME,Mole
+LOCATION,Horley
+NOMINAL AREA,   91.59
+NOMINAL NGR,5270,1432
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,527050,143250
+DTM AREA,   91.59
+ALTBAR,  88
+ASPBAR, 10
+ASPVAR,0.30
+BFIHOST,0.464
+DPLBAR, 10.46
+DPSBAR, 34.2
+FARL,0.947
+LDP, 18.16
+PROPWET,0.36
+RMED-1H, 11.7
+RMED-1D, 35.8
+RMED-2D, 47.6
+SAAR, 812
+SAAR4170, 826
+SPRHOST,40.24
+URBCONC1990, 0.735
+URBEXT1990,0.0914
+URBLOC1990, 0.919
+URBCONC2000, 0.887
+URBEXT2000,0.1904
+URBLOC2000, 0.837
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir. Runoff reduced by public water supply abstraction and increased by increasing sewage effluent contribution. GENERAL: Central notch: 2.44m broad (crest changed in July 2003 to Crump profile with significantly lower crest level, to reduce u/s impoundment) plus flanking crests: 10.96m broad, no divide walls. STATION HYDROMETRY: Probably drowns, rated section at high flows; well rated to 30 cumecs but considerable uncertainty in extreme flow range. Significant scatter in gaugings surrounding the current rating (post 2003), therefore station closed at the transition to the new rating. Period between 1961 - 2003 remains suitable for QMED. One rating applied across period of record. FLOW RECORD: Data removed after 24/07/2003 due to uncertainties with the rating, and the station closed. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Runoff reduced by public water supply abstraction. Sewage effluent contribution is increasing (much of it from outside the catchment); moderate overall increase in runoff.
+CATCHMENT,Catchment is mainly impermeable (chiefly Weald Clay) with mixed land use and growing urban component - includes Crawley, Gatwick Airport; considerable woodland also.
+Qmed Suitability,Theoretical rating believed to be reliable, but significant scatter in check gaugings. QMED is out of bank. Deemed suitable for QMED, but use with caution.
+Pooling Suitability,Rating is very uncertain beyond 30m3s-1.
+[END]

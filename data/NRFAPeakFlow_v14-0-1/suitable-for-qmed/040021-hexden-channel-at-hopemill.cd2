@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 40021
+[END]
+[CDS DETAILS]
+NAME,Hexden Channel
+LOCATION,Hopemill
+NOMINAL AREA,   32.09
+NOMINAL NGR,5813,1290
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,581350,129000
+DTM AREA,   32.09
+ALTBAR,  64
+ASPBAR,134
+ASPVAR,0.22
+BFIHOST,0.406
+DPLBAR,  7.04
+DPSBAR, 76.0
+FARL,1.000
+LDP, 12.84
+PROPWET,0.35
+RMED-1H, 11.9
+RMED-1D, 36.4
+RMED-2D, 48.4
+SAAR, 778
+SAAR4170, 778
+SPRHOST,43.92
+URBCONC1990, 0.482
+URBEXT1990,0.0074
+URBLOC1990, 1.064
+URBCONC2000, 0.724
+URBEXT2000,0.0126
+URBLOC2000, 1.009
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume. GENERAL: Structure capacity 2.25 cumecs, channel capacity is considerably greater but bypassing on left bank. Station added to peak flows dataset in September 2022 (WINFAP Files v11). STATION HYDROMETRY: Power law rating in three sections. Records indicate it is based on hydraulic theory for a trapezoidal flume. Site is difficult to gauge at high flows due to the flashy nature of the catchment. FLOW RECORD: WY1980/1981 rejected because it was likely to have occured during period of missing data.
+CATCHMENT,A relatively narrow catchment trending SE from headwaters in the High Weald (source is in Bedgebury Forest). Rural land use, some woodland - developed on Wadhurst Clay (about half) and the overlying Tunbridge Wells Sands.
+Qmed Suitability,Gauged within 30% of QMED in December 2019. Flows observed to be within bank.
+Pooling Suitability,No comment
+[END]

@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+105001
+[END]
+[CDS DETAILS]
+NAME,Snizort
+LOCATION,Skeabost
+NOMINAL AREA,   80.55
+NOMINAL NGR,1414,8486
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,141500,848650
+CENTROID NGR,GB,142866,842297
+DTM AREA,   80.55
+ALTBAR, 160
+ASPBAR,320
+ASPVAR,0.14
+BFIHOST,0.308
+DPLBAR, 11.61
+DPSBAR,106.6
+FARL,0.976
+FPEXT,0.0723
+LDP, 21.80
+PROPWET,0.76
+RMED-1H, 10.8
+RMED-1D, 51.6
+RMED-2D, 74.1
+SAAR,2158
+SAAR4170,1976
+SPRHOST,54.19
+URBEXT1990,0.0000
+URBEXT2000,0.0001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, the only one on the Isle of Skye. GENERAL: Velocity-area station opened in 2001 as the first representative gauging station on Skye. Station added to peak flows dataset in September 2020 (WINFAP Files v9). STATION HYDROMETRY: Deep rocky channel with semi-artificial rock control in channel roughly 25m wide. No cableway at site for high flows, gaugings are carried out ~600m upstream. Gauged to around QMED. Multiple peak flow ratings across the period of record. FLOW RECORD: Dec 2009-Jan 2010 and Dec 2010 flows considered suspect due to extended period of freezing in the stilling well. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Moderately flashy. Small fish farm abstraction, with discharge immediately d/s.
+CATCHMENT,80.6 km2 High moor land to 400m, rough pasture and some forestry. Small loch in headwaters 0.5 sq.km. Tertiary geology, mainly ovaline-basalt and dolerite.
+Qmed Suitability,Some issues with stage recording in high flow events. It has only been gauged to ~50 cumecs which is below QMED.
+Pooling Suitability,No gaugings taken above QMED.
+[END]

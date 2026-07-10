@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27098
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Dewsbury
+NOMINAL AREA,  715.72
+NOMINAL NGR,4242,4214
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,424250,421450
+CENTROID NGR,GB,407279,420338
+DTM AREA,  715.72
+ALTBAR, 249
+ASPBAR, 88
+ASPVAR,0.17
+BFIHOST,0.520
+DPLBAR, 30.11
+DPSBAR,122.6
+FARL,0.946
+FPEXT,0.0346
+LDP, 53.93
+PROPWET,0.51
+RMED-1H, 11.0
+RMED-1D, 42.1
+RMED-2D, 57.1
+SAAR,1141
+SAAR4170,1144
+SPRHOST,31.45
+URBCONC1990, 0.708
+URBEXT1990,0.0699
+URBLOC1990, 0.635
+URBCONC2000, 0.790
+URBEXT2000,0.0874
+URBLOC2000, 0.675
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic velocity-area station replaced level-only station in 2000. Catchment is heavily reservoired. GENERAL: Ultrasonic gauge with additional velocity area rating, built October 2000. Situated on a meander 30m wide, around 0.6km d/s of where the Dewsbury Flood Defence Channel rejoins the River Calder. Man-made channel with vertical sided masonry walls, open out to wider channel at around 2.3m stage, wider channel also has vertical sides. Natural channel was canalised in early 1970s (finished end of 1974). Replaced existing river level-only station. Level-only station built in April 1964, and had a pressure transducer from 1975. Station number previously 27835. STATION HYDROMETRY: Ultrasonic gauge with rating curve based on check gaugings. Ultrasonic used for daily flow records, rating is used to infill periods where ultrasonic data is missing for daily flows. Rating curve has proved more reliable in flood events and is now used as the main source for peak flow data. High vertical walls contain all flows in the section, no known bypassing. FLOW RECORD: Records pre October 2000 are derived from the rating curve, after that date daily flows are primarily from the ultrasonic gauge but peak flows all derived from rating. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Catchment is heavily reservoired, mainly by small impoundments, but including Walshaw Dean. Estimated 12.2% of catchment drains through around 20 reservoirs. Some abstraction to supply Yorkshire Grid. Also affected by sewage treatment works discharges, leads to diurnal variations in flow.
+CATCHMENT,Catchment draining the eastern flank of the Pennines. The geology is predominantly Upper Carboniferous Millstone Grit but includes Lower Coal Measures. Headwaters rise from peat-covered moorland. From rough grazing, very steep, often wooded headwater valleys cut down through Millstone Grit. The valley floors are strongly urbanised and industrialised. Increasing urbanisation in valley bottom towns.
+Qmed Suitability,Gauged well above QMED.
+Pooling Suitability,Gauged close to AMAX1 and ultrasonic data supports rating curve extrapolation. All flows contained in channel with no bypassing.
+[END]

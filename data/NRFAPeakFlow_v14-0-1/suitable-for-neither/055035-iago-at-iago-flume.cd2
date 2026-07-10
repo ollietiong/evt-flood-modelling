@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 55035
+[END]
+[CDS DETAILS]
+NAME,Iago
+LOCATION,Iago flume
+NOMINAL AREA,    1.01
+NOMINAL NGR,2825,2854
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,282500,285400
+DTM AREA,    1.01
+ALTBAR, 485
+ASPBAR,178
+ASPVAR,0.49
+BFIHOST,0.335
+DPLBAR,  1.10
+DPSBAR,186.6
+FARL,1.000
+LDP,  2.65
+PROPWET,0.66
+RMED-1H, 13.2
+RMED-1D, 75.3
+RMED-2D,101.5
+SAAR,2461
+SAAR4170,2372
+SPRHOST,51.80
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular, side contracted critical depth flume in IH/UKCEH research catchment. Natural flow regime. Discontinued in June 1999. GENERAL: Rectangular, side contracted critical depth flume designed by Hydraulics Research Ltd, suitable for streams with steep gradients, heavy sediment loads and high flood/drought flow ratios. Catchment nested within Cefn Brwyn (55008). Primary 15 minute dataset available. STATION HYDROMETRY: Shoal formation common, requiring prompt removal to avoid drowning. Gauged by c/m, and volumetrically at lowest flows. FLOW RECORD: Daily mean flows replaced from 01/10/1973 to 03/02/1999, and AMAXs flow from 01/10/1973 to 03/02/1999 following detailed QC (August 2025, WINFAP Files v14). FLOW REGIME: Responsive flow regime. Natural to within 10% at Q95.
+CATCHMENT,Very wet catchment; drains Plynlimon massif. Composed of Ordovician grits, shales and slates and Silurian mudstones. Heath on peaty plateau; grassland on free draining slopes (supporting sheep grazing) and mires in valley bottoms.
+Qmed Suitability,No rating or gaugings available.
+Pooling Suitability,No rating or gaugings available.
+[END]

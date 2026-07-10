@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+106002
+[END]
+[CDS DETAILS]
+NAME,Laxdale
+LOCATION,Laxdale
+NOMINAL AREA,   10.64
+NOMINAL NGR,1099,8970
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,109900,897100
+CENTROID NGR,GB,111176,897141
+DTM AREA,   10.64
+ALTBAR, 185
+ASPBAR,227
+ASPVAR,0.33
+BFIHOST,0.310
+DPLBAR,  3.13
+DPSBAR,177.6
+FARL,0.888
+FPEXT,0.0235
+LDP,  5.42
+PROPWET,0.76
+RMED-1H,  9.5
+RMED-1D, 37.7
+RMED-2D, 51.8
+SAAR,1993
+SAAR4170,1677
+SPRHOST,53.36
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a natural mountainous catchment on the Isle of Harris. GENERAL: Open channel section 5m wide with gravel control. Station added to peak flows dataset in September 2020 (WINFAP Files v9). STATION HYDROMETRY: Flood gauging is challenging at the site due to its remoteness and there being no permanent cableway. However, a flood gauging has was obtained on 17/09/18 using a ADCP boat and temporary cableway set up. The gauged stage was 1.786m and the measured flow was 23.5 cumecs. Although the river was out of bank on the right during this gauging, there is confidence that the measured flow was close to the actual flow. One peak flow rating across the period of record. FLOW RECORD: Low flows in June 2012 verified by gaugings during the event, therefore thought to be reliable.
+CATCHMENT,A natural mountainous catchment on South Harris with little storage. Mainly rough grazing, peat bog and moorland with some forestry.
+Qmed Suitability,Gauged below QMED, but extrapolation thought to be correct (see pooling comment).
+Pooling Suitability,Although there is only one flood gauging (which is out of bank), an extrapolation of the in-channel rating will likely produce flow estimates that are well within 30% of actual flows when the river gets above bankfull.
+[END]

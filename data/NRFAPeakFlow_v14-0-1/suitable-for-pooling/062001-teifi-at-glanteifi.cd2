@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 62001
+[END]
+[CDS DETAILS]
+NAME,Teifi
+LOCATION,Glanteifi
+NOMINAL AREA,  897.59
+NOMINAL NGR,2244,2416
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,224450,241650
+DTM AREA,  897.59
+ALTBAR, 209
+ASPBAR,285
+ASPVAR,0.10
+BFIHOST,0.507
+DPLBAR, 49.98
+DPSBAR,109.8
+FARL,0.995
+LDP,109.09
+PROPWET,0.52
+RMED-1H, 11.0
+RMED-1D, 44.8
+RMED-2D, 59.8
+SAAR,1379
+SAAR4170,1363
+SPRHOST,36.97
+URBEXT1990,0.0017
+URBEXT2000,0.0047
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; straight reach. PWS has minor effect on flow regime, thought to be mostly natural. Drought trigger site for DCWW. GENERAL: Velocity area station. Straight reach, width: 35m. Natural control. Drought trigger site for DCWW. STATION HYDROMETRY: Flood flows (> ~3.7m) spill over right bank onto wide floodplain. Cableway at site. Some weed growth in channel. Well gauged - the three 2002 gaugings taken at 4.3-4.4m include floodplain flows. Multiple peak flow ratings applied across period of record, converging above QMED with allowance for flood plain flow. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). Event on 14/10/2018 had ~2m of water flowing on wide flood plain at peak, out of bank rating calculated using floodplain gaugings taken in 2002 and Manning's calculations. FLOW REGIME: PWS impounding reservoirs in upland and minor agricultural abstractions; Cors Caron/Tregaron Bog (10 sq.km.) has partial effect on flows. Nonetheless, a sensibly natural regime.
+CATCHMENT,Mainly impermeable Ordovician and Silurian deposits. Mainly grassland, dairy farming predominates in south; hill farming in upper catchment. Some forest, mainly on East margin. Peaty soils on hills, seasonally wet. Apart from Tregaron bog, most of the lower areas have soils with permeable substrate.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 10% of AMAX3.
+[END]

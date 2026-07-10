@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28056
+[END]
+[CDS DETAILS]
+NAME,Rothley Brook
+LOCATION,Rothley
+NOMINAL AREA,   91.90
+NOMINAL NGR,4580,3121
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,458050,312150
+CENTROID NGR,GB,450442,307232
+DTM AREA,   91.90
+ALTBAR, 114
+ASPBAR,119
+ASPVAR,0.16
+BFIHOST,0.353
+DPLBAR, 15.25
+DPSBAR, 38.4
+FARL,0.962
+FPEXT,0.0774
+LDP, 27.94
+PROPWET,0.30
+RMED-1H, 11.0
+RMED-1D, 31.0
+RMED-2D, 39.4
+SAAR, 672
+SAAR4170, 688
+SPRHOST,43.22
+URBCONC1990, 0.754
+URBEXT1990,0.0618
+URBLOC1990, 0.791
+URBCONC2000, 0.860
+URBEXT2000,0.0767
+URBLOC2000, 0.748
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir in a trapezoidal channel. STATION HYDROMETRY: Some flow uncertainty possibly caused by substantial sediment deposition in upstream section, upstream bend, and more recently deteriorating condition of weir surface. Three ratings applied across period of record, with most recent fit to a shift in lower flow gaugings from 2016. Modular section of the rating is theoretical prior to 2016. 1997 rating change updated the non-modular section. Weir drowns at high flows above 1.1m, starting at 0.5m. Rating limit is level of highest gauging and bankfull level 1.7m. Bypassing on right bank starts above this for which the rating is extrapolated and does not account for. Very high flow backs up from twin arch stone bridge immediately downstream with wrack marks indicating substantial drawdown at the bridge. FLOW RECORD: Unusual flow pattern in Oct 1978 due to drawdown of Thornton Reservoir. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Substantial imports enter the river from WRW.
+CATCHMENT,Geology predominantly Mercia Mudstone overlain by Boulder Clay with ancient Charnwood Forest rocks outcrop to the N. Predominantly rural, but drains a portion of NW Leicester and contains number of small towns.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 13% of AMAX3.
+[END]

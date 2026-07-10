@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 54092
+[END]
+[CDS DETAILS]
+NAME,Hore
+LOCATION,Hore Flume
+NOMINAL AREA,    3.19
+NOMINAL NGR,2845,2872
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,284500,287250
+DTM AREA,    3.19
+ALTBAR, 514
+ASPBAR, 96
+ASPVAR,0.47
+BFIHOST,0.329
+DPLBAR,  2.18
+DPSBAR,214.3
+FARL,1.000
+LDP,  4.08
+PROPWET,0.66
+RMED-1H, 13.2
+RMED-1D, 73.3
+RMED-2D, 98.2
+SAAR,2536
+SAAR4170,2323
+SPRHOST,52.22
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular, side contracted critical depth flume. IH/UKCEH research catchment. Natural flow regime. GENERAL: Rectangular, side contracted critical depth flume designed to gauge streams which have supercritical flow regimes. Catchment nested within 54022 Severn at Plynlimon flume. Primary 15 minute dataset available. Rainfall, evaporation and soil moisture estimates also available from dense monitoring network. STATION HYDROMETRY: Drowning may occur following big floods owing to sediment deposited d/s. Protected flow site with no gauging or rating information available. FLOW RECORD: Daily mean flows replaced from 01/10/1973 to 31/12/2010, and AMAX flows from 01/10/1973 to 01/10/2010 following detailed QC (August 2025, WINFAP Files v14). FLOW REGIME: Natural to within 10% at the Q95.
+CATCHMENT,Very wet with steep gradients. Palaeozoic grits, shales and mudstones. Highest and lateral fringes of catchment are peat moorland. The remaining catchment area had mature coniferous forest until 1985, when the lower two thirds was clear felled. Replanting has taken place.
+Qmed Suitability,Reportedly suitable for QMED.
+Pooling Suitability,Site has not been subject to detailed review. User should apply own judgement as whether to include in pooling group.
+[END]

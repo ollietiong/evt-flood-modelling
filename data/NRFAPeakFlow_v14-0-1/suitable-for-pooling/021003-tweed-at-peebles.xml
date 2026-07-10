@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NT2582140017" x="325821" y="640017">
+        <CatchmentCentroid grid="GB" ngr="NT1408836305" x="314088" y="636305"/>
+        <area>698.12</area>
+        <altbar>355.0</altbar>
+        <aspbar>25.0</aspbar>
+        <aspvar>0.05</aspvar>
+        <bfihost>0.517</bfihost>
+        <bfihost19>0.466</bfihost19>
+        <bfihost19scaled>0.46</bfihost19scaled>
+        <dplbar>25.22</dplbar>
+        <dpsbar>181.0</dpsbar>
+        <draindens>1.2</draindens>
+        <farl>0.974</farl>
+        <farl2015>0.9735</farl2015>
+        <fpext>0.0506</fpext>
+        <fpdbar>0.615</fpdbar>
+        <fploc>0.854</fploc>
+        <ihdtmeasting>325850</ihdtmeasting>
+        <ihdtmnorthing>640000</ihdtmnorthing>
+        <ldp>49.87</ldp>
+        <propwet>0.56</propwet>
+        <rmed_1h>9.4</rmed_1h>
+        <rmed_1d>37.7</rmed_1d>
+        <rmed_2d>49.7</rmed_2d>
+        <saar>1140.0</saar>
+        <saar4170>1199.0</saar4170>
+        <saar9120>1295</saar9120>
+        <sprhost>37.16</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0019</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0025</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0046</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NT2582140017" x="325821" y="640017">
+        <c>-0.01877</c>
+        <d1>0.4229</d1>
+        <d2>0.46517</d2>
+        <d3>0.31755</d3>
+        <e>0.2624</e>
+        <f>2.26953</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NT260400" x="326000" y="640000">
+        <c_1_km>-0.017</c_1_km>
+        <d1_1_km>0.412</d1_1_km>
+        <d2_1_km>0.478</d2_1_km>
+        <d3_1_km>0.303</d3_1_km>
+        <e_1_km>0.259</e_1_km>
+        <f_1_km>2.163</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.2, 2.8, 3.2, 4, 5.2, 6.1, 7.1, 8, 9.3, 10.6, 12, 13.7, 15.8, 18, 20.6, 23, 25.6, 28.2, 30.7, 33, 35.4, 37.9</Depths>
+        <Depths duration="0.25">4.1, 5, 5.9, 7.4, 9.8, 11.6, 13.6, 15.6, 18.1, 20.7, 24, 27.6, 32.1, 37, 42.7, 48.2, 54.4, 60.2, 66.4, 72.2, 78.3, 84.4</Depths>
+        <Depths duration="0.5">5.6, 6.8, 8.1, 10.3, 13.6, 16.1, 19.1, 21.9, 25.4, 29.4, 34.1, 39.4, 45.9, 53.2, 61.6, 69.8, 79, 88.1, 97.4, 106.2, 115.8, 125.4</Depths>
+        <Depths duration="0.75">6.6, 8.1, 9.7, 12.2, 16.3, 19.1, 22.7, 26.2, 30.5, 35.1, 40.7, 46.9, 54.9, 63.7, 73.5, 83.4, 94.5, 105.2, 116.4, 126.9, 138.3, 149.8</Depths>
+        <Depths duration="1">7.5, 9.2, 11, 13.8, 18.3, 21.6, 25.6, 29.4, 34.1, 39.3, 45.6, 52.5, 61.3, 71, 82, 92.8, 104.9, 116.8, 129.1, 140.5, 153.1, 165.5</Depths>
+        <Depths duration="2">11.6, 13.7, 15.8, 18.9, 23.9, 27.6, 31.9, 36.2, 41.4, 47.3, 54.4, 62.1, 71.7, 82.1, 93.6, 104.6, 116.8, 129, 141.5, 153.1, 165.8, 178.4</Depths>
+        <Depths duration="4">17.2, 19.6, 22, 25.5, 31.1, 35.1, 39.8, 44.6, 50.3, 56.8, 64.5, 72.8, 82.9, 93.8, 105.5, 116.8, 129.3, 141.7, 154.4, 166.2, 179.1, 191.9</Depths>
+        <Depths duration="6">21.2, 23.8, 26.4, 30.3, 36.2, 40.4, 45.4, 50.4, 56.4, 63.2, 71.3, 79.8, 90.1, 101.2, 113.2, 124.6, 137.3, 149.9, 162.7, 174.7, 187.8, 200.7</Depths>
+        <Depths duration="12">29.4, 32.4, 35.4, 39.8, 46.4, 51.1, 56.7, 62.3, 68.9, 76.3, 84.8, 93.8, 104.6, 116.1, 128.5, 140.3, 153.3, 166.2, 179.4, 191.7, 205.2, 218.4</Depths>
+        <Depths duration="18">34.8, 38.2, 41.4, 46.1, 53.3, 58.4, 64.4, 70.3, 77.4, 85.3, 94.3, 103.6, 114.8, 126.7, 139.3, 151.4, 164.8, 178, 191.5, 204, 217.7, 231.2</Depths>
+        <Depths duration="24">39, 42.5, 45.9, 50.9, 58.5, 64, 70.4, 76.7, 84.2, 92.5, 101.9, 111.6, 123.2, 135.4, 148.3, 160.6, 174.2, 187.6, 201.3, 214.1, 228, 241.7</Depths>
+        <Depths duration="48">50.4, 54.5, 58.6, 64.4, 73.4, 79.8, 87.5, 95, 103.9, 113.6, 124.4, 135.4, 148.2, 161.6, 175.6, 188.8, 203.3, 217.6, 232.1, 245.6, 260.3, 274.7</Depths>
+        <Depths duration="96">65.8, 71, 75.9, 83.2, 94.3, 102.4, 112, 121.4, 132.4, 144.2, 157.3, 170.3, 185.2, 200.4, 216.2, 231, 247.1, 262.9, 278.9, 293.8, 309.9, 325.8</Depths>
+        <Depths duration="192">92.1, 98.9, 105.5, 115.3, 130.3, 141.1, 153.9, 166.2, 180.6, 195.8, 212.3, 228.5, 246.7, 265, 283.8, 301.4, 320.4, 339.2, 358.3, 375.9, 395.1, 413.9</Depths>
+        <Depths duration="240">104.9, 112.6, 120.1, 131.1, 147.9, 160, 174.1, 187.9, 203.8, 220.4, 238.4, 256, 275.6, 295.3, 315.5, 334.3, 354.7, 374.8, 395.1, 414, 434.5, 454.6</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.3, 2.9, 3.3, 4.1, 5.3, 6.1, 7, 7.8, 8.9, 9.9, 10.9, 12, 13.3, 14.7, 16.3, 18, 19.9, 21.9, 23.9, 25.7, 27.7, 29.7</Depths>
+        <Depths duration="0.25">4.3, 5.1, 6.1, 7.6, 9.9, 11.6, 13.5, 15.3, 17.3, 19.5, 21.8, 24.2, 27, 30.1, 33.9, 37.7, 42.2, 46.7, 51.7, 56.3, 61.2, 66.1</Depths>
+        <Depths duration="0.5">5.8, 7.1, 8.4, 10.5, 13.8, 16.1, 18.9, 21.4, 24.4, 27.6, 30.9, 34.5, 38.7, 43.4, 48.9, 54.6, 61.3, 68.4, 75.8, 82.9, 90.6, 98.2</Depths>
+        <Depths duration="0.75">6.9, 8.4, 10, 12.5, 16.5, 19.1, 22.4, 25.7, 29.2, 33, 36.9, 41.1, 46.2, 51.8, 58.4, 65.3, 73.3, 81.7, 90.5, 99, 108.1, 117.4</Depths>
+        <Depths duration="1">7.8, 9.5, 11.3, 14.1, 18.5, 21.6, 25.3, 28.8, 32.7, 36.9, 41.4, 46, 51.6, 57.8, 65.1, 72.6, 81.4, 90.7, 100.4, 109.6, 119.7, 129.7</Depths>
+        <Depths duration="2">11.9, 13.9, 16, 19.1, 23.9, 27.4, 31.4, 35.2, 39.6, 44.2, 49.3, 54.7, 61.2, 68.5, 76.7, 85.1, 94.7, 104.5, 114.6, 124.1, 134.5, 144.8</Depths>
+        <Depths duration="4">17.4, 19.7, 22.1, 25.6, 31, 34.8, 39.3, 43.6, 48.5, 53.8, 59.7, 66, 73.6, 82, 91.3, 100.5, 110.8, 121, 131.6, 141.4, 152.1, 162.6</Depths>
+        <Depths duration="6">21.3, 23.9, 26.5, 30.3, 36.1, 40.2, 45, 49.6, 54.9, 60.7, 67.3, 74.2, 82.5, 91.6, 101.5, 111.1, 121.8, 132.3, 143.1, 153.2, 164.1, 174.9</Depths>
+        <Depths duration="12">29.6, 32.6, 35.5, 39.8, 46.4, 51.1, 56.7, 62, 68.4, 75.3, 83.2, 91.4, 101.2, 111.6, 122.5, 132.9, 144.2, 155.4, 166.8, 177.4, 188.9, 200.2</Depths>
+        <Depths duration="18">35.1, 38.4, 41.6, 46.3, 53.5, 58.6, 64.7, 70.6, 77.7, 85.5, 94.4, 103.4, 114.2, 125.3, 136.9, 147.8, 159.7, 171.4, 183.2, 194.2, 206.1, 217.8</Depths>
+        <Depths duration="24">39.4, 42.9, 46.3, 51.3, 58.9, 64.4, 70.9, 77.4, 85.1, 93.6, 103.2, 112.9, 124.3, 136, 148.2, 159.5, 171.9, 183.9, 196.1, 207.4, 219.7, 231.7</Depths>
+        <Depths duration="48">51, 55.2, 59.2, 65.1, 74.1, 80.6, 88.5, 96.3, 105.8, 116, 127.6, 139.1, 152.3, 165.5, 179.1, 191.6, 205.3, 218.6, 232.1, 244.5, 257.9, 271.1</Depths>
+        <Depths duration="96">66.9, 72, 76.9, 84, 95, 103, 112.5, 122, 133.3, 145.7, 159.3, 172.8, 188.2, 203.5, 219.1, 233.6, 249.3, 264.6, 279.9, 294.1, 309.5, 324.5</Depths>
+        <Depths duration="192">94, 100.6, 107, 116.2, 130.3, 140.3, 152, 163.6, 177.1, 191.7, 208, 224.2, 242.7, 261.4, 280.6, 298.3, 317.4, 336.1, 355, 372.4, 391.2, 409.6</Depths>
+        <Depths duration="240">107.4, 114.8, 121.8, 132.1, 147.6, 158.6, 171.3, 183.6, 198, 213.5, 230.8, 248, 267.9, 288.1, 308.9, 328.1, 349, 369.3, 389.9, 408.8, 429.3, 449.4</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Peebles" name="Tweed" number="21003">
+        <Comments>
+            <Comment type="Station Summary">The old gauging station at Peebles from 1939 was attached onto Priorsford suspension bridge 360m upstream from the current station and was operated by the Department of Agriculture. In 1959 the station was moved 360m downstream to its present location. It is a velocity area station in a natural 45m wide section with a stable gravel bed control. There are two water supply reservoirs in the upper Tweed Catchment.</Comment>
+            <Comment type="Hydrometric">Priorsford gauging station began operation on 28/05/1939 located 360 meters upstream from the present station in Peebles. The well and hut were positioned on the downstream side of the Priorsford suspension bridge, with the gauge board on the opposite left buttress. Stage recording was via a Glenfield and Kennedy chart recorder. The station was relocated downstream on 14/07/1959 to its present location, which is a natural channel 45m wide with a stable gravel control. The stilling well historically has bottomed out during very low water levels. The installation of an instream transducer from 2017 shows that the well suffers from drawdown causing flood peaks to be under recorded by around 0.3m. Older station notes indicate this has been a long-term issue for the station and likely effects the flood record since the station was bult in 1959. Hence flood peaks from 1959 will likely be an underestimation of the actual river flow by about 10%. The amount of draw down varies between peaks and so a simple edit to all peaks before 2017 is not a simple exercise, but hopefully a correction will be done to allow a future revision of the flow record. Recording at Priorsford paused between 28/12/1940 and 13/08/1948 during WWII, hastily resuming in time to record the significant August 1948 flood thanks to recorder Mr. Scott. The records from 1939 to 1969 were digitized by Mallon Technology Ltd directly from the original charts, while microfilm records from 1969 to 1986 were digitized in-house by an intern in 2016 using Un-Scanit software. This process created a continuous 15-minute digital record from 13/08/1948 to the present. The period from 18/12/1968 to 01/01/1986 underwent detailed quality control, focusing on records captured from microfilm. A reduced quality control process was applied to the earlier period 1948-1968, which focused on AMAX peaks only and entailed visual inspections and comparisons with other data sources. Significant floods in 1948 and 1949 required corrections, with the most reliable stage figures derived from observer records and other sources. The August 1948 flood was a significant event that saw the station being hastily reactivated. The digitized peak for 11/08/1948 was later adjusted to align with a contemporary observer record, which indicated the peak occurred on 13/08/1948 at a stage of 3.658 meters. The digitized trace initially recorded a higher peak but was corrected based on more reliable observer notes. The January 1949 flood had a truncated chart trace, flat lining at a stage of 3.353 meters due to mechanical limitation of the station. Handwritten annotations on the chart suggested higher peak levels, with 4.115 meters being adopted after editing, though another figure of 4.318 meters could also be justified. The peak recorded for the 1954 flood closely matched the observers notes, requiring no further adjustments. For water year 1966/1967, the peak event recorded on 27/02/1967 was manually inserted into the record, as the chart for that period was missing. Due to the absence of actual flow gauging data at Priorsford, flow records for the station were generated using hydraulic modelling conducted by JBA in 2022. This model also accounted for a rail bridge that existed downstream of the Priorsford suspension bridge for the duration of the stage recording at Priorsford. The bridge span was removed early 1962 and the piers were removed in the early 1970s. There is a large floodplain flow at the current station that has been fluvial modelled and captured in the calibration of the flow record from 1959. Multiple peak flow ratings across period of record.</Comment>
+            <Comment type="General">Velocity area station with cableway. From 1939 to 1959 levels measured at Priorsford Bridge about 360m upstream.</Comment>
+            <Comment type="Flow record">Digitising and flow modelling work in 2022 allowed the revision of flows from 1948 to 1959 and the combined record from the old and new station provides a continuous flow record from 1948. The addition of these 11 years from the old station was significant as it included three of the largest flood events on record. For the current station post 1959, the optimal flood rating with a modelled floodplain segment was applied through the station record for the 2017 data submission. More accurate floodplain modelling allowed a further revision of peak flows for the 2024 data submission. There is lower confidence in the POT record prior to 18/12/1968 as only the AMAX events have been quality controlled from the chart digitising process. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow regime">Storage in Talla (1905), Fruid, Baddinsgill and West Water Reservoirs for public water supply - overall runoff is diminished. Monthly naturalised flows available. Fruid Reservoir was built in the upper catchment in 1967, part-way through the station record.</Comment>
+            <Comment type="Catchment">Upland catchment. Bedrock mostly impervious Palaeozoic and igneous formations with substantial superficial deposits in the valleys. Hill grazing predominates; some improved grassland to N; elsewhere some forest and arable. Notable floodplains. Fruid Reservoir (1968).</Comment>
+            <Comment type="Factors affecting runoff">SP</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Rating well supported by gaugings to QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Higher events calibrated from an in-depth fluvial modelling exercise. Gauged to 3.153m in 2018, with a measured flow of 346 cumecs, including a crude estimation for floodplain flow that bypassed the station. Flood flows from 1959 may be underestimating by around 10% due to well draw down." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.49</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

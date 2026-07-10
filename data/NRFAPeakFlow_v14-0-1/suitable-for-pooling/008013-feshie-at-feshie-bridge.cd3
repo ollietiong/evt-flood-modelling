@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8013
+[END]
+[CDS DETAILS]
+NAME,Feshie
+LOCATION,Feshie Bridge
+NOMINAL AREA,  229.63
+NOMINAL NGR,2849,8047
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,285000,804700
+CENTROID NGR,GB,286401,794014
+DTM AREA,  229.63
+ALTBAR, 618
+ASPBAR,324
+ASPVAR,0.11
+BFIHOST,0.482
+DPLBAR, 18.61
+DPSBAR,180.8
+FARL,0.993
+FPEXT,0.0408
+LDP, 39.70
+PROPWET,0.70
+RMED-1H,  9.4
+RMED-1D, 35.4
+RMED-2D, 52.1
+SAAR,1286
+SAAR4170,1351
+SPRHOST,49.14
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging an upland catchment with natural flow regime. GENERAL: Velocity area station with a boulder control. Old station, 0.5km upstream operated between 1951-1975 (no flow data published). Station added to peak flows dataset in September 2019 (WINFAP Files v8). STATION HYDROMETRY: Boulder control is liable to considerable movement in moderate to extreme spates. All flows contained. Cableway rated. One peak flow rating applied across period of record. FLOW REGIME: Natural flow regime.
+CATCHMENT,Upland catchment. Moinian metamorphics of Grampian Mountains overlaid with glacial material, and granite of Cairngorms. Mountainous moorlands, pasture with some forestry in lower reaches.
+Qmed Suitability,Well gauged to QMED.
+Pooling Suitability,Although gauged to just above QMED, extrapolation of rating and AMAX1 are within bankfull (4m).
+[END]

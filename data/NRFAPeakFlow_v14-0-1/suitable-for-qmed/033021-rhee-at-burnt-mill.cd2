@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 33021
+[END]
+[CDS DETAILS]
+NAME,Rhee
+LOCATION,Burnt Mill
+NOMINAL AREA,  308.05
+NOMINAL NGR,5415,2523
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,541550,252400
+DTM AREA,  308.05
+ALTBAR,  49
+ASPBAR, 10
+ASPVAR,0.24
+BFIHOST,0.713
+DPLBAR, 18.49
+DPSBAR, 24.8
+FARL,0.994
+LDP, 35.24
+PROPWET,0.24
+RMED-1H, 10.6
+RMED-1D, 28.3
+RMED-2D, 35.0
+SAAR, 559
+SAAR4170, 573
+SPRHOST,24.05
+URBCONC1990, 0.523
+URBEXT1990,0.0142
+URBLOC1990, 0.864
+URBCONC2000, 0.757
+URBEXT2000,0.0213
+URBLOC2000, 0.839
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal weir gauging a predominantly Chalk catchment with primarily arable land and with significant artificial influences. GENERAL: Trapezoidal cross-section weir with triangular profile crest, 6.1m broad. Also called Haslingfield (Burnt Mill). Consistent records available of groundwater pump operation. Pre barrage fish pass and eel tiles installed. STATION HYDROMETRY: Weir drowns at high flows, starting from 0.48m stage and drowns completely at higher flows, worsened during summer due to weed growth downstream. Non-modular conditions are accounted for in the current rating. Rating modified by current meter measurements to correct for drowning and applied across period of record. Gauging station is used as part of the Rhee groundwater support scheme, which triggers at a combined flow of 301 l/s to maintain flow. One peak flow rating across period of record. FLOW RECORD: Daily mean flow from 24/10/2013 to 04/03/2015 was updated after September 2014 to compensate for site maintenance. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and August 2025 (WINFAP Files v14). FLOW REGIME: Substantial groundwater abstractions for public water supply, plus industrial and agricultural abstractions. Some effluent returns. Augmentation from ground water sources to regulate river flow - scheme aims to maintain minimum 0.3 cumecs flow at gauging station.
+CATCHMENT,Predominantly Chalk catchment partly overlain with Boulder Clay in NW. Primarily arable land.
+Qmed Suitability,Gauged to within 8% of QMED. Good fit to gaugings.
+Pooling Suitability,Gaugings show large amount of scatter above 0.5m.
+[END]

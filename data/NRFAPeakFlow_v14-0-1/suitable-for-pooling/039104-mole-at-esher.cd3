@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39104
+[END]
+[CDS DETAILS]
+NAME,Mole
+LOCATION,Esher
+NOMINAL AREA,  471.36
+NOMINAL NGR,5130,1660
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,513100,166000
+CENTROID NGR,GB,521975,147494
+DTM AREA,  471.36
+ALTBAR,  82
+ASPBAR,353
+ASPVAR,0.14
+BFIHOST,0.518
+DPLBAR, 51.58
+DPSBAR, 46.5
+FARL,0.948
+FPEXT,0.1462
+LDP, 78.24
+PROPWET,0.35
+RMED-1H, 11.4
+RMED-1D, 34.5
+RMED-2D, 45.4
+SAAR, 760
+SAAR4170, 768
+SPRHOST,35.07
+URBCONC1990, 0.661
+URBEXT1990,0.0564
+URBLOC1990, 0.962
+URBCONC2000, 0.860
+URBEXT2000,0.1128
+URBLOC2000, 0.963
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic gauging station situation on Mole Flood Aleviation Scheme. Gates upstream and downstream of the section. GENERAL: New ultrasonic, full range capability and improved reliability. Replaced earlier US just u/s (in a reach created as part of the Mole Flood alleviation Scheme); debris and siltation (blocking transducers) and high temperature gradients caused substantial malfunction particularly at low flows. New gauge is prone to weed in channel, which can cause issues at low flows. Station added to peak flows dataset in September 2022 (WINFAP Files v11). STATION HYDROMETRY: Flow and levels are affected by downstream Island Barn Weir and upstream Viaduct Sluice. Both are operated as part of the Lower Mole Flood Aleviation Scheme in high flows. FLOW RECORD: Several drop outs in record including December 2016 due to level being dropped downstream to perform channel maintenance work. WY1998/1999 rejected because it is a partial first year of the record, and WY2009/2010 rejected as AMAX likely occured during period of fault with the gauge - GDF infilled. FLOW REGIME: Responsive regime. Some sewage effluent derives from outside the catchment.
+CATCHMENT,A largely impervious catchment divided by the W-E trending ridge of the North Downs (Chalk and Upper Greensand). Diverse land use - rural tracts and considerable suburban development.
+Qmed Suitability,No comment
+Pooling Suitability,Highest flows are within 10%.
+[END]

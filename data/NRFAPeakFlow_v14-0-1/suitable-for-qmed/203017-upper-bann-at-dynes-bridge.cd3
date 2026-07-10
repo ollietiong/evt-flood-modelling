@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203017
+[END]
+[CDS DETAILS]
+NAME,Upper Bann
+LOCATION,Dynes Bridge
+NOMINAL AREA,  315.94
+NOMINAL NGR,3043,3511
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,304250,351050
+CENTROID NGR,Ireland,320222,338639
+DTM AREA,  315.94
+ALTBAR, 135
+ASPBAR,298
+ASPVAR,0.07
+BFIHOST,0.449
+DPLBAR, 33.37
+DPSBAR, 86.7
+FARL,0.974
+FPEXT,0.0781
+LDP, 56.14
+PROPWET,0.53
+RMED-1H, 10.5
+RMED-1D, 40.9
+RMED-2D, 55.2
+SAAR,1023
+SAAR4170,1081
+SPRHOST,35.46
+URBCONC1990,-9999.000
+URBEXT1990,0.0238
+URBLOC1990, 0.480
+URBCONC2000, 0.798
+URBEXT2000,0.0095
+URBLOC2000, 0.489
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station with cableway, natural control opened in August 1970, closed in June 1991. GENERAL: Velocity-area station with cableway, natural section control for low flows, channel width c.15m at station. STATION HYDROMETRY: Cableway present. Natural section control for low flows. Channel capacity is large. Main road bridge 100m downstream gives partial control at medium and high stages. Simple extrapolation has been used beyond 3.08m. Two peak flow ratings across period of record. FLOW RECORD: 1978 peak estimated (flood banks overtopped). Flows from 1979 onwards reprocessed in 2002. Upper one third of the drainage area is regulated with a minimum prescribed flow of 18Ml/d at Bannfield (203033). Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10) and in August 2025 (WINFAP Files v14). FLOW REGIME: Upper third of the drainage area is regulated with Spelga Dam located in the headwaters of the River Bann.
+CATCHMENT,Impermeable quartzite and granite overlain by superficial deposits mainly till. Significant upland, predominantly grassland or heath, limited afforestation. Urban area at Banbridge, no major industry.
+Qmed Suitability,Highest gauging is 0.9 x QMED.
+Pooling Suitability,Notes from the time of the stations operation flagged floodplain flow on right bank as being potentially significant and the growth curve gives unrealistic growth factors.
+[END]

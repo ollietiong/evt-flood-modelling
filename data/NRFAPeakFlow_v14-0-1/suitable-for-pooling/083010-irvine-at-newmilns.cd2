@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 83010
+[END]
+[CDS DETAILS]
+NAME,Irvine
+LOCATION,Newmilns
+NOMINAL AREA,   75.48
+NOMINAL NGR,2532,6371
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,253250,637200
+DTM AREA,   75.48
+ALTBAR, 232
+ASPBAR,226
+ASPVAR,0.14
+BFIHOST,0.399
+DPLBAR,  9.50
+DPSBAR, 77.7
+FARL,0.996
+LDP, 18.09
+PROPWET,0.60
+RMED-1H,  9.5
+RMED-1D, 39.7
+RMED-2D, 56.9
+SAAR,1339
+SAAR4170,1352
+SPRHOST,42.60
+URBCONC1990, 0.662
+URBEXT1990,0.0070
+URBLOC1990, 0.333
+URBCONC2000, 0.690
+URBEXT2000,0.0082
+URBLOC2000, 0.314
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A flat v weir station to the East of Kilmarnock. GENERAL: Flat V weir within broad-crested flanks in a long straight reach. Stage data collected for this site dates back to 1959. Station added to peak flows dataset in September 2023 (WINFAP Files v12). STATION HYDROMETRY: Weir superseded (Sep 1976) an unstable gravel bar control. Rating based on gaugings up to c.40 cumecs, a daily mean flow which has only been exceeded on 2 consecutive days in the record. FLOW REGIME: Sensibly natural flow regime.
+CATCHMENT,Mostly upland catchment developed on basalts and metamorphosed sedimentary formations (mostly Carboniferous and ORS); extensively overlain by superficial deposits. Moorland and rough pasture predominate, significant afforestation in the north, mixed farming in the valley - Greenholm and Darvel are the largest settlements.
+Qmed Suitability,No comment
+Pooling Suitability,Flows contained in a well-defined channel and flood gaugings at 2.1m (measured at 65.2 cumecs) provides decent confidence in the flood estimation.
+[END]

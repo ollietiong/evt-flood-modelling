@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 59004
+[END]
+[CDS DETAILS]
+NAME,Twrch
+LOCATION,Gurnos
+NOMINAL AREA,   49.89
+NOMINAL NGR,2772,2092
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,277250,209300
+DTM AREA,   49.89
+ALTBAR, 340
+ASPBAR,184
+ASPVAR,0.36
+BFIHOST,0.375
+DPLBAR,  9.38
+DPSBAR,124.0
+FARL,0.995
+LDP, 18.48
+PROPWET,0.62
+RMED-1H, 12.4
+RMED-1D, 61.3
+RMED-2D, 84.8
+SAAR,1991
+SAAR4170,2134
+SPRHOST,44.07
+URBCONC1990, 0.486
+URBEXT1990,0.0077
+URBLOC1990, 0.377
+URBCONC2000, 0.630
+URBEXT2000,0.0119
+URBLOC2000, 0.346
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a rural catchment with upland headwaters. GENERAL: An open-channel velocity area station opened in 1995, located on the upstream face of the road bridge in Ystalyfera. Station added to peak flows dataset in September 2020 (WINFAP Files v9). Station re-numbered from 60017 to 59003 in February 2023 (WINFAP Files v11.1) to correct the Hydrometric Area, and to 59004 in August 2024 (WINFAP Files v13). STATION HYDROMETRY: The site is 60m upstream of the old canal aqueduct and a large weir (~9m drop), which provides the hydraulic control. Flow is contained by the road embankments meaning there is no bypassing/out of bank flow. Low flow rating is calculated from spot gaugings, however the site is not maintained as a low flow station. One peak flow rating across the period of record calculated by hydraulic modelling. Sensitivity analysis shows the modelled rating is generally insensitive to parameter change, suggesting reasonably high confidence in the rating despite the absence of high flow gaugings. FLOW RECORD: Scatter in the gauging history means that it is not considered suitable for daily mean flow measurement. FLOW REGIME: The flow regime is considered natural, with only minor abstractions and discharges in the catchment.
+CATCHMENT,The majority of the catchment is upland/grassland with a large part of the catchment falling within the Brecon Beacons National Park. Lower parts of the catchment are agricultural with some woodlands and commercial forestry.
+Qmed Suitability,Good confidence in modelled rating to QMED.
+Pooling Suitability,Insufficient confidence in rating at highest flows at this time.
+[END]

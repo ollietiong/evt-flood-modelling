@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 28035
+[END]
+[CDS DETAILS]
+NAME,Leen
+LOCATION,Triumph Road Nottingham
+NOMINAL AREA,  118.32
+NOMINAL NGR,4549,3392
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,454950,339300
+DTM AREA,  118.32
+ALTBAR,  88
+ASPBAR,134
+ASPVAR,0.28
+BFIHOST,0.762
+DPLBAR, 10.95
+DPSBAR, 43.4
+FARL,0.957
+LDP, 20.23
+PROPWET,0.35
+RMED-1H, 10.8
+RMED-1D, 31.9
+RMED-2D, 40.7
+SAAR, 687
+SAAR4170, 693
+SPRHOST,19.60
+URBCONC1990, 0.843
+URBEXT1990,0.2106
+URBLOC1990, 0.667
+URBCONC2000, 0.933
+URBEXT2000,0.2770
+URBLOC2000, 0.662
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station in central Nottingham gauging the baseflow dominated regime of the Leen. Twin concrete channels in urban area. GENERAL: Two rectangular concrete channels, each 3.05m wide, 2.75m deep, separated by divide wall 1m high. All flows contained. Closed 1984, reopened in 1991 as multiple Ultrasonic operation. Laser flow gauge operational from 2023. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: Use pre-ultrasonic record with care especially at low flows due to unstable rating. Informal low flow controls installed in 1981 produced some improvement. FLOW RECORD: Peak Flows available from the Ultrasonic gauge only after WY1991/1992. FLOW REGIME: An extremely urban, flashy catchment producing a very spiky data record. Minor net disturbance to baseflow dominated flow regime. There is also a high level of flood attenuation in the catchment, with a number of dams and storage reservoirs that can hold back flow and level.
+CATCHMENT,Moderate to low relief catchment draining south into Nottingham. Geology predominantly Magnesian Limestone in the west with Permian Mudstones and Sherwood Sandstones to the east. Significant urban fraction, approx 50%, in lower catchment otherwise arable and grazing land use.
+Qmed Suitability,Good performing station at high flows.
+Pooling Suitability,Good performing station at high flows, all flows contained.
+[END]

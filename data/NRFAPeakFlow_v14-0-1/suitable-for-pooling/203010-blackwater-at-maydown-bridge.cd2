@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+203010
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Maydown Bridge
+NOMINAL AREA,  964.71
+NOMINAL NGR,2819,3519
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,282000,351950
+DTM AREA,  964.71
+ALTBAR, 110
+ASPBAR, 85
+ASPVAR,0.08
+BFIHOST,0.395
+DPLBAR, 42.20
+DPSBAR, 75.9
+FARL,0.976
+LDP, 76.02
+PROPWET,0.57
+RMED-1H,  9.1
+RMED-1D, 31.1
+RMED-2D, 41.6
+SAAR,1008
+SAAR4170,1032
+SPRHOST,37.37
+URBCONC1990,-9999.000
+URBEXT1990,0.0105
+URBLOC1990, 0.951
+URBEXT2000,0.0019
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station with cableway opened in June 1970. Flows influenced by major arterial drainage scheme between 1983-1995. GENERAL: Velocity-area station with cableway. Masonry hut housing stilling well and cableway winch situated in steeply-sloping field on left bank, just downstream of a twin-arched bridge. Main and backup instruments present both using shaft encoders with float and weight. Channel width c.27m at station. Flood bank built on right bank in 1990 constraining all but the most extreme flows - aerial photograph from AMAX2 event in November 2009 (187m3/s, 4.051m) shows overtopping of floodbank directly opposite station. STATION HYDROMETRY: Natural in-channel control. Historical flows between 1983-1995 impacted by major arterial drainage scheme. Approximately 50% of catchment is in Republic of Ireland where some groundwater may be abstracted but its hydrological significance is not considered to be significant. One peak flow rating across period of record based on gaugings. Gauging close to 2009 AMAX2 event lends credence to rating equation. FLOW RECORD: Peak flow data are only presented from 1990 onward since the construction of flood bank constrained the majority of high flow events. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8) and in August 2024 (WINFAP Files v13). FLOW REGIME: Second largest catchment size (behind 201010 Drumnabuoy House) of NI stations in Peak Flows dataset at 970km2 with a correspondingly high average T-rise of 29 hours - nearly twice the average for NI stations. There is evidence of abstraction activity in the instantaneous data however the scale of the impact is not considered to be significant.
+CATCHMENT,Solid geology - indurated Carboniferous limestone, sandstone and mudstone are exposed upstream while permeable Sherwood Sandstone Group occurs downstream. Drift geology -downstream, drumlinised glacial till is overlain by river alluvium. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. A predominantly rural catchment - largely improved grassland with limited afforestation. Monaghan Town - in the Irish Republic - is the only significant urban centre.
+Qmed Suitability,Flows fully constrained at QMED level.Gauged on four occasions above QMED.
+Pooling Suitability,Whilst the flood bank on the right bank is overtopped in extreme high flows this occurs just downstream of the station.
+[END]

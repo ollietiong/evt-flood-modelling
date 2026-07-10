@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 40005
+[END]
+[CDS DETAILS]
+NAME,Beult
+LOCATION,Stilebridge
+NOMINAL AREA,  278.05
+NOMINAL NGR,5758,1477
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,575850,147750
+DTM AREA,  278.05
+ALTBAR,  45
+ASPBAR,276
+ASPVAR,0.03
+BFIHOST,0.353
+DPLBAR, 20.33
+DPSBAR, 27.4
+FARL,0.992
+LDP, 36.97
+PROPWET,0.34
+RMED-1H, 11.8
+RMED-1D, 32.5
+RMED-2D, 42.0
+SAAR, 691
+SAAR4170, 691
+SPRHOST,44.56
+URBCONC1990, 0.528
+URBEXT1990,0.0062
+URBLOC1990, 0.887
+URBCONC2000, 0.722
+URBEXT2000,0.0148
+URBLOC2000, 0.992
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir with high flow rating. Ultrasonics used to validate high flow rating. Predominantly clay catchment on the largest tributary of the Medway. GENERAL: Flat V-weir with high flow rating and single-path ultrasonics installed to help validate high flows. The station is located on a long and reasonably straight reach of the River Beult approx. 110m downstream of the Stile bridge, 12 km upstream of the Medway confluence. Constructed in 2001 to replace existing weir ~30m d/s, a compound broad-crested structure, with the central flume separated by short divide piers (which could trap debris) from the broad-crested flanking sections. The ends of the dividing walls caused disturbance of flow, although modelling showed a negligible overall impact. Regarded as full range aside from largest exceptional events. STATION HYDROMETRY: Flat V weir is primary flow calculation. Flood banks confine flows, the floodplain beyond this is approx. 300-400m wide and water now seeps through into adjacent field due to rabbit burrowing. Out-of-bank flows can be significant but are accounted for in the rating. Stepping boards in place on upstream bridge in summer to maintain levels; their insertion and removal is managed separately so the time of adjustment of levels in unknown. But they are far enough upstream to not affect the gauge. Heavy upstream weed growth causes issues with lower ultrasonic paths during summer months. Regular maintenance required but difficult due to depth of channel. Upper ultrasonic paths function well despite this meaning that portion of flow calculated through this method is reliable. The Medway may control the levels in severe floods. Station calibrated by model tests and cableway gaugings (79 cumecs gauged during Oct 2000 flood), though cableway no longer in place. FLOW RECORD: Peak flow data pre-2001 are from the weir site. Post-2001 are from weir and ultrasonics. Drop out in daily flows in April 2015 confirmed by the EA, pattern also seen at upstream station. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Small overall impact of artificial influences - all abstraction is agricultural (and therefore very variable). Runoff increased by effluent returns. Some upstream temporary summer weirs and sluices in past. Minor baseflow (from the Lower Greensand) but very responsive regime.
+CATCHMENT,The Beult forms the largest tributary of the River Medway. Weald clay accounts for 78% of the catchment. Base flow is very low for a Kent catchment. Very little natural storage exists causing a flashy runoff regime. Some spring flow is received from Lower Greensand outcrop along northern margin (6% of the catchment) and also from Hastings Beds (consisting of Tunbridge Wells Sands, Wadhurst Clay & Ashdown Sands) which outcrop in the south (16% of the catchment). Predominantly rural with scattered settlements, total urban coverage <1% of total catchment area.
+Qmed Suitability,From 2002. Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Until 2002 when structure was rebuilt. Gauged beyond AMAX3. Some bypassing which is accounted for in rating.
+[END]

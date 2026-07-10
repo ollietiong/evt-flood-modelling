@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21007
+[END]
+[CDS DETAILS]
+NAME,Ettrick Water
+LOCATION,Lindean
+NOMINAL AREA,  502.74
+NOMINAL NGR,3485,6315
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,348550,631550
+DTM AREA,  502.74
+ALTBAR, 372
+ASPBAR, 94
+ASPVAR,0.13
+BFIHOST,0.443
+DPLBAR, 31.16
+DPSBAR,190.4
+FARL,0.928
+LDP, 54.52
+PROPWET,0.67
+RMED-1H, 10.2
+RMED-1D, 41.3
+RMED-2D, 55.5
+SAAR,1306
+SAAR4170,1409
+SPRHOST,41.68
+URBEXT1990,0.0020
+URBEXT2000,0.0018
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in Southern Uplands. GENERAL: Velocity area station; approx. 40m wide section. Natural section with cableway about 1km before confluence with Tweed. STATION HYDROMETRY: Low flow control by downstream gravel riffle. Gradual bed accretion is evident in the long-term stage hydrograph and possibly triggered by the large 1977 flood. The maximum stage of rating 21, applied up to 10/03/1989, is limited to 2m to indicate lower confidence in the calibration for this early period. With such proximity to the downstream confluence, variable back water effects are a likely factor impacting the confidence of flood estimation. FLOW RECORD: Bypassing on left bank occurs at levels above 2m (e.g. Oct 2002), but the bypassing flows were not measured. Monthly naturalised flows available. Peak flow data after 29/10/2021 are temporarily excluded as recent low to mid-level gaugings indicate a shift in the stage-flow relationship that is currently under investigation. Hence the data are excluded until there is sufficient data to recalibrate. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: St Mary's Loch and Megget Reservoir (public water supply) have a minor impact on the flow regime.
+CATCHMENT,Southern Uplands. Relatively narrow impervious (mostly Silurian formations) catchment (half overlain by superficial deposits). Land use is mostly hill grazing, with some forested areas. Megget Reservoir (1982).
+Qmed Suitability,No comment.
+Pooling Suitability,No comment.
+[END]

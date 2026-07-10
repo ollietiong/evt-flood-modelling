@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+  9010
+[END]
+[CDS DETAILS]
+NAME,Deveron
+LOCATION,Huntly
+NOMINAL AREA,  225.49
+NOMINAL NGR,3516,8408
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,351650,840800
+DTM AREA,  225.49
+ALTBAR, 384
+ASPBAR, 45
+ASPVAR,0.15
+BFIHOST,0.435
+DPLBAR, 26.63
+DPSBAR,127.1
+FARL,0.997
+LDP, 45.42
+PROPWET,0.55
+RMED-1H,  8.8
+RMED-1D, 37.6
+RMED-2D, 52.9
+SAAR,1036
+SAAR4170,1132
+SPRHOST,42.57
+URBEXT1990,0.0002
+URBEXT2000,0.0001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a natural, rural catchment. GENERAL: 20m open channel with full cableway. Gravel boulder and rock control. Station added to peak flows dataset in September 2019 (WINFAP Files v8). STATION HYDROMETRY: One peak flow rating across period of record, gauged to just over 3m, with a measured flow of 135 cumecs. Flows are based on simple extrapolation beyond the highest gauging. FLOW REGIME: Natural catchment with no significant storage.
+CATCHMENT,Significant arable and pasture agriculture in lower reaches with rough grazing, moorland and peat bog in the upper catchment.
+Qmed Suitability,Well gauged to QMED.
+Pooling Suitability,Calibration based on gauging up to 3.039m, then simple extrapolation thereafter. The flood gaugings provide some confidence in the Peak Flow data.
+[END]

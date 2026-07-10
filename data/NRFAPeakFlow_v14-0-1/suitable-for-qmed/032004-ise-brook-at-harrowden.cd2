@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 32004
+[END]
+[CDS DETAILS]
+NAME,Ise Brook
+LOCATION,Harrowden
+NOMINAL AREA,  194.36
+NOMINAL NGR,4899,2712
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,489900,271250
+DTM AREA,  194.36
+ALTBAR, 108
+ASPBAR, 97
+ASPVAR,0.16
+BFIHOST,0.542
+DPLBAR, 18.99
+DPSBAR, 40.0
+FARL,0.974
+LDP, 44.65
+PROPWET,0.29
+RMED-1H, 12.6
+RMED-1D, 30.8
+RMED-2D, 39.2
+SAAR, 635
+SAAR4170, 631
+SPRHOST,35.15
+URBCONC1990, 0.750
+URBEXT1990,0.0355
+URBLOC1990, 0.601
+URBCONC2000, 0.865
+URBEXT2000,0.0630
+URBLOC2000, 0.644
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Site with several different structures installed throughout POR, gauging a rural catchment with mixed geology and some artificial influences. GENERAL: A weir existed already in 1936, so a rectangular notch was cut in in Oct 1936. In Jun-Dec 1943, the rectangular notch was replaced by a flume with low flow notch and the bypass channel was straightened. In 1964, this flume was replaced by a compound Crump weir (its construction. Finally, in 1976, a flat V weir with 5.15m crest was constructed. STATION HYDROMETRY: Considerable flood plain flow above bankfull. Crump weir was modular to 15.6 cumecs (but bypassed at 14.2 cumecs). Flat V is also bypassed. Multiple ratings for various structures applied across period of record, the most recent is valid from April-1976 (flat V) and accounts for the bypassing. 1943-1965 rating considered unreliable above 1.6m, 1965-1976 rating unreliable above 1.39m. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Two small storage reservoirs with minor influence on low flows; receives Kettering effluent.
+CATCHMENT,Underlain by clay and sandstone, nearly half covered with superficial deposits, mainly in higher areas on catchment margins. Predominantly rural catchment of mixed farming, but includes Kettering in lower catchment.
+Qmed Suitability,Flow contained by formal structure and remains modular. QMED estimates thought to be reasonable.
+Pooling Suitability,Out of bank flow not considered in ratings except flat V (post-1976), with earlier ratings unreliable at high flows.
+[END]

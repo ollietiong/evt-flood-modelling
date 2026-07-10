@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21014
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Kingledores
+NOMINAL AREA,  138.70
+NOMINAL NGR,3108,6285
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,310900,628450
+DTM AREA,  138.70
+ALTBAR, 453
+ASPBAR,330
+ASPVAR,0.15
+BFIHOST,0.412
+DPLBAR, 12.56
+DPSBAR,224.0
+FARL,0.917
+LDP, 23.03
+PROPWET,0.72
+RMED-1H, 10.8
+RMED-1D, 45.6
+RMED-2D, 62.4
+SAAR,1567
+SAAR4170,1619
+SPRHOST,45.12
+URBEXT1990,0.0004
+URBEXT2000,0.0009
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A velocity-area station in the upper Tweed catchment. GENERAL: Located on the upper River Tweed, roughly 2.5 miles downstream of Tweedsmuir village. One of the key functions is flood warning for downstream communities. Natural section with a coarse gravel bed. Work in 2022 to rationalise the rating history allowed this station to be considered for inclusion in the peak flow dataset. Station added to peak flows dataset in August 2024 (WINFAP Files v13). The floodplain component of flow was modelled in 2024, which tentatively permitted an upgrade to pooling status. This revision drastically increased the estimation of the rank 1 event in of December 2015. STATION HYDROMETRY: The channel is composed of coarse gravel which is highly mobile, even under modest flows, while the inflow from the Kingledores Burn 10m downstream of the station can cause backwater effects and also scour/deposit large amounts of material from the control. The rating is calibrated with gaugings up to 2.225m, measured at 101.8 cumecs. Higher events spill from the right bank above 2.2m and floodplain flows have been informed by hydraulic modelling. One peak flow rating applied from the start of the digital record from 1986. FLOW RECORD: Monthly naturalised flows available. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Exports from Fruid and Talla Reservoirs cause a significant reduction in runoff. Freshnet releases from Fruid and Talla Reservoirs cause significant spikes in runoff.
+CATCHMENT,Impervious (mostly Silurian formations) upland catchment given over mainly to hill grazing and forestry.
+Qmed Suitability,The rating is calibrated with gaugings up to QMED.
+Pooling Suitability,Gauged to bankfull at 2.2m and then floodplain flow estimation based on hydraulic modelling. The floodplain modelling in 2024 promoted an upgrade to pooling status, although this has been done tentatively considering the lower confidence of floodplain modelling compared to a fully contained and gauged flow range. The rank 1 flood on December 2015 reached 3.144m.
+[END]

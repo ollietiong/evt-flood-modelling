@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="TQ4587119006" x="545871" y="119006">
+        <CatchmentCentroid grid="GB" ngr="TQ5104523035" x="551045" y="123035"/>
+        <area>89.1575</area>
+        <altbar>73.0</altbar>
+        <aspbar>215.0</aspbar>
+        <aspvar>0.18</aspvar>
+        <bfihost>0.432</bfihost>
+        <bfihost19>0.39</bfihost19>
+        <bfihost19scaled>0.39</bfihost19scaled>
+        <dplbar>11.0</dplbar>
+        <dpsbar>72.0</dpsbar>
+        <draindens>1.283</draindens>
+        <farl>0.98</farl>
+        <farl2015>0.978</farl2015>
+        <fpext>0.0422</fpext>
+        <fpdbar>0.467</fpdbar>
+        <fploc>0.686</fploc>
+        <ihdtmeasting>545850</ihdtmeasting>
+        <ihdtmnorthing>119000</ihdtmnorthing>
+        <ldp>18.13</ldp>
+        <propwet>0.35</propwet>
+        <rmed_1h>11.5</rmed_1h>
+        <rmed_1d>35.1</rmed_1d>
+        <rmed_2d>46.5</rmed_2d>
+        <saar>823.0</saar>
+        <saar4170>837.0</saar4170>
+        <saar9120>882</saar9120>
+        <sprhost>43.19</sprhost>
+        <urbconc1990>0.654</urbconc1990>
+        <urbext1990>0.023</urbext1990>
+        <urbloc1990>0.611</urbloc1990>
+        <urbconc2000>0.825</urbconc2000>
+        <urbext2000>0.0301</urbext2000>
+        <urbloc2000>0.639</urbloc2000>
+        <urbext2015>0.0379</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="TQ4587119006" x="545871" y="119006">
+        <c>-0.02506</c>
+        <d1>0.35783</d1>
+        <d2>0.31957</d2>
+        <d3>0.39644</d3>
+        <e>0.31223</e>
+        <f>2.46932</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="TQ460190" x="546000" y="119000">
+        <c_1_km>-0.026</c_1_km>
+        <d1_1_km>0.365</d1_1_km>
+        <d2_1_km>0.288</d2_1_km>
+        <d3_1_km>0.444</d3_1_km>
+        <e_1_km>0.315</e_1_km>
+        <f_1_km>2.456</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3, 3.8, 4.6, 5.9, 7.8, 9.1, 10.6, 11.9, 13.2, 14.5, 16, 17.4, 19, 20.7, 22.7, 24.9, 27.6, 30.7, 33.9, 36.8, 40.1, 43.1</Depths>
+        <Depths duration="0.25">5.1, 6.6, 8, 10.2, 13.7, 16.1, 18.9, 21.5, 24.2, 27.1, 30.2, 33.2, 36.6, 40.4, 44.9, 49.7, 55.8, 62.7, 70.1, 77, 84.7, 92.2</Depths>
+        <Depths duration="0.5">6.6, 8.5, 10.5, 13.4, 18, 21.3, 25.1, 28.7, 32.4, 36.5, 40.8, 45, 49.8, 55.4, 61.7, 68.6, 77.5, 87.5, 98.2, 108.5, 119.8, 131</Depths>
+        <Depths duration="0.75">7.7, 9.9, 12, 15.4, 20.8, 24.6, 29, 33.2, 37.7, 42.4, 47.6, 52.5, 58.3, 64.9, 72.4, 80.6, 91.2, 103, 116, 128.2, 141.9, 155.5</Depths>
+        <Depths duration="1">8.5, 10.9, 13.3, 17, 22.8, 27, 31.9, 36.5, 41.6, 46.9, 52.5, 58, 64.5, 71.7, 80.1, 89.3, 101.1, 114.3, 128.7, 142.4, 157.7, 172.9</Depths>
+        <Depths duration="2">12.9, 15.6, 18.3, 22.5, 28.9, 33.5, 38.7, 43.7, 49.2, 54.9, 61.1, 67.4, 75.1, 83.9, 94.4, 105.6, 119.2, 133.3, 148.2, 162.2, 177.7, 193</Depths>
+        <Depths duration="4">17.7, 20.8, 23.9, 28.4, 35.4, 40.4, 46.1, 51.5, 57.7, 64.2, 71.4, 79, 88.6, 99.5, 112.5, 125.5, 140.1, 155, 170.4, 184.8, 200.6, 216.2</Depths>
+        <Depths duration="6">20.7, 24, 27.2, 32, 39.3, 44.6, 50.6, 56.3, 62.9, 70, 78.1, 86.7, 97.6, 110, 124.2, 138.1, 153.4, 168.5, 184.2, 198.8, 214.9, 230.7</Depths>
+        <Depths duration="12">26, 29.5, 33.1, 38.3, 46.2, 51.9, 58.5, 64.9, 72.5, 80.9, 91, 102.1, 115.8, 130.3, 146, 160.7, 176.6, 192.3, 208.5, 223.5, 240, 256.2</Depths>
+        <Depths duration="18">29.5, 33.2, 36.9, 42.3, 50.7, 56.6, 63.6, 70.5, 78.8, 88.2, 99.6, 112.1, 127.7, 143.4, 159.2, 174, 190.3, 206.6, 223.1, 238.5, 255.2, 271.6</Depths>
+        <Depths duration="24">32.3, 36.2, 40, 45.6, 54.3, 60.5, 67.8, 75.1, 84.1, 94.3, 106.8, 120.1, 136, 152.3, 168.6, 183.9, 200.7, 217.2, 234, 249.5, 266.4, 283.1</Depths>
+        <Depths duration="48">41.5, 45.9, 50.1, 56.3, 65.9, 72.9, 81.3, 89.8, 100.4, 112.8, 127.6, 142.8, 160.1, 177.3, 195, 211.2, 228.7, 245.8, 263.2, 279.2, 296.6, 313.7</Depths>
+        <Depths duration="96">57, 62, 66.8, 73.8, 84.5, 92.4, 101.9, 111.6, 123.8, 138, 154.7, 171.4, 190.1, 208.7, 227.3, 244.5, 263.1, 281, 299.1, 315.6, 333.5, 351.2</Depths>
+        <Depths duration="192">83.8, 89.7, 95.3, 103.4, 115.7, 124.3, 134.5, 144.8, 157.4, 172, 189.2, 206.7, 226.3, 245.7, 265.2, 283.2, 302.6, 321.5, 340.4, 357.9, 376.8, 395.2</Depths>
+        <Depths duration="240">96.7, 102.8, 108.8, 117.3, 130, 139, 149.4, 159.7, 172.2, 186.6, 203.6, 221, 240.9, 260.6, 280.6, 299, 318.7, 337.9, 357.3, 375, 394.2, 412.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.1, 3.8, 4.6, 5.9, 7.7, 9, 10.4, 11.6, 12.9, 14.1, 15.4, 16.6, 18, 19.4, 21, 22.7, 24.7, 27.1, 29.8, 32.4, 35.3, 38.1</Depths>
+        <Depths duration="0.25">5.2, 6.7, 8, 10.2, 13.7, 16, 18.6, 21.1, 23.6, 26.2, 29, 31.7, 34.7, 37.9, 41.5, 45.2, 49.9, 55.3, 61.5, 67.6, 74.5, 81.5</Depths>
+        <Depths duration="0.5">6.9, 8.6, 10.5, 13.4, 17.9, 21.1, 24.7, 28, 31.7, 35.3, 39.3, 43, 47.3, 52, 57.1, 62.5, 69.4, 77.2, 86.2, 95.3, 105.5, 115.7</Depths>
+        <Depths duration="0.75">8, 10, 12.1, 15.4, 20.7, 24.3, 28.5, 32.4, 36.8, 41.1, 45.8, 50.3, 55.4, 60.8, 67, 73.4, 81.7, 90.9, 101.7, 112.6, 124.9, 137.3</Depths>
+        <Depths duration="1">8.8, 11, 13.4, 17, 22.7, 26.7, 31.4, 35.7, 40.6, 45.4, 50.5, 55.5, 61.2, 67.2, 74.1, 81.3, 90.5, 100.8, 112.9, 125.1, 138.8, 152.7</Depths>
+        <Depths duration="2">13.1, 15.7, 18.4, 22.3, 28.5, 32.9, 37.9, 42.6, 47.7, 52.9, 58.4, 63.9, 70.3, 77.3, 85.5, 94.3, 105.3, 117.5, 131, 143.9, 158.3, 172.6</Depths>
+        <Depths duration="4">17.8, 20.7, 23.7, 28.1, 34.8, 39.5, 44.9, 49.9, 55.5, 61.2, 67.3, 73.6, 81.1, 89.7, 100, 110.9, 124.1, 137.8, 152.2, 165.7, 180.6, 195.2</Depths>
+        <Depths duration="6">20.6, 23.7, 26.9, 31.5, 38.5, 43.4, 49, 54.3, 60.2, 66.3, 73.1, 80, 88.8, 98.8, 110.7, 122.9, 137.1, 151.5, 166.3, 180.1, 195.2, 210.1</Depths>
+        <Depths duration="12">25.6, 29, 32.5, 37.4, 45, 50.3, 56.5, 62.4, 69.1, 76.5, 84.9, 94.1, 105.9, 119.1, 133.5, 147.4, 162.7, 177.9, 193.4, 207.7, 223.4, 238.8</Depths>
+        <Depths duration="18">28.9, 32.5, 36.1, 41.3, 49.3, 54.9, 61.5, 67.9, 75.5, 83.9, 94, 105.1, 118.9, 133.6, 149.1, 163.7, 179.5, 195.2, 211, 225.7, 241.8, 257.5</Depths>
+        <Depths duration="24">31.6, 35.4, 39.1, 44.5, 52.9, 58.8, 65.7, 72.6, 80.9, 90.3, 101.8, 114.3, 129.4, 145, 161, 176, 192.3, 208.2, 224.4, 239.4, 255.7, 271.7</Depths>
+        <Depths duration="48">40.5, 44.7, 48.9, 54.9, 64.1, 70.8, 78.8, 87, 97.3, 109.6, 124.4, 139.5, 156.6, 173.5, 190.8, 206.6, 223.9, 240.7, 257.7, 273.3, 290.3, 306.9</Depths>
+        <Depths duration="96">55.6, 60.4, 65.1, 71.9, 82.3, 89.8, 98.8, 108, 119.7, 133.7, 150.3, 166.9, 185.3, 203.4, 221.7, 238.5, 256.6, 274.3, 292.1, 308.4, 326.1, 343.3</Depths>
+        <Depths duration="192">82.5, 88.3, 93.8, 101.7, 113.4, 121.6, 131.2, 140.6, 152.2, 165.6, 181.8, 198.6, 217.9, 236.9, 256.2, 273.8, 292.9, 311.4, 330, 347.1, 365.6, 383.6</Depths>
+        <Depths duration="240">95.3, 101.4, 107.3, 115.6, 127.8, 136.3, 146.1, 155.5, 166.8, 179.7, 195.2, 211.6, 230.8, 250.1, 269.7, 287.7, 307.1, 326, 344.9, 362.3, 381, 399.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Isfield" name="Uck" number="41006">
+        <Comments>
+            <Comment type="Station Summary">Flat-V weir. Very responsive regime. Discharge from sewage treatment works affects low flows during summer. Automatic flood gates upstream at Uckfield Mill can produce abrupt flow changes.</Comment>
+            <Comment type="Hydrometric">Flow gaugings using the crest tappings were made during about the first 10 years of operation. Weir was built with a 24 inch bypass pipe controlled by a penstock at its upstream end. Flow bypassing commenced at a gauged head of about 2.35m (51.61 cumecs) prior to April 2002. Following repair and rising of the eroded bank in April 2002, flow bypassing would occur at a gauged head of about 2.40m (55.85 cumecs). Present weir does not comply with British Standard 3680 requirements (upstream gauging location is closer to crest than recommended for gauged heads &gt;1.4m approx). Experimental fish ladder installed on the downstream face, no effects noticed so far. Both original and existing weirs exhibit mid-range drowning (~10-30 cumecs). In 2002 a 6m section of the left hand bank immediately upstream of weir was rebuilt as was washed away, the bank around the weir was piled and work done on the upstream approach. Cableway installed in 1999 improved high flow capability; lots of check gaugings available. Ratings differ pre and post 1999 (when weir upgraded). Good confidence in mid-range flows although no account for remedial work in 2002 when bypassing reduced. All gaugings &gt;2m are post remedial work and confirm that rating now overestimates flow. Two peak flow ratings applied across the period of record.</Comment>
+            <Comment type="General">Flat-V weir (crest width 7.62m; 1:10 cross-slope) with cableway. Crest tapping (not currently instrumented) and some non-standard elements (e.g. experimental fish-ladder which has now been removed) between the abutments of a pre-existing Crump weir. Fish baffles installed in August 2019 on the downstream slope of the weir. Station is well sited downstream of railway embankment with large capacity bridge opening, 2km upstream of the Isfield Road Bridge. Superseded (in Sept 1999) a Crump profile weir (crest width 7.62m, crest level from bed 1.13m), with crest tapping. Flow capacity of earlier Crump was 51 cumecs but was subject to drowning in the mid flow range (10-30 cumecs), with a return to modular conditions at high flows due to overbank flow and the valley shape downstream. Prior to weir replacement (1999), retaining wall around old structure was in poor condition with the masonry on the right bank in danger of collapse.</Comment>
+            <Comment type="Flow record">Data infilled with modelled data 30/07/2019-22/08/2019 due to fish baffle installation.</Comment>
+            <Comment type="Flow regime">Very responsive regime. No substantial abstractions but discharge from sewage treatment works affects low flows during summer. Automatic flood gates upstream at Uckfield Mill can produce abrupt flow changes. Runoff increased by effluent returns. OUSENAT flow naturalisation scheme. Urban expansion around Uckfield.</Comment>
+            <Comment type="Catchment">Catchment geology very mixed; Hastings Beds predominate. Above Isfield the catchment is rural with significant areas of woodland, but the Uckfield urban area is expanding. The River Uck is the principal tributary of the River Ouse.</Comment>
+            <Comment type="Factors affecting runoff">E</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED, QMED estimates reasonable." suitable="Yes" type="QMED"/>
+            <Usage notes="Since remedial work in 2002 rating overestimates flows and pre 1999 data should be used with caution." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>3.14</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

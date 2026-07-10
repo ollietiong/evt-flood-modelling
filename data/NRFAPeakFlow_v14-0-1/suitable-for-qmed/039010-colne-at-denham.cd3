@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39010
+[END]
+[CDS DETAILS]
+NAME,Colne
+LOCATION,Denham
+NOMINAL AREA,  725.90
+NOMINAL NGR,5051,1863
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,505200,186350
+CENTROID NGR,GB,507713,204917
+DTM AREA,  725.90
+ALTBAR, 121
+ASPBAR,124
+ASPVAR,0.16
+BFIHOST,0.629
+DPLBAR, 36.00
+DPSBAR, 42.7
+FARL,0.903
+FPEXT,0.0769
+LDP, 66.82
+PROPWET,0.29
+RMED-1H, 10.8
+RMED-1D, 32.1
+RMED-2D, 39.8
+SAAR, 704
+SAAR4170, 710
+SPRHOST,31.63
+URBCONC1990, 0.690
+URBEXT1990,0.0760
+URBLOC1990, 0.919
+URBCONC2000, 0.870
+URBEXT2000,0.1169
+URBLOC2000, 0.903
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,One of the major gauging stations on the middle section of the River Colne. GENERAL: Twin semi-circular broad-crested weirs (one section feeds the Frays River). Overall crest length 30m. Used for both water resource and flood warning/forecasting purposes. STATION HYDROMETRY: Power law rating derived using a simplified broad crested weir formula with a discharge coefficient that remains constant with stage. No corrections made for non-modular or drowned flow. Maintenance of weir no longer carried out due to Health and Safety concerns, in channel vegetation can become widespread in growing season. Insensitive to low flows. Some by-passing can occur at extreme stages. Single rating used throughout record. Prior to 2016, gaugings generally within +/- 10% of the rated flow. Between the rebuild in 2016 and installation of the fish pass in 2022, gaugings indicate the rating was overestimating flow by up to 25%. Since installation of the fish pass, gaugings indicate a smaller reverse bias towards underestimation of flows by the rating. However, two gaugings since the installation of the fish pass are close to QMED and fit closely to the rating. FLOW RECORD: Frays River part of weir sandbagged for downstream channel works between Jan 2008 and 21st April 2008. Levels artificially high. Bypassing of weir observed in winter floods of 2002/03. In mid-2016 the large bridge upstream of the weir collapsed in the channel and it was rebuilt in November 2016. Fish pass installed in September 2022, not accounted for in the rating. No data are rejected as biases in flow arising from rebuild and fish pass are within acceptable limits (see Station Hydrometry). Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Complex water utilisation within the catchment. Baseflow from the Chalk remains important but considerable groundwater abstraction leads to net reductions in flows. However, increasing effluent contribution (including Maple Lodge STW) makes up a large proportion of low and medium flows. Abstraction is mainly for industry/agriculture.
+CATCHMENT,A largely Chalk catchment with Drift cover. Clays in the valleys supplemented by extensive gravel tracts. The Chilterns scarp is largely rural in the headwaters but considerable suburban development characterises the middle and lower reaches. Hydrological and topographical divides do not coincide.
+Qmed Suitability,Gauged to within near QMED. Rating could underestimate flows by around 15% and there is some scatter in gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. AMAX3 is out of bank.
+[END]

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SD3659986267" x="336599" y="486267">
+        <CatchmentCentroid grid="GB" ngr="NY3581501820" x="335815" y="501820"/>
+        <area>247.9725</area>
+        <altbar>229.0</altbar>
+        <aspbar>172.0</aspbar>
+        <aspvar>0.13</aspvar>
+        <bfihost>0.44</bfihost>
+        <bfihost19>0.452</bfihost19>
+        <bfihost19scaled>0.365</bfihost19scaled>
+        <dplbar>21.47</dplbar>
+        <dpsbar>218.9</dpsbar>
+        <draindens>1.286</draindens>
+        <farl>0.694</farl>
+        <farl2015>0.691</farl2015>
+        <fpext>0.0524</fpext>
+        <fpdbar>0.797</fpdbar>
+        <fploc>0.972</fploc>
+        <ihdtmeasting>336600</ihdtmeasting>
+        <ihdtmnorthing>486300</ihdtmnorthing>
+        <ldp>36.23</ldp>
+        <propwet>0.71</propwet>
+        <rmed_1h>12.7</rmed_1h>
+        <rmed_1d>67.0</rmed_1d>
+        <rmed_2d>92.3</rmed_2d>
+        <saar>2172.0</saar>
+        <saar4170>2210.0</saar4170>
+        <saar9120>2411</saar9120>
+        <sprhost>46.57</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0045</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>0.719</urbconc2000>
+        <urbext2000>0.0059</urbext2000>
+        <urbloc2000>0.746</urbloc2000>
+        <urbext2015>0.0142</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SD3659986267" x="336599" y="486267">
+        <c>-0.02399</c>
+        <d1>0.51065</d1>
+        <d2>0.48025</d2>
+        <d3>0.39252</d3>
+        <e>0.27418</e>
+        <f>2.5842</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SD370860" x="337000" y="486000">
+        <c_1_km>-0.027</c_1_km>
+        <d1_1_km>0.462</d1_1_km>
+        <d2_1_km>0.373</d2_1_km>
+        <d3_1_km>0.413</d3_1_km>
+        <e_1_km>0.288</e_1_km>
+        <f_1_km>2.458</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.7, 3.2, 3.7, 4.5, 5.7, 6.4, 7.1, 7.8, 8.6, 9.3, 10.2, 11.1, 12.5, 14.1, 15.9, 17.8, 19.8, 21.6, 23.5, 25.1, 26.8, 28.4</Depths>
+        <Depths duration="0.25">5.2, 6.3, 7.4, 9, 11.3, 12.9, 14.7, 16.3, 18, 19.9, 22.1, 24.4, 27.4, 31.4, 36, 40.6, 45.6, 50.5, 55.5, 60, 65, 69.7</Depths>
+        <Depths duration="0.5">7.6, 9.1, 10.7, 12.9, 16.5, 19, 21.7, 24.3, 27.1, 30.1, 33.7, 37.4, 42.4, 48.8, 56.5, 64.2, 72.7, 81.1, 89.7, 97.6, 106.4, 114.9</Depths>
+        <Depths duration="0.75">9.4, 11.2, 13.2, 15.9, 20.3, 23.3, 26.9, 30.1, 33.8, 37.6, 42.1, 46.9, 53.5, 61.7, 71.5, 81.4, 92.5, 103.7, 115.1, 125.6, 137.2, 148.7</Depths>
+        <Depths duration="1">10.8, 13, 15.2, 18.4, 23.4, 27, 31, 34.8, 39.1, 43.7, 48.9, 54.6, 62.3, 71.9, 83.5, 95.2, 108.3, 121.4, 134.9, 147.4, 161.2, 174.8</Depths>
+        <Depths duration="2">18.3, 21.1, 23.8, 27.8, 33.8, 37.9, 42.6, 47, 52, 57.5, 63.8, 71, 80.9, 92.7, 105.9, 118.7, 132.7, 146.6, 160.7, 173.9, 188.4, 202.5</Depths>
+        <Depths duration="4">29.3, 32.8, 36.1, 40.9, 48, 52.9, 58.4, 63.6, 69.6, 76.2, 84.2, 93.4, 105.7, 119.6, 134.3, 148.1, 163.2, 178, 193.1, 207, 222.2, 237</Depths>
+        <Depths duration="6">37.3, 41.3, 45, 50.3, 58.1, 63.5, 69.6, 75.3, 82, 89.5, 98.6, 109.2, 123.1, 138.1, 153.8, 168.2, 184, 199.4, 215, 229.4, 245.1, 260.5</Depths>
+        <Depths duration="12">53.1, 57.8, 62.2, 68.5, 77.7, 84, 91.2, 98, 106.1, 115.3, 127, 140.2, 156.5, 173.4, 190.6, 206.3, 223.3, 239.8, 256.5, 271.9, 288.6, 304.9</Depths>
+        <Depths duration="18">63.1, 68.3, 73.2, 80.1, 90.3, 97.2, 105, 112.5, 121.6, 132.1, 145.2, 159.9, 177.5, 195.3, 213.3, 230, 247.8, 265.1, 282.4, 298.4, 315.7, 332.6</Depths>
+        <Depths duration="24">70.6, 76.2, 81.5, 88.9, 99.7, 107.1, 115.5, 123.6, 133.4, 144.8, 158.9, 174.4, 192.9, 211.4, 230.1, 247.2, 265.7, 283.5, 301.3, 317.8, 335.6, 353</Depths>
+        <Depths duration="48">91.4, 98.2, 104.5, 113.5, 126.4, 135.2, 145.3, 155, 166.6, 179.9, 196.1, 213.4, 233.6, 253.8, 274.2, 292.8, 312.7, 332, 351.3, 369.1, 388.2, 406.8</Depths>
+        <Depths duration="96">121.7, 130.4, 138.6, 149.9, 166.3, 177.4, 189.9, 201.9, 215.7, 230.9, 248.6, 267.1, 289, 311.2, 333.9, 354.6, 376.9, 398.4, 419.9, 439.5, 460.7, 481.3</Depths>
+        <Depths duration="192">175, 187.2, 198.5, 214.6, 237.5, 252.8, 269.9, 285.7, 303.5, 322.1, 342.6, 363.4, 387.8, 413, 439.1, 463.3, 489.5, 514.8, 540, 563, 587.8, 611.7</Depths>
+        <Depths duration="240">200.9, 214.8, 227.8, 246.1, 272.3, 289.7, 309.1, 327, 347, 367.5, 389.9, 412.2, 438.1, 464.8, 492.6, 518.4, 546.5, 573.7, 600.7, 625.3, 651.8, 677.5</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.4, 4, 4.8, 6, 6.7, 7.5, 8.2, 8.9, 9.7, 10.5, 11.3, 12.3, 13.4, 14.7, 16.1, 17.7, 19.3, 20.9, 22.3, 23.7, 25.1</Depths>
+        <Depths duration="0.25">5.6, 6.8, 7.9, 9.6, 11.9, 13.7, 15.5, 17.2, 18.8, 20.7, 22.6, 24.6, 27, 29.9, 33.1, 36.7, 40.7, 44.9, 49.3, 53.2, 57.5, 61.6</Depths>
+        <Depths duration="0.5">8.2, 9.7, 11.4, 13.8, 17.5, 20, 22.9, 25.5, 28.4, 31.3, 34.6, 37.8, 41.7, 46.4, 52, 58, 65, 72.1, 79.6, 86.6, 94.1, 101.6</Depths>
+        <Depths duration="0.75">10, 11.9, 14, 16.9, 21.5, 24.6, 28.3, 31.7, 35.3, 39.1, 43.2, 47.5, 52.6, 58.7, 65.9, 73.5, 82.7, 92.2, 102.1, 111.3, 121.4, 131.5</Depths>
+        <Depths duration="1">11.6, 13.9, 16.2, 19.6, 24.8, 28.5, 32.7, 36.6, 40.9, 45.4, 50.2, 55.2, 61.3, 68.4, 76.9, 86, 96.8, 108, 119.7, 130.7, 142.7, 154.6</Depths>
+        <Depths duration="2">19.2, 22.1, 24.9, 29, 35.1, 39.4, 44.2, 48.7, 53.7, 59, 64.8, 70.9, 78.7, 87.8, 98.5, 109.3, 121.4, 133.6, 146.1, 157.8, 170.4, 182.9</Depths>
+        <Depths duration="4">30.3, 33.8, 37.2, 42.1, 49.4, 54.4, 60.1, 65.4, 71.5, 78.1, 85.7, 94.1, 104.8, 116.8, 129.9, 142.3, 155.9, 169.2, 182.7, 195.2, 208.8, 222.1</Depths>
+        <Depths duration="6">38.3, 42.3, 46.1, 51.6, 59.6, 65.2, 71.6, 77.7, 84.8, 92.7, 102.3, 112.9, 126.1, 140, 154.3, 167.7, 182.2, 196.3, 210.6, 223.7, 237.9, 251.8</Depths>
+        <Depths duration="12">54.2, 59, 63.6, 70.1, 79.9, 86.8, 94.9, 103.2, 113.9, 126.8, 142.3, 157.8, 174.9, 191.5, 208, 223.1, 239.4, 255.1, 270.8, 285.3, 300.9, 316.1</Depths>
+        <Depths duration="18">64.4, 69.7, 74.8, 82.1, 93.1, 101.1, 110.9, 121.7, 136.6, 154.3, 173.6, 191.4, 210.3, 228.3, 246.1, 262.3, 279.8, 296.6, 313.4, 328.7, 345.2, 361.3</Depths>
+        <Depths duration="24">72, 77.8, 83.2, 91.2, 103.2, 112.1, 123.7, 137.2, 156.1, 177, 198.4, 217.6, 237.7, 256.8, 275.6, 292.6, 310.8, 328.4, 346, 362, 379.2, 396</Depths>
+        <Depths duration="48">93.2, 100.2, 106.9, 116.6, 131.8, 143.7, 161, 183.1, 211.1, 237.7, 263.2, 285.4, 308.5, 330.3, 351.7, 370.9, 391.3, 410.8, 430.3, 448.2, 467.5, 486.1</Depths>
+        <Depths duration="96">124.3, 133.2, 141.8, 154.2, 173.7, 189.1, 211.5, 239.2, 272.2, 303.3, 332.8, 358.4, 384.9, 409.8, 434.1, 455.9, 479, 501.2, 523.5, 543.7, 565.2, 586</Depths>
+        <Depths duration="192">179.2, 191.7, 203.6, 220.8, 246.8, 266.1, 290.5, 317, 349.7, 383.3, 416.7, 446.4, 477.5, 506.8, 535.4, 561.1, 588.3, 614.3, 640.4, 664, 689.1, 713.4</Depths>
+        <Depths duration="240">206.1, 220.3, 233.8, 253.2, 282, 302.7, 327.9, 353.7, 384.9, 417.8, 451.8, 482.9, 515.6, 546.7, 577.2, 604.6, 633.5, 661.2, 689.1, 714.2, 741, 766.8</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Newby Bridge" name="Leven" number="73010">
+        <Comments>
+            <Comment type="Station Summary">Compound Crump profile weir gauging the outflow of Lake Windermere. The lake supports public water supply abstraction and attenuates peak flows.</Comment>
+            <Comment type="Hydrometric">Full-range station. The bridge is a control at medium to high flows, though some modelling suggests that the comparatively narrow part of the lake upstream of the bridge can act as a control on lake levels. The November 2009 event exceeded the top of the divide walls, but the weir was not drowned (see photos). There are 2 ADCP gaugings from December 2015 at 2.145m and 2.134m, extrapolated beyond. Observations of weir during highest event on record give confidence to extrapolation of rating. There is an effect of the upstream flood relief gates on recorded flows, they can suddenly increase significantly when opened and suddenly decrease significantly when closed. There are fish sluice gates on the upstream weir which are opened at very low flows to maintain a certain flow downstream. Therefore recorded flows at extreme levels have a large artificial influence. Multiple peak flow ratings across period of record.</Comment>
+            <Comment type="General">Level record since 1939 from four different sites at Newby Bridge. All flow records from 1939 to 1974 combined into a single sequence. Since 04/05/1971 Compound Crump profile weir. The original "Recorder" station to 1969 was a recorder in a box with stilling well located where the upstream face of the bridge met the right bank. Chart trace appears ok. However, there was no staff gauge at the site to check the chart levels in the early years, and some concerns about the representativeness of recorded levels during high flows, and/or datum changes. The PGS (Primary Gauging Station; 1963-1981) was a velocity area station with a hut and cableway, on the right bank approx 140m upstream of the bridge. The period of overlap of the Recorder and PGS stations enabled a stage-discharge relationship to be derived for the Recorder station. In 1971 the weir immediately downstream of the bridge was reconstructed, flood relief gates added, and the present FMS (Flow Measuring Station) built downstream. A temporary recorder was installed approx 600m downstream of the FMS during construction of the FMS and upstream weir. The FMS station has a low central notch 3.7m wide, and two flanking crests 10m and 16.9 m wide, 0.65 m higher. Weir was repaired summer 2013 and crests restored to original profile; does not appear to have affected the single rating equation.</Comment>
+            <Comment type="Flow record">The records from the various stations since 1939 have been merged to form one record, though the Recorder record has more uncertainties than the later stations. Peak stage data for the Recorder period have been adjusted; the adjustment sets the offset of the rating equation to zero, which should generally be around 0.274m. (So an original stated level of 1.274m at a chart datum of 38.71mAOD with (h-0.274m) in the rating equation has been reset to a level of 1.0m, with (h+0) in the rating equation). The temporary station was used to calculate flows by correlation with the PGS and used to infill the flow record from Sept 1970 to June 1971. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8).</Comment>
+            <Comment type="Flow regime">Abstractions from Lake Windermere for public water supply. Peak flows attenuated by Lake Windermere.</Comment>
+            <Comment type="Catchment">Catchment drains southern parts of the Lake District massif. Predominantly impervious, Borrowdale Volcanics in north and Silurian Slate in south. Boulder Clay along river valleys. Mainly grassland, very wooded in lower reaches. Catchment contains Windermere, Esthwaite Water, Rydal Water and Grasmere, and numerous other small, natural water bodies. No catchment changes known.</Comment>
+            <Comment type="Factors affecting runoff">SPE</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED, all flow contained." suitable="Yes" type="QMED"/>
+            <Usage notes="See rating development and station descriptions." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>3.89</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

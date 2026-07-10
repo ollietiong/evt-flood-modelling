@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 11002
+[END]
+[CDS DETAILS]
+NAME,Don
+LOCATION,Haughton
+NOMINAL AREA,  792.67
+NOMINAL NGR,3756,8201
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,375700,820150
+CENTROID NGR,GB,348554,814054
+DTM AREA,  792.67
+ALTBAR, 332
+ASPBAR, 82
+ASPVAR,0.11
+BFIHOST,0.573
+DPLBAR, 51.29
+DPSBAR,137.8
+FARL,0.997
+FPEXT,0.0507
+LDP,102.59
+PROPWET,0.55
+RMED-1H,  8.4
+RMED-1D, 34.9
+RMED-2D, 47.6
+SAAR, 916
+SAAR4170,1025
+SPRHOST,32.44
+URBEXT1990,0.0010
+URBEXT2000,0.0016
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, catchment drains the eastern Cairngorms. GENERAL: Velocity area station; about 40m wide. STATION HYDROMETRY: Cableway rated, natural control. Levels can be affected by ice and weed. Minor bypassing only at the highest flood flows >5.0m (2002 and 2016). Peak flow rating revised in 2020 and derived from gaugings up to 4.8m and flood plain modelling up to 6.0m. However, there is lower confidence in flow estimates pre 01/01/1984 as there is a ten year period with no gaugings. Two peak flow ratings across period of record. FLOW RECORD: All pre-1984 flows are flagged as estimated in the SEPA database and post-1984 flows for events above 5m stage should be treated with caution. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10) and in August 2024 (WINFAP Files v13). FLOW REGIME: Natural regime. Slow rising river, responsiveness dampened by superficial deposits.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Mainly Dalradian metamorphics with large amounts of basic intrusives and a small pocket of ORS. High moorland, forestry, pastoral and arable in lower valleys. No significant catchment changes known.
+Qmed Suitability,Well gauged to QMED.
+Pooling Suitability,Flows contained and gauged for all but the highest peaks. Above 5.0m slight bypassing occurs but this is covered by flood plain modelling up to 6.0m.
+[END]

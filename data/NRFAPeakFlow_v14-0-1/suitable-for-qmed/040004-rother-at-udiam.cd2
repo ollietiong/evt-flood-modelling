@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 40004
+[END]
+[CDS DETAILS]
+NAME,Rother
+LOCATION,Udiam
+NOMINAL AREA,  204.64
+NOMINAL NGR,5772,1244
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,577250,124400
+DTM AREA,  204.64
+ALTBAR,  81
+ASPBAR,114
+ASPVAR,0.11
+BFIHOST,0.388
+DPLBAR, 17.75
+DPSBAR, 92.7
+FARL,0.975
+LDP, 33.27
+PROPWET,0.35
+RMED-1H, 11.6
+RMED-1D, 36.6
+RMED-2D, 48.8
+SAAR, 857
+SAAR4170, 861
+SPRHOST,44.42
+URBCONC1990, 0.508
+URBEXT1990,0.0078
+URBLOC1990, 0.977
+URBCONC2000, 0.684
+URBEXT2000,0.0111
+URBLOC2000, 1.059
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir with, since September 2012, one path ultrasonic to monitor higher non-modular flows. The flow up to 4.75 cumecs is based on power law rating in three sections. Above this the ultrasonic calculates flow. GENERAL: Flat V Weir with multi-path ultrasonics. Ultrasonics were installed in 2000 but not incorporated into the flow record until 2012. 2000 Rebuild superseded original Flat V (1992-2000) in embanked river section with paved bed and weir control for low stages that was insensitive at low flows. Deformation of crest was suspected and station rebuilt as a new flat-V weir with cableway in July 1992. Previously a broad-crested weir (1961-1992) and velocity-area section (pre-1961) (274m d/s of road bridge) and a flume at Robertsbridge pumping station (for flows below 1.54 m3/s, some turbulence was experienced at lower flows). STATION HYDROMETRY: Section consists of a narrow, well-defined channel with rock bed and good fall. Flows confined except in extreme floods when station is bypassed. Weir is non-modular above 0.6 m, and drowns early (due to downstream tidal sluice). Ultrasonics were installed in 2012 to calculate flows above the non-modular limit. Flood embankment constructed to encapsulate higher flows up to 1.54 m3/s. Stage-discharge relationship affected by downstream conditions following high flows. Difficult to produce fixed rating due to backwater effects and land drainage works. FLOW RECORD: Revised and alternating ratings Historic_Summer and Historic_Winter have been applied between 1992 and 2012. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Large areas of on-field storage exist during flood events, floodplain is approx. 400m wide at the gauge site. Offtake for Bough Beech Reservoir is upstream - occupying less than 1 per cent of the total catchment area, it causes a small net export of water but does not operate during summer periods. Some slight regulation by Hever Castle Lake 3.2km upstream. Leigh Flood Barrier, constructed 1981, d/s can cause some hysteresis at the gauge. Consists of a flood storage reservoir capable of retaining up to 5.58 million cubic metres of water and is the largest on line flood storage reservoir of its kind in the UK. Vexour Bridge is one of the main flood warning stations used for input to the Leigh Barrier. Possible change in channel dimensions over time. Large areas of on-field storage exist during flood events (floodplain is approx. 400m wide at the gauge site).
+CATCHMENT,Catchment developed on sands and clays of the Wealden Series - impervious types predominate. Includes mostly Weald Clay and Upper and Lower Tunbridge Wells Sand, with the remainder made up of Upper Greensand, Ashdown Sand, Folkestone Beds, Sandgate Beds, Hythe Beds, and Atherfield, Grinstead, Gault and Wadhurst Clays. Resulting in a responsive flow regime in a small baseflow supported from the Upper Greensand. Predominantly rural catchment with scattered settlements including Edenbridge, Godstone, Lingfield and East Grinstead (which occupy approx. 3% of the total catchment area). With a catchment area u/s of Penshurst of 224km2,, with Penshurst G/S only 2.8km U/S of the confluence with the River Medway.
+Qmed Suitability,Gauged above QMED and reasonably confident in estimates.
+Pooling Suitability,Gauged beyond AMAX3 but significant scatter in gaugings at high flow.
+[END]

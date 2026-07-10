@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75009
+[END]
+[CDS DETAILS]
+NAME,Greta
+LOCATION,Low Briery
+NOMINAL AREA,  146.99
+NOMINAL NGR,3285,5242
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,328550,524250
+CENTROID NGR,GB,333183,522357
+DTM AREA,  146.99
+ALTBAR, 378
+ASPBAR,327
+ASPVAR,0.09
+BFIHOST,0.399
+DPLBAR, 13.64
+DPSBAR,227.1
+FARL,0.910
+FPEXT,0.0522
+LDP, 25.88
+PROPWET,0.63
+RMED-1H, 12.0
+RMED-1D, 60.6
+RMED-2D, 81.2
+SAAR,2025
+SAAR4170,2116
+SPRHOST,47.22
+URBEXT1990,0.0001
+URBEXT2000,0.0004
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station. Level only from 1999. Closed in December 2015 and will be relocated to Riddings Wood upstream. GENERAL: Velocity area station opened March 1971. Station operated from 1999 as level only but was important for flood forecasting and a rating was developed for high flows. Flood warning site for Keswick. Massive channel changes through gravel deposition occurred at the station during Storm Desmond on 05/12/2015. The gauging station also sustained damage. A decision was made to relocate upstream to Riddings Wood,a location that is expected to offer channel stability to enable the production of reliable flows and will be less prone to damage during exceptional floods. STATION HYDROMETRY: Natural rock bar downstream acting as a control where the channel divides and the gradient becomes steeper. Flows contained to the highest stage. There was a permanent cableway, but confidence in high flow gaugings was low due to high velocities and poor gauging section, and the cableway has now been removed. Station was operated as level only from 1999 until 2015 and was no longer gauged by current meter. However, the station remained important for flood forecasting, had been gauged to a high level and hydraulically modelled, so a rating was applied to high flows. Low flows below 0.5m after 1999 are flagged as "beyond limit" (i.e the rating does not apply to low flows). Multiple peak flows ratings applied, however only one shown which is the upper limb of all ratings. Low flow re-rating adjustments are not shown. Rating derived by current meter to 2m with hydraulic model results beyond. FLOW RECORD: In November 2009 there was some very minor spill on left bank, and the stage trace had some oscillations, reflecting the high velocities and unstable flow conditions. The peak flow in the December 2015 is uncertain due to significant gravel movement during the event; value derived based on post-event survey. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Thirlmere Reservoir controls part of catchment - spills and regulation releases.
+CATCHMENT,Geology is impervious Ordovician Skiddaw slates, Borrowdale Volcanics and some igneous intrusions, covered with Boulder Clay below 200m. An entirely rural catchment, rising to the summit of Helvellyn, with sheep farming predominating on the rough pasture. The high ground is moorland. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although only gauged to 64% of AMAX3, rating has been extended by modelling.
+[END]

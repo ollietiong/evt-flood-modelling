@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+236005
+[END]
+[CDS DETAILS]
+NAME,Colebrooke
+LOCATION,Ballindarragh Bridge
+NOMINAL AREA,  313.58
+NOMINAL NGR,2331,3359
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,233150,335900
+CENTROID NGR,Ireland,240998,344221
+DTM AREA,  313.58
+ALTBAR, 147
+ASPBAR,235
+ASPVAR,0.06
+BFIHOST,0.421
+DPLBAR, 24.72
+DPSBAR, 74.6
+FARL,0.987
+FPEXT,0.0819
+LDP, 46.29
+PROPWET,0.58
+RMED-1H,  9.2
+RMED-1D, 32.8
+RMED-2D, 43.7
+SAAR,1156
+SAAR4170,1137
+SPRHOST,39.02
+URBCONC1990,-9999.000
+URBEXT1990,0.0067
+URBLOC1990, 0.645
+URBEXT2000,0.0012
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station originally opened in September 1975, closed in 1977 and reopened October 1981. GENERAL: Velocity-area station composed of masonry hut housing on left bank. Downstream of 4-arched road bridge although arch closest to left bank typically silted up with flow restricted through this arch to high flow events only. Main and backup instruments present both using shaft encoders with float and weight. Channel width c.16m at station. STATION HYDROMETRY: Natural in-channel control. Channel is too deep at station to wade gauge. Some bank erosion on right bank. Rating derived from current meter gaugings. Flows not constrained in channel at QMED although station is not bypassed during flood flows and numerous out of bank flow gaugings have been undertaken. Simple extrapolation occurs beyond 129.6 m3/s. One peak flow rating across period of record. FLOW RECORD: AMAX1 and AMAX2 in October 1987 and December 2015 respectively both in excess of 150 m3/s. Station originally opened in September 1975, subsequently closed in March 1977 reopened in October 1981. Gaps in data in 1986 (July - August and September - December). Flows from start of 1987 reprocessed in 2002. Broad range of gaugings. Data in December 2010 considered suspect due to the stilling well freezing. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13).
+CATCHMENT,Solid geology - area underlain by indurated Silurian greywacke sandstones and shales and Lower Palaeozoic granodiorite. Drift geology - rock near surface, drumlinised glacial till, peat, lacustrine clay and limited river alluvium. Land use is predominantly grassland with significant coniferous woodland, some bog and no significant urban development.
+Qmed Suitability,Flows not fully contained at QMED although station is not bypassed during out-of-bank flows.Good range of high flow gaugings, the highest four of which have been in excess of QMED flow.
+Pooling Suitability,No bypassing of station during high flows.Good range of high flow gaugings, the highest of which is 82% of AMAX1.
+[END]

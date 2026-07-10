@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 81002
+[END]
+[CDS DETAILS]
+NAME,Cree
+LOCATION,Newton Stewart
+NOMINAL AREA,  366.21
+NOMINAL NGR,2412,5653
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,241250,565350
+DTM AREA,  366.21
+ALTBAR, 238
+ASPBAR,204
+ASPVAR,0.23
+BFIHOST,0.341
+DPLBAR, 23.78
+DPSBAR,118.7
+FARL,0.932
+LDP, 45.88
+PROPWET,0.69
+RMED-1H, 11.9
+RMED-1D, 50.2
+RMED-2D, 65.9
+SAAR,1757
+SAAR4170,1713
+SPRHOST,50.86
+URBEXT1990,0.0008
+URBEXT2000,0.0017
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, lowest on the River Cree. GENERAL: Velocity area station with cableway located on long, reasonably straight, gravel bedded reach. STATION HYDROMETRY: Channel with gravel control 50m downstream pre-1997. Rating changed around 1997 coincided with the time of building of boulder groynes 75m downstream. A footbridge was also built in the same location in 1998 and the vertical concrete supports creates a constriction that will be a significant control factor at higher flows. Bridge was removed in November 2016 after being damaged in the 2015 flood but the bridge supports remain in place and continue to act as a control during floods.The bridge is to be reinstalled at a higher level. Multiple peak flow ratings across the period of record. Advised extrapolation is 10% above the highest gauged flow in each rating period. The post-1997 rating is based on gaugings up to 3.45m (280.98 cumecs rated flow). This gauging was above bank full (3.3m), but the out of bank flow component was insignificant. AMAX1 reached 4.1m and the out of bank flow component may have been more significant. FLOW RECORD: Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Natural catchment.
+CATCHMENT,Natural catchment with a few small lochs, moorland and forestry. Impermeable bedrock with approx. half overlain by superficial deposits. Silurian shales for much of the catchment. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment.
+Pooling Suitability,No comment.
+[END]

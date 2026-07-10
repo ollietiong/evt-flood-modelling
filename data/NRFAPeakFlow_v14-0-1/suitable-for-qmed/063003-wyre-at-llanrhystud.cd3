@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 63003
+[END]
+[CDS DETAILS]
+NAME,Wyre
+LOCATION,Llanrhystud
+NOMINAL AREA,   40.55
+NOMINAL NGR,2541,2697
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,254200,269750
+CENTROID NGR,GB,259934,269294
+DTM AREA,   40.55
+ALTBAR, 197
+ASPBAR,304
+ASPVAR,0.28
+BFIHOST,0.472
+DPLBAR,  7.92
+DPSBAR,110.7
+FARL,1.000
+FPEXT,0.0383
+LDP, 17.98
+PROPWET,0.53
+RMED-1H, 10.0
+RMED-1D, 37.4
+RMED-2D, 49.3
+SAAR,1182
+SAAR4170,1254
+SPRHOST,38.05
+URBCONC1990, 0.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with ford 10m downstream acting. GENERAL: Velocity area station. Station closed from Dec 1979 when ford washed away, ford rebuilt and station re-opened in early 1980s. Ford has been deteriorating since about 2005, and was closed to traffic in March 2010. STATION HYDROMETRY: Coarse gravel bed. Inlet pipe in 3 parts, allowing silt to get in pipe and block. Bypassing at highest flows down a mill stream and along a road. Multiple peak flow ratings across period of record. Scatter in gaugings and ratings unlikely to fully account for changes due to ford deterioration. High flow gaugings in 1970s enabling high flow rating for that period, but lack of high flow gaugings from 1982 onwards. FLOW RECORD: Peak flow data post-1999 rejected due to change in suitability. AMAX 1 max in Aug 1973 triggered by a storm greater than 100mm; uncertainty in gauged flow as upstream bridge collapsed during this event with likely impact on peak level recorded. However, nearby station at Pont Llolwyn also recorded AMAX1 for the period 1968-1979 so gauged flow retained. Flows 24 Dec 2011 - 23 Jan 2012 estimated from 63001 data due to anomalous behaviour; similar behaviour exhibited in Jan 2005 and 2011 unable to be improved by measuring authority. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Natural regime - no known artificial influences.
+CATCHMENT,Small Cardigan bay catchment, mostly lowland. Impermeable Silurian geology. Does not extend as far as the high Cambrian Mountains. Rural land use, predominantly grassland supporting dairy farming, with small patches of woodland.
+Qmed Suitability,Suitable for QMED for WY1968 to WY1979 only: Gauged above QMED with little scatter in gaugings. There remains uncertainty in bypassing and impact of tributary confluence which is just d/s of station.
+Pooling Suitability,Rating uncertain beyond QMED.
+[END]

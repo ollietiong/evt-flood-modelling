@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 42014
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Ower
+NOMINAL AREA,  102.38
+NOMINAL NGR,4328,1173
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,432850,117400
+DTM AREA,  102.38
+ALTBAR,  60
+ASPBAR,124
+ASPVAR,0.17
+BFIHOST,0.479
+DPLBAR, 11.34
+DPSBAR, 44.5
+FARL,0.979
+LDP, 18.89
+PROPWET,0.33
+RMED-1H, 10.7
+RMED-1D, 35.7
+RMED-2D, 46.3
+SAAR, 837
+SAAR4170, 867
+SPRHOST,34.18
+URBCONC1990, 0.326
+URBEXT1990,0.0089
+URBLOC1990, 0.875
+URBCONC2000, 0.662
+URBEXT2000,0.0146
+URBLOC2000, 0.948
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir with velocity area for higher flows gauging a predominantly rural, natural catchment. GENERAL: Crump profile weir, crest width 6.16m, with pressure transducer downstream. Located 10km upstream of the confluence of the River Blackwater with the River Test. Stage measured in stilling well inside hut on upstream side of weir. Downstream stage stopped being recorded in 2009. STATION HYDROMETRY: The weir crest has a 1cm variation which does not conform to British Standard guidelines, the gauge is not within a straight section of channel and the channel turns sharply downstream to pass under the A3090 culvert. Velocity area calibration used for medium and high flows up to 1.85m (approx. 10 cumecs); includes allowance for floodplain discharge. No bypassing occurs at the culvert 50m downstream. There is also a small footbridge 100m downstream and another 1.5m upstream where water spills out of bank long before the soffit level is reached (1.31m stage). The channel in the vicinity of the gauge has vertical sheet piling - this continues, along with concrete banks, to the downstream culvert. Silt islands with vegetation growing on them exist in the channel. Significant vegetation growth directly upstream and downstream (sharp bend) of station; requires significant flood event to clear channel. One peak flow rating applied across period of record. Hydraulic modelling used to extended rating to 3.1m stage, fits gaugings well. FLOW RECORD: Good record since the late 1970s. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: A responsive catchment. Negligible net impact of artificial influences (cress beds in headwaters and very minor amount of spray irrigation. Natural to within 10% at Q95.
+CATCHMENT,Predominantly rural catchment of meadows, woodland and heath underlain by Tertiary sands, gravels and clays (mainly impervious in the lower catchment). The catchment includes numerous small and medium sized towns in the area between Southampton & Salisbury. The River Blackwater drains the catchment in a south easterly direction. The river meanders across the floodplain & then below the A3090 dual carriageway.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although rating review has improved confidence, high flows are largely unconfirmed and the only check gauging beyond QMED casts doubt on rating form.
+[END]

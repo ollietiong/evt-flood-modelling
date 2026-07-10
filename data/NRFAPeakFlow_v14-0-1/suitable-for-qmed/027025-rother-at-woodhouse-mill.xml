@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SK4321385749" x="443213" y="385749">
+        <CatchmentCentroid grid="GB" ngr="SK4014473782" x="440144" y="373782"/>
+        <area>351.1</area>
+        <altbar>134.0</altbar>
+        <aspbar>77.0</aspbar>
+        <aspvar>0.16</aspvar>
+        <bfihost>0.494</bfihost>
+        <bfihost19>0.506</bfihost19>
+        <bfihost19scaled>0.507</bfihost19scaled>
+        <dplbar>23.27</dplbar>
+        <dpsbar>69.2</dpsbar>
+        <draindens>1.034</draindens>
+        <farl>0.937</farl>
+        <farl2015>0.9462</farl2015>
+        <fpext>0.0537</fpext>
+        <fpdbar>0.512</fpdbar>
+        <fploc>0.84</fploc>
+        <ihdtmeasting>443200</ihdtmeasting>
+        <ihdtmnorthing>385750</ihdtmnorthing>
+        <ldp>39.49</ldp>
+        <propwet>0.38</propwet>
+        <rmed_1h>10.5</rmed_1h>
+        <rmed_1d>34.4</rmed_1d>
+        <rmed_2d>43.0</rmed_2d>
+        <saar>756.0</saar>
+        <saar4170>760.0</saar4170>
+        <saar9120>782</saar9120>
+        <sprhost>27.97</sprhost>
+        <urbconc1990>0.1033</urbconc1990>
+        <urbext1990>0.1033</urbext1990>
+        <urbloc1990>0.883</urbloc1990>
+        <urbconc2000>0.871</urbconc2000>
+        <urbext2000>0.125</urbext2000>
+        <urbloc2000>0.94</urbloc2000>
+        <urbext2015>0.1488</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SK4321385749" x="443213" y="385749">
+        <c>-0.02535</c>
+        <d1>0.35976</d1>
+        <d2>0.41382</d2>
+        <d3>0.28174</d3>
+        <e>0.29946</e>
+        <f>2.38984</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SK430860" x="443000" y="386000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.353</d1_1_km>
+        <d2_1_km>0.465</d2_1_km>
+        <d3_1_km>0.227</d3_1_km>
+        <e_1_km>0.296</e_1_km>
+        <f_1_km>2.4</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.6, 4.3, 5.4, 7, 8.2, 9.5, 10.6, 12.1, 13.7, 15.5, 17.5, 19.8, 22.5, 25.2, 27.8, 30.5, 33.1, 35.8, 38.1, 40.7, 43</Depths>
+        <Depths duration="0.25">5, 6.2, 7.3, 9.2, 12.2, 14.3, 16.7, 19.2, 22, 25.3, 28.9, 32.9, 37.8, 43.3, 49.2, 54.7, 60.9, 66.9, 73, 78.7, 84.8, 90.7</Depths>
+        <Depths duration="0.5">6.4, 8, 9.5, 12, 15.9, 18.7, 22.1, 25.4, 29.3, 33.7, 38.8, 44.4, 51.2, 58.9, 67.2, 75.3, 84.1, 92.7, 101.8, 110.1, 119.2, 128.2</Depths>
+        <Depths duration="0.75">7.4, 9.2, 10.9, 13.8, 18.3, 21.5, 25.5, 29.3, 33.9, 39.1, 45, 51.6, 59.7, 68.8, 78.6, 88.1, 98.7, 109.2, 119.9, 130, 141, 152</Depths>
+        <Depths duration="1">8.2, 10.1, 12, 15.1, 20, 23.6, 27.9, 32.2, 37.3, 43, 49.7, 56.9, 66, 76, 87, 97.6, 109.4, 121.1, 133.2, 144.5, 156.9, 169.2</Depths>
+        <Depths duration="2">12, 14.2, 16.4, 19.7, 25.1, 29.1, 34, 38.9, 44.8, 51.6, 59.7, 68.3, 78.7, 89.7, 101.3, 112.2, 124.3, 136.3, 148.7, 160.1, 172.7, 185.2</Depths>
+        <Depths duration="4">16.6, 19, 21.5, 25.2, 31.2, 35.7, 41.2, 46.8, 53.9, 62, 71.5, 81.3, 92.7, 104.3, 116.3, 127.5, 139.9, 152.2, 164.7, 176.4, 189.2, 201.8</Depths>
+        <Depths duration="6">19.6, 22.3, 24.9, 28.9, 35.2, 40, 46, 52.2, 59.9, 68.8, 79, 89.3, 101.1, 113, 125.2, 136.7, 149.2, 161.6, 174.3, 186.2, 199.1, 211.8</Depths>
+        <Depths duration="12">25.5, 28.5, 31.4, 35.8, 43, 48.4, 55.2, 62.3, 71.2, 81.2, 92.3, 103.3, 115.6, 127.9, 140.5, 152.2, 165.1, 177.8, 190.8, 202.9, 216, 229</Depths>
+        <Depths duration="18">29.3, 32.5, 35.6, 40.3, 47.9, 53.7, 61, 68.6, 78.1, 88.6, 100.2, 111.5, 124.1, 136.5, 149.3, 161.2, 174.3, 187.2, 200.3, 212.5, 225.8, 238.9</Depths>
+        <Depths duration="24">32.1, 35.4, 38.7, 43.7, 51.7, 57.8, 65.4, 73.3, 83.2, 94, 105.8, 117.3, 130, 142.7, 155.6, 167.6, 180.8, 193.8, 207, 219.3, 232.7, 245.9</Depths>
+        <Depths duration="48">39.6, 43.4, 47.1, 52.7, 61.8, 68.6, 77.1, 85.8, 96.3, 107.6, 119.9, 131.7, 144.8, 157.8, 171.1, 183.4, 196.9, 210.2, 223.6, 236.1, 249.8, 263.2</Depths>
+        <Depths duration="96">49.4, 53.8, 58.2, 64.8, 75.2, 82.9, 92.3, 101.6, 112.5, 124.1, 136.6, 148.7, 162.1, 175.5, 189.2, 201.9, 215.8, 229.4, 243.4, 256.3, 270.3, 284.1</Depths>
+        <Depths duration="192">64.8, 70.4, 75.9, 83.9, 96.3, 105.2, 115.6, 125.6, 136.9, 148.5, 160.9, 172.9, 186.3, 199.9, 213.9, 227, 241.5, 255.8, 270.4, 283.9, 298.6, 313.1</Depths>
+        <Depths duration="240">72, 78, 84, 92.7, 106, 115.5, 126.4, 136.6, 148.1, 159.8, 172.2, 184.1, 197.4, 210.8, 224.8, 237.9, 252.5, 266.9, 281.7, 295.4, 310.4, 325.1</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.6, 4.4, 5.5, 7.2, 8.4, 9.7, 10.8, 12.1, 13.4, 14.8, 16.2, 17.7, 19.5, 21.4, 23.4, 25.6, 27.9, 30.3, 32.4, 34.7, 36.8</Depths>
+        <Depths duration="0.25">4.9, 6.2, 7.4, 9.4, 12.5, 14.7, 17.2, 19.5, 22, 24.8, 27.6, 30.4, 33.8, 37.5, 41.8, 46.1, 51.2, 56.4, 61.8, 66.9, 72.5, 77.8</Depths>
+        <Depths duration="0.5">6.4, 8, 9.7, 12.2, 16.3, 19.2, 22.7, 25.8, 29.3, 33.1, 37, 41, 45.8, 51.1, 57.1, 63.4, 70.6, 78.2, 86.2, 93.6, 101.8, 109.8</Depths>
+        <Depths duration="0.75">7.3, 9.2, 11.1, 14.1, 18.8, 22, 26.1, 29.7, 33.9, 38.3, 43, 47.7, 53.4, 59.7, 66.8, 74.2, 83, 92.1, 101.6, 110.5, 120.4, 130.2</Depths>
+        <Depths duration="1">8.1, 10.1, 12.2, 15.4, 20.5, 24.2, 28.6, 32.7, 37.3, 42.2, 47.4, 52.6, 59, 65.9, 73.9, 82.2, 91.9, 102.1, 112.8, 122.8, 134, 145</Depths>
+        <Depths duration="2">12.1, 14.4, 16.8, 20.3, 25.9, 30, 34.7, 39.2, 44.3, 49.7, 55.7, 61.8, 69.3, 77.6, 87, 96.3, 107, 117.8, 128.9, 139.3, 150.8, 162.1</Depths>
+        <Depths duration="4">16.9, 19.5, 22.1, 26.1, 32.2, 36.7, 41.9, 46.9, 52.8, 59.1, 66.2, 73.7, 82.8, 92.6, 103.2, 113.5, 124.9, 136.3, 147.8, 158.6, 170.5, 182.1</Depths>
+        <Depths duration="6">20, 22.8, 25.6, 29.8, 36.4, 41.1, 46.7, 52.2, 58.6, 65.7, 73.7, 82.1, 92.2, 102.9, 114.2, 124.9, 136.7, 148.3, 160.2, 171.3, 183.4, 195.3</Depths>
+        <Depths duration="12">25.7, 28.8, 32, 36.7, 44.1, 49.5, 56, 62.4, 70.2, 78.9, 88.9, 98.9, 110.6, 122.4, 134.5, 145.9, 158.3, 170.6, 183, 194.5, 207.1, 219.4</Depths>
+        <Depths duration="18">29.1, 32.5, 35.9, 41, 48.9, 54.8, 61.9, 69.1, 77.8, 87.5, 98.5, 109.3, 121.6, 134, 146.6, 158.3, 171.1, 183.7, 196.4, 208.2, 221, 233.6</Depths>
+        <Depths duration="24">31.6, 35.2, 38.8, 44.1, 52.5, 58.7, 66.3, 74, 83.4, 93.7, 105.2, 116.5, 129.2, 141.8, 154.7, 166.7, 179.8, 192.6, 205.5, 217.5, 230.5, 243.2</Depths>
+        <Depths duration="48">38.4, 42.5, 46.6, 52.7, 62.3, 69.4, 78, 86.7, 97.1, 108.3, 120.6, 132.6, 145.9, 159.2, 172.8, 185.3, 198.9, 212.2, 225.5, 237.9, 251.3, 264.5</Depths>
+        <Depths duration="96">48, 52.9, 57.8, 64.9, 76, 84, 93.4, 102.5, 113, 124.1, 136.2, 147.9, 161.3, 174.7, 188.6, 201.5, 215.5, 229.3, 243.2, 256.1, 270.1, 283.7</Depths>
+        <Depths duration="192">64.6, 71, 77.1, 86.1, 99.7, 109.1, 119.8, 129.7, 140.6, 151.5, 162.8, 173.6, 185.6, 197.9, 210.6, 222.7, 236.4, 250, 264, 277, 291.4, 305.5</Depths>
+        <Depths duration="240">72.6, 79.6, 86.4, 96.3, 111.2, 121.5, 133, 143.6, 155.1, 166.4, 178, 188.9, 200.8, 212.8, 225.2, 236.9, 250, 263, 276.5, 289.1, 303.1, 316.9</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Woodhouse Mill" name="Rother" number="27025">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station with cableway. Catchment includes former opencast mine Rother Valley Country Park.</Comment>
+            <Comment type="Hydrometric">Large trapezoidal channel with partial control from Orgreave weir 1.2 km downstream. No by-passing but flow is affected by upstream regulator and washland storage scheme, operation of the regulator holds water back during large flood events. Some variability in the rating at low flows, possibly due to seasonal weedgrowth. Channel also affected by modifications from opencast mine remediation and subsidence. Some evidence for lag/drawdown in stilling well in large flood events. Rated by gaugings, two ratings applied across period of record, latest applies from January 1974, although Orgreave weir was breached in June 1973 and repairs not completed until October 1974. Rating based on multipoint current meter gaugings and more recently with ADCP measurements. Flood Studies Report grade B assumed in 1975, now A1 to 2m, A2 to 3m and B above.</Comment>
+            <Comment type="General">Velocity area station (15m wide) in trapezoidal channel with current meter cableway. Gauge is downstream of a washland storage scheme and catchment has been significantly impacted by opencast mining.</Comment>
+            <Comment type="Flow record">Chart records from May 1959 and flow records from October 1961. Sequences of identical low flows in the 1960s (but realistic). Control breached June 1973, repaired October 1974 but PTR found to be faulty and daily flow records not considered reliable until January 1976. Records from 01/1974 reprocessed (1977), earlier records are less reliable. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10).</Comment>
+            <Comment type="Flow regime">Rother Valley Country Park mined by opencast methods, 1976-1981 but restored to become large controlled washlands in 1988. The washlands upstream of Woodhouse Mill are controlled by two in-line river regulators, which results in occasional distortion of the natural hydrograph. These structures have been operated several times during floods (including 2000, 2007, 2012 and 2019) and have a very significant effect on peak flows in the Rother. Abstractions and storage in reservoirs of northeast Derbyshire, Chesterfield, Bolsover and Clowne. Imports from the Derwent Valley reservoirs to Linacre reservoir. Abstractions to water supply from Ogston reservoir. Borehole abstractions made to Crowhole reservoir.</Comment>
+            <Comment type="Catchment">Catchment draining the moors and fertile farming valleys southwest of Sheffield. Mixed geology, principally Middle and Lower Coal Measures, with overlying Permian sands, marls and Magnesian Limestone are found down the eastern watershed. Land use: moorland headwaters, mixed farming and heavily urbanised valleys. Extensive urban development of Chesterfield over period of record.</Comment>
+            <Comment type="Factors affecting runoff">SRPGEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged well beyond QMED with good fit to gaugings. Regulators only operated at much higher flows so no impact on QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged to within 15% of AMAX3 (Nov 2000) with good fit to rating, flow remains in bank and extrapolation is considered good. However gauged flows are significantly impacted by the operation of the washland regulators upstream and are not a true reflection of the catchment response, so not considered suitable for pooling." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.95</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 14002
+[END]
+[CDS DETAILS]
+NAME,Dighty Water
+LOCATION,Balmossie Mill
+NOMINAL AREA,  127.62
+NOMINAL NGR,3476,7325
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,347650,732500
+DTM AREA,  127.62
+ALTBAR, 147
+ASPBAR,155
+ASPVAR,0.33
+BFIHOST,0.573
+DPLBAR, 13.95
+DPSBAR, 62.3
+FARL,0.980
+LDP, 26.25
+PROPWET,0.40
+RMED-1H,  8.2
+RMED-1D, 36.0
+RMED-2D, 46.2
+SAAR, 797
+SAAR4170, 833
+SPRHOST,41.08
+URBCONC1990, 0.864
+URBEXT1990,0.0261
+URBLOC1990, 0.663
+URBCONC2000, 0.934
+URBEXT2000,0.0662
+URBLOC2000, 0.539
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a predominantly low-lying catchment. GENERAL: Velocity Area station 9m wide. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: Cableway removed 1999. Summer weed growth necessitates frequent revisions to the stage-discharge relationship. High flow gaugings up to 29.4 cumecs. Potential backing up from bridge at extreme high flows. All flows contained. Multiple peak flow ratings across period of record. FLOW RECORD: Peak flows held from 2008 pending consolidation of earlier ratings. FLOW REGIME: Very flashy.
+CATCHMENT,Gently sloping and low-lying catchment except for the far N and W edges which drain S flank of Sidlaw Hills (up to 450m). Bedrock predominantly Devonian S'st, mostly overlain by superficial deposits. Lower part of catchment urban (Dundee), the rest mainly arable, with grassland and some forest.
+Qmed Suitability,Rating supported by gaugings to QMED, all flows contained.
+Pooling Suitability,Possible backing up at extreme high flows, therefore further work required to be confident of flows greater than QMED.
+[END]

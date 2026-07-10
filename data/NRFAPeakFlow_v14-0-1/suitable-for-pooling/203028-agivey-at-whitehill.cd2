@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+203028
+[END]
+[CDS DETAILS]
+NAME,Agivey
+LOCATION,Whitehill
+NOMINAL AREA,  100.42
+NOMINAL NGR,2883,4193
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,288350,419400
+DTM AREA,  100.42
+ALTBAR, 179
+ASPBAR, 51
+ASPVAR,0.33
+BFIHOST,0.404
+DPLBAR, 15.61
+DPSBAR, 59.5
+FARL,0.999
+LDP, 27.37
+PROPWET,0.61
+RMED-1H,  8.2
+RMED-1D, 35.4
+RMED-2D, 49.1
+SAAR,1270
+SAAR4170,1277
+SPRHOST,41.80
+URBCONC1990,-9999.000
+URBEXT1990,0.0139
+URBLOC1990, 0.582
+URBEXT2000,0.0033
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station with cableway opened in November 1972 as part of the original core network in Northern Ireland. Flow regime impacted since 2014 by two hydro-electric power schemes upstream. GENERAL: Velocity-area station with cableway. Masonry hut housing stilling well and cableway winch situated on right bank. Main and backup instruments present both using shaft encoders with float & weight. Channel width c.14m at station. STATION HYDROMETRY: Ratings derived from current meter gaugings from cableway. Ratings considered stable. Out of bank at flows below QMED. Simple extrapolation occurs above maximum gauged level of 2.244m. FLOW RECORD: Highest flow recorded in October 1987. Flows from 1975 onwards reprocessed in 2002. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12). FLOW REGIME: Low to medium flows impacted since June 2014 by two hydro-electric power schemes upstream of station, the closest of which has its return point 20m from station. However given operational constraints of hydro-electric power in high flows, peak flow data remain unaffected.
+CATCHMENT,Significant proportion of upland, predominantly grassland or heath and coniferous woodland. No urban areas or major industry. Solid geology - the area is mostly underlain by Palaeogene basalt lava flows. Generally impermeable Dalradian occurs in the south. Drift geology - upstream, drumlinised glacial till with restricted lacustrine and river alluvium and areas of peat. Downstream the area of glacio-lacustrine alluvium become much more extensive.
+Qmed Suitability,Maximum gauged flow is greater than QMED (1.012 ratio), the station is contained at QMED.
+Pooling Suitability,Out of bank flows are restrictict to a narrow floodplain. Flood peak data deemed suitable for pooling.
+[END]

@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 28007
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Shardlow
+NOMINAL AREA, 4395.43
+NOMINAL NGR,4448,3299
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444800,330000
+DTM AREA, 4395.43
+ALTBAR, 136
+ASPBAR,140
+ASPVAR,0.07
+BFIHOST,0.518
+DPLBAR, 86.14
+DPSBAR, 46.1
+FARL,0.954
+LDP,132.23
+PROPWET,0.32
+RMED-1H, 10.5
+RMED-1D, 32.2
+RMED-2D, 40.0
+SAAR, 751
+SAAR4170, 761
+SPRHOST,33.82
+URBCONC1990, 0.810
+URBEXT1990,0.0872
+URBLOC1990, 1.163
+URBCONC2000, 0.905
+URBEXT2000,0.1176
+URBLOC2000, 1.174
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Sidelooker horizontal ADCP, using index velocity method to derive flows from 15/02/2008 onwards. Velocity Index gauge replaced multipath cross-configuration Ultrasonic Time of Flight gauge in 1991. Prior to 1991, gauge had a non-operational velocity-area rating which was not suitable to process flow due to being subject to variable backwater influence of the River Derwent and weed growth. GENERAL: Index-Velocity station in the navigable Trent. Main channel approximately 45m wide. Gauged using ADCP boat. Station re-opened in the peak flows dataset in September 2022 (WINFAP Files v11). STATION HYDROMETRY: Originally a VA station but prone to error due to variable backwaters. Multipath cross-configuration Ultrasonic Time of Flight station installed 1991. Four major flood relief culverts on right bank and one major culvert on left bank. Velocity Index station since 2008 has been fully calibrated to highest flood flows which includes all bypass flow in a two wage index velocity equation and can be used with confidence across the full flow range from this date onwards. Original TOF gauge (1991 to 2008) did not record out of bank flows accurately as large areas of unmeasured bypass flow. Given the low frequency of such flow during the TOF gauged record an attempt was made to estimate flow at flows above bankfull. Flows are considered accurate based on extrapolation of recent high flow bypass gaugings. Early high flow current meter gaugings appear inaccurate compared to ADCP flood gaugings. FLOW RECORD: Chart record commences 01/01/1955 with a complete record. Digital record commences 31/12/1982. Station could reliably be used for level only POT from 1955 to 1991, hence POT flow record commences 1991. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Very substantial flow modifications owing to imports, WRW, cooling water and industrial usage. Reservoir(s) in catchment affect runoff. Regulation from surface water and/or ground water. Runoff reduced by public water supply abstraction and increased by effluent returns. Runoff influenced by groundwater abstraction/recharge.
+CATCHMENT,Large catchment which contains much of Birmingham City. The Trent headwaters have small outcrops of Coal Measures whilst the Dove catchment is dominated by Millstone Grit and Carboniferous Limestone. Approx 25% of the catchment is overlain by Boulder Clay, 10% valley gravels, terraces and alluvium. Drift free areas are largely Keuper Marl and sandstone. Diverse land use from moorland to industrial.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

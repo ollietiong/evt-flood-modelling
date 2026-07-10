@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="TQ51784059" x="551780" y="140590">
+        <CatchmentCentroid grid="GB" ngr="TQ4768735186" x="547687" y="135186"/>
+        <area>252.075</area>
+        <altbar>109.0</altbar>
+        <aspbar>32.0</aspbar>
+        <aspvar>0.06</aspvar>
+        <bfihost>0.441</bfihost>
+        <bfihost19>0.407</bfihost19>
+        <bfihost19scaled>0.402</bfihost19scaled>
+        <dplbar>15.15</dplbar>
+        <dpsbar>82.5</dpsbar>
+        <draindens>1.224</draindens>
+        <farl>0.937</farl>
+        <farl2015>0.9503</farl2015>
+        <fpext>0.0429</fpext>
+        <fpdbar>0.492</fpdbar>
+        <fploc>0.72</fploc>
+        <ihdtmeasting>551750</ihdtmeasting>
+        <ihdtmnorthing>140600</ihdtmnorthing>
+        <ldp>30.14</ldp>
+        <propwet>0.35</propwet>
+        <rmed_1h>11.7</rmed_1h>
+        <rmed_1d>34.8</rmed_1d>
+        <rmed_2d>47.2</rmed_2d>
+        <saar>831.0</saar>
+        <saar4170>852.0</saar4170>
+        <saar9120>894</saar9120>
+        <sprhost>42.34</sprhost>
+        <urbconc1990>0.601</urbconc1990>
+        <urbext1990>0.02</urbext1990>
+        <urbloc1990>1.224</urbloc1990>
+        <urbconc2000>0.827</urbconc2000>
+        <urbext2000>0.0397</urbext2000>
+        <urbloc2000>1.212</urbloc2000>
+        <urbext2015>0.046</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="TQ51784059" x="551780" y="140590">
+        <c>-0.02508</c>
+        <d1>0.34699</d1>
+        <d2>0.36122</d2>
+        <d3>0.35505</d3>
+        <e>0.3139</e>
+        <f>2.49474</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="TQ520410" x="552000" y="141000">
+        <c_1_km>-0.025</c_1_km>
+        <d1_1_km>0.339</d1_1_km>
+        <d2_1_km>0.389</d2_1_km>
+        <d3_1_km>0.338</d3_1_km>
+        <e_1_km>0.316</e_1_km>
+        <f_1_km>2.456</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.7, 4.5, 5.8, 7.7, 9.1, 10.6, 11.9, 13.3, 14.6, 16.1, 17.5, 19.1, 20.8, 22.9, 25, 27.6, 30.5, 33.5, 36.3, 39.4, 42.2</Depths>
+        <Depths duration="0.25">5, 6.4, 7.9, 10.1, 13.6, 16.1, 18.9, 21.6, 24.3, 27.2, 30.3, 33.3, 36.9, 40.7, 45.1, 49.9, 55.8, 62.3, 69.3, 75.9, 83.3, 90.5</Depths>
+        <Depths duration="0.5">6.6, 8.4, 10.3, 13.3, 17.9, 21.2, 25.1, 28.7, 32.6, 36.6, 41.1, 45.3, 50.3, 55.9, 62.2, 69.1, 77.7, 86.9, 97.2, 106.9, 117.9, 128.6</Depths>
+        <Depths duration="0.75">7.6, 9.7, 11.8, 15.2, 20.6, 24.4, 29, 33.3, 37.8, 42.6, 47.8, 52.9, 58.8, 65.4, 72.9, 81.2, 91.3, 102.5, 114.8, 126.5, 139.7, 152.7</Depths>
+        <Depths duration="1">8.4, 10.7, 13.1, 16.8, 22.7, 26.9, 31.9, 36.6, 41.8, 47.1, 52.8, 58.4, 65.1, 72.4, 80.8, 89.9, 101.3, 113.8, 127.5, 140.6, 155.3, 169.9</Depths>
+        <Depths duration="2">12.6, 15.3, 18, 22.1, 28.5, 33, 38.3, 43.3, 48.9, 54.7, 61, 67.3, 75, 83.7, 93.8, 104.6, 117.5, 131.1, 145.4, 158.9, 173.9, 188.7</Depths>
+        <Depths duration="4">17.3, 20.3, 23.3, 27.7, 34.7, 39.6, 45.3, 50.7, 56.9, 63.4, 70.6, 78, 87.3, 97.8, 109.9, 122.3, 136.4, 150.7, 165.5, 179.3, 194.6, 209.6</Depths>
+        <Depths duration="6">20.2, 23.4, 26.5, 31.2, 38.5, 43.7, 49.7, 55.4, 62, 69.1, 77.1, 85.5, 96, 107.7, 120.9, 134, 148.7, 163.4, 178.5, 192.5, 207.9, 223.1</Depths>
+        <Depths duration="12">25.5, 29, 32.5, 37.6, 45.5, 51.2, 57.9, 64.5, 72.2, 80.8, 90.8, 101.4, 114.4, 128.2, 142.9, 156.9, 172.3, 187.6, 203.2, 217.8, 233.6, 249.2</Depths>
+        <Depths duration="18">29.1, 32.8, 36.4, 41.9, 50.3, 56.4, 63.7, 71, 79.8, 89.7, 101.2, 113.3, 127.7, 142.4, 157.8, 172.2, 188, 203.7, 219.7, 234.5, 250.6, 266.5</Depths>
+        <Depths duration="24">32, 35.9, 39.7, 45.4, 54.2, 60.7, 68.6, 76.5, 86.2, 97.2, 110, 123.1, 138.2, 153.5, 169.3, 184, 200.2, 216.1, 232.4, 247.4, 263.8, 279.8</Depths>
+        <Depths duration="48">41.4, 45.8, 50.1, 56.5, 66.6, 74.2, 83.7, 93.6, 106, 119.8, 135.2, 150.1, 166.7, 183.2, 199.9, 215.4, 232.3, 248.9, 265.8, 281.4, 298.4, 315.1</Depths>
+        <Depths duration="96">56.6, 61.6, 66.5, 73.8, 85.3, 94, 104.9, 116.4, 130.7, 146.3, 163.3, 179.5, 197.3, 214.8, 232.4, 248.7, 266.5, 283.8, 301.4, 317.6, 335.3, 352.5</Depths>
+        <Depths duration="192">82.5, 88.3, 93.8, 102, 114.4, 123.4, 134.2, 145.3, 158.9, 174, 190.9, 207.5, 225.9, 244.2, 262.6, 279.6, 298.1, 316.1, 334.4, 351.2, 369.4, 387.3</Depths>
+        <Depths duration="240">94.6, 100.6, 106.4, 114.8, 127.5, 136.4, 147, 157.4, 170, 184, 199.9, 215.9, 234.2, 252.5, 271.1, 288.3, 306.9, 325.1, 343.5, 360.5, 378.9, 396.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.7, 4.5, 5.8, 7.7, 9, 10.4, 11.7, 13, 14.2, 15.6, 16.8, 18.2, 19.6, 21.2, 22.8, 24.7, 26.9, 29.2, 31.5, 34.1, 36.6</Depths>
+        <Depths duration="0.25">5, 6.3, 7.8, 10.1, 13.5, 15.9, 18.6, 21.2, 23.8, 26.5, 29.3, 32, 35.1, 38.2, 41.8, 45.5, 49.9, 54.9, 60.4, 65.9, 72.2, 78.3</Depths>
+        <Depths duration="0.5">6.6, 8.3, 10.2, 13.2, 17.8, 21, 24.7, 28.2, 31.8, 35.6, 39.7, 43.5, 47.8, 52.5, 57.6, 63, 69.5, 76.6, 84.7, 92.8, 102.2, 111.4</Depths>
+        <Depths duration="0.75">7.6, 9.6, 11.7, 15.1, 20.4, 24.1, 28.5, 32.6, 36.9, 41.4, 46.2, 50.8, 55.9, 61.4, 67.5, 73.9, 81.7, 90.3, 100.1, 109.9, 121, 132.2</Depths>
+        <Depths duration="1">8.4, 10.6, 13, 16.7, 22.5, 26.6, 31.4, 35.9, 40.8, 45.8, 51, 56.1, 61.9, 68, 74.8, 81.9, 90.6, 100.3, 111.2, 122.1, 134.6, 147.1</Depths>
+        <Depths duration="2">12.8, 15.5, 18.3, 22.4, 28.8, 33.3, 38.5, 43.3, 48.6, 54, 59.8, 65.4, 71.9, 79, 87.2, 95.7, 106.1, 117.3, 129.6, 141.3, 154.4, 167.3</Depths>
+        <Depths duration="4">17.8, 20.9, 24, 28.6, 35.6, 40.6, 46.2, 51.5, 57.3, 63.4, 69.9, 76.5, 84.4, 93.2, 103.4, 113.9, 126.3, 139.2, 152.5, 164.9, 178.5, 192</Depths>
+        <Depths duration="6">20.8, 24.1, 27.4, 32.3, 39.7, 44.9, 50.9, 56.5, 62.8, 69.4, 76.7, 84.2, 93.4, 103.8, 115.5, 127.3, 140.7, 154.3, 168.2, 181, 195.1, 208.9</Depths>
+        <Depths duration="12">26, 29.7, 33.3, 38.6, 46.8, 52.5, 59.2, 65.7, 73.2, 81.4, 91, 101.1, 113.6, 126.9, 141, 154.3, 169, 183.4, 198.2, 211.8, 226.7, 241.2</Depths>
+        <Depths duration="18">29.4, 33.2, 37.1, 42.7, 51.3, 57.5, 64.7, 71.9, 80.6, 90.3, 101.8, 113.9, 128.1, 142.7, 157.8, 171.8, 187.1, 202, 217.2, 231.3, 246.6, 261.5</Depths>
+        <Depths duration="24">32.1, 36.1, 40.1, 45.9, 54.9, 61.4, 69.1, 76.9, 86.6, 97.6, 110.6, 123.9, 139.3, 154.6, 170.1, 184.6, 200.2, 215.5, 231, 245.4, 260.9, 276.1</Depths>
+        <Depths duration="48">40.8, 45.3, 49.8, 56.3, 66.3, 73.6, 82.6, 91.9, 103.9, 117.9, 133.9, 149.4, 166.5, 183.1, 199.8, 215.1, 231.7, 248, 264.3, 279.3, 295.5, 311.2</Depths>
+        <Depths duration="96">55.6, 60.8, 65.8, 73.1, 84.3, 92.4, 102.3, 112.6, 125.7, 141.1, 158.5, 175.2, 193.4, 211.1, 228.9, 245.1, 262.5, 279.5, 296.6, 312.2, 329.1, 345.5</Depths>
+        <Depths duration="192">82.3, 88.4, 94.3, 102.7, 115.2, 124, 134.3, 144.5, 157.1, 171.3, 187.9, 204.8, 223.9, 242.5, 261.2, 278.2, 296.5, 314.2, 332, 348.2, 365.8, 382.9</Depths>
+        <Depths duration="240">95.1, 101.6, 107.8, 116.7, 129.7, 138.7, 149.1, 159.2, 171.4, 184.8, 200.5, 216.9, 235.8, 254.6, 273.5, 290.8, 309.4, 327.4, 345.5, 362, 379.8, 397.2</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Chafford / Colliers Land Bridge" name="Medway" number="40007">
+        <Comments>
+            <Comment type="Station Summary">Combined flow series from two separate stations Chafford (low flows) and Colliers Land Bridge (high flows). Gauging a mixed geology catchment with responsive regime despite significant baseflow.</Comment>
+            <Comment type="Hydrometric">As of Feb-2012 flow measurement methodology at Colliers Land Bridge has changed significantly. The site is now a full range station with time ultrasonics used to 3.4m with velocity area method above this. Channel subject to erosion. In major historical events (1960, 2000) bypassing over Spring Hill road has covered full width of grass floodplain.</Comment>
+            <Comment type="General">Combination of low flows from Chafford (humped trapezoidal flume) and high flows from Colliers Land Bridge (Ultrasonic and velocity-area station). Located ~3km upstream of the confluence with River Eden at Penshurst and ~9km upstream of the Leigh flood barrier.</Comment>
+            <Comment type="Flow record">The flows for the 1968 and 2000 events show flat topping, due to the exceedance of the stilling well. The modelled upper limb of the rating underestimates flows based on the flow through the Leigh barrier during the 2000 event. Dropouts in the daily flow in July 2019 and September were confirmed as true by EA - due to sluice movements. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow regime">Quite a responsive regime despite significant baseflow - locally important aquifers feed the numerous springs which provide the baseflow for the headwaters. Catchment includes Weir Wood Reservoir, which provides compensation flows. Small net export of water. Sluices upstream can influence levels. Runoff increased by effluent returns. Leigh Barrier constructed downstream 1981, consists of a flood storage reservoir capable of retaining up to 5.58 million cubic metres of water &amp; is the largest 'online' flood storage reservoir of its kind in the UK. Colliers Land Bridge is used as one of the main flood warning stations for input to the Leigh Barrier. Bewl Water reservoir constructed in 1975.</Comment>
+            <Comment type="Catchment">The Medway originates as a spring just above Turners Hill (West Sussex) and flows in a northeasterly direction to Colliers Land Bridge. Geology is mixed but mainly Ashdown Sands and Wadhurst Clay. Also Upper Tunbridge Wells Sand, Grinstead clay and Lower Tunbridge Wells Sands. One-third of the catchment is naturally impervious, two-thirds permeable. The Medway drains from Ashdown Forest and the catchment is predominantly rural in character, apart from East Grinstead, Forest Row and Crowborough which occupy approximately 3% of the catchment area.</Comment>
+            <Comment type="Factors affecting runoff">SE</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3. Gaugings confirm high flow rating." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-0.05</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+  7009
+[END]
+[CDS DETAILS]
+NAME,Mosset Burn
+LOCATION,Wardend Bridge
+NOMINAL AREA,   28.30
+NOMINAL NGR,3039,8558
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,303950,855850
+DTM AREA,   28.30
+ALTBAR, 192
+ASPBAR,332
+ASPVAR,0.54
+BFIHOST,0.606
+DPLBAR,  8.03
+DPSBAR, 61.3
+FARL,0.998
+LDP, 13.40
+PROPWET,0.42
+RMED-1H,  9.2
+RMED-1D, 37.7
+RMED-2D, 48.8
+SAAR, 803
+SAAR4170, 850
+SPRHOST,33.74
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station providing flood warning for Forres. GENERAL: Velocity area station used as flood warning station for the town of Forres (3 km d/s); Mosset Burn lies between Findhorn and Lossie and enters the sea at Findhorn Bay. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: The section has a flat weir in good condition and vertical concrete banks and is gauged and rated as a velocity area station, and no weir equation exists. The weir is insensitive and so not conducive to accurate low flow estimation. High flows are gauged from the bridge where station is located. High flow estimation has been improved following the installation of a fixed acoustic instrument (Sontek IQ+) between 2019 and 2021, which measured flood events in this period and informed the revision of the rating. The revised rating (13.1) has been applied through the period of record. FLOW REGIME: Abstractions for spray irrigation can influence flows.
+CATCHMENT,Small, compact, low-lying catchment. Mostly impermeable bedrock, with complete cover of superficial deposits (half permeable). Sparsely populated. Land use is primarily forest a little open moorland.
+Qmed Suitability,Rating well supported by gaugings to QMED. All flows contained.
+Pooling Suitability,The rating is informed by fixed acoustic measurements that captured flood events over a two year period. A weir and vertical concrete banks are also conducive to good flood estimation.
+[END]

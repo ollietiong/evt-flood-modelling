@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39049
+[END]
+[CDS DETAILS]
+NAME,Silk Stream
+LOCATION,Colindeep Lane
+NOMINAL AREA,   31.07
+NOMINAL NGR,5217,1895
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,521750,189500
+CENTROID NGR,GB,519554,192305
+DTM AREA,   31.07
+ALTBAR,  79
+ASPBAR,171
+ASPVAR,0.37
+BFIHOST,0.182
+DPLBAR,  5.33
+DPSBAR, 40.1
+FARL,0.972
+FPEXT,0.0848
+LDP, 10.10
+PROPWET,0.29
+RMED-1H, 10.7
+RMED-1D, 32.5
+RMED-2D, 42.2
+SAAR, 685
+SAAR4170, 699
+SPRHOST,50.29
+URBCONC1990, 0.863
+URBEXT1990,0.3060
+URBLOC1990, 0.800
+URBCONC2000, 0.929
+URBEXT2000,0.4020
+URBLOC2000, 0.806
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station is located on the Silk Stream, a small tributary of the River Brent. A Flat V weir but used as a rated section. The station is used in a number of national studies of urban and suburban runoff response. GENERAL: A Flat V weir but used as a rated section in a channel 8.5m wide. Used for both Water Resourse and Flood Incident management. Only flow gauging station on the Silk Stream and situated downstream of confluences with Edgware Brook and Deans Brook. Current weir used since November 1973, replacing earlier stations dating back to 1928. STATION HYDROMETRY: Weir in concrete section is the control at low/medium flows. A downstream bridge acts as a control in high flows (1.3m gauge height) and will cause the weir to drown. Tail recorder data shows that the modular limit is variable but generally occurs at stages between 0.4 and 0.5m. Debris in the channel can influence the hydrometric performance and siltation between the weir and downstream bridge is also a problem. Significant upstream deposition can occur and this can also alter the performance of the weir. The structure is operated as a rated section with 2 limbs. The lower limb is based on the theoretical rating for a Flat V weir, gaugings suggest there is a tendency to overestimate flows. The upper limb, which covers the non-modular range, was derived from very limited gaugings because access is difficult at high flows, and confidence remains low. One peak flow rating across period of record. FLOW RECORD: Some bypassing occurs during floods (July 2007 flood exceeded the calibration limit and peak flow may be underestimated). Patchy flow record prior to 1981. Daily flow data from 1975-1978 estimated using modelling and should be treated with caution. Poorer quality pre-1973 data available for two earlier stations on the river (built in 1928 and 1944); significant river improvements undertaken in the 1950s. Manual adjustment of AMAX flows on 21-Oct-1987, 08-Jul-1989, 03-Feb-1990 and 23-Sep-1992 when levels exceeded bank full, using Costons Lane (39131) as an indicator of a more reliable flow. Levels are known to surcharge against the downstream road bridge which acts as a control at 1.7m height. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Responsive regime. Net impact of abstractions and discharges uncertain; artificial influences evident at low flows.
+CATCHMENT,Catchment is largely London Clay with a little Drift cover. Rural/suburban headwaters and is heavily urbanised downstream. Responsive regime.
+Qmed Suitability,Gauged approaching QMED.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED.
+[END]

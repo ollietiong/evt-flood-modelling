@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SW7684152883" x="176841" y="52883">
+        <CatchmentCentroid grid="GB" ngr="SW7850251383" x="178502" y="51383"/>
+        <area>16.08</area>
+        <altbar>73.0</altbar>
+        <aspbar>309.0</aspbar>
+        <aspvar>0.12</aspvar>
+        <bfihost>0.627</bfihost>
+        <bfihost19>0.562</bfihost19>
+        <bfihost19scaled>0.562</bfihost19scaled>
+        <dplbar>3.72</dplbar>
+        <dpsbar>81.4</dpsbar>
+        <draindens>1.166</draindens>
+        <farl>0.991</farl>
+        <farl2015>1.0</farl2015>
+        <fpext>0.0229</fpext>
+        <fpdbar>0.222</fpdbar>
+        <fploc>0.747</fploc>
+        <ihdtmeasting>176850</ihdtmeasting>
+        <ihdtmnorthing>52900</ihdtmnorthing>
+        <ldp>6.99</ldp>
+        <propwet>0.42</propwet>
+        <rmed_1h>10.9</rmed_1h>
+        <rmed_1d>35.2</rmed_1d>
+        <rmed_2d>48.5</rmed_2d>
+        <saar>1044.0</saar>
+        <saar4170>1068.0</saar4170>
+        <saar9120>1073</saar9120>
+        <sprhost>31.92</sprhost>
+        <urbconc1990>0.606</urbconc1990>
+        <urbext1990>0.0084</urbext1990>
+        <urbloc1990>0.719</urbloc1990>
+        <urbconc2000>0.686</urbconc2000>
+        <urbext2000>0.006</urbext2000>
+        <urbloc2000>0.711</urbloc2000>
+        <urbext2015>0.0149</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SW7684152883" x="176841" y="52883">
+        <c>-0.02949</c>
+        <d1>0.41977</d1>
+        <d2>0.36987</d2>
+        <d3>0.35874</d3>
+        <e>0.2889</e>
+        <f>2.42992</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SW770530" x="177000" y="53000">
+        <c_1_km>-0.028</c_1_km>
+        <d1_1_km>0.425</d1_1_km>
+        <d2_1_km>0.361</d2_1_km>
+        <d3_1_km>0.364</d3_1_km>
+        <e_1_km>0.287</e_1_km>
+        <f_1_km>2.386</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3, 3.6, 4.2, 5.4, 6.9, 8, 9.3, 10.4, 11.9, 13.4, 15.1, 17, 19.4, 21.9, 24.4, 26.9, 29.5, 31.9, 34.5, 36.6, 38.8, 41.1</Depths>
+        <Depths duration="0.25">5.1, 6.4, 7.6, 9.4, 12.4, 14.6, 17.2, 19.5, 22.5, 25.6, 29.2, 33.3, 38.4, 43.7, 49.6, 55.1, 61.2, 67.1, 73.1, 78.5, 84.4, 90.1</Depths>
+        <Depths duration="0.5">6.8, 8.5, 10.1, 12.6, 16.7, 19.7, 23.3, 26.7, 30.8, 35.3, 40.7, 46.5, 53.8, 61.7, 70.4, 78.5, 87.6, 96.6, 105.8, 114.2, 123.5, 132.5</Depths>
+        <Depths duration="0.75">8, 9.9, 11.8, 14.8, 19.6, 23.1, 27.2, 31.3, 36.3, 41.8, 48.1, 55.3, 64.1, 73.7, 84.2, 94.3, 105.4, 116.5, 127.7, 138.4, 149.9, 161.3</Depths>
+        <Depths duration="1">8.9, 11, 13.1, 16.4, 21.7, 25.6, 30.3, 34.9, 40.5, 46.6, 53.9, 61.8, 71.9, 82.8, 94.7, 106.1, 118.8, 131.4, 144.4, 156.6, 169.9, 183</Depths>
+        <Depths duration="2">13, 15.4, 17.8, 21.5, 27.3, 31.7, 37.1, 42.4, 49.1, 56.7, 65.9, 75.7, 87.4, 99.5, 112.1, 124.1, 137.3, 150.4, 163.8, 176.3, 189.9, 203.5</Depths>
+        <Depths duration="4">17.9, 20.6, 23.3, 27.4, 34.1, 39.1, 45.3, 51.8, 60.1, 69.8, 81.2, 92.6, 105.5, 118.5, 131.9, 144.4, 158.2, 171.8, 185.6, 198.5, 212.5, 226.4</Depths>
+        <Depths duration="6">21.3, 24.1, 27, 31.4, 38.6, 44, 50.9, 58.3, 67.8, 78.9, 91.3, 103.4, 116.9, 130.4, 144.2, 157.1, 171.1, 185, 199.1, 212.1, 226.4, 240.4</Depths>
+        <Depths duration="12">27.6, 30.8, 34.1, 39.1, 47.2, 53.6, 62, 71, 82.7, 95.6, 109.5, 122.6, 137, 151.2, 165.6, 179, 193.6, 208, 222.5, 236, 250.7, 265.1</Depths>
+        <Depths duration="18">31.8, 35.3, 38.8, 44.1, 52.9, 59.9, 69, 79, 91.6, 105.2, 119.8, 133.3, 148.2, 162.7, 177.5, 191.2, 206.2, 220.8, 235.7, 249.4, 264.4, 279.1</Depths>
+        <Depths duration="24">35.1, 38.8, 42.4, 48, 57.3, 64.6, 74.1, 84.5, 97.6, 111.7, 126.5, 140.4, 155.5, 170.4, 185.4, 199.3, 214.4, 229.3, 244.3, 258.3, 273.4, 288.3</Depths>
+        <Depths duration="48">45, 49.2, 53.3, 59.6, 69.7, 77.6, 87.7, 98.3, 111.6, 126, 141.4, 155.9, 171.6, 187.1, 202.6, 217, 232.6, 248, 263.6, 277.9, 293.5, 308.8</Depths>
+        <Depths duration="96">61, 66, 70.9, 77.7, 88.8, 97, 107, 117, 129.2, 142.4, 157, 171.3, 187.3, 203.1, 219.2, 234.1, 250.3, 266.2, 282.3, 297.2, 313.4, 329.2</Depths>
+        <Depths duration="192">90.4, 96.6, 102.6, 111.5, 124.9, 134.3, 144.9, 154.8, 166, 177.6, 190.2, 202.7, 216.7, 230.9, 245.8, 260, 275.7, 291.3, 307.4, 322.5, 338.9, 355.1</Depths>
+        <Depths duration="240">105.5, 112.4, 119.1, 128.9, 143.7, 153.8, 165.1, 175.5, 187.1, 198.9, 211.4, 223.7, 237.5, 251.3, 265.8, 279.4, 294.3, 309, 324.2, 338.4, 354.2, 369.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.6, 4.3, 5.6, 7.3, 8.6, 10, 11.2, 12.6, 14, 15.4, 17, 18.8, 20.7, 22.7, 24.7, 26.9, 29.1, 31.6, 33.6, 35.8, 38</Depths>
+        <Depths duration="0.25">4.9, 6.3, 7.6, 9.8, 13.2, 15.6, 18.5, 21, 23.9, 26.9, 30, 33.3, 37.2, 41.4, 46.1, 50.5, 55.8, 61.3, 66.9, 72.1, 77.9, 83.4</Depths>
+        <Depths duration="0.5">6.5, 8.4, 10.2, 13.1, 17.7, 21.1, 25, 28.7, 32.8, 37, 41.7, 46.4, 52.2, 58.5, 65.4, 72, 80, 88.2, 96.9, 104.9, 114, 122.7</Depths>
+        <Depths duration="0.75">7.7, 9.8, 11.9, 15.3, 20.7, 24.7, 29.3, 33.7, 38.7, 43.8, 49.4, 55.2, 62.1, 69.8, 78.3, 86.4, 96.1, 106.4, 117, 127.2, 138.4, 149.4</Depths>
+        <Depths duration="1">8.5, 10.8, 13.2, 17, 23, 27.4, 32.6, 37.5, 43.1, 48.9, 55.3, 61.7, 69.7, 78.4, 88, 97.3, 108.4, 120, 132.3, 143.9, 156.8, 169.5</Depths>
+        <Depths duration="2">12.9, 15.6, 18.3, 22.5, 29.1, 34, 39.6, 45, 51.2, 57.8, 65.1, 72.8, 82.2, 92.4, 103.5, 114.1, 126.3, 138.8, 151.7, 163.8, 177, 190</Depths>
+        <Depths duration="4">18, 21.1, 24.1, 28.8, 36.1, 41.4, 47.6, 53.7, 60.9, 68.7, 77.7, 87.1, 98.1, 109.8, 122.2, 134.1, 147.3, 160.5, 174, 186.5, 200.1, 213.6</Depths>
+        <Depths duration="6">21.3, 24.6, 27.9, 32.8, 40.5, 46.2, 52.9, 59.5, 67.5, 76.4, 86.4, 96.7, 108.8, 121.5, 134.7, 147.2, 160.9, 174.4, 188.2, 201, 215, 228.7</Depths>
+        <Depths duration="12">27.4, 31.1, 34.7, 40.1, 48.7, 55.1, 62.8, 70.7, 80.3, 91.1, 103.3, 115.5, 129.3, 143.2, 157.4, 170.6, 185.1, 199.2, 213.6, 226.9, 241.3, 255.5</Depths>
+        <Depths duration="18">31.5, 35.3, 39.1, 44.9, 54, 60.8, 69.2, 77.8, 88.5, 100.3, 113.6, 126.6, 141.1, 155.5, 170.2, 183.9, 198.6, 213.1, 227.8, 241.4, 256.2, 270.6</Depths>
+        <Depths duration="24">34.6, 38.6, 42.6, 48.6, 58.1, 65.2, 73.9, 82.9, 94.2, 106.7, 120.5, 133.9, 148.8, 163.6, 178.6, 192.5, 207.5, 222.3, 237.2, 250.9, 265.9, 280.5</Depths>
+        <Depths duration="48">44.5, 49, 53.4, 59.8, 70.1, 77.7, 87, 96.5, 108.3, 121.5, 136, 150, 165.5, 180.9, 196.5, 211, 226.6, 241.8, 257.1, 271.3, 286.7, 301.7</Depths>
+        <Depths duration="96">60.8, 65.8, 70.7, 77.9, 88.8, 96.6, 105.9, 115, 125.8, 137.8, 151.4, 165, 180.6, 196.2, 212.3, 227.1, 243.3, 259, 274.9, 289.5, 305.3, 320.8</Depths>
+        <Depths duration="192">90.7, 96.7, 102.4, 110.6, 122.7, 131, 140.4, 149.1, 158.8, 168.7, 179.5, 190.4, 203.3, 217, 231.9, 246.3, 262.3, 278.3, 294.7, 309.9, 326.3, 342.4</Depths>
+        <Depths duration="240">105.7, 112.1, 118.2, 126.9, 139.7, 148.3, 157.9, 166.7, 176.3, 185.9, 196.1, 206, 217.5, 229.7, 243.1, 256.4, 271.6, 287.1, 303.3, 318.4, 334.9, 351.1</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Bolingey Cocks Bridge" name="Bolingey Stream" number="49005">
+        <Comments>
+            <Comment type="Station Summary">Time of flight ultrasonic gauge installed upstream of road bridge in rectangular channel cross section. Station used to issue flood warnings for Perranporth downstream.</Comment>
+            <Comment type="Hydrometric">Above 0.61m, flows are calculated directly by time of flight Ultrasonic gauge and high flow check gaugings have shown good agreement. Currently gauged up to a level of 0.9m or 3.6m3/s. The bridge downstream is not expected to impact the high flow data. Below 0.61m stage, flows are calculated from a stage discharge relationship built up by spot flow gaugings.</Comment>
+            <Comment type="General">Acoustic Time of Flight installed upstream of road bridge in rectangular channel cross section. Station used to issue flood warnings for Perranporth downstream.</Comment>
+            <Comment type="Flow record">Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11).</Comment>
+            <Comment type="Flow regime">Predominantly rural catchment.</Comment>
+            <Comment type="Catchment">The Bolingey Stream flows from southeast to northwest and around the eastern edge of Perranporth. The Bolingey Stream catchment is longer and wider than the neighbouring Perrancoombe Stream Catchment, although the valley sides are still steep and the floodplain comparatively narrow. There are a number of wells and springs in the upper catchment and a number of small, offline and online, ponds. The solid geology of the catchment is the Ladock/Grampound grit beds of the Devonian period. These beds are composed predominantly of slate with thin beds of sandstone and cherty carbonate layers. The drift geology consists of alluvium along the watercourse with felsite beds. The catchment soils are predominantly well drained fine loam and silt types, with small areas having more slowly permeable sub-soils, with slight seasonal waterlogging. The physical characteristics of the catchment suggest that runoff response to a rainfall event is likely to be rapid, although mine workings may provide some attenuation. No major changes to catchment.</Comment>
+            <Comment type="Factors affecting runoff"/>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauge has been shown to perform well." suitable="Yes" type="QMED"/>
+            <Usage notes="All flows contained to date." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

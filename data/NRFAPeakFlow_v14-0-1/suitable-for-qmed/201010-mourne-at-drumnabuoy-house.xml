@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="Ireland" ngr="IH3477995968" x="234779" y="395968">
+        <CatchmentCentroid grid="Ireland" ngr="IH4153278147" x="241532" y="378147"/>
+        <area>1843.895</area>
+        <altbar>168.0</altbar>
+        <aspbar>167.0</aspbar>
+        <aspvar>0.03</aspvar>
+        <bfihost>0.448</bfihost>
+        <bfihost19>0.366</bfihost19>
+        <bfihost19scaled>0.358</bfihost19scaled>
+        <dplbar>47.44</dplbar>
+        <dpsbar>79.6</dpsbar>
+        <draindens>1.262</draindens>
+        <farl>0.977</farl>
+        <farl2015>0.9801</farl2015>
+        <fpext>0.0787</fpext>
+        <fpdbar>0.891</fpdbar>
+        <fploc>0.994</fploc>
+        <ihdtmeasting>234750</ihdtmeasting>
+        <ihdtmnorthing>395950</ihdtmnorthing>
+        <ldp>78.11</ldp>
+        <propwet>0.62</propwet>
+        <rmed_1h>8.7</rmed_1h>
+        <rmed_1d>35.0</rmed_1d>
+        <rmed_2d>47.0</rmed_2d>
+        <saar>1288.0</saar>
+        <saar4170>1261.0</saar4170>
+        <saar9120>1392</saar9120>
+        <sprhost>38.84</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0121</urbext1990>
+        <urbloc1990>0.816</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.003</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0066</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="Ireland" ngr="IH3477995968" x="234779" y="395968">
+        <c>-0.02472</c>
+        <d1>0.43573</d1>
+        <d2>0.45171</d2>
+        <d3>0.35345</d3>
+        <e>0.27388</e>
+        <f>2.23773</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="Ireland" ngr="IH350960" x="235000" y="396000">
+        <c_1_km>-0.03</c_1_km>
+        <d1_1_km>0.42</d1_1_km>
+        <d2_1_km>0.467</d2_1_km>
+        <d3_1_km>0.316</d3_1_km>
+        <e_1_km>0.289</e_1_km>
+        <f_1_km>2.16</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.3, 2.9, 3.5, 4.4, 5.8, 6.8, 8.1, 9.4, 10.9, 12.6, 14.5, 16.7, 19.3, 22, 24.9, 27.7, 30.8, 33.9, 37, 39.8, 42.9, 46</Depths>
+        <Depths duration="0.25">4.1, 5.1, 6.1, 7.8, 10.5, 12.5, 15, 17.4, 20.4, 23.7, 27.8, 32.1, 37.4, 43.1, 49.4, 55.5, 62.2, 69.1, 76.1, 82.7, 90, 97.2</Depths>
+        <Depths duration="0.5">5.5, 6.9, 8.2, 10.5, 14.1, 17, 20.3, 23.6, 27.7, 32.4, 37.8, 43.8, 51.1, 59, 67.9, 76.2, 85.7, 95.3, 105.2, 114.4, 124.8, 135</Depths>
+        <Depths duration="0.75">6.5, 8.1, 9.6, 12.3, 16.5, 19.8, 23.6, 27.5, 32.2, 37.5, 43.8, 50.6, 59, 68.1, 78.1, 87.6, 98.4, 109.2, 120.2, 130.6, 142.3, 153.7</Depths>
+        <Depths duration="1">7.2, 9, 10.8, 13.7, 18.4, 21.9, 26.2, 30.4, 35.6, 41.5, 48.4, 55.7, 64.8, 74.7, 85.5, 95.8, 107.5, 119.1, 131, 142.2, 154.6, 166.7</Depths>
+        <Depths duration="2">11, 13, 15.1, 18.3, 23.5, 27.3, 32, 36.8, 42.6, 49.2, 56.9, 65.1, 74.9, 85.4, 96.7, 107.4, 119.3, 131.1, 143.3, 154.6, 167.1, 179.4</Depths>
+        <Depths duration="4">15.6, 18, 20.3, 23.9, 29.6, 33.8, 39, 44.3, 50.7, 58, 66.4, 75.1, 85.6, 96.5, 108.2, 119.2, 131.3, 143.3, 155.7, 167.1, 179.7, 192.2</Depths>
+        <Depths duration="6">18.9, 21.4, 24, 27.8, 33.8, 38.3, 43.8, 49.3, 56.2, 63.8, 72.6, 81.6, 92.3, 103.5, 115.3, 126.5, 138.7, 150.9, 163.3, 174.9, 187.6, 200.1</Depths>
+        <Depths duration="12">25.6, 28.5, 31.3, 35.6, 42.3, 47.3, 53.4, 59.5, 67, 75.3, 84.6, 94.2, 105.3, 116.8, 128.9, 140.3, 152.8, 165.2, 177.8, 189.6, 202.5, 215.1</Depths>
+        <Depths duration="18">30.2, 33.3, 36.4, 41, 48.2, 53.6, 60, 66.6, 74.4, 83.1, 92.8, 102.6, 114, 125.8, 138, 149.5, 162.2, 174.7, 187.5, 199.4, 212.3, 225.1</Depths>
+        <Depths duration="24">33.9, 37.2, 40.4, 45.3, 52.9, 58.5, 65.3, 72.1, 80.3, 89.2, 99.2, 109.2, 120.8, 132.7, 145.1, 156.7, 169.6, 182.2, 195, 207, 220.1, 233</Depths>
+        <Depths duration="48">44.4, 48.3, 52.1, 57.8, 66.6, 73, 80.7, 88.2, 97.1, 106.6, 117.2, 127.6, 139.6, 151.9, 164.7, 176.7, 189.8, 202.8, 216, 228.2, 241.6, 254.7</Depths>
+        <Depths duration="96">59.7, 64.5, 69.2, 76, 86.5, 94, 102.7, 111.1, 120.8, 130.9, 141.8, 152.6, 164.9, 177.5, 190.6, 202.9, 216.5, 229.9, 243.5, 256.1, 269.9, 283.4</Depths>
+        <Depths duration="192">86.5, 92.7, 98.8, 107.6, 120.7, 129.9, 140.2, 149.8, 160.4, 171.1, 182.3, 193, 205.2, 217.5, 230.5, 242.8, 256.5, 270.1, 284.1, 297.1, 311.3, 325.4</Depths>
+        <Depths duration="240">99.6, 106.6, 113.3, 123.1, 137.5, 147.5, 158.6, 168.8, 180, 191, 202.5, 213.3, 225.4, 237.7, 250.4, 262.5, 276, 289.4, 303.3, 316.2, 330.4, 344.5</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3, 3.5, 4.3, 5.5, 6.5, 7.7, 8.9, 10.2, 11.7, 13.2, 14.8, 16.5, 18.1, 19.8, 21.5, 23.1, 24.9, 26.6, 28.2, 30, 31.7</Depths>
+        <Depths duration="0.25">4.4, 5.3, 6.2, 7.6, 10.1, 12, 14.2, 16.4, 19.3, 22.1, 25.4, 28.5, 32, 35.6, 39.4, 42.9, 46.8, 50.8, 54.9, 58.6, 62.8, 66.9</Depths>
+        <Depths duration="0.5">5.9, 7.1, 8.3, 10.2, 13.5, 16.2, 19.2, 22.4, 26.1, 30.1, 34.4, 38.9, 43.8, 48.8, 54.1, 59, 64.4, 70, 75.8, 81.1, 87.1, 92.9</Depths>
+        <Depths duration="0.75">6.9, 8.4, 9.7, 12, 15.8, 18.9, 22.3, 26, 30.4, 34.9, 39.9, 44.9, 50.5, 56.3, 62.2, 67.8, 73.9, 80.2, 86.7, 92.6, 99.3, 105.8</Depths>
+        <Depths duration="1">7.7, 9.3, 10.9, 13.4, 17.6, 20.9, 24.8, 28.8, 33.6, 38.6, 44.1, 49.4, 55.5, 61.7, 68.1, 74.1, 80.8, 87.5, 94.4, 100.8, 107.9, 114.8</Depths>
+        <Depths duration="2">11.4, 13.2, 15.1, 18, 22.7, 26.3, 30.8, 35.2, 40.4, 45.9, 51.8, 57.5, 63.8, 70.2, 76.9, 83.1, 90, 96.8, 103.8, 110.4, 117.6, 124.7</Depths>
+        <Depths duration="4">16.1, 18.2, 20.3, 23.6, 29, 33, 37.9, 42.8, 48.5, 54.4, 60.7, 66.7, 73.4, 80.1, 87, 93.5, 100.6, 107.7, 114.9, 121.6, 129, 136.3</Depths>
+        <Depths duration="6">19.4, 21.6, 24, 27.5, 33.3, 37.6, 42.9, 48.1, 54.1, 60.2, 66.8, 73, 79.9, 86.9, 93.9, 100.6, 107.9, 115.1, 122.5, 129.4, 136.9, 144.3</Depths>
+        <Depths duration="12">25.9, 28.6, 31.3, 35.4, 42, 47, 53, 58.8, 65.4, 72.2, 79.2, 85.9, 93.3, 100.7, 108.2, 115.2, 122.9, 130.4, 138.1, 145.2, 152.9, 160.6</Depths>
+        <Depths duration="18">30.4, 33.3, 36.3, 40.8, 48.2, 53.7, 60.2, 66.4, 73.5, 80.7, 88.1, 95.1, 102.8, 110.5, 118.3, 125.5, 133.4, 141.2, 149.1, 156.3, 164.3, 172.1</Depths>
+        <Depths duration="24">33.9, 37.1, 40.4, 45.3, 53.2, 59, 65.9, 72.5, 80, 87.5, 95.2, 102.5, 110.4, 118.3, 126.3, 133.7, 141.8, 149.8, 157.8, 165.3, 173.4, 181.3</Depths>
+        <Depths duration="48">44.5, 48.4, 52.3, 58.2, 67.6, 74.4, 82.4, 89.9, 98.2, 106.5, 114.9, 122.8, 131.3, 139.7, 148.2, 156.1, 164.6, 173, 181.5, 189.3, 197.8, 206.1</Depths>
+        <Depths duration="96">60.1, 64.9, 69.7, 76.7, 87.6, 95.4, 104.4, 112.7, 121.9, 130.9, 140, 148.4, 157.6, 166.6, 175.7, 184.1, 193.3, 202.2, 211.2, 219.5, 228.5, 237.4</Depths>
+        <Depths duration="192">87.8, 93.9, 99.8, 108.6, 121.8, 130.9, 141.2, 150.6, 160.8, 170.9, 181, 190.3, 200.5, 210.4, 220.4, 229.7, 239.7, 249.5, 259.5, 268.6, 278.6, 288.3</Depths>
+        <Depths duration="240">101.8, 108.6, 115.1, 124.8, 139.1, 149, 160.1, 170.2, 181.1, 191.8, 202.6, 212.6, 223.5, 234.1, 244.9, 254.8, 265.6, 276.1, 286.7, 296.5, 307.2, 317.6</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Drumnabuoy House" name="Mourne" number="201010">
+        <Comments>
+            <Comment type="Station Summary">Velocity-area station with cableway opened in June 1982 on Mourne River which holds record for highest flow recorded in Northern Ireland.</Comment>
+            <Comment type="Hydrometric">Station location selected to be outside tidal influence of Foyle and influence of Finn River which joins Mourne c.3km downstream to form River Foyle. Natural bed control. Low flow gauging conducted by wade gauging. Electric cableway historically used for high flow gauging however this was destroyed during high flows in winter 2015. Last high flow gauging undertaken in 2002. Rating derived from current meter gaugings. Simple extrapolation used beyond maximum gauged level of 4.27m.</Comment>
+            <Comment type="General">Velocity-area station with cableway. Masonry hut housing stilling well and cableway winch situated on top of floodbank on right bank. Main and backup instruments present both using shaft encoders with float &amp; weight. Floor of station raised up following major inundation during 1987 flood event. Channel width c.47m at station.</Comment>
+            <Comment type="Flow record">AMAX1 in August 2017 exceeded the previous long-standing highest flow on record from October 1987. Defences constructed post-1987, when Strabane was flooded, protected the town in 2017. No gaps in record. Daily flows for full period of record reprocessed in 2002. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12).</Comment>
+            <Comment type="Flow regime">There is a slight effect of water abstractions. The station has the largest catchment of any in Northern Ireland that has a natural flow regime, and has a relatively small urban percentage.</Comment>
+            <Comment type="Catchment">A mainly rural catchment (grassland and heath with limited afforestation), with urban development at Omagh and Castlederg. Solid geology - Moinian and Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Moinian and Ordovician igneous complexes form generally impermeable basement south of the Omagh Thrust. Ordovician and Silurian greywacke sandstones and shales form some of the ground and are generally indurated. Much of south is composed of Devonian and Carboniferous conglomerate, sandstone, mudstone and limestone that are generally indurated. Drift geology - Extensive glacial till with sand and gravel and lake alluvium in valleys. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys.</Comment>
+            <Comment type="Factors affecting runoff">S</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauge performs well up to and above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="The unmeasured floodplain flow is estimated to be less than 10% of total flows and the station growth curve appears acceptable." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>1.0</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

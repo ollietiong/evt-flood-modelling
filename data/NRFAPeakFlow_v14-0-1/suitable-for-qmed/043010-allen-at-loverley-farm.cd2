@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 43010
+[END]
+[CDS DETAILS]
+NAME,Allen
+LOCATION,Loverley Farm
+NOMINAL AREA,   94.84
+NOMINAL NGR,4006,1085
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,400700,108550
+DTM AREA,   94.84
+ALTBAR, 112
+ASPBAR,168
+ASPVAR,0.30
+BFIHOST,0.944
+DPLBAR, 11.79
+DPSBAR, 64.8
+FARL,0.985
+LDP, 20.41
+PROPWET,0.35
+RMED-1H, 10.6
+RMED-1D, 34.9
+RMED-2D, 46.7
+SAAR, 872
+SAAR4170, 942
+SPRHOST, 6.29
+URBEXT1990,0.0033
+URBEXT2000,0.0046
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic station (replaced Crump weir in 2013) in a predominantly Chalk catchment. Some abstractions / recharges influence the flow regime. GENERAL: Time-of-flight ultrasonic station installed at Loverley Farm in 2013 to replace Loverley Mill Crump weir with hatches. Crump weir situated under old mill house, 1.84m wide. Built in 1969 for the specific purpose of measuring the low summer flows and later made operational over the full flow range. STATION HYDROMETRY: Good full-range station. Bypassing of <10% occurs in extreme events, between a stage of 0.6m and 0.7m. Training banks upstream were raised following bypassing in winter of 2000/2001 and 2002/2003. Hatches just upstream control flow, which bypasses the station into an old mill pond. Loverley Mill (Crump Weir): There is frequent hatch action and three rating equations for various hatch settings; calculation of flows only possible under finite hatch settings. They are largely unproven and therefore theoretical. Comparison of flow with recent ultrasonic gauge shows that in 2012 when both the hatches are closed the rating is good (less than 6% difference between the 2 sites.) When 1 hatch is open the maximum difference between the two sites goes up to 17% and when both hatches are open the maximum difference between the two sites rises to 20%. FLOW RECORD: No stage data or hatch opening information, available prior to 1992, so early record POT and AMAX are rejected. Digital POT and AMAX data (from 01/01/1992) are presented. Data from US station begins 01/10/2013. Flows uncertain due to hatch movements, 10 March - 29 June 1997 and 11 - 17 May 2012. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in August 2025 (WINFAP Files v14). FLOW REGIME: Runoff reduced by public water supply abstraction and influenced by groundwater abstraction/recharge, but increased by effluent returns. Highly attenuated flow regime due to chalk geology.
+CATCHMENT,Predominantly Chalk catchment. Rural land use. No major catchment changes.
+Qmed Suitability,Despite lack of gaugings to confirm extrapolating of rating to high flows, flows mostly contained within structure so assumed reliable up to QMED.
+Pooling Suitability,Lack of gaugings to confirm extrapolating of rating to extremely high flows.
+[END]

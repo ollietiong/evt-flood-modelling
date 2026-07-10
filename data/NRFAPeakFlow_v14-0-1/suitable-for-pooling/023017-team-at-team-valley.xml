@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NZ2496458471" x="424964" y="558471">
+        <CatchmentCentroid grid="GB" ngr="NZ2247655286" x="422476" y="555286"/>
+        <area>62.3525</area>
+        <altbar>124.0</altbar>
+        <aspbar>94.0</aspbar>
+        <aspvar>0.15</aspvar>
+        <bfihost>0.371</bfihost>
+        <bfihost19>0.387</bfihost19>
+        <bfihost19scaled>0.388</bfihost19scaled>
+        <dplbar>10.17</dplbar>
+        <dpsbar>63.9</dpsbar>
+        <draindens>0.912</draindens>
+        <farl>0.995</farl>
+        <farl2015>1.0</farl2015>
+        <fpext>0.0664</fpext>
+        <fpdbar>0.519</fpdbar>
+        <fploc>0.637</fploc>
+        <ihdtmeasting>424950</ihdtmeasting>
+        <ihdtmnorthing>558450</ihdtmnorthing>
+        <ldp>22.0</ldp>
+        <propwet>0.33</propwet>
+        <rmed_1h>9.8</rmed_1h>
+        <rmed_1d>34.6</rmed_1d>
+        <rmed_2d>43.7</rmed_2d>
+        <saar>685.0</saar>
+        <saar4170>702.0</saar4170>
+        <saar9120>754</saar9120>
+        <sprhost>36.02</sprhost>
+        <urbconc1990>0.738</urbconc1990>
+        <urbext1990>0.0948</urbext1990>
+        <urbloc1990>0.769</urbloc1990>
+        <urbconc2000>0.859</urbconc2000>
+        <urbext2000>0.135</urbext2000>
+        <urbloc2000>0.856</urbloc2000>
+        <urbext2015>0.153</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NZ2496458471" x="424964" y="558471">
+        <c>-0.02311</c>
+        <d1>0.41799</d1>
+        <d2>0.40369</d2>
+        <d3>0.26125</d3>
+        <e>0.27807</e>
+        <f>2.33788</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NZ250580" x="425000" y="558000">
+        <c_1_km>-0.022</c_1_km>
+        <d1_1_km>0.417</d1_1_km>
+        <d2_1_km>0.399</d2_1_km>
+        <d3_1_km>0.263</d3_1_km>
+        <e_1_km>0.277</e_1_km>
+        <f_1_km>2.345</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3.1, 3.7, 4.6, 6, 6.9, 7.9, 9, 10, 11.2, 12.6, 14.1, 16, 18.1, 20.3, 22.5, 24.8, 27, 29.2, 31.2, 33.3, 35.4</Depths>
+        <Depths duration="0.25">4.4, 5.4, 6.4, 8, 10.4, 12.2, 14.3, 16.3, 18.5, 21, 23.8, 26.9, 30.9, 35.3, 40.1, 44.8, 50, 55.2, 60.4, 65.3, 70.5, 75.6</Depths>
+        <Depths duration="0.5">5.7, 7, 8.4, 10.4, 13.8, 16.1, 19.1, 21.8, 24.9, 28.3, 32.3, 36.7, 42.3, 48.6, 55.5, 62.3, 69.9, 77.5, 85.2, 92.4, 100.4, 108.1</Depths>
+        <Depths duration="0.75">6.6, 8.1, 9.6, 12, 15.9, 18.7, 22.1, 25.3, 29, 33.1, 37.8, 43, 49.6, 57.1, 65.3, 73.6, 82.7, 91.8, 101.2, 110, 119.7, 129.2</Depths>
+        <Depths duration="1">7.2, 8.9, 10.6, 13.3, 17.5, 20.6, 24.3, 27.9, 32.1, 36.6, 41.9, 47.7, 55, 63.4, 72.7, 81.9, 92.2, 102.5, 113.1, 123.1, 134, 144.8</Depths>
+        <Depths duration="2">10.9, 12.8, 14.8, 17.8, 22.5, 25.9, 30, 34, 38.8, 44.2, 50.6, 57.5, 66.2, 75.6, 85.5, 95.1, 105.7, 116.3, 127.2, 137.3, 148.4, 159.4</Depths>
+        <Depths duration="4">15.6, 17.8, 20, 23.3, 28.6, 32.4, 37, 41.7, 47.3, 53.8, 61.5, 69.7, 79.5, 89.5, 100.1, 110, 121, 131.8, 142.9, 153.3, 164.6, 175.8</Depths>
+        <Depths duration="6">18.8, 21.2, 23.6, 27.1, 32.8, 36.9, 41.9, 47.1, 53.4, 60.7, 69.3, 78.1, 88.4, 98.8, 109.7, 119.9, 131, 142.1, 153.4, 163.9, 175.3, 186.6</Depths>
+        <Depths duration="12">25, 27.8, 30.5, 34.6, 41.1, 45.9, 51.9, 58.2, 66.1, 75, 85, 94.9, 106.1, 117.2, 128.7, 139.3, 150.9, 162.5, 174.1, 185, 196.8, 208.4</Depths>
+        <Depths duration="18">29, 31.9, 34.9, 39.4, 46.5, 52, 58.8, 66, 75.1, 85.1, 96, 106.5, 118.2, 129.8, 141.6, 152.5, 164.5, 176.3, 188.4, 199.5, 211.6, 223.5</Depths>
+        <Depths duration="24">31.9, 35.1, 38.3, 43, 50.8, 56.7, 64.3, 72.3, 82.3, 93.1, 104.6, 115.6, 127.6, 139.5, 151.7, 162.9, 175.2, 187.3, 199.5, 210.9, 223.2, 235.4</Depths>
+        <Depths duration="48">39.5, 43.3, 47, 52.8, 62.4, 70, 79.9, 90.2, 102.4, 114.9, 127.8, 139.8, 152.9, 165.8, 178.8, 191, 204.1, 217, 230, 242, 255.1, 268</Depths>
+        <Depths duration="96">48.9, 53.4, 58, 65.1, 77.2, 86.8, 99.1, 111.5, 125.7, 139.8, 154.2, 167.5, 181.9, 196, 210.3, 223.5, 237.8, 251.8, 266, 279, 293.3, 307.2</Depths>
+        <Depths duration="192">62.8, 68.4, 74.1, 82.9, 97.5, 109, 123.3, 137.5, 153.6, 169.6, 186, 201.1, 217.6, 233.7, 249.8, 264.7, 280.8, 296.5, 312.4, 327.1, 343, 358.6</Depths>
+        <Depths duration="240">69.1, 75.2, 81.3, 90.8, 106.4, 118.4, 133.3, 148, 164.8, 181.6, 198.8, 214.7, 232, 248.9, 265.9, 281.6, 298.5, 315.1, 331.8, 347.2, 363.9, 380.3</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 3.1, 3.7, 4.7, 6.3, 7.4, 8.5, 9.6, 10.6, 11.7, 12.8, 13.8, 15.1, 16.3, 17.7, 19.1, 20.7, 22.5, 24.4, 26.2, 28.1, 30.1</Depths>
+        <Depths duration="0.25">4.2, 5.4, 6.5, 8.3, 11, 13, 15.2, 17.3, 19.5, 21.8, 24.2, 26.5, 29.1, 31.9, 34.9, 38.1, 41.9, 46, 50.4, 54.8, 59.5, 64.3</Depths>
+        <Depths duration="0.5">5.5, 7, 8.5, 10.8, 14.6, 17.2, 20.3, 23.1, 26.2, 29.4, 32.8, 36.1, 39.9, 43.9, 48.3, 52.9, 58.4, 64.6, 71.1, 77.6, 84.8, 92</Depths>
+        <Depths duration="0.75">6.4, 8.1, 9.8, 12.5, 16.8, 19.9, 23.5, 26.9, 30.5, 34.4, 38.3, 42.3, 46.8, 51.6, 56.9, 62.5, 69.2, 76.5, 84.5, 92.3, 101.1, 109.9</Depths>
+        <Depths duration="1">7, 8.9, 10.8, 13.8, 18.5, 21.9, 25.9, 29.6, 33.8, 38, 42.5, 46.9, 51.9, 57.3, 63.3, 69.6, 77.1, 85.4, 94.4, 103.3, 113.2, 123.2</Depths>
+        <Depths duration="2">10.9, 13.1, 15.2, 18.5, 23.7, 27.4, 31.7, 35.7, 40.2, 44.7, 49.7, 54.5, 60.2, 66.4, 73.5, 80.8, 89.5, 98.7, 108.5, 117.8, 128.2, 138.4</Depths>
+        <Depths duration="4">15.7, 18.1, 20.6, 24.3, 30, 34, 38.7, 43.1, 48, 53.1, 58.7, 64.3, 71.1, 78.6, 87.1, 95.6, 105.4, 115.4, 125.8, 135.5, 146.2, 156.8</Depths>
+        <Depths duration="6">18.9, 21.6, 24.2, 28.2, 34.2, 38.5, 43.5, 48.2, 53.5, 59.1, 65.3, 71.7, 79.4, 87.8, 97.2, 106.4, 116.8, 127.3, 138, 148, 158.9, 169.7</Depths>
+        <Depths duration="12">25.1, 28.1, 31.1, 35.6, 42.4, 47.3, 53, 58.6, 65.1, 72.1, 80.1, 88.3, 98.2, 108.5, 119.4, 129.7, 141.1, 152.3, 163.6, 174.1, 185.6, 196.9</Depths>
+        <Depths duration="18">28.9, 32.2, 35.5, 40.3, 47.8, 53.2, 59.6, 66, 73.6, 82.1, 91.6, 101.3, 112.5, 123.8, 135.5, 146.3, 158.2, 169.8, 181.6, 192.6, 204.4, 216</Depths>
+        <Depths duration="24">31.8, 35.3, 38.7, 43.8, 51.9, 57.8, 64.9, 72.1, 80.9, 90.5, 101.4, 112, 124, 135.9, 148.1, 159.3, 171.6, 183.6, 195.7, 206.9, 219, 230.9</Depths>
+        <Depths duration="48">39.2, 43.3, 47.3, 53.5, 63.4, 71, 80.6, 90.6, 102.7, 115.4, 128.7, 141.2, 154.7, 167.9, 181.1, 193.3, 206.5, 219.3, 232.2, 244, 256.9, 269.4</Depths>
+        <Depths duration="96">48.6, 53.6, 58.5, 66.1, 78.5, 88.2, 100.5, 113, 127.5, 142.1, 157, 170.7, 185.3, 199.5, 213.8, 226.9, 240.9, 254.4, 268.1, 280.6, 294.2, 307.4</Depths>
+        <Depths duration="192">63.3, 69.5, 75.7, 85, 99.8, 110.8, 124.1, 137.1, 151.8, 166.8, 182.1, 196.4, 211.8, 226.7, 241.7, 255.3, 270.1, 284.3, 298.7, 311.9, 326.1, 340</Depths>
+        <Depths duration="240">70.1, 76.9, 83.6, 93.6, 109.2, 120.5, 133.8, 146.5, 160.9, 175.4, 190.5, 204.5, 219.9, 234.8, 249.9, 263.7, 278.5, 293, 307.6, 321, 335.4, 349.4</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Team Valley" name="Team" number="23017">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station with ultrasonics installed June 1999 to April 2005. Early POT and AMAX data recorded at Walter Wilson site in Team Valley Trading Estate.</Comment>
+            <Comment type="Hydrometric">Low flow control exercised by pre-existing weir. Uncertainties in the peak level recorded in the June 2012 event led to a survey of the site to establish when overtopping into adjacent field occurs, as the highest peak levels are all very similar at around 1.3m. Ultrasonic installation providing full calibration in 1998 (deactivated April 2005). Two peak flow ratings applied across period of record at current site in April 2004, based upon ultrasonic data. Analysis of uncertainties in the ultrasonic rating calculation suggests the lower and upper bounds for QMAX are -10% and +8% at this site. Previous peak flow rating was theoretical supplemented by current meter gaugings.</Comment>
+            <Comment type="General">Velocity area station in culverted section below road bridge, low flow control is the concrete invert of the culvert. Ultrasonics installed June 1999 and deactivated in April 2005. Peak flows only are provided for 1975 to 1988, recorded at Walter Wilson in Team Valley Trading Estate in straight, engineered section with clay banks and silty bed. Control was channel structures d/s of A692 bridge and pipe crossing. Construction of the 1990 Gateshead Garden Festival site lowered the bed level, exposing the inlet pipe, and the station was temporarily closed.</Comment>
+            <Comment type="Flow record">Missing AMAX data for 1990 due to construction of Gateshead Garden Festival Site. Daily flows for period of record reprocessed in 2002. Dropouts throughout the period of record (for example, in April, July, Sept-Nov 2014, July 2015, Sept 2019, March &amp; Sept 2020) thought to be caused by reductions in minewater pumping at Kibblesworth (1 mile upstream). Low confidence in flows between June and Sept 1986. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11).</Comment>
+            <Comment type="Flow regime">Sewage effluent and pumped minewaters enter the watercourse approximately 2km upstream of the station and affect the very responsive regime.</Comment>
+            <Comment type="Catchment">A primarily rural catchment on the SW edge of Gateshead, on moderate permeability bedrock overlain with extensive boulder clay and some alluvium. Land use is mixed agriculture with extensive urbanised areas, industry and former coal mines in lower catchment. No known catchment changes.</Comment>
+            <Comment type="Factors affecting runoff">E</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged to QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Old site checked by current meter. New rating from ultrasonic velocity meter and fully contained." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-1.62</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27049
+[END]
+[CDS DETAILS]
+NAME,Rye
+LOCATION,Ness
+NOMINAL AREA,  237.60
+NOMINAL NGR,4694,4791
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,469450,479200
+DTM AREA,  237.60
+ALTBAR, 223
+ASPBAR,133
+ASPVAR,0.18
+BFIHOST,0.586
+DPLBAR, 30.97
+DPSBAR,118.0
+FARL,0.999
+LDP, 50.30
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 34.5
+RMED-2D, 45.3
+SAAR, 839
+SAAR4170, 877
+SPRHOST,29.88
+URBEXT1990,0.0016
+URBEXT2000,0.0029
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir on the River Ness in a rural catchment. GENERAL: Flat-V weir, 12m wide. Station added to peak flows dataset in August 2021 (WINFAP Files v10). STATION HYDROMETRY: Flat V weir subject to drowning below QMED, some out of bank flow but no by-passing. Theoretical rating amended by hydraulic modelling to cover non-modular flow range. One peak flow rating across period of record. FLOW RECORD: June 2005 peak estimated at 75 cumecs using hydraulic model. FLOW REGIME: Significant groundwater abstractions.
+CATCHMENT,Geology: Jurassic Limestone, clays and sandstones. Predominantly rural catchment with moorland headwaters and arable in lower valleys.
+Qmed Suitability,Well gauged to QMED.
+Pooling Suitability,Gauged close to AMAX1 and high flow rating supported by hydraulic modelling.
+[END]

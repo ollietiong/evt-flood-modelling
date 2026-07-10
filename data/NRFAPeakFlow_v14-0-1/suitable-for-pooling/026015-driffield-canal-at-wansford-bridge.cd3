@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 26015
+[END]
+[CDS DETAILS]
+NAME,Driffield Canal
+LOCATION,Wansford Bridge
+NOMINAL AREA,   49.39
+NOMINAL NGR,5064,4560
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,506450,456100
+CENTROID NGR,GB,500424,461560
+DTM AREA,   49.39
+ALTBAR,  78
+ASPBAR,153
+ASPVAR,0.40
+BFIHOST,0.859
+DPLBAR, 10.49
+DPSBAR, 49.2
+FARL,0.998
+FPEXT,0.0968
+LDP, 19.08
+PROPWET,0.31
+RMED-1H, 10.6
+RMED-1D, 32.5
+RMED-2D, 42.1
+SAAR, 699
+SAAR4170, 729
+SPRHOST,12.56
+URBCONC1990, 0.776
+URBEXT1990,0.0264
+URBLOC1990, 0.469
+URBCONC2000, 0.833
+URBEXT2000,0.0249
+URBLOC2000, 0.456
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Index velocity station on Driffield Canal, replaced earlier gauge at Wansford Snakeholme Lock (26010). GENERAL: Index Velocity gauge with side-mounted H-ADVP in 8m wide canal. Replaced previous Electro-magnetic gauge at Snakeholme Lock (26010) 500m downstream of Wansford Bridge. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: No formal control but index velocity rating performs well throughout the flow range. Some weed / reed growth in summer months can affect the velocity sensor. Check gauged to 74% of AMAX3. One index rating applied to period of record. FLOW RECORD: Occasional small gaps or periods of suspect data caused by weed and/or silt affecting the velocity sensor. Record overlaps for several years with 26010. FLOW REGIME: Baseflow-dominated regime which peaks in winter/early spring and is lowest in late summer/autumn. Flood peaks typically a rainfall response super-imposed onto the strong baseflow signal. Some artificial influences from abstraction (fish farm, spray irrigation) and discharges (sewage treatment works, fish farm).
+CATCHMENT,A small, rural catchment draining the Yorkshire Wolds, nested within the catchment of the West Beck. Land use is predominantly agricultural but includes the town of Driffield. Catchment is underlain by Chalk (Lower Cretaceous / Jurassic) but is notably harder than Chalk of Southern England. Drift to the east. No known catchment changes. Includes streams artificially captured to feed the Driffield Canal (includes Nafferton Beck and Water Forlorns).
+Qmed Suitability,Gauged beyond QMED.
+Pooling Suitability,Gauged to 74% of AMAX3, all flow is contained and extrapolation of Velocity-Index rating is considered to be reliable.
+[END]

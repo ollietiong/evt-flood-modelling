@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23015
+[END]
+[CDS DETAILS]
+NAME,North Tyne
+LOCATION,Barrasford
+NOMINAL AREA, 1049.63
+NOMINAL NGR,3924,5721
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,392450,572100
+CENTROID NGR,GB,377645,588998
+DTM AREA, 1049.63
+ALTBAR, 275
+ASPBAR,129
+ASPVAR,0.14
+BFIHOST,0.311
+DPLBAR, 39.76
+DPSBAR, 90.9
+FARL,0.989
+FPEXT,0.0489
+LDP, 69.16
+PROPWET,0.50
+RMED-1H,  9.8
+RMED-1D, 34.6
+RMED-2D, 46.1
+SAAR,1013
+SAAR4170,1080
+SPRHOST,50.44
+URBEXT1990,0.0005
+URBEXT2000,0.0006
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with flume at lower flows. Catcleugh, Colt Crag and Little Swinburne reservoirs influence flow regime. Station closed 1959. GENERAL: Flume to measure flows between 3.2cumecs and 6.8cumecs, and velocity area station for flows above 6.8 cumecs, in channel approximately 55m wide. The station was originally intended for assessment of flows at the Barrasford abstraction and not for flood flows. Station closed in 1959, replaced by Reaverhill (23003) approximately 2 km upstream, however POT data extracted for Barrasford until 1971 (before Kielder reservoir impounded in 1982). STATION HYDROMETRY: Standing wave flume at Barrasford pumping station, flows between 3.2 and 6.8 cumecs from continuous recorder, flows below 3.2 cumecs calculated from a daily 9 am gaugeboard reading. Flows above 6.8 cumecs measured at open channel section 820m downstream. Rating at Barrasford was only considered reliable (within 5%) up to 4000 cusecs (113 cumecs) and only gauged to 1800 cusecs (51 cumecs) with significant extrapolation beyond. Rating later improved by correlation of stage data between Barrasford and Reaverhill together with flow data from that station (FSR grade B), however considerable inconsistencies remain between peak flows listed for these two sites during the overlapping period. No rating shown on NRFA. FLOW RECORD: Very low flows below 3.2 cumecs only available from daily 9 am gaugeboard readings. Peak flow rating from current meter gaugings, originally extrapolated at high flows but later re-worked by correlation with Reaverhill (23003), however inconsistent peaks including missing peak 08/12/1964 (rank 2 event at Reaverhill), therefore peak flows rejected for this year. Abstraction at Barrasford pumping station taken between the flume and the rated section, station file notes abstracted volume added to flow measured at rated section when pumping (maximum 22.3 cusecs (0.63 cumecs)). Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: In many winters flow was affected by freezing in the catchment, resulting in very low flows and considerable lag between precipitation and run-off. Catchment includes, Catcleugh (in headwaters), Colt Crag and Little Swinburne (both in south-east of catchment) reservoirs. Abstractions for Newcastle-upon-Tyne water supply do not pass the gauging station.
+CATCHMENT,A very responsive upland catchment developed mainly on formations of Carboniferous series (Fell Sandstone, Scremerston Group and Lower Limestone) and is of moderate permeability. Land use is rugged moorland and upland pasture, with a very high proportion of forestry (over a third) for a catchment of this size. Pre-reservoir FARL2015 (for WINFAP 5.3 or later) or FARL (for earlier versions of WINFAP) should be used with these records because the peak flow data after the reservoir started impounding is rejected. Pre- and post-reservoir values for FARL2015 are 0.972 and 0.9142, respectively. Pre- and post-reservoir values for FARL are 0.989 and 0.934, respectively.
+Qmed Suitability,Rated by overlap with Reaverhill.
+Pooling Suitability,Highest flows inconsistent with those at Reaverhill during overlap period, Barrasford peaks considered less reliable.
+[END]

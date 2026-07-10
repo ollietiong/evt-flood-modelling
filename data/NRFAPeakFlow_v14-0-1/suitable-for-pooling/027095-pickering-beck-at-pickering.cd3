@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27095
+[END]
+[CDS DETAILS]
+NAME,Pickering Beck
+LOCATION,Pickering
+NOMINAL AREA,   66.26
+NOMINAL NGR,4796,4840
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,479650,484000
+CENTROID NGR,GB,482334,491293
+DTM AREA,   66.26
+ALTBAR, 169
+ASPBAR,179
+ASPVAR,0.34
+BFIHOST,0.689
+DPLBAR, 11.80
+DPSBAR,116.4
+FARL,1.000
+FPEXT,0.0263
+LDP, 23.41
+PROPWET,0.40
+RMED-1H, 10.7
+RMED-1D, 33.8
+RMED-2D, 45.6
+SAAR, 837
+SAAR4170, 850
+SPRHOST,20.00
+URBEXT1990,0.0032
+URBEXT2000,0.0037
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station draining from the North Yorkshire Moors. GENERAL: Velocity area station in Pickering. Replaces 27056 for peak flow used only. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: Velocity area station with open channel control. Rated by gaugings, supported by hydraulic model for high flow extrapolation. Gauged well above QMED and to within 12% of AMAX3. Flows are contained within channel to around 16 cumecs at the gauge section, spills out on the right bank above this but no bypassing and all flow is accounted for by the rating curve. Two peak flow ratings applied across period of record. FLOW RECORD: June 2007 peak is significantly higher than other AMAX events. It is possible this peak was truncated at top of instrument measurement range, although any measurement error is considered to be very small. FLOW REGIME: Flood alleviation measures upstream since 2015, including a flood storage reservoir with restricted outflow culvert and natural flood management measures (woody debris dams, floodplain tree planting, blocking moorland drains).
+CATCHMENT,Catchment drains parts of the North York Moors. Geology: mostly grits and Limestones of the Corallian. Mixed rural land use; moorland in headwaters, arable in lower catchment; extensive forestry. Only known catchment changes are flood alleviation measures upstream.
+Qmed Suitability,Gauged well above QMED.
+Pooling Suitability,Gauged to within 12% of AMAX3 and rating extrapolation developed with hydraulic model.
+[END]

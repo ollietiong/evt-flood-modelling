@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+  7008
+[END]
+[CDS DETAILS]
+NAME,Nairn
+LOCATION,Balnafoich
+NOMINAL AREA,  128.06
+NOMINAL NGR,2685,8351
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,268550,835150
+DTM AREA,  128.06
+ALTBAR, 376
+ASPBAR,339
+ASPVAR,0.24
+BFIHOST,0.529
+DPLBAR, 11.29
+DPSBAR,130.1
+FARL,0.845
+LDP, 24.52
+PROPWET,0.68
+RMED-1H,  9.8
+RMED-1D, 36.9
+RMED-2D, 51.6
+SAAR,1035
+SAAR4170,1205
+SPRHOST,46.31
+URBEXT1990,0.0001
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a typical Highland catchment. GENERAL: Velocity area station; 10m wide with new concrete bridge invert control. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: Fields flood on rhb. Not a primary gauging station - stage continuously monitored but stage discharge relations are limited range: no cableway, gauged by wading. Flood warning station. Two peak flow ratings across period of record. FLOW RECORD: Daily flows suspect before April 2001 and in some cases are above peak flows (AMAX/POT).
+CATCHMENT,Rugged Highland catchment underlain by impermeable Pre-Cambrian rock with Quaternary river alluvium in valley floor. Moorland and rough grazing, with some forestry on upper slopes. Limited arable and pasture on valley floor.
+Qmed Suitability,Recent gauging near to QMED.
+Pooling Suitability,Not enough gaugings over QMED. All flows above QMED are above bankfull.
+[END]

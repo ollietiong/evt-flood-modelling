@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21020
+[END]
+[CDS DETAILS]
+NAME,Yarrow Water
+LOCATION,Gordon Arms
+NOMINAL AREA,  153.94
+NOMINAL NGR,3309,6247
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,330900,624750
+DTM AREA,  153.94
+ALTBAR, 451
+ASPBAR,101
+ASPVAR,0.17
+BFIHOST,0.395
+DPLBAR, 11.89
+DPSBAR,219.9
+FARL,0.820
+LDP, 23.28
+PROPWET,0.72
+RMED-1H, 10.6
+RMED-1D, 44.6
+RMED-2D, 60.2
+SAAR,1496
+SAAR4170,1545
+SPRHOST,46.25
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, from 1982 flows are highly artificial with Megget Reservoir used for public water supplies and operated in conjunction with St Mary's Loch. GENERAL: Velocity area station d/s of road bridge on approx. 20m wide section with rough gravel bed. STATION HYDROMETRY: Natural open channel gravel control. Asymmetrical flow due to upstream bend. Stage correction due to ice has been a feature at the station. Gravel extraction is mentioned in the station notes. Damming of St. Mary loch outlet in August 1976 resulted in very low flows in this period. Flows largely contained in channel. Peak flow ratings derived from current meter gaugings up to 1.598m, with a measured flow of 72.9 cumecs. Beyond this, flows are based on simple extrapolation. Extensive channel change and site deterioration occurred following the large flood on 30/12/2015 and subsequent upstream channel and bank stabilisation works. From this point the station has been operated as level only with no check gaugings. Calculated flows after 30/12/2015 are based on the pre 2015 ratings and hence are all flagged as suspect/unchecked. The upper rating segment/relationship will be relatively less impacted by the 2015 channel changes and data users may find these unchecked flood estimates of some value, although to be used with caution. Post 2015 flows are marked as rejected in NRFA Peak Flows to reflect this uncertainty. FLOW RECORD: Low flow in August 1976 due to damming of gravel bar prior to gravel extraction. Monthly naturalised flows available. Gauging suspended in 2015 due to altered flow causing cableway failure and gravel build-up at station. Peak flows after 30/12/2015 are rejected (see hydrometric description). Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: St Marys Loch (few km upstream) attenuates floods significantly. Natural regime until 1982. From 1982 flows are highly artificial with Megget Reservoir used for public water supplies and operated in conjunction with St Marys Loch.
+CATCHMENT,Upland catchment. Impervious bedrock (Silurian formations) with half superficial deposits. Land use hill grazing with some forestry. Megget Reservoir (1982).
+Qmed Suitability,No comment
+Pooling Suitability,Influence of reservoir from 1982.
+[END]

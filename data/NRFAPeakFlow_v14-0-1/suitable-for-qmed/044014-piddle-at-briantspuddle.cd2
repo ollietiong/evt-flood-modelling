@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 44014
+[END]
+[CDS DETAILS]
+NAME,Piddle
+LOCATION,Briantspuddle
+NOMINAL AREA,  107.24
+NOMINAL NGR,3822, 933
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,382250,93350
+DTM AREA,  107.24
+ALTBAR, 124
+ASPBAR,143
+ASPVAR,0.20
+BFIHOST,0.882
+DPLBAR, 14.68
+DPSBAR, 88.1
+FARL,0.990
+LDP, 24.58
+PROPWET,0.38
+RMED-1H, 11.1
+RMED-1D, 37.4
+RMED-2D, 49.8
+SAAR, 969
+SAAR4170,1049
+SPRHOST,11.93
+URBEXT1990,0.0033
+URBCONC2000, 0.530
+URBEXT2000,0.0051
+URBLOC2000, 0.758
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V crump weir for low flow monitoring. GENERAL: Flat V Crump weir 6.0m broad for low flow monitoring. STATION HYDROMETRY: Station bypassed substantially at high flows. Non-modular flow at about 0.55m. Well-maintained structure. Drowning is an issue due to weed growth but weed regularly cut. Bypassing and unstable bed. Some raising of banks upstream carried out in 2001 to reduce bypassing. One peak flow rating applied across period of record. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: No major flow regime influences.
+CATCHMENT,Predominantly Lower Chalk with small outcrops of Middle and Upper Chalk forming higher ground flanking the catchment. Mainly pastoral with some arable agriculture on flatter ground. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating under review using recent gaugings.
+[END]

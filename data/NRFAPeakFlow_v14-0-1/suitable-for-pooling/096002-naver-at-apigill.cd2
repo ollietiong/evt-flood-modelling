@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 96002
+[END]
+[CDS DETAILS]
+NAME,Naver
+LOCATION,Apigill
+NOMINAL AREA,  474.02
+NOMINAL NGR,2713,9567
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,271350,956750
+DTM AREA,  474.02
+ALTBAR, 224
+ASPBAR, 81
+ASPVAR,0.06
+BFIHOST,0.338
+DPLBAR, 35.02
+DPSBAR,111.7
+FARL,0.822
+LDP, 56.74
+PROPWET,0.73
+RMED-1H,  8.7
+RMED-1D, 40.4
+RMED-2D, 55.3
+SAAR,1383
+SAAR4170,1485
+SPRHOST,52.34
+URBEXT1990,0.0001
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; approximately half of the catchment drains through Loch Naver. GENERAL: Velocity area station; 40m wide river section with narrow 6m floodplain on rb but otherwise completely contained. STATION HYDROMETRY: Gravel control - regular need to reassess low flow rating. To date all flows contained. One peak flow rating across period of record based on gaugings with simple extrapolation beyond. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Flows 98% natural with small interbasin transfer to the Shin hydro-electric scheme. Half of the catchment drains through Loch Naver. Several small high level lochs within catchment in addition to the total surface area of Lochs Coire, Meadie and Naver of 13 sq.km.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Impermeable bedrock with a large proportion overlain by superficial deposits. Predominantly Torridonian sandstone with granitic intrusions. Typical Highland mix of rough grazing and moorland; some forestry. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,Some gaugings above QMED, flows are well contained to AMAX3.
+[END]

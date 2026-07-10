@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="Ireland" ngr="IJ2338834071" x="323388" y="334071">
+        <CatchmentCentroid grid="Ireland" ngr="IJ2461529707" x="324615" y="329707"/>
+        <area>101.6375</area>
+        <altbar>202.0</altbar>
+        <aspbar>328.0</aspbar>
+        <aspvar>0.22</aspvar>
+        <bfihost>0.471</bfihost>
+        <bfihost19>0.438</bfihost19>
+        <bfihost19scaled>0.422</bfihost19scaled>
+        <dplbar>9.84</dplbar>
+        <dpsbar>118.3</dpsbar>
+        <draindens>1.312</draindens>
+        <farl>0.951</farl>
+        <farl2015>0.9477</farl2015>
+        <fpext>0.0616</fpext>
+        <fpdbar>0.545</fpdbar>
+        <fploc>0.673</fploc>
+        <ihdtmeasting>323400</ihdtmeasting>
+        <ihdtmnorthing>334050</ihdtmnorthing>
+        <ldp>17.71</ldp>
+        <propwet>0.53</propwet>
+        <rmed_1h>11.4</rmed_1h>
+        <rmed_1d>51.9</rmed_1d>
+        <rmed_2d>70.3</rmed_2d>
+        <saar>1261.0</saar>
+        <saar4170>1341.0</saar4170>
+        <saar9120>1422</saar9120>
+        <sprhost>36.86</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0049</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0012</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.005</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="Ireland" ngr="IJ2338834071" x="323388" y="334071">
+        <c>-0.02013</c>
+        <d1>0.46823</d1>
+        <d2>0.50786</d2>
+        <d3>0.24367</d3>
+        <e>0.25814</e>
+        <f>2.51749</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="Ireland" ngr="IJ230340" x="323000" y="334000">
+        <c_1_km>-0.02</c_1_km>
+        <d1_1_km>0.412</d1_1_km>
+        <d2_1_km>0.484</d2_1_km>
+        <d3_1_km>0.227</d3_1_km>
+        <e_1_km>0.258</e_1_km>
+        <f_1_km>2.41</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2, 2.7, 3.5, 4.7, 6.6, 8, 9.5, 10.9, 12.5, 14, 15.6, 17, 18.7, 20.3, 21.9, 23.3, 25, 26.6, 28.2, 29.7, 31.3, 32.9</Depths>
+        <Depths duration="0.25">3.7, 5, 6.4, 8.7, 12.3, 15, 18, 21.1, 24.3, 27.5, 30.9, 34.1, 37.7, 41.2, 45, 48.5, 52.4, 56.2, 60.2, 63.9, 68.2, 72.3</Depths>
+        <Depths duration="0.5">5.1, 6.9, 8.8, 12, 16.9, 20.7, 25, 29.2, 33.7, 38.3, 43, 47.6, 52.5, 57.7, 62.9, 67.9, 73.4, 78.9, 84.6, 89.9, 95.9, 101.9</Depths>
+        <Depths duration="0.75">6.1, 8.2, 10.5, 14.2, 20.2, 24.6, 29.6, 34.5, 39.7, 45.1, 50.6, 55.8, 61.6, 67.4, 73.3, 79, 85.3, 91.6, 97.9, 104, 110.7, 117.4</Depths>
+        <Depths duration="1">6.9, 9.3, 11.9, 16, 22.7, 27.6, 33.2, 38.6, 44.4, 50.3, 56.3, 61.9, 68.3, 74.6, 81.1, 87.2, 94, 100.7, 107.5, 114, 121.1, 128.1</Depths>
+        <Depths duration="2">12, 15, 18, 22.8, 30.2, 35.6, 41.7, 47.4, 53.6, 59.8, 66.2, 72.3, 78.9, 85.6, 92.4, 98.9, 106, 113.1, 120.3, 127.1, 134.6, 142</Depths>
+        <Depths duration="4">18.8, 22.4, 25.9, 31.3, 39.7, 45.6, 52.4, 58.7, 65.5, 72.3, 79.5, 86.2, 93.4, 100.8, 108.3, 115.4, 123.3, 131.1, 139, 146.5, 154.7, 162.8</Depths>
+        <Depths duration="6">23.7, 27.7, 31.6, 37.5, 46.6, 53, 60.3, 67.1, 74.6, 82.2, 90, 97.3, 105.3, 113.4, 121.7, 129.4, 138, 146.5, 155.1, 163.2, 172, 180.6</Depths>
+        <Depths duration="12">33.8, 38.7, 43.2, 50.2, 61.1, 69, 78.1, 86.7, 96.3, 105.9, 115.7, 124.9, 134.9, 144.8, 154.8, 164.1, 174.1, 183.9, 193.8, 202.9, 212.8, 222.4</Depths>
+        <Depths duration="18">40.7, 45.9, 51.1, 59, 71.6, 80.9, 91.9, 102.3, 113.8, 125.1, 136.6, 147.1, 158.3, 169.2, 180.2, 190.3, 201.2, 211.7, 222.3, 232.1, 242.6, 252.9</Depths>
+        <Depths duration="24">45.8, 51.4, 57, 65.6, 79.7, 90.4, 103.1, 115.2, 128.2, 140.8, 153.3, 164.6, 176.5, 188.1, 200, 211, 222.4, 233.5, 244.6, 254.8, 265.7, 276.4</Depths>
+        <Depths duration="48">59.8, 66.2, 72.7, 83.5, 102.3, 117.5, 135.5, 151.5, 167.8, 182.9, 197.5, 210.5, 224.1, 236.9, 249.6, 261.2, 273.6, 285.8, 298, 309.2, 321.2, 332.8</Depths>
+        <Depths duration="96">75.9, 83.5, 91.3, 104.5, 128.2, 147.5, 169.8, 188.6, 207.1, 224, 240, 254.2, 269, 283.1, 296.9, 309.5, 322.9, 336, 349.1, 361.1, 374, 386.4</Depths>
+        <Depths duration="192">99.9, 109, 118.2, 133, 159.2, 179.8, 203.3, 223.4, 243.3, 261.5, 278.8, 294.1, 310.1, 325.3, 340.6, 354.3, 368.8, 382.8, 396.7, 409.4, 422.9, 436</Depths>
+        <Depths duration="240">111.5, 121.1, 130.7, 145.9, 171.8, 192, 215.1, 235.3, 255.5, 274.1, 291.7, 307.4, 323.7, 339.3, 354.9, 369, 383.8, 398.2, 412.3, 425.3, 439.1, 452.5</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">1.9, 2.6, 3.4, 4.6, 6.5, 8, 9.6, 11, 12.7, 14.2, 15.9, 17.3, 19, 20.6, 22.2, 23.6, 25.2, 26.8, 28.3, 29.7, 31.3, 32.8</Depths>
+        <Depths duration="0.25">3.5, 4.8, 6.3, 8.5, 12.3, 15, 18.2, 21.3, 24.7, 27.9, 31.4, 34.7, 38.3, 41.8, 45.6, 49, 52.9, 56.6, 60.5, 64.1, 68.1, 72.1</Depths>
+        <Depths duration="0.5">4.8, 6.6, 8.6, 11.7, 16.9, 20.8, 25.3, 29.5, 34.2, 39, 43.7, 48.3, 53.3, 58.5, 63.8, 68.7, 74, 79.5, 85, 90, 95.8, 101.6</Depths>
+        <Depths duration="0.75">5.7, 7.9, 10.3, 13.9, 20.1, 24.7, 29.9, 34.9, 40.4, 45.8, 51.4, 56.7, 62.5, 68.4, 74.3, 79.9, 86, 92.2, 98.4, 104.2, 110.6, 117</Depths>
+        <Depths duration="1">6.5, 9, 11.6, 15.7, 22.6, 27.7, 33.5, 39, 45.1, 51.1, 57.2, 62.9, 69.3, 75.7, 82.2, 88.2, 94.8, 101.4, 108, 114.2, 121, 127.7</Depths>
+        <Depths duration="2">11.7, 14.8, 17.9, 22.8, 30.4, 35.9, 42.2, 48, 54.4, 60.6, 67.1, 73.2, 79.8, 86.3, 93, 99.2, 106, 112.7, 119.5, 125.8, 132.8, 139.6</Depths>
+        <Depths duration="4">18.7, 22.4, 26, 31.6, 40.2, 46.2, 53.1, 59.3, 66.1, 72.9, 79.8, 86.2, 93.2, 100.1, 107.1, 113.7, 120.8, 127.8, 135, 141.6, 148.8, 156</Depths>
+        <Depths duration="6">23.8, 27.8, 31.9, 37.9, 47.2, 53.6, 60.9, 67.6, 74.9, 82, 89.4, 96.1, 103.5, 110.8, 118.2, 125.1, 132.6, 140.1, 147.7, 154.7, 162.4, 169.9</Depths>
+        <Depths duration="12">34, 38.9, 43.7, 50.8, 61.7, 69.4, 78.1, 86.1, 94.8, 103.4, 112.1, 120.2, 129, 137.7, 146.6, 154.8, 163.7, 172.4, 181.2, 189.3, 198.1, 206.7</Depths>
+        <Depths duration="18">40.8, 46.2, 51.5, 59.5, 71.9, 80.8, 91.1, 100.6, 111, 121.1, 131.3, 140.6, 150.8, 160.9, 171.1, 180.3, 190.3, 200, 209.7, 218.7, 228.4, 237.8</Depths>
+        <Depths duration="24">45.8, 51.6, 57.3, 66, 79.8, 89.9, 101.8, 112.8, 124.8, 136.3, 147.6, 157.8, 168.8, 179.9, 191.1, 201.2, 212, 222.3, 232.7, 242.3, 252.5, 262.5</Depths>
+        <Depths duration="48">59.2, 65.9, 72.8, 83.5, 101.8, 116.2, 133.4, 148.9, 164.7, 179.2, 193.1, 205.4, 0, 230.5, 242.4, 253.2, 264.7, 275.9, 287.2, 297.7, 308.8, 319.6</Depths>
+        <Depths duration="96">75.8, 83.6, 91.6, 104.5, 127.9, 146.8, 168.5, 187.7, 206.4, 222.9, 238.6, 252.3, 266.5, 279.9, 293, 304.8, 317.3, 329.5, 341.8, 352.9, 364.9, 376.5</Depths>
+        <Depths duration="192">102.1, 111.2, 120.4, 135, 160.2, 180, 202.8, 222.8, 242.7, 260.6, 277.4, 292.1, 307.4, 321.9, 336.2, 349.2, 363.1, 376.5, 389.7, 401.7, 414.4, 426.7</Depths>
+        <Depths duration="240">114.6, 124.3, 134, 148.9, 173.9, 192.9, 214.8, 234.2, 254.1, 272.1, 289.2, 304.2, 319.8, 334.6, 349.2, 362.4, 376.7, 390.4, 403.9, 416.1, 429.2, 441.8</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Bannfield" name="Upper Bann" number="203033">
+        <Comments>
+            <Comment type="Station Summary">Velocity-area station opened in March 1975. Flat V control installed in 1989 replacing previous natural control.</Comment>
+            <Comment type="Hydrometric">For high flows, the station is treated as velocity-area as weir drowns at moderate flows. The same high flow rating is therefore applied to the full period of record, with level adjustment for the datum shift due to the weir. Rating is derived from current meter gaugings. Simple extrapolation occurs above approx 46 cumecs.</Comment>
+            <Comment type="General">Velocity-area station with cableway. Masonry hut housing stilling well and cableway winch situated on right bank. Main and backup instruments present both using shaft encoders with float &amp; weight. Channel width c.10 metres at station. Flat V weir constructed in September/October 1989 to monitor prescribed flow of 18Ml/d.</Comment>
+            <Comment type="Flow record">Major flood event in August 2008. Periods of missing flows between Sep and Oct 1989 during construction of Flat V weir and between Jan and Apr 2009 due to instrument failure. Flows for late Dec 2010 considered suspect due to freezing in stilling well. Gaugings show good agreement with the rating equation between 1989-1998. However since Apr 2000 all gaugings have demonstrated a negative deviation indicating that the current rating equation is over-estimating flows. Until this can be investigated and rectified all data post-1999 has been rejected from the Peak Flows data holdings. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12).</Comment>
+            <Comment type="Flow regime">Reservoir storage (Spelga Dam) in catchment with abstractions for public water supply the net effect of which is minor. The station is used to monitor a prescribed flow designated for the river below which compensation flows are received from Spelga Dam and Lough Island Reavey.</Comment>
+            <Comment type="Catchment">The Upper Bann drains the Mourne Mountains. The catchment is predominantly grassland with some shrub heath; no significant urban fraction. Solid geology - area underlain by indurated Silurian greywacke sandstones and shales intruded by Devonian and Palaeogene granites impermeable (granite and quartzite). Drift geology - rock near surface, drumlinised glacial till is overlain by river alluvium. Peaty alluvium is common to inter-drumlin lows.</Comment>
+            <Comment type="Factors affecting runoff">R</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Highest recent gaugings (two at 2.66m) suggest that rating overestimates flow. Extrapolation to QMED is thought to be reasonable." suitable="Yes" type="QMED"/>
+            <Usage notes="Overtopping and backing up on the Muddock River that joins the Upper Bann just above the Bannfield gauging station and substantial floodplain flow that is impossible to accurately gauge. This only appears to be an issue for those very highest events with floodplain flow at QMED levels significantly lower." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

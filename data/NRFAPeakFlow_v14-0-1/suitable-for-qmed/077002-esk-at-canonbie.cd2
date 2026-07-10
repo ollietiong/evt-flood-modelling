@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 77002
+[END]
+[CDS DETAILS]
+NAME,Esk
+LOCATION,Canonbie
+NOMINAL AREA,  495.40
+NOMINAL NGR,3396,5750
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,339700,575050
+DTM AREA,  495.40
+ALTBAR, 279
+ASPBAR,183
+ASPVAR,0.14
+BFIHOST,0.405
+DPLBAR, 33.54
+DPSBAR,165.6
+FARL,0.994
+LDP, 61.11
+PROPWET,0.61
+RMED-1H, 11.6
+RMED-1D, 44.6
+RMED-2D, 58.6
+SAAR,1423
+SAAR4170,1507
+SPRHOST,44.23
+URBEXT1990,0.0007
+URBEXT2000,0.0011
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Esk. GENERAL: Velocity area station located on straight reach with natural channel control. Cableway. STATION HYDROMETRY: Historic station notes describes erosion possibly linked to gravel extraction down stream. There have been a number of datum changes through the station history. Well gauged up to QMED with confidence in the flows up to around 370 cumecs. Larger events are out of bank and can link up with the nearby Liddel Water during extreme events, also with the possibility of variable backwater effects as the confluence with the Liddel Water is 1.2Km downstream. Multiple peak flow ratings across the period of record. FLOW RECORD: Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in August 2024 (WINFAP Files v13). FLOW REGIME: Storage or impounding reservoir, Black Esk Reservoir. Impounds about 1% of flows for export for public water supplies.
+CATCHMENT,Natural upland catchment area around Eskdalemuir. Mostly impermeable bedrock with approx. 2/3 superficial deposits. Upper Carboniferous Coal Measures in lower reaches, dominated by Upper Silurian shales, silts and mudstones. Landuse predominantly rough grazing with more than a third forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,Ratings sufficiently supported by gaugings.
+Pooling Suitability,Low confidence in extreme flow estimation due to out of bank flow and interation with nearby Liddell Water.
+[END]

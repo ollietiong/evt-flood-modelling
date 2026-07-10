@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 69045
+[END]
+[CDS DETAILS]
+NAME,Bollin
+LOCATION,Bollington Mill Total
+NOMINAL AREA,  256.76
+NOMINAL NGR,3730,3870
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,373050,387050
+DTM AREA,  256.76
+ALTBAR, 124
+ASPBAR,302
+ASPVAR,0.25
+BFIHOST,0.507
+DPLBAR, 26.18
+DPSBAR, 56.4
+FARL,0.946
+LDP, 49.36
+PROPWET,0.43
+RMED-1H, 10.3
+RMED-1D, 31.7
+RMED-2D, 42.4
+SAAR, 881
+SAAR4170, 865
+SPRHOST,32.57
+URBCONC1990, 0.654
+URBEXT1990,0.0456
+URBLOC1990, 1.067
+URBCONC2000, 0.820
+URBEXT2000,0.0791
+URBLOC2000, 1.003
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir station installed 19/09/2000 as a replacement for 69006 Bollin at Dunham Massey flow measurement station. Flows are combined main, mill race and fish pass since 2009. GENERAL: The control is an 11.6m wide british standard Flat V weir tapered downstream face. Original mill race takes approx. 10% of flows and Larinier fish pass (installed in 2009 with non-standard Crump on intake), approx. 25% of flow at low flows. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: Flows contained and modular to bank full at 2m. Mill race on right bank has been present since the station was opened and takes approximately 10% of flow under low flow conditions. The thin plate weir at the entrance of the mill race regularly becomes blocked with debris, this needs regular maintenance. Flows for the mill race account for roughly 10% of the main river when the thin plate is working, above 0.5m the structure is acting as an orifice and the % of flow going down the mill race reduced. A Nivus PCM4 bed mounted sensor was installed in October 2009 and has provided useful information on the characteristics of the Mill Race in high flow conditions. The mill race backs up from the main channel at levels above 0.8m at the main weir meaning that flows are restricted to around 1.25m3/s. Pre-2009, flows were calculated using the sum of the flat V weir for the main channel, and the thin plate for the Mill race. In 2009 a Larinier fish pass was constructed on the left bank approximately 40m upstream of the station which takes approximately 25% of the flow at Q95, but accuracy of measurement at intake Crump was compromised during construction. FLOW RECORD: The NRFA holds the combined record (main channel, mill race and fish pass), which has been produced since 19/11/2009. EA hold earlier data for the main channel. FLOW REGIME: Very responsive regime. Reservoirs and many industrial abstractions and discharges affect low flows particularly.
+CATCHMENT,Mixed geology but with extensive Drift cover (some Millstone Grit exposed in headwaters). Land use is very mixed - a predominantly rural catchment but with Macclesfield below the headwaters and other urban centres. Reservoirs and many industrial abstractions and discharges affect low flows particularly.
+Qmed Suitability,Well gauged to QMED, with good fit to rating.
+Pooling Suitability,Flows contained and modular on main weir, and flow in side channels included.
+[END]

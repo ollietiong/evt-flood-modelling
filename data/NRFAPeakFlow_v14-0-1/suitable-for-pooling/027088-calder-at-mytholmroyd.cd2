@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27088
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Mytholmroyd
+NOMINAL AREA,  146.87
+NOMINAL NGR,4011,4260
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,401200,426050
+DTM AREA,  146.87
+ALTBAR, 323
+ASPBAR,150
+ASPVAR,0.11
+BFIHOST,0.361
+DPLBAR, 11.46
+DPSBAR,147.9
+FARL,0.945
+LDP, 19.67
+PROPWET,0.57
+RMED-1H, 11.4
+RMED-1D, 44.0
+RMED-2D, 60.5
+SAAR,1360
+SAAR4170,1365
+SPRHOST,46.77
+URBCONC1990, 0.523
+URBEXT1990,0.0113
+URBLOC1990, 0.776
+URBCONC2000, 0.646
+URBEXT2000,0.0229
+URBLOC2000, 0.806
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-index gauge in a steep Pennine catchment. Previously velocity-area and ultrasonic gauge. GENERAL: Originally called Caldene Bridge, name changed to Mytholmroyd in 2008. Gauge changed significantly following construction of flood alleviation scheme in the town, which has previously suffered significant flood damages e.g. Dec 2015 flood. Originally multi-path ultrasonic in 10m wide channel for daily flows and velocity area rated section for peak flows, but rating used for all flows from October 2017 until gauge removed in June 2018 to allow construction of defences. Replacement gauge measures stage data in same location as original gauge near Caldene Bridge but flows are measured by velocity-index gauge at new site 600m upstream. STATION HYDROMETRY: No formal control and no cableway present. Full range station but ultrasonic suffered signal attenuation due to suspended solids / entrained air in flood conditions. Flow is contained by high walls to around 3.9m stage, the largest flood events have small amount of bypass on the left bank and the December 2015 event was much higher than previous maximum and led to significant by-pass flow along Burnley Road on the left bank. Ultrasonic prone to failure at high flows so peak flow records derived from rated flow. One peak flow rating applied to record up to June 2018, this was revised in 2017 following review and hydraulic modelling and is thought to give a reasonably good estimate of peak flows including out of bank events. Since construction of flood defence scheme new bed-mounted velocity-index gauge installed in straight section under old packhorse bridge (Hawksclough Bridge), calibrated with check gaugings up to 40 cumecs as of April 2024. FLOW RECORD: Daily flows August-September 2007 should be considered suspect. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). Data not available from July 2018 until September 2022 due to Flood Alleviation Scheme works at the site. FLOW REGIME: Heavily reservoired. Estimated 21.4% of catchment area drains through around 8 impoundments. Net export of water; Hebden Water Reservoirs provide supply to Halifax. Effluent and (minor) minewater discharge can affect flow pattern. Offtake into Rochdale Canal can also reduce flows.
+CATCHMENT,Steep, Pennine catchment with extensive moorland draining the eastern flank of the Pennines, above Halifax. Mostly Carboniferous Millstone Grit, with peat cover in headwaters. Predominantly moorland and pasture, but heavily urbanised and forested along the lower-lying river valleys. The valley floors are strongly urbanised and industrialised, including Todmorden and Hebden Bridge. Continued increases in urbanisation.
+Qmed Suitability,Gauged to within 20% of QMED. Ultrasonic estimates and hydraulic model confirm flow rating at QMED.
+Pooling Suitability,Ultrasonic gauge is of variable quality above QMED, rating now used to derive peak flows. Although not gauged to high levels, ultrasonic data and hydraulic model have been used to review the rating, which is now thought to give reasonable confidence for most AMAX. December 2015 peak was much higher than others in the series and has greater uncertainty.
+[END]

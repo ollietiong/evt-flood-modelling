@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 57014
+[END]
+[CDS DETAILS]
+NAME,Rhymney
+LOCATION,Bargoed
+NOMINAL AREA,   63.57
+NOMINAL NGR,3155,1983
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,315600,198400
+DTM AREA,   63.57
+ALTBAR, 351
+ASPBAR,156
+ASPVAR,0.26
+BFIHOST,0.439
+DPLBAR, 10.08
+DPSBAR,144.0
+FARL,0.959
+LDP, 20.08
+PROPWET,0.53
+RMED-1H, 11.7
+RMED-1D, 53.8
+RMED-2D, 71.4
+SAAR,1502
+SAAR4170,1552
+SPRHOST,38.42
+URBCONC1990, 0.656
+URBEXT1990,0.0370
+URBLOC1990, 0.708
+URBCONC2000, 0.730
+URBEXT2000,0.0541
+URBLOC2000, 0.708
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir constructed 30m u/s of original site. Previously named 'Gilfach Bargoed'. Flood warning station. GENERAL: Bargoed gauging station (previously called Gilfach Bargoed) opened in 1967, measuring stage in a natural river section; a weir was constructed in 1975 and a cableway added in 1977. The rating was unstable due to silting and, from 1986, the station operated as a flood warning station only. A new gauging station with a flat V weir was constructed in 2001, 30m u/s of the original site. Still used as flood warning station. STATION HYDROMETRY: Bed at gauging site is rocky and underlain by concrete weir approach channel. Fish baffles installed on downstream side of weir in 2001. Two peak flow ratings apply to period of record. Ratings based on gaugings and extended using a modelled rating. FLOW RECORD: Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Small impounding reservoirs for PWS in the upper catchment; some effluent returns.
+CATCHMENT,Mainly Coal Measures. Peaty soils on hills with livestock farming and heathland. Significant urban and industrial development, with some forestry in valley bottoms.
+Qmed Suitability,Gauged to just above QMED.
+Pooling Suitability,Although only gauged to just above QMED, rating has been extended using a hydraulic model.
+[END]

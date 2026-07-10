@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SO78237616" x="378230" y="276160">
+        <CatchmentCentroid grid="GB" ngr="SJ3674409876" x="336744" y="309876"/>
+        <area>4329.895</area>
+        <altbar>175.0</altbar>
+        <aspbar>95.0</aspbar>
+        <aspvar>0.07</aspvar>
+        <bfihost>0.541</bfihost>
+        <bfihost19>0.519</bfihost19>
+        <bfihost19scaled>0.516</bfihost19scaled>
+        <dplbar>119.55</dplbar>
+        <dpsbar>88.6</dpsbar>
+        <draindens>1.14</draindens>
+        <farl>0.973</farl>
+        <farl2015>0.9709</farl2015>
+        <fpext>0.1055</fpext>
+        <fpdbar>1.172</fpdbar>
+        <fploc>0.941</fploc>
+        <ihdtmeasting>378200</ihdtmeasting>
+        <ihdtmnorthing>276100</ihdtmnorthing>
+        <ldp>222.55</ldp>
+        <propwet>0.38</propwet>
+        <rmed_1h>9.9</rmed_1h>
+        <rmed_1d>34.4</rmed_1d>
+        <rmed_2d>44.2</rmed_2d>
+        <saar>912.0</saar>
+        <saar4170>934.0</saar4170>
+        <saar9120>980</saar9120>
+        <sprhost>33.68</sprhost>
+        <urbconc1990>0.633</urbconc1990>
+        <urbext1990>0.0117</urbext1990>
+        <urbloc1990>0.667</urbloc1990>
+        <urbconc2000>0.795</urbconc2000>
+        <urbext2000>0.0199</urbext2000>
+        <urbloc2000>0.655</urbloc2000>
+        <urbext2015>0.0241</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SO78237616" x="378230" y="276160">
+        <c>-0.02655</c>
+        <d1>0.37927</d1>
+        <d2>0.38396</d2>
+        <d3>0.32899</d3>
+        <e>0.29093</e>
+        <f>2.37851</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SO780760" x="378000" y="276000">
+        <c_1_km>-0.028</c_1_km>
+        <d1_1_km>0.338</d1_1_km>
+        <d2_1_km>0.405</d2_1_km>
+        <d3_1_km>0.279</d3_1_km>
+        <e_1_km>0.298</e_1_km>
+        <f_1_km>2.43</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3.1, 3.9, 5, 6.9, 8.2, 9.9, 11.5, 13.3, 15.2, 17.4, 19.5, 21.8, 24.1, 26.3, 28.3, 30.6, 32.6, 34.7, 36.5, 38.5, 40.3</Depths>
+        <Depths duration="0.25">4.3, 5.5, 6.8, 8.8, 12.2, 14.8, 17.9, 21, 24.7, 28.7, 33, 37.5, 42.3, 47.2, 52.1, 56.8, 62, 66.9, 72, 76.6, 81.5, 86.4</Depths>
+        <Depths duration="0.5">5.7, 7.3, 8.9, 11.6, 16.2, 19.6, 24, 28.2, 33.3, 38.9, 45.3, 51.4, 58.4, 65.5, 72.8, 79.7, 87.3, 94.8, 102.4, 109.5, 117.2, 124.7</Depths>
+        <Depths duration="0.75">6.6, 8.4, 10.4, 13.5, 18.8, 22.8, 27.8, 33, 39.1, 45.7, 53.1, 60.5, 68.9, 77.5, 86.2, 94.5, 103.8, 112.9, 122.3, 131, 140.5, 149.9</Depths>
+        <Depths duration="1">7.3, 9.3, 11.5, 14.9, 20.7, 25.2, 30.8, 36.5, 43.3, 50.8, 59.1, 67.3, 76.7, 86.3, 96.3, 105.7, 116.1, 126.5, 137.1, 147, 157.8, 168.5</Depths>
+        <Depths duration="2">11.3, 13.7, 16.2, 20.1, 26.6, 31.5, 37.6, 43.8, 51.2, 59.2, 68, 76.6, 86.4, 96.3, 106.6, 116.2, 126.8, 137.4, 148.1, 158.1, 169.1, 179.9</Depths>
+        <Depths duration="4">16.2, 19, 21.8, 26.2, 33.2, 38.5, 45, 51.5, 59.2, 67.6, 76.7, 85.6, 95.6, 105.8, 116.2, 126.1, 136.9, 147.6, 158.4, 168.6, 179.6, 190.5</Depths>
+        <Depths duration="6">19.5, 22.5, 25.5, 30.1, 37.4, 42.9, 49.5, 56.2, 64, 72.4, 81.6, 90.6, 100.8, 111, 121.6, 131.6, 142.5, 153.2, 164.2, 174.4, 185.5, 196.5</Depths>
+        <Depths duration="12">25.7, 29, 32.4, 37.4, 45.3, 51.1, 58, 64.8, 72.8, 81.2, 90.4, 99.4, 109.7, 120.1, 130.8, 140.8, 151.9, 162.8, 173.9, 184.2, 195.5, 206.6</Depths>
+        <Depths duration="18">29.6, 33.2, 36.8, 42.2, 50.5, 56.5, 63.6, 70.5, 78.5, 86.9, 96, 105, 115.2, 125.6, 136.4, 146.5, 157.6, 168.6, 179.7, 190.1, 201.5, 212.6</Depths>
+        <Depths duration="24">32.6, 36.4, 40.2, 45.8, 54.4, 60.6, 67.9, 74.9, 82.9, 91.3, 100.4, 109.3, 119.4, 129.8, 140.5, 150.6, 161.8, 172.8, 184, 194.5, 205.8, 217</Depths>
+        <Depths duration="48">41, 45.5, 49.8, 56.1, 65.8, 72.6, 80.5, 87.8, 96, 104.4, 113.2, 121.7, 131.4, 141.4, 151.9, 161.8, 172.9, 183.9, 195.1, 205.6, 217.1, 228.4</Depths>
+        <Depths duration="96">53.1, 58.6, 63.8, 71.5, 82.9, 90.8, 99.6, 107.7, 116.5, 125.2, 134.1, 142.4, 151.7, 160.9, 170.5, 179.6, 189.8, 200, 210.6, 220.6, 231.6, 242.6</Depths>
+        <Depths duration="192">74.2, 81.5, 88.5, 98.8, 113.9, 124.1, 135.5, 145.7, 156.7, 167.3, 178, 187.9, 198.6, 209, 219.6, 229.4, 240.1, 250.5, 261.1, 270.9, 281.6, 292</Depths>
+        <Depths duration="240">84.4, 92.7, 100.6, 112.2, 129.2, 140.8, 153.5, 165, 177.3, 189.2, 201.2, 212.2, 224.2, 235.8, 247.6, 258.5, 270.3, 281.8, 293.5, 304.3, 316, 327.5</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.2, 3.9, 4.9, 6.5, 7.4, 8.6, 9.5, 10.6, 11.6, 12.7, 13.8, 14.9, 16.1, 17.3, 18.5, 19.9, 21.2, 22.5, 23.8, 25.1, 26.4</Depths>
+        <Depths duration="0.25">4.5, 5.6, 6.8, 8.5, 11.4, 13.3, 15.5, 17.4, 19.7, 21.9, 24.2, 26.5, 29, 31.6, 34.4, 37.1, 40.4, 43.5, 46.8, 49.9, 53.3, 56.6</Depths>
+        <Depths duration="0.5">6, 7.5, 9, 11.3, 15.1, 17.7, 20.7, 23.5, 26.6, 29.7, 33.1, 36.4, 40, 43.9, 48, 52.1, 56.8, 61.6, 66.6, 71.3, 76.6, 81.7</Depths>
+        <Depths duration="0.75">7, 8.6, 10.5, 13.1, 17.5, 20.5, 24.1, 27.4, 31.2, 34.8, 38.8, 42.8, 47.2, 51.9, 56.9, 61.8, 67.6, 73.4, 79.5, 85.3, 91.8, 98.2</Depths>
+        <Depths duration="1">7.7, 9.6, 11.6, 14.5, 19.3, 22.7, 26.6, 30.3, 34.5, 38.7, 43.2, 47.6, 52.6, 57.8, 63.5, 69.1, 75.6, 82.2, 89.1, 95.7, 103.1, 110.4</Depths>
+        <Depths duration="2">11.8, 14, 16.3, 19.7, 25, 28.8, 33.2, 37.4, 42, 46.8, 51.9, 56.9, 62.8, 68.9, 75.4, 81.8, 89, 96.3, 103.8, 110.9, 118.7, 126.4</Depths>
+        <Depths duration="4">16.8, 19.4, 22, 25.9, 31.9, 36.2, 41.2, 46, 51.4, 57, 63.1, 69, 76, 83.1, 90.7, 97.9, 106, 113.9, 122.1, 129.7, 137.9, 146.1</Depths>
+        <Depths duration="6">20, 22.9, 25.7, 30, 36.5, 41.2, 46.6, 51.8, 57.8, 64, 70.8, 77.4, 85.1, 92.9, 101.1, 108.8, 117.2, 125.6, 134.1, 142, 150.5, 158.9</Depths>
+        <Depths duration="12">26, 29.3, 32.6, 37.4, 44.9, 50.4, 56.7, 62.9, 70, 77.5, 85.5, 93.3, 102.1, 111, 120, 128.4, 137.6, 146.5, 155.5, 163.8, 172.9, 181.7</Depths>
+        <Depths duration="18">29.7, 33.3, 36.8, 42.1, 50.3, 56.2, 63.2, 70, 77.7, 85.8, 94.5, 102.9, 112.2, 121.5, 131, 139.7, 149.1, 158.3, 167.6, 176.2, 185.5, 194.5</Depths>
+        <Depths duration="24">32.5, 36.3, 40, 45.6, 54.3, 60.6, 68, 75.1, 83.3, 91.8, 100.8, 109.5, 119.1, 128.6, 138.3, 147.2, 156.8, 166.2, 175.7, 184.4, 193.8, 202.9</Depths>
+        <Depths duration="48">40.5, 45, 49.4, 55.9, 65.8, 72.9, 81.1, 88.8, 97.5, 106.4, 115.6, 124.4, 134.2, 143.9, 153.8, 162.9, 172.9, 182.5, 192.3, 201.2, 210.9, 220.3</Depths>
+        <Depths duration="96">52.7, 58.2, 63.6, 71.4, 83, 91, 100, 108.1, 117, 125.7, 134.6, 142.9, 152, 161, 170.2, 178.8, 188.3, 197.6, 207.1, 215.8, 225.4, 234.8</Depths>
+        <Depths duration="192">74.5, 82, 89.2, 99.5, 114.7, 124.9, 136.2, 146.3, 157.2, 167.6, 178.2, 187.8, 198.3, 208.5, 218.7, 228.2, 238.5, 248.5, 258.7, 268.1, 278.3, 288.3</Depths>
+        <Depths duration="240">85.2, 93.7, 101.8, 113.5, 130.7, 142.3, 155.1, 166.6, 178.9, 190.8, 202.7, 213.7, 225.5, 237.1, 248.8, 259.5, 271.2, 282.6, 294.1, 304.8, 316.3, 327.6</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Bewdley" name="Severn" number="54001">
+        <Comments>
+            <Comment type="Station Summary">Currently an 18-path ultrasonic gauge this site was originally a VA station prior to 1989 and has been relocated in both 1950 and 1968.</Comment>
+            <Comment type="Hydrometric">Multiple peak flow ratings applied across period of record. Uncertainty about the relationship at high flows for early record.</Comment>
+            <Comment type="General">The current site was converted to an ultrasonic gauge in March 1982. The former Thermo gauge was upgraded during September 2019 and replaced with a nivus 18-path ultrasonic gauge. High flows are still measured using the velocity-area method. Site humbly started from individual staff gauge readings dating back to 1921 at Bewdley bandstand near Bewdley Bridge. Spot flow measurements were conducted 0.5miles upstream of Bewdley Bridge to build a stage discharge relationship. Later a station, Bewdley Recorder, formally opened at Elan Aqueduct 2.5miles upstream of Bewdley in 1923. However manual readings took place from the original site up until 1950. This measuring section used for the original site became the current location for the ultrasonic gauge at Bewdley. The installation of the site occurred in 1968. Records prior to 1968 are of modest precision and potentially there are inconsistencies due to datum changes. However the quality of data has been considered overall to be high.</Comment>
+            <Comment type="Flow record">POTs available from 1972. The period-of-record maximum flow is listed as 637 cumecs in March 1947, although this is based on a daily mean flow (no instantaneous peak available) and the true peak is likely to have been higher. Lowest flows reprocessed in 1976 for 1921-68. Pre-1968 records have been correlated with the present station to produce a derived stage series for the present station. Further work is required to provide more confidence to the data series. Flows presented in NRFA apply a rating to the ultrasonic data so as to incorporate out of bank flow. The record given here combines the Elan Aqueduct, Bewdley Recorder, and Bewdley ultrasonic records. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).</Comment>
+            <Comment type="Flow regime">Naturalised flow series, from 1968 only, accommodates major usages other than g/w support. Some earlier records adjusted for Vyrnwy (1966-7). Significant exports for public water supply and power generation; minimum flow maintained by releases from Clywedog (built between 1965-67) and Vyrnwy Reservoirs (built between 1881 and 1888) and Shropshire groundwater.</Comment>
+            <Comment type="Catchment">Diverse catchment; wet western 50% from impermeable Palaeozoic rocks and river gravels; drier northern 50% from Drift covered Carboniferous to Liassic sandstones and marls. Moorland, forestry, mixed farming.</Comment>
+            <Comment type="Factors affecting runoff">SRPGEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.77</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

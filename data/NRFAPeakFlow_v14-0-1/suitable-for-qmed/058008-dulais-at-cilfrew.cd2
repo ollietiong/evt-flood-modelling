@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 58008
+[END]
+[CDS DETAILS]
+NAME,Dulais
+LOCATION,Cilfrew
+NOMINAL AREA,   43.45
+NOMINAL NGR,2778,2007
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,277850,200750
+DTM AREA,   43.45
+ALTBAR, 228
+ASPBAR,257
+ASPVAR,0.20
+BFIHOST,0.377
+DPLBAR,  8.52
+DPSBAR,142.4
+FARL,0.999
+LDP, 16.02
+PROPWET,0.62
+RMED-1H, 11.5
+RMED-1D, 51.8
+RMED-2D, 73.6
+SAAR,1806
+SAAR4170,1756
+SPRHOST,45.33
+URBCONC1990, 0.605
+URBEXT1990,0.0095
+URBLOC1990, 1.283
+URBCONC2000, 0.707
+URBEXT2000,0.0181
+URBLOC2000, 1.145
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir and Flat V weir. GENERAL: Compound Crump weir and Flat V weir. Weir like-for-like refurbished in 2017. Sewage discharges and hydro-electric power scheme affect runoff. STATION HYDROMETRY: One peak flow rating applied across period of record. Good fit to gauging. River regulated - Llyn Brianne Reservoir in upper catchment. Reservoir is used to augment low flows for public water supply abstractions downstream, also for hydro-electric power generation in winter. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Sewage discharges affect runoff. Hydro-electric power abstraction less than 2 cumecs.
+CATCHMENT,Coal Measures with some Boulder Clay Cover. Mainly peaty soils, seasonally wet. Lower part of catchment joins steep sided Neath Valley. Upland area with livestock farming, some heathland and extensive forest cover. Some urban development in valley, and open cast coal mining.
+Qmed Suitability,Well gauged up to QMED. Good fit to gaugings.
+Pooling Suitability,Rating cannot be confirmed above wing walls without check gaugings.
+[END]

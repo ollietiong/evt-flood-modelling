@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 10002
+[END]
+[CDS DETAILS]
+NAME,Ugie
+LOCATION,Inverugie
+NOMINAL AREA,  325.72
+NOMINAL NGR,4101,8485
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,410100,848550
+CENTROID NGR,GB,396185,850658
+DTM AREA,  325.72
+ALTBAR,  87
+ASPBAR, 87
+ASPVAR,0.17
+BFIHOST,0.522
+DPLBAR, 23.62
+DPSBAR, 42.3
+FARL,0.984
+FPEXT,0.0751
+LDP, 41.29
+PROPWET,0.40
+RMED-1H,  8.2
+RMED-1D, 34.0
+RMED-2D, 44.6
+SAAR, 812
+SAAR4170, 876
+SPRHOST,33.00
+URBEXT1990,0.0029
+URBEXT2000,0.0036
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with natural regime in north east Scotland. GENERAL: Velocity area station; section about 30m wide. STATION HYDROMETRY: A downstream weir is the main control feature. This was rebuilt in September 1996. Previously the weir was broken, unstable and insensitive. The control was badly affected be severe weed growth that is reflected in the high number of rating changes required for low to medium flows. The impact of weed growth on the flow calibration has been reduced since the weir was rebuilt. There are two distinct flood segments for before and after the weir rebuild, QHigh1971 and QHigh1996, which have been applied to all the ratings through the record (multiple lower limbs are not shown for plot clarity). Hence, two peak flow ratings across period of record. A cableway allows flood gaugings and rating QHigh1971 is calibrated using gaugings up to 1.988m, with a measured flow of 103.1 cumecs. QHigh1996 is calibrated using gauging up to 2.125m , with a measured flow of 103.9 cumecs. Flows beyond the highest gauging are based on simple extrapolation. Some bypassing occurs at highest flows, but the flood plain flow aspect is deemed insignificant. Charts were digitised from 29/01/1971 to extend the 15minute digital record back from 17/11/1988 to 29/01/1971. Quality control has been applied to the peaks to allow a revision of peak flows in this period. A further exercise is required to QC the full stage range and to review the rating in the low to mid flow range before revising the daily flow figure pre 17/11/1988. For WY1991, the AMAX figure was imported in the agent to override WISKI that otherwise selects the rising limb on 30/09/1992 09:00 and which peaks in WY1992. The first four months of WY1970 predate the start of the station operation. A comparison was carried out with data from other stations to assess if the available data contains the AMAX for WY1970. However, there was nothing conclusive from this assessment so the AMAX record starts from WY1971. The previous POT threshold of 18.334 cumecs was generating a much larger number of events than the required 5 on average per water year. Hence the threshold was increased to 22 cumecs in 2023 (v13). FLOW RECORD: Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Natural regime. Though very minor export from headwater reservoir.
+CATCHMENT,Granites and older basic intrusives surrounded by Dalradian metamorphics. Almost full superficial deposits cover. A little moorland, but mostly lowland in character with arable agriculture and relatively high population density; some forestry. Notable floodplains. No significant catchment changes known.
+Qmed Suitability,Ratings well supported by gaugings to QMED.
+Pooling Suitability,Flood gaugings provide sufficient confidence for pooling status.
+[END]

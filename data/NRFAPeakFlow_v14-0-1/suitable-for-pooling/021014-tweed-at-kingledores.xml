@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NT1087528541" x="310875" y="628541">
+        <CatchmentCentroid grid="GB" ngr="NT0993519915" x="309935" y="619915"/>
+        <area>138.7025</area>
+        <altbar>453.0</altbar>
+        <aspbar>330.0</aspbar>
+        <aspvar>0.15</aspvar>
+        <bfihost>0.412</bfihost>
+        <bfihost19>0.36</bfihost19>
+        <bfihost19scaled>0.336</bfihost19scaled>
+        <dplbar>12.56</dplbar>
+        <dpsbar>224.0</dpsbar>
+        <draindens>1.271</draindens>
+        <farl>0.917</farl>
+        <farl2015>0.9064</farl2015>
+        <fpext>0.0193</fpext>
+        <fpdbar>0.303</fpdbar>
+        <fploc>0.788</fploc>
+        <ihdtmeasting>310900</ihdtmeasting>
+        <ihdtmnorthing>628450</ihdtmnorthing>
+        <ldp>23.03</ldp>
+        <propwet>0.72</propwet>
+        <rmed_1h>10.8</rmed_1h>
+        <rmed_1d>45.6</rmed_1d>
+        <rmed_2d>62.4</rmed_2d>
+        <saar>1567.0</saar>
+        <saar4170>1619.0</saar4170>
+        <saar9120>1766</saar9120>
+        <sprhost>45.12</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>4.0E-4</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>9.0E-4</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>2.0E-4</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NT1087528541" x="310875" y="628541">
+        <c>-0.02213</c>
+        <d1>0.4385</d1>
+        <d2>0.49144</d2>
+        <d3>0.34692</d3>
+        <e>0.27974</e>
+        <f>2.38129</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NT110290" x="311000" y="629000">
+        <c_1_km>-0.021</c_1_km>
+        <d1_1_km>0.464</d1_1_km>
+        <d2_1_km>0.485</d2_1_km>
+        <d3_1_km>0.338</d3_1_km>
+        <e_1_km>0.276</e_1_km>
+        <f_1_km>2.344</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3, 3.6, 4.5, 6, 7.1, 8.2, 9.3, 10.6, 11.9, 13.4, 15, 17, 19.3, 22.1, 25, 28.2, 31.5, 34.6, 37.5, 40.6, 43.7</Depths>
+        <Depths duration="0.25">4.5, 5.6, 6.8, 8.6, 11.5, 13.5, 16.1, 18.4, 21.1, 24.1, 27.3, 30.8, 35.3, 40.6, 46.8, 53.6, 61.2, 68.8, 76.5, 83.7, 91.7, 99.5</Depths>
+        <Depths duration="0.5">6.2, 7.9, 9.5, 12.1, 16.2, 19.1, 22.7, 26.1, 30.1, 34.4, 39.3, 44.3, 50.9, 58.6, 67.9, 77.9, 89.2, 100.5, 112.3, 123.2, 135.3, 147.3</Depths>
+        <Depths duration="0.75">7.5, 9.5, 11.4, 14.5, 19.4, 22.9, 27.2, 31.2, 36, 41.1, 46.7, 52.6, 60.5, 69.5, 80.5, 92.1, 105.3, 118.4, 132.2, 144.9, 158.7, 172.5</Depths>
+        <Depths duration="1">8.6, 10.8, 13, 16.5, 22, 26, 30.7, 35.3, 40.5, 46.1, 52.4, 59, 67.6, 77.6, 89.7, 102.5, 117, 131.4, 146.3, 160.1, 175.3, 190.1</Depths>
+        <Depths duration="2">13.7, 16.3, 18.9, 22.8, 29, 33.4, 38.5, 43.4, 49.1, 55.2, 62.3, 69.8, 79.5, 90.7, 104, 117.4, 132.3, 147.1, 162.2, 176.3, 191.7, 206.8</Depths>
+        <Depths duration="4">20.7, 23.7, 26.8, 31.2, 38.1, 42.9, 48.5, 53.9, 60.1, 66.8, 74.5, 82.7, 93.3, 105.5, 119.3, 133.2, 148.5, 163.6, 179.1, 193.4, 209.1, 224.7</Depths>
+        <Depths duration="6">25.9, 29.3, 32.5, 37.4, 44.7, 49.8, 55.8, 61.4, 68, 75, 83, 91.7, 102.7, 115.3, 129.5, 143.6, 159.2, 174.6, 190.3, 204.9, 220.9, 236.8</Depths>
+        <Depths duration="12">37, 40.9, 44.7, 50.2, 58.5, 64.3, 70.9, 77.1, 84.4, 92.1, 100.9, 110.2, 122.2, 135.6, 150.3, 164.8, 180.9, 196.9, 213.2, 228.4, 245, 261.4</Depths>
+        <Depths duration="18">44.8, 49, 53.1, 59.1, 68, 74.2, 81.4, 88.1, 95.8, 104.1, 113.5, 123.5, 136, 150, 165.2, 180.1, 196.8, 213.2, 229.9, 245.5, 262.5, 279.3</Depths>
+        <Depths duration="24">50.7, 55.3, 59.6, 66, 75.4, 82, 89.5, 96.6, 104.8, 113.6, 123.6, 134.1, 147.2, 161.7, 177.4, 192.7, 209.8, 226.6, 243.6, 259.5, 276.8, 293.9</Depths>
+        <Depths duration="48">67.3, 72.7, 77.9, 85.3, 96.3, 104, 112.8, 121.2, 130.9, 141.4, 153.3, 165.8, 181.1, 197.4, 214.9, 231.5, 249.9, 268.2, 286.5, 303.3, 321.7, 339.8</Depths>
+        <Depths duration="96">89.6, 96.2, 102.5, 111.6, 125.2, 134.7, 145.7, 156.3, 168.6, 182, 197.3, 213, 231.6, 250.8, 270.8, 289.7, 310.5, 330.7, 351, 369.8, 390.2, 410.1</Depths>
+        <Depths duration="192">127.4, 136.1, 144.5, 156.6, 174.8, 187.7, 202.6, 217.1, 234, 252.3, 272.7, 293.2, 316.5, 340, 364.1, 386.5, 410.6, 434.4, 458.4, 480.6, 504.6, 528.2</Depths>
+        <Depths duration="240">146.1, 155.9, 165.3, 179, 199.5, 214, 230.8, 247.1, 266.1, 286.4, 308.9, 331.2, 356.4, 381.7, 407.7, 431.6, 457.4, 482.8, 508.6, 532.2, 557.9, 583</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.1, 3.6, 4.4, 5.8, 6.6, 7.6, 8.5, 9.5, 10.6, 11.7, 12.8, 14.1, 15.6, 17.4, 19.3, 21.6, 24.1, 26.6, 29, 31.6, 34.1</Depths>
+        <Depths duration="0.25">4.7, 5.7, 6.8, 8.4, 11, 12.7, 14.9, 16.9, 19.1, 21.4, 23.8, 26.3, 29.4, 32.8, 36.8, 41.4, 46.9, 52.7, 58.8, 64.7, 71.2, 77.7</Depths>
+        <Depths duration="0.5">6.5, 8, 9.5, 11.8, 15.5, 18, 21.1, 23.9, 27.2, 30.6, 34.2, 37.8, 42.3, 47.4, 53.4, 60.2, 68.4, 77, 86.4, 95.2, 105, 115</Depths>
+        <Depths duration="0.75">7.9, 9.6, 11.4, 14.2, 18.5, 21.6, 25.3, 28.6, 32.5, 36.5, 40.7, 45, 50.3, 56.1, 63.3, 71.2, 80.7, 90.7, 101.6, 111.9, 123.2, 134.7</Depths>
+        <Depths duration="1">9, 11, 13, 16.1, 21, 24.5, 28.5, 32.3, 36.6, 41, 45.7, 50.4, 56.2, 62.7, 70.6, 79.2, 89.7, 100.7, 112.5, 123.7, 136.1, 148.4</Depths>
+        <Depths duration="2">14.1, 16.5, 18.8, 22.4, 27.8, 31.7, 36.1, 40.2, 44.9, 49.7, 55, 60.4, 67.3, 75.2, 84.5, 94.2, 105.8, 117.7, 130.1, 141.7, 154.5, 167.1</Depths>
+        <Depths duration="4">21.3, 24.1, 26.8, 30.9, 37, 41.3, 46.2, 50.9, 56.1, 61.5, 67.6, 74.1, 82.2, 91.5, 102.3, 113.3, 125.9, 138.5, 151.4, 163.5, 176.7, 189.8</Depths>
+        <Depths duration="6">26.7, 29.8, 32.8, 37.2, 43.8, 48.4, 53.7, 58.7, 64.3, 70.2, 77, 84.1, 93.1, 103.4, 115.2, 126.8, 139.9, 153, 166.3, 178.8, 192.3, 205.7</Depths>
+        <Depths duration="12">38, 41.7, 45.2, 50.3, 58, 63.2, 69.3, 75, 81.5, 88.6, 96.6, 105.3, 116.2, 128.5, 141.9, 154.7, 169, 183, 197.3, 210.5, 224.9, 239</Depths>
+        <Depths duration="18">45.8, 49.8, 53.7, 59.3, 67.6, 73.4, 80, 86.3, 93.5, 101.4, 110.5, 120.3, 132.6, 146.1, 160.6, 174.3, 189.4, 204.2, 219.1, 232.9, 248, 262.7</Depths>
+        <Depths duration="24">51.8, 56.1, 60.2, 66.2, 75.1, 81.2, 88.3, 95, 102.9, 111.5, 121.4, 132.2, 145.6, 160, 175.2, 189.6, 205.4, 220.7, 236.2, 250.5, 266.1, 281.4</Depths>
+        <Depths duration="48">68.5, 73.7, 78.6, 85.7, 96.2, 103.5, 112, 120.1, 129.7, 140.4, 152.9, 166.5, 182.7, 199.5, 216.9, 233.1, 250.9, 268.3, 285.7, 301.6, 318.8, 335.6</Depths>
+        <Depths duration="96">91.4, 97.8, 103.9, 112.7, 125.8, 134.9, 145.4, 155.5, 167.5, 180.8, 196.5, 213, 232.5, 252.4, 272.9, 292.1, 312.9, 333, 353.2, 371.7, 391.8, 411.5</Depths>
+        <Depths duration="192">130.5, 139, 147.3, 159, 176.5, 188.5, 202.4, 215.6, 230.9, 247.6, 266.8, 286.9, 310.9, 335.9, 361.8, 385.8, 411.7, 436.9, 462.2, 485.6, 510.9, 535.6</Depths>
+        <Depths duration="240">149.6, 159.3, 168.6, 181.8, 201.4, 214.9, 230.2, 244.9, 261.7, 279.8, 300.6, 322.1, 348, 375.2, 403.5, 429.9, 458.3, 486.1, 513.9, 539.6, 567.4, 594.6</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Kingledores" name="Tweed" number="21014">
+        <Comments>
+            <Comment type="Station Summary">A velocity-area station in the upper Tweed catchment.</Comment>
+            <Comment type="Hydrometric">The channel is composed of coarse gravel which is highly mobile, even under modest flows, while the inflow from the Kingledores Burn 10m downstream of the station can cause backwater effects and also scour/deposit large amounts of material from the control. The rating is calibrated with gaugings up to 2.225m, measured at 101.8 cumecs. Higher events spill from the right bank above 2.2m and floodplain flows have been informed by hydraulic modelling. One peak flow rating applied from the start of the digital record from 1986.</Comment>
+            <Comment type="General">Located on the upper River Tweed, roughly 2.5 miles downstream of Tweedsmuir village. One of the key functions is flood warning for downstream communities. Natural section with a coarse gravel bed. Work in 2022 to rationalise the rating history allowed this station to be considered for inclusion in the peak flow dataset. Station added to peak flows dataset in August 2024 (WINFAP Files v13). The floodplain component of flow was modelled in 2024, which tentatively permitted an upgrade to pooling status. This revision drastically increased the estimation of the rank 1 event in of December 2015.</Comment>
+            <Comment type="Flow record">Monthly naturalised flows available. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow regime">Exports from Fruid and Talla Reservoirs cause a significant reduction in runoff. Freshnet releases from Fruid and Talla Reservoirs cause significant spikes in runoff.</Comment>
+            <Comment type="Catchment">Impervious (mostly Silurian formations) upland catchment given over mainly to hill grazing and forestry.</Comment>
+            <Comment type="Factors affecting runoff">SP</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="The rating is calibrated with gaugings up to QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged to bankfull at 2.2m and then floodplain flow estimation based on hydraulic modelling. The floodplain modelling in 2024 promoted an upgrade to pooling status, although this has been done tentatively considering the lower confidence of floodplain modelling compared to a fully contained and gauged flow range. The rank 1 flood on December 2015 reached 3.144m." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>2.03</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

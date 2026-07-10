@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 37019
+[END]
+[CDS DETAILS]
+NAME,Beam
+LOCATION,Bretons Farm
+NOMINAL AREA,   51.54
+NOMINAL NGR,5515,1853
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,551550,185350
+DTM AREA,   51.54
+ALTBAR,  41
+ASPBAR,183
+ASPVAR,0.21
+BFIHOST,0.368
+DPLBAR,  7.95
+DPSBAR, 27.7
+FARL,0.972
+LDP, 18.24
+PROPWET,0.27
+RMED-1H, 11.1
+RMED-1D, 31.5
+RMED-2D, 38.8
+SAAR, 588
+SAAR4170, 597
+SPRHOST,41.14
+URBCONC1990, 0.882
+URBEXT1990,0.2696
+URBLOC1990, 0.683
+URBCONC2000, 0.910
+URBEXT2000,0.3391
+URBLOC2000, 0.672
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,An Essex modified Flat V Crump weir situated in a mainly rural headwaters with significant urban influences in lower reaches. GENERAL: Essex (modified Flat V Crump) weir in 10.4m wide section. The weir is non-standard. Used for both water resource and flood risk management. STATION HYDROMETRY: Model-based calibration assumes modularity and drowning is uncommon. Rating estimates of flow thought to be reasonable, gauged approaching QMED. One peak flow rating has been applied across the period of record. Levels are affected by Washlands gate and flap valve controlling flow into the Thames. FLOW RECORD: Naturalised flows available 1966-7, there is a very small net diminution in runoff. The site is prone to vandalism and data has been lost between 01/07/00 - 28/01/01 and 18/04/2020 - 01/06/2020. Peak flows rejected during WY2000/2001 due to the AMAX being recording at a neighbour station during this period. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Runoff increased by effluent returns but reduced by industrial/agricultural abstraction. Flood storage lagoons built on the River Rom, from the late 1980s onwards, influence flows patterns.
+CATCHMENT,A predominantly impermeable catchment. (London Clay exposed over much of the northern catchment with Claygate Beds, Bagshot Beds, Pebble Gravel and Boulder Clay capping the higher ground. Terrace gravels cover the London Clay in the southern half with narrow bands of London Clay and Alluvium bordering the river. Mainly rural headwaters with substantial expanding urban development in the lower reaches.
+Qmed Suitability,Although not gauged to QMED, the structure is reliable with modular flows and no bypassing at QMED.
+Pooling Suitability,Insufficient high flow gaugings to confirm Pooling status.
+[END]

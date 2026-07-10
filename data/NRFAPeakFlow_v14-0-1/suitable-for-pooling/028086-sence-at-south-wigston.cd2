@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 28086
+[END]
+[CDS DETAILS]
+NAME,Sence
+LOCATION,South Wigston
+NOMINAL AREA,  126.21
+NOMINAL NGR,4588,2976
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,458800,297700
+DTM AREA,  126.21
+ALTBAR, 123
+ASPBAR,285
+ASPVAR,0.15
+BFIHOST,0.360
+DPLBAR, 12.62
+DPSBAR, 36.3
+FARL,0.997
+LDP, 26.35
+PROPWET,0.29
+RMED-1H, 11.9
+RMED-1D, 32.8
+RMED-2D, 40.9
+SAAR, 642
+SAAR4170, 666
+SPRHOST,43.28
+URBCONC1990, 0.769
+URBEXT1990,0.0274
+URBLOC1990, 0.468
+URBCONC2000, 0.862
+URBEXT2000,0.0348
+URBLOC2000, 0.500
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,LaserFlow Index Velocity gauge post-2017. Previously Electromagnetic gauge set in 1:1 formalised banks. Replaces Blaby (28054), daily flow records combined, but not peak flows. GENERAL: LaserFlow ultrasonic gauge under Crow Mill bridge from 2017 onwards. Early record from electromagnetic flow gauge just downstream of bridge. STATION HYDROMETRY: No bypassing - all flows contained. In 2002 the electromagnetic flows were out by 10% - a new coil/cable was installed in March 2002. Missing data July-December 2016 due to electromagnetic gauge failure. Gauge replaced with LaserFlow index velocity gauge in January 2017. FLOW RECORD: Flow contained at high flows and fully measured. Early peak flow data are of poor quality, and are therefore rejected. Accuracy of electromagnetic gauge poor from 2006 until replacement in 2017. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Moderately responsive. Substantially augmented by WRW discharges, particularly Wigston.
+CATCHMENT,Moderate to low relief catchment to East and South of Leicester. Mainly Lower Lias (mudstones and limestone) but wholly blanketed by Boulder Clay and alluvium except for headwaters. Urbanised downstream end, otherwise arable and grazing land use.
+Qmed Suitability,Gauged above QMED. All flows contained at gauging site flow estimates thought to be reliable.
+Pooling Suitability,Gauged close to AMAX3. All flows contained at gauging site flow estimates thought to be reliable.
+[END]

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21035
+[END]
+[CDS DETAILS]
+NAME,Till
+LOCATION,Heaton Mill
+NOMINAL AREA,  655.54
+NOMINAL NGR,3900,6424
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,390000,642400
+DTM AREA,  655.54
+ALTBAR, 205
+ASPBAR, 44
+ASPVAR,0.12
+BFIHOST,0.500
+DPLBAR, 44.51
+DPSBAR,125.2
+FARL,0.992
+LDP, 83.52
+PROPWET,0.44
+RMED-1H,  9.2
+RMED-1D, 37.7
+RMED-2D, 49.4
+SAAR, 822
+SAAR4170, 845
+SPRHOST,41.40
+URBEXT1990,0.0011
+URBEXT2000,0.0020
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station opened as a replacement for 21031. GENERAL: Five (crossed) path ultrasonic gauge in a trapezoidal channel, designed to measure full range of flows. River is deep and slow-flowing at Heaton Mill. Previously station number 21806. STATION HYDROMETRY: Well performing crossed-path multi-path ultrasonic gauge. Pre 2009 peaks were not recorded accurately above 150 cumecs due to range cap in the gauge configuration. A peak flow rating derived from ultrasonic measurements and confirmed by check gaugings is available. FLOW RECORD: Ultrasonic gauge missed peak flows in Sep 2008, July 2009 and March 2010 due to limitation set in gauge configuration, these peaks are estimated from the rating. All missing data periods in daily flows are due to ultrasonic configuration issues. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Considerable spray irrigation abstractions during the summer, but unlikely to affect high flows.
+CATCHMENT,Rising on the Cheviot granite. Mixed geology (Cheviot igneous rock, sandstone etc). No known catchment changes.
+Qmed Suitability,Ultrasonic gauge checked to above QMED.
+Pooling Suitability,Pre 2009 ultrasonic records capped around 150 cumecs, these peaks are estimated from rating curve and thought to be reliable, although there is considerable extrapolation to the AMAX1 from September 2008. Gauge now reset to measure full range and quality thought to be good.
+[END]

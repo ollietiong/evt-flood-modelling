@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 46013
+[END]
+[CDS DETAILS]
+NAME,Bovey
+LOCATION,Bovey Parke
+NOMINAL AREA,   86.95
+NOMINAL NGR,2809, 786
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,281000,78700
+DTM AREA,   86.95
+ALTBAR, 261
+ASPBAR, 74
+ASPVAR,0.11
+BFIHOST,0.681
+DPLBAR, 10.74
+DPSBAR,141.7
+FARL,0.997
+LDP, 21.91
+PROPWET,0.46
+RMED-1H, 12.9
+RMED-1D, 53.7
+RMED-2D, 72.8
+SAAR,1356
+SAAR4170,1357
+SPRHOST,13.80
+URBEXT1990,0.0010
+URBEXT2000,0.0035
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station immediately upstream of a single-span bridge. GENERAL: Ultrasonic station immediately upstream of a single-span bridge. Channel is 9m wide, reasonably straight approach with gentle bend in river downstream of bridge. Initially built for Water Resources as a replacement for Preston Gauging Station (46002) with a sister site at Chudleigh Bridge (46014), now a multi-functional site. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: A good stable site throughout the range. Some 'noise' on large peaks, but these are carefully edited as required.
+CATCHMENT,Bulk of the river system rises on Dartmoor Granite moorland, and traverses a complex of Devonian and Carboniferous shales, sandstones and cherts before its wide alluvial valley crosses Tertiary sands and clays. Land use is low-grade agriculture and woodland.
+Qmed Suitability,Gauge performs well up to and above QMED.
+Pooling Suitability,Gauge performs well up to and above QMED.
+[END]

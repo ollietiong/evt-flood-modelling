@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 58012
+[END]
+[CDS DETAILS]
+NAME,Afan
+LOCATION,Marcroft Weir
+NOMINAL AREA,   89.71
+NOMINAL NGR,2771,1909
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,277100,191000
+DTM AREA,   89.71
+ALTBAR, 306
+ASPBAR,266
+ASPVAR,0.17
+BFIHOST,0.452
+DPLBAR, 13.15
+DPSBAR,210.2
+FARL,1.000
+LDP, 23.56
+PROPWET,0.53
+RMED-1H, 12.7
+RMED-1D, 60.0
+RMED-2D, 80.4
+SAAR,2036
+SAAR4170,2064
+SPRHOST,40.17
+URBCONC1990, 0.547
+URBEXT1990,0.0128
+URBLOC1990, 0.659
+URBCONC2000, 0.692
+URBEXT2000,0.0202
+URBLOC2000, 0.675
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard compound Crump profile weir. GENERAL: Non-standard compound Crump profile weir. Channel width: 17.2m. STATION HYDROMETRY: No divide walls between centre and side weirs. Stilling pipes not submerged at low flows and shoaling around pipes. High velocities due to steep gradients. Weir remains modular to at least 2.5m (AMAX 1, as of June 2019). FLOW RECORD: Weir refurbishment 3 Sep 2012 - 1 Jul 2013, period has been infilled using data from upstream gauging station Cwmafon. Refurbishment expected to have had no significant impact on rating, and gaugings since re-opening have confirmed this. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: The last operational coal mines in this area closed in 1985. Minewater recovery is understood to have occurred by the late 1980s. Mine dewatering increased low flows and mines may have provided some attenuation in flood events.
+CATCHMENT,Coal Measures, mainly superficial deposits with peat in uplands and Boulder Clay in valleys. High proportion of forest, remainder rough grazing. Some urban development, including just u/s of station. Past mining activity evident, restoration schemes employed.
+Qmed Suitability,All flows have been contained within bank, channel profile remains consistent to top of bank and Crump weir expected to perform well at QMED.
+Pooling Suitability,All flows have been contained within bank, channel profile remains consistent to top of bank, Crump weir expected to perform well beyond AMAX3.
+[END]

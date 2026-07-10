@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27092
+[END]
+[CDS DETAILS]
+NAME,Esk
+LOCATION,Briggswath
+NOMINAL AREA,  325.27
+NOMINAL NGR,4873,5082
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,487350,508250
+CENTROID NGR,GB,475910,504303
+DTM AREA,  325.27
+ALTBAR, 222
+ASPBAR, 62
+ASPVAR,0.10
+BFIHOST,0.349
+DPLBAR, 24.65
+DPSBAR,110.0
+FARL,0.999
+FPEXT,0.0230
+LDP, 46.65
+PROPWET,0.40
+RMED-1H, 10.5
+RMED-1D, 35.8
+RMED-2D, 46.9
+SAAR, 877
+SAAR4170, 896
+SPRHOST,48.58
+URBEXT1990,0.0023
+URBEXT2000,0.0038
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Multi-path ultrasonic station in a permeable catchment in the North York Moors. Replaced Esk at Sleights (27050); combined record held at Briggswath. GENERAL: Multi-path ultrasonic station installed at Briggswath in a stable, 30m wide channel in 1992. Gauge has a tendency to drop out on the rising limb of the hydrograph, due to long path lengths and high suspended solids. Station replaced 27050 (Sleights, closed January 1998) in 1992, which was a velocity area station with a broad-crested masonry weir and a fish pass on left bank. STATION HYDROMETRY: Five ratings across the period of record (three for Sleights data, two for Briggswath data). At Briggswath, there is the same limb for peak flows but different lower flow limbs due to a hydro-electric power abstraction downstream at Ruswarp weir from 2012 altering the low flow control. The ultrasonic gauge is not affected by the hydro-electric power, at low flow the rating is just used for infilling gaps. The high flow rating is not affected by the hydro-electric power and is still used in preference to the ultrasonic for peak flows. Cableway gaugings extend to a reasonable level. At Sleights, the weir (25m wide) had a 1m long crest (5.59 mAOD) and a fish pass (11.73m wide and 0.71m lower). Low flows were contained in the fish pass that was restored in 1993 but with no change to the rating. Largest events at Sleights were out of bank. FLOW RECORD: Following statistical assessment of continuity, mean and peak flow data are combined records for Sleights (27050) and Briggswath (27092); POT thresholds prior to merge were 59.986 and 57.784, respectively. Full period of record data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Responsive and sensibly natural flow regime with no known artificial influences noted at either of the merged sites.
+CATCHMENT,Permeable headwaters (Jurassic limestone of the North York Moors) thence mainly Middle Oolite and Middle Lias; extensive Drift cover. A rural catchment with moorland headwaters. No known catchment changes.
+Qmed Suitability,Gauged to near QMED. Post-1992 full range ultrasonic flow gauge informs rating extrapolation.
+Pooling Suitability,No gaugings beyond QMED but all flows contained and rating extrapolation informed by full range ultrasonic flow meter thought to be reliable. Correlation with Sleights in overlap confirms earlier record suitability.
+[END]

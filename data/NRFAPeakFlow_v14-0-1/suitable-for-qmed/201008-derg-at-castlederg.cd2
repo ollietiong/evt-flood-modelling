@@ -1,0 +1,45 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+201008
+[END]
+[CDS DETAILS]
+NAME,Derg
+LOCATION,Castlederg
+NOMINAL AREA,  335.52
+NOMINAL NGR,2265,3842
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,226500,384250
+DTM AREA,  335.52
+ALTBAR, 177
+ASPBAR,116
+ASPVAR,0.12
+BFIHOST,0.504
+DPLBAR, 20.17
+DPSBAR, 67.9
+FARL,0.914
+LDP, 38.17
+PROPWET,0.62
+RMED-1H,  9.5
+RMED-1D, 42.2
+RMED-2D, 56.8
+SAAR,1558
+SAAR4170,1504
+SPRHOST,35.43
+URBCONC1990,-9999.000
+URBEXT1990,0.0021
+URBEXT2000,0.0007
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station with cableway opened in October 1975. GENERAL: Velocity-area station with cableway. Masonry hut housing stilling well and cableway winch situated on top of floodbank on right bank. Main and backup instruments present both using shaft encoders with float & weight. Channel width c.32m at station. STATION HYDROMETRY: Natural bed control downstream of station. Single rating across period of record derived from current meter gaugings. Low flow gauging conducted from upstream road bridge as bed is too rocky to safely wade gauge despite shallow depths at station. High flows gaugings conducted using cableway. Top of flood bank 3.84m. Simple extrapolation used beyond maximum gauged level at 3.04m. Daily flows in late December 2010 considered suspect due to likely freezing in stilling well but this is very much an exception rather than the norm for winter conditions. FLOW RECORD: The two highest flows on record took place within 3 weeks of each other in November/December 2015 both surpassing the previous long-held Peak Flow record from 1985. Daily flows from 1975 onwards reprocessed in 2002. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12). FLOW REGIME: There is a large water abstraction plant downstream. Loughs Derg and Mourne are in the headwaters; Lough Mourne is used for water supply in Co. Donegal. Aside from this, there are no significant water abstractions or effluent returns upstream of the station.
+CATCHMENT,Solid geology - Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Moinian and Ordovician igneous complexes form generally impermeable basement south of the Omagh Thrust. Carboniferous conglomerate, sandstone and mudstone are generally indurated. Drift geology - Extensive glacial till with sand and gravel and lake alluvium in valleys. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. Predominantly upland heath, agricultural grassland, coniferous forest. Castlederg is the main settlement.
+Qmed Suitability,Fully contained at QMED flows. The ratio of maximum gauged flow to QMED (1.1) is good however high flow gaugings haven't been obtained recently and the site would benefit from additional high flow gaugings.
+Pooling Suitability,Only one gauging approaching QMED. Contained at all flows, with a representative growth curve for Northern Ireland.
+[END]

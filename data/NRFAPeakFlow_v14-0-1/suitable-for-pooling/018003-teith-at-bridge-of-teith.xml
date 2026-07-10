@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NN7251901136" x="272519" y="701136">
+        <CatchmentCentroid grid="GB" ngr="NN5299712464" x="252997" y="712464"/>
+        <area>515.6125</area>
+        <altbar>338.0</altbar>
+        <aspbar>151.0</aspbar>
+        <aspvar>0.12</aspvar>
+        <bfihost>0.458</bfihost>
+        <bfihost19>0.475</bfihost19>
+        <bfihost19scaled>0.415</bfihost19scaled>
+        <dplbar>33.18</dplbar>
+        <dpsbar>234.3</dpsbar>
+        <draindens>1.178</draindens>
+        <farl>0.755</farl>
+        <farl2015>0.7357</farl2015>
+        <fpext>0.0387</fpext>
+        <fpdbar>0.695</fpdbar>
+        <fploc>0.792</fploc>
+        <ihdtmeasting>272500</ihdtmeasting>
+        <ihdtmnorthing>701150</ihdtmnorthing>
+        <ldp>59.75</ldp>
+        <propwet>0.67</propwet>
+        <rmed_1h>10.7</rmed_1h>
+        <rmed_1d>50.6</rmed_1d>
+        <rmed_2d>72.2</rmed_2d>
+        <saar>2001.0</saar>
+        <saar4170>2011.0</saar4170>
+        <saar9120>2312</saar9120>
+        <sprhost>41.58</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>2.0E-4</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0011</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0019</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NN7251901136" x="272519" y="701136">
+        <c>-0.01519</c>
+        <d1>0.48387</d1>
+        <d2>0.41046</d2>
+        <d3>0.43921</d3>
+        <e>0.24251</e>
+        <f>2.48185</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NN730010" x="273000" y="701000">
+        <c_1_km>-0.015</c_1_km>
+        <d1_1_km>0.436</d1_1_km>
+        <d2_1_km>0.333</d2_1_km>
+        <d3_1_km>0.413</d3_1_km>
+        <e_1_km>0.243</e_1_km>
+        <f_1_km>2.316</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.1, 2.7, 3.2, 4, 5.4, 6.3, 7.3, 8.2, 9.4, 10.4, 11.4, 12.5, 13.6, 14.9, 16.3, 17.7, 19.3, 20.9, 22.7, 24.4, 26.1, 27.8</Depths>
+        <Depths duration="0.25">4.2, 5.3, 6.5, 8.2, 11, 13, 15.3, 17.4, 19.8, 22.3, 24.7, 27.2, 30.2, 33.3, 36.8, 40.3, 44.5, 48.8, 53.5, 57.9, 62.8, 67.7</Depths>
+        <Depths duration="0.5">6.1, 7.7, 9.4, 12, 16.2, 19.2, 22.8, 26.1, 29.8, 33.7, 37.8, 41.8, 46.5, 51.6, 57.4, 63.2, 70, 77.3, 85.1, 92.6, 101.1, 109.6</Depths>
+        <Depths duration="0.75">7.4, 9.4, 11.6, 14.8, 20, 23.8, 28.2, 32.3, 37, 41.9, 47, 52.2, 58, 64.4, 71.8, 79.1, 87.8, 97, 107, 116.5, 127.3, 138.2</Depths>
+        <Depths duration="1">8.7, 11, 13.5, 17.2, 23.2, 27.6, 32.6, 37.4, 42.7, 48.2, 54, 59.8, 66.5, 73.8, 82.1, 90.3, 100.2, 110.6, 121.7, 132.4, 144.5, 156.6</Depths>
+        <Depths duration="2">14, 16.8, 19.6, 23.8, 30.4, 35.2, 40.6, 45.8, 51.6, 57.5, 64, 70.4, 78.1, 86.5, 95.9, 105.3, 116.3, 127.7, 139.7, 151, 163.6, 176.2</Depths>
+        <Depths duration="4">21.2, 24.5, 27.7, 32.4, 39.8, 45.1, 51.1, 56.8, 63.2, 70, 77.3, 84.7, 93.6, 103.5, 114.4, 125.1, 137.3, 149.6, 162.4, 174.4, 187.6, 200.6</Depths>
+        <Depths duration="6">26.7, 30.2, 33.7, 38.9, 46.8, 52.4, 58.8, 65, 71.9, 79.3, 87.3, 95.5, 105.5, 116.3, 128.3, 139.8, 152.7, 165.6, 178.9, 191.3, 204.9, 218.2</Depths>
+        <Depths duration="12">38.6, 42.8, 46.8, 52.8, 61.9, 68.3, 75.8, 82.9, 91.2, 100.1, 110.1, 120.3, 132.4, 145.2, 158.9, 171.9, 186, 200, 214.2, 227.4, 241.7, 255.7</Depths>
+        <Depths duration="18">47.4, 52, 56.5, 63, 73, 80, 88.3, 96.3, 105.7, 115.9, 127.4, 139.1, 152.8, 166.8, 181.4, 195.1, 210.1, 224.7, 239.5, 253.2, 268.1, 282.6</Depths>
+        <Depths duration="24">54.6, 59.5, 64.3, 71.3, 82, 89.6, 98.5, 107.3, 117.7, 129, 141.8, 154.7, 169.5, 184.4, 199.6, 213.8, 229.3, 244.4, 259.7, 273.9, 289.3, 304.3</Depths>
+        <Depths duration="48">75.5, 81.4, 87.1, 95.5, 108.2, 117.4, 128.3, 139.2, 152.2, 166.5, 182.3, 197.7, 215, 232, 249.3, 265.2, 282.3, 299, 315.8, 331.3, 348.1, 364.4</Depths>
+        <Depths duration="96">105.6, 112.8, 119.8, 130, 145.4, 156.5, 169.6, 182.5, 198, 214.8, 233.2, 251, 270.7, 290.1, 309.6, 327.6, 347, 365.8, 384.7, 402.1, 420.8, 439</Depths>
+        <Depths duration="192">158.4, 167.9, 177, 190.1, 209.6, 223.1, 238.6, 253.4, 270.3, 288.1, 307.4, 326.6, 348.4, 370.4, 392.9, 413.8, 436.4, 458.3, 480.2, 500.3, 521.9, 543</Depths>
+        <Depths duration="240">185.5, 196.1, 206.2, 220.7, 242, 256.7, 273.3, 288.8, 306.1, 324.1, 343.3, 362.3, 384.1, 406.6, 429.8, 451.6, 475.4, 498.6, 521.9, 543.2, 566.3, 588.7</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.1, 2.6, 3.2, 3.9, 5.3, 6.1, 7, 7.8, 8.8, 9.8, 10.5, 11.5, 12.3, 13.2, 14.2, 15.1, 16, 17, 18, 19.1, 20.1, 21.2</Depths>
+        <Depths duration="0.25">4.2, 5.3, 6.3, 8, 10.6, 12.4, 14.6, 16.5, 18.7, 20.8, 23, 25, 27.3, 29.6, 32, 34.3, 37, 39.6, 42.5, 45.3, 48.4, 51.5</Depths>
+        <Depths duration="0.5">6, 7.6, 9.2, 11.7, 15.6, 18.3, 21.7, 24.8, 28.2, 31.5, 35.1, 38.3, 42.1, 45.9, 49.9, 53.8, 58.2, 62.8, 67.7, 72.5, 77.9, 83.5</Depths>
+        <Depths duration="0.75">7.3, 9.3, 11.3, 14.4, 19.4, 22.8, 26.9, 30.6, 34.9, 39.2, 43.6, 47.9, 52.5, 57.3, 62.5, 67.4, 73, 78.7, 85.1, 91.1, 98.1, 105.2</Depths>
+        <Depths duration="1">8.6, 10.9, 13.2, 16.7, 22.4, 26.4, 31.1, 35.4, 40.3, 45.1, 50.1, 54.9, 60.2, 65.6, 71.4, 76.9, 83.3, 89.8, 96.8, 103.6, 111.3, 119.2</Depths>
+        <Depths duration="2">14, 16.7, 19.3, 23.4, 29.7, 34.1, 39.2, 43.9, 49.1, 54.3, 59.8, 65, 70.9, 76.9, 83.3, 89.6, 96.8, 104.2, 112.1, 119.6, 128.1, 136.7</Depths>
+        <Depths duration="4">21.4, 24.6, 27.7, 32.4, 39.5, 44.4, 50.1, 55.4, 61.2, 67.1, 73.3, 79.2, 86.1, 93.2, 100.8, 108.2, 116.6, 125.2, 134.2, 142.7, 152.1, 161.4</Depths>
+        <Depths duration="6">27.1, 30.6, 34, 39.1, 46.8, 52.1, 58.3, 64, 70.4, 76.9, 83.7, 90.4, 98.1, 106.2, 114.8, 123.1, 132.4, 141.8, 151.5, 160.5, 170.4, 180.2</Depths>
+        <Depths duration="12">39.4, 43.5, 47.6, 53.6, 62.6, 68.9, 76.2, 83.1, 90.9, 99, 107.8, 116.4, 126.4, 136.5, 147.1, 157, 167.9, 178.7, 189.5, 199.6, 210.5, 221.1</Depths>
+        <Depths duration="18">48.2, 52.9, 57.4, 63.9, 73.9, 81, 89.3, 97.2, 106.3, 115.8, 126.2, 136.4, 147.8, 159.3, 171.1, 181.9, 193.7, 205.2, 216.8, 227.5, 239, 250.3</Depths>
+        <Depths duration="24">55.3, 60.3, 65.2, 72.3, 83.1, 90.8, 99.9, 108.7, 119, 129.8, 141.5, 152.7, 165.3, 177.7, 190.3, 201.8, 214.3, 226.4, 238.5, 249.7, 261.7, 273.5</Depths>
+        <Depths duration="48">75.9, 81.9, 87.8, 96.4, 109.6, 119.2, 130.7, 142.2, 155.6, 169.7, 184.6, 198.5, 213.7, 228.3, 243, 256.4, 270.7, 284.5, 298.3, 311, 324.6, 337.8</Depths>
+        <Depths duration="96">105.8, 113.4, 120.7, 131.4, 147.8, 159.6, 173.8, 187.9, 204.5, 221.7, 239.7, 256.5, 274.6, 292.1, 309.4, 325.2, 342.1, 358.3, 374.6, 389.4, 405.4, 420.9</Depths>
+        <Depths duration="192">160.6, 170.8, 180.5, 194.6, 215.6, 230.4, 247.5, 263.8, 282.6, 302.2, 323, 342.9, 364.8, 386.3, 407.8, 427.4, 448.5, 468.8, 489.2, 507.8, 527.9, 547.3</Depths>
+        <Depths duration="240">189.3, 200.8, 211.7, 227.4, 250.6, 266.6, 284.8, 302, 321.4, 341.5, 362.8, 383.4, 406.5, 429.4, 452.5, 473.8, 496.8, 519, 541.3, 561.7, 583.6, 604.8</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Bridge of Teith" name="Teith" number="18003">
+        <Comments>
+            <Comment type="Station Summary">A velocity-area station located upstream of Stirling with headwaters in the Loch Lomond and The Trossachs National Park.</Comment>
+            <Comment type="Hydrometric">Steep banks of ~3m have contained all recorded floods. Low flow control is long gravel riffle: high flow control is channel geometry, including downstream bend and mid-stream island. Station suffers from occasional ice build up. Multiple ratings accross period of record. No gaugings or ratings available for period prior to 01/04/1970.</Comment>
+            <Comment type="General">Well sited station on straight, natural river section 70m wide. On 06/06/1956 recorder was moved d/s to its current position. An earlier station by the same name existed somewhere upstream from 1939. SEPA holds copies of the chart record from this earlier station but has no details of the exact location, any gauging history, or rating details from the earlier station. Station added to peak flows dataset in August 2021 (WINFAP Files v10).</Comment>
+            <Comment type="Flow record">Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11).</Comment>
+            <Comment type="Flow regime">Six large lochs in catchment - some supplying water to Glasgow: flows &lt;75%ile elevated above natural and flows &gt;75%ile are less than expected naturally.</Comment>
+            <Comment type="Catchment">Catchment rising from near sea level up to ~1150m. Complex bedrock, predominantly impermeable (metamorphic) with approx. 60% superficial deposit cover. Land use mainly grassland and forest. The Teith drains from the Trossachs.</Comment>
+            <Comment type="Factors affecting runoff">SPI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged to QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="All flows contained and station is gauged above QMED." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>1.43</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

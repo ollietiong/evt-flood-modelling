@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SJ7266887533" x="372668" y="387533">
+        <CatchmentCentroid grid="GB" ngr="SJ8561478681" x="385614" y="378681"/>
+        <area>257.57</area>
+        <altbar>124.0</altbar>
+        <aspbar>302.0</aspbar>
+        <aspvar>0.25</aspvar>
+        <bfihost>0.507</bfihost>
+        <bfihost19>0.531</bfihost19>
+        <bfihost19scaled>0.525</bfihost19scaled>
+        <dplbar>26.85</dplbar>
+        <dpsbar>56.2</dpsbar>
+        <draindens>1.185</draindens>
+        <farl>0.946</farl>
+        <farl2015>0.9631</farl2015>
+        <fpext>0.1167</fpext>
+        <fpdbar>0.892</fpdbar>
+        <fploc>0.825</fploc>
+        <ihdtmeasting>372650</ihdtmeasting>
+        <ihdtmnorthing>387550</ihdtmnorthing>
+        <ldp>50.15</ldp>
+        <propwet>0.43</propwet>
+        <rmed_1h>10.3</rmed_1h>
+        <rmed_1d>31.7</rmed_1d>
+        <rmed_2d>42.4</rmed_2d>
+        <saar>881.0</saar>
+        <saar4170>865.0</saar4170>
+        <saar9120>921</saar9120>
+        <sprhost>32.55</sprhost>
+        <urbconc1990>0.653</urbconc1990>
+        <urbext1990>0.0454</urbext1990>
+        <urbloc1990>1.07</urbloc1990>
+        <urbconc2000>0.819</urbconc2000>
+        <urbext2000>0.0788</urbext2000>
+        <urbloc2000>1.007</urbloc2000>
+        <urbext2015>0.1138</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SJ7266887533" x="372668" y="387533">
+        <c>-0.0249</c>
+        <d1>0.34306</d1>
+        <d2>0.35413</d2>
+        <d3>0.30095</d3>
+        <e>0.30061</e>
+        <f>2.40407</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SJ730880" x="373000" y="388000">
+        <c_1_km>-0.025</c_1_km>
+        <d1_1_km>0.312</d1_1_km>
+        <d2_1_km>0.364</d2_1_km>
+        <d3_1_km>0.299</d3_1_km>
+        <e_1_km>0.299</e_1_km>
+        <f_1_km>2.481</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.1, 3.7, 4.4, 5.4, 7, 8.1, 9.4, 10.7, 12.2, 13.9, 16.1, 18.3, 20.9, 23.6, 26.3, 28.8, 31.5, 34.1, 36.6, 38.9, 41.3, 43.7</Depths>
+        <Depths duration="0.25">5.2, 6.3, 7.5, 9.2, 12, 14, 16.6, 19, 22, 25.5, 29.7, 34.1, 39.4, 45, 50.8, 56.2, 62.2, 68.1, 74, 79.5, 85.4, 91.1</Depths>
+        <Depths duration="0.5">6.8, 8.1, 9.7, 11.9, 15.6, 18.3, 21.7, 25.1, 29.1, 33.8, 39.5, 45.6, 53, 60.8, 69, 76.6, 85.1, 93.5, 102.1, 110.2, 118.8, 127.4</Depths>
+        <Depths duration="0.75">7.7, 9.3, 11, 13.6, 17.9, 21, 24.8, 28.7, 33.5, 39, 45.6, 52.7, 61.4, 70.5, 80.1, 89.3, 99.4, 109.3, 119.6, 129.2, 139.6, 150.1</Depths>
+        <Depths duration="1">8.4, 10.2, 12, 14.9, 19.5, 22.9, 27.1, 31.4, 36.7, 42.8, 50.1, 58, 67.6, 77.6, 88.3, 98.4, 109.6, 120.7, 132.2, 142.9, 154.6, 166.2</Depths>
+        <Depths duration="2">11.9, 13.9, 15.9, 19, 24, 27.8, 32.5, 37.4, 43.6, 50.9, 59.4, 68.3, 78.6, 89.2, 100.2, 110.6, 122, 133.4, 145, 155.9, 167.7, 179.5</Depths>
+        <Depths duration="4">15.9, 18.1, 20.3, 23.7, 29.2, 33.4, 38.7, 44.3, 51.6, 59.9, 69.4, 79, 89.9, 100.8, 112.1, 122.7, 134.4, 145.9, 157.7, 168.7, 180.7, 192.5</Depths>
+        <Depths duration="6">18.6, 20.9, 23.3, 26.8, 32.6, 37, 42.7, 48.8, 56.6, 65.5, 75.5, 85.3, 96.5, 107.6, 119, 129.7, 141.5, 153.1, 165, 176, 188.1, 200.1</Depths>
+        <Depths duration="12">24, 26.5, 29, 32.9, 39.2, 44.1, 50.5, 57.3, 65.9, 75.5, 86.1, 96.3, 107.8, 119.2, 131, 141.9, 153.8, 165.6, 177.7, 188.9, 201.1, 213.1</Depths>
+        <Depths duration="18">27.7, 30.3, 33, 37.1, 43.7, 48.9, 55.6, 62.8, 71.8, 81.7, 92.6, 103, 114.6, 126.2, 138.1, 149.1, 161.2, 173.1, 185.2, 196.5, 208.8, 220.9</Depths>
+        <Depths duration="24">30.6, 33.4, 36.1, 40.4, 47.3, 52.7, 59.6, 67, 76.2, 86.4, 97.4, 107.9, 119.7, 131.3, 143.3, 154.4, 166.6, 178.6, 190.9, 202.2, 214.6, 226.8</Depths>
+        <Depths duration="48">39, 42.1, 45.2, 49.9, 57.6, 63.5, 71.1, 79, 88.7, 99.2, 110.6, 121.4, 133.5, 145.4, 157.6, 169, 181.4, 193.6, 206.1, 217.6, 230.2, 242.6</Depths>
+        <Depths duration="96">50.5, 54, 57.6, 62.9, 71.5, 78.2, 86.5, 94.9, 105, 115.8, 127.5, 138.7, 151.2, 163.5, 176.1, 187.8, 200.6, 213.1, 225.9, 237.8, 250.7, 263.3</Depths>
+        <Depths duration="192">68.2, 72.4, 76.6, 82.9, 92.8, 100.2, 109.2, 118.2, 128.9, 140.1, 152.2, 163.8, 176.7, 189.6, 202.8, 215, 228.4, 241.5, 254.9, 267.2, 280.6, 293.7</Depths>
+        <Depths duration="240">76.4, 80.9, 85.4, 92.1, 102.5, 110.2, 119.5, 128.7, 139.5, 150.8, 163, 174.7, 187.8, 200.9, 214.3, 226.8, 240.4, 253.8, 267.3, 279.9, 293.5, 306.8</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.6, 4.4, 5.4, 7, 8.2, 9.5, 10.6, 11.8, 13, 14.3, 15.5, 16.8, 18.2, 19.7, 21.2, 23.1, 24.9, 26.8, 28.6, 30.6, 32.4</Depths>
+        <Depths duration="0.25">4.9, 6.1, 7.4, 9.2, 12.2, 14.2, 16.7, 18.9, 21.3, 23.8, 26.3, 28.9, 31.7, 34.8, 38.1, 41.5, 45.5, 49.8, 54.2, 58.4, 63.1, 67.7</Depths>
+        <Depths duration="0.5">6.4, 7.8, 9.5, 11.9, 15.7, 18.6, 21.8, 24.9, 28.1, 31.5, 35.1, 38.6, 42.6, 47, 51.8, 56.5, 62.2, 68.4, 74.8, 80.9, 87.8, 94.7</Depths>
+        <Depths duration="0.75">7.2, 8.9, 10.8, 13.6, 18.1, 21.2, 25, 28.5, 32.4, 36.3, 40.5, 44.6, 49.4, 54.5, 60.1, 65.9, 72.7, 79.9, 87.6, 94.9, 103.2, 111.5</Depths>
+        <Depths duration="1">7.9, 9.8, 11.8, 14.9, 19.7, 23.2, 27.3, 31.2, 35.5, 39.9, 44.5, 49.1, 54.4, 60, 66.3, 72.6, 80.2, 88.2, 96.8, 105, 114.3, 123.5</Depths>
+        <Depths duration="2">11.7, 13.9, 16.1, 19.5, 24.8, 28.6, 33, 37.2, 41.9, 46.7, 51.9, 57, 63.1, 69.7, 77, 84.4, 93, 101.8, 111, 119.8, 129.4, 138.9</Depths>
+        <Depths duration="4">16.1, 18.6, 21.1, 24.8, 30.6, 34.8, 39.6, 44.2, 49.4, 54.9, 61, 67.1, 74.5, 82.4, 91.1, 99.5, 109.1, 118.6, 128.4, 137.6, 147.6, 157.4</Depths>
+        <Depths duration="6">18.9, 21.5, 24.2, 28.1, 34.3, 38.7, 43.9, 48.8, 54.6, 60.7, 67.5, 74.4, 82.8, 91.6, 101, 110.1, 120.1, 130, 140.1, 149.5, 159.8, 169.9</Depths>
+        <Depths duration="12">24, 26.9, 29.9, 34.2, 41, 46, 51.9, 57.8, 64.8, 72.4, 81, 89.6, 99.6, 109.8, 120.3, 130.1, 140.8, 151.3, 161.9, 171.8, 182.5, 193</Depths>
+        <Depths duration="18">27.2, 30.3, 33.4, 38.1, 45.4, 50.7, 57.2, 63.7, 71.6, 80.3, 90, 99.6, 110.3, 121.1, 132.1, 142.3, 153.3, 164.1, 175.1, 185.2, 196.2, 207</Depths>
+        <Depths duration="24">29.7, 33, 36.2, 41, 48.6, 54.3, 61.2, 68.2, 76.8, 86.2, 96.5, 106.6, 117.8, 128.9, 140.2, 150.6, 161.9, 173, 184.2, 194.6, 205.8, 216.8</Depths>
+        <Depths duration="48">37.3, 40.9, 44.5, 49.8, 58.1, 64.4, 72.1, 80.1, 89.9, 100.5, 112.1, 123.1, 135.2, 147, 159, 170, 182, 193.6, 205.4, 216.2, 228, 239.5</Depths>
+        <Depths duration="96">49.1, 53.1, 57, 62.8, 71.8, 78.4, 86.4, 94.6, 104.7, 115.8, 127.9, 139.5, 152.4, 165, 177.7, 189.4, 202, 214.3, 226.8, 238.2, 250.6, 262.7</Depths>
+        <Depths duration="192">69.5, 74, 78.4, 84.8, 94.4, 101.3, 109.3, 117.2, 126.7, 137.1, 149, 160.9, 174.3, 187.7, 201.4, 213.9, 227.6, 240.9, 254.3, 266.6, 279.9, 292.8</Depths>
+        <Depths duration="240">79, 83.8, 88.4, 95.1, 105, 112, 120.1, 127.9, 137.2, 147.2, 158.7, 170.5, 184.1, 197.8, 211.8, 224.8, 238.9, 252.7, 266.5, 279.2, 292.9, 306.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Dunham Massey" name="Bollin" number="69006">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station upstream of the confluence with the Manchester Ship Canal. Station closed in January 2002 and replaced by Bollington Mill (69045).</Comment>
+            <Comment type="Hydrometric">No formal control or structure (so no wing wall height held), cableway present. No bypassing reported. The riverbed is mobile, with sediment erosion during high flows and accumulation during dry spells; summer weed growth also a problem. The Bridgwater canal, which crosses the river just upstream of the station, burst its banks in August 1971, and modified the river bed for at least 18 months. Daily flow rating only approximate owing to very unstable bed and weed growth. Site also affected by siltation causing blockage of inlet to stilling well. Multiple peak flow ratings applied across period of record, the most recent is valid from December 1985. Ratings derived from current meter gaugings, significant scatter towards high flows. Flood Studies Report grade B.</Comment>
+            <Comment type="General">A velocity area station in a natural river section located a few km upstream of the confluence with the Manchester Ship Canal. Opened 1936, closed 09/01/2002, replaced by Bollington Mill 750m upstream (69045).</Comment>
+            <Comment type="Flow record">Level records from 1937. Flows from 1954 but of poor quality due to mobile bed. Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12).</Comment>
+            <Comment type="Flow regime">Very responsive regime. Reservoirs and many industrial abstractions and discharges affect low flows particularly.</Comment>
+            <Comment type="Catchment">Geology of the upper reaches consists of Millstone Grit and the lower parts have marls overlain with postglacial deposits. Land use is very mixed - a predominantly rural catchment but includes the urban areas of Macclesfield near the headwaters, Wilmslow in the mid-catchment and the outskirts of Greater Manchester at the outlet. No catchment changes known.</Comment>
+            <Comment type="Factors affecting runoff">SPGEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED. Reasonable fit to gaugings." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3. However, mobile river bed and scatter in gaugings renders rating uncertain beyond QMED." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-0.33</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

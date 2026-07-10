@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38022
+[END]
+[CDS DETAILS]
+NAME,Pymmes Brook
+LOCATION,Edmonton Silver Street
+NOMINAL AREA,   40.55
+NOMINAL NGR,5340,1925
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,534050,192550
+CENTROID NGR,GB,528318,193680
+DTM AREA,   40.55
+ALTBAR,  65
+ASPBAR, 93
+ASPVAR,0.31
+BFIHOST,0.243
+DPLBAR,  8.08
+DPSBAR, 40.4
+FARL,0.975
+FPEXT,0.0681
+LDP, 16.04
+PROPWET,0.29
+RMED-1H, 10.9
+RMED-1D, 33.9
+RMED-2D, 43.7
+SAAR, 672
+SAAR4170, 673
+SPRHOST,47.98
+URBCONC1990, 0.890
+URBEXT1990,0.4232
+URBLOC1990, 0.876
+URBCONC2000, 0.929
+URBEXT2000,0.5774
+URBLOC2000, 0.884
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station located on the Pymmes Brook with a catchment dominated by urban land use. GENERAL: Crump weir (crest width 6.16m) in a concrete trapezoidal channel. Installed in 1972 a few metres upstream of the original station (Alcazaar 38025). The original station was commissioned in 1954 and operated as a rated section. STATION HYDROMETRY: Theoretical crump weir formula used to calculate flows since the weir was built. Crest tapping and tail levels suggest the weir remains modular throughout the flow range. Station performs well at low flows but too few gaugings at mid to high flows to confirm levels of uncertainty. FLOW RECORD: Original rating superseded in 1963 by a new discharge table and the old records were corrected. This was replaced in 1981 by one which took into account the trapezoidal nature of the channel. Data from November 1972 to 1981 was recalculated and the new rating was adopted since 1982. Flows corrected for weir drowning since 1982. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Pre-1965 runoff substantially enhanced by sewage effluent (now treated outside the catchment). Currently no significant abstractions or discharges. Natural to within 10% at Q95.
+CATCHMENT,Impervious (London Clay) catchment. Pymmes Brook rises on Enfield Chase but the catchment is now dominated by urban land use.
+Qmed Suitability,Stable standard crump weir with gaugings up to QMED.
+Pooling Suitability,Confidence in theoretical rating, no evidence to suggest drowning or bypassing.
+[END]

@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60001
+[END]
+[CDS DETAILS]
+NAME,Tywi
+LOCATION,Ty Castell
+NOMINAL AREA, 1090.84
+NOMINAL NGR,2491,2203
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,249150,220350
+CENTROID NGR,GB,269002,235627
+DTM AREA, 1090.84
+ALTBAR, 234
+ASPBAR,212
+ASPVAR,0.09
+BFIHOST,0.478
+DPLBAR, 45.48
+DPSBAR,156.9
+FARL,0.984
+FPEXT,0.0607
+LDP, 89.91
+PROPWET,0.59
+RMED-1H, 11.3
+RMED-1D, 49.8
+RMED-2D, 66.5
+SAAR,1535
+SAAR4170,1585
+SPRHOST,38.97
+URBEXT1990,0.0008
+URBEXT2000,0.0018
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area high flow station - Peak flows data only on NRFA. GENERAL: Velocity area high flow station - only peak flows data is on NRFA. Low flows measured d/s at 60010 (Capel Dewi). Channel width: 42m. Natural open-channel section within a straight reach of river. STATION HYDROMETRY: Levels are monitored using a telemetered in-river PTX. Left bank contains high flows, right bank allows only extreme high flows to spill and bypass station - accounted for in ratings. Ty Castell effective above 50 cumecs. Two peak flow ratings across period of record to account for datum change in summer 1990. Rating review in 2017, corrected data for historic gauge board level slippage and reviewed ratings from 1978, review in 2018 added upper limb for out of bank flow to current rating. Bank full stage is currently 5.3m, 5.76m with earlier datum. FLOW RECORD: Only two events (October 1987 and October 2018) were significantly out of bank; the event of December 1979 was only just above bankfull. The historic flood in 1931 was of a similar magnitude to the 1987 event. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). Current rating was updated following the October 2018 flood with the addition of an upper limb which includes out of bank flow. FLOW REGIME: Llyn Brianne reservoir (catchment area approx 88km) in headwaters regulates flow down to major DCWW PWS abstraction d/s of station. It is also used for some winter Hydropower. The reservoir began to fill in March 1972 and it was full by December 1972.
+CATCHMENT,Predominantly impermeable, Ordovician and Silurian with Old Red Sandstone on southern boundary. Peaty soils in headwaters, seasonally wet. Lower area soils with permeable substrata, rarely wet. Alluvium in valleys. Catchment is largely grassland with hill farming in upper catchment, some livestock and dairying at lower levels. Some forest cover, significant concentration along NE margin.
+Qmed Suitability,Gauged above QMED. Ratings fit respective gaugings well.Use data from 1972, when reservoir constructed.
+Pooling Suitability,Gauged close to AMAX3. Ratings fit respective gaugings well.Use data from 1972, when reservoir constructed.
+[END]

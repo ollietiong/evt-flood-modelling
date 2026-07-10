@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203024
+[END]
+[CDS DETAILS]
+NAME,Cusher
+LOCATION,Gamble's Bridge
+NOMINAL AREA,  170.89
+NOMINAL NGR,3047,3470
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,304800,347100
+CENTROID NGR,Ireland,298775,335536
+DTM AREA,  170.89
+ALTBAR, 132
+ASPBAR, 53
+ASPVAR,0.16
+BFIHOST,0.365
+DPLBAR, 20.82
+DPSBAR, 77.0
+FARL,0.992
+FPEXT,0.0581
+LDP, 33.17
+PROPWET,0.53
+RMED-1H,  9.9
+RMED-1D, 34.6
+RMED-2D, 47.3
+SAAR, 996
+SAAR4170,1021
+SPRHOST,38.23
+URBCONC1990,-9999.000
+URBEXT1990,0.0099
+URBLOC1990, 0.497
+URBEXT2000,0.0038
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station with cableway opened in June 1971. Construction of weir in 1980 stabilised measuring section. GENERAL: Velocity-area station with cableway. Wooden hut housing stilling well and cableway winch situated on right bank. Main and backup instruments present both using shaft encoders with float and weight. Channel width c.13m at station. Block built weir constructed in 1980 stabilised measuring section although this significantly altered the flow regime rendering earlier flows as unrepresentative. Cusher River runs parallel to the Newry Canal for its final 5km before joining the Lower Bann just south of Portadown. STATION HYDROMETRY: Block built weir constructed in 1980 acts as control. As a result all data prior to 1980 should be treated with caution and should not be used for flood estimation. Multiple ratings apply to period of record. All flows are contained in bank. Ratings derived from current meter gaugings from cableway. FLOW RECORD: No gaps in station records although early record (before 1980) prior to weir construction is marked as unrepresentative. Period between 1982-1985 also marked as unrepresentative due to an issue with recording the level relative to the datum, giving lower than expected flow values. Gravel build-up removed in April 1989, thought to affect flows back to Oct 1987. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8) and in August 2024 (WINFAP Files v13). FLOW REGIME: Station has an average t-rise figure for NI stations included in Peak Flows - 16.5 hours. No significant artificial influences.
+CATCHMENT,Solid geology - area underlain by indurated Silurian greywacke sandstones and shales. Palaeogene basalt lava flow form bedrock in an area to the north of the catchment. Drift Geology - Drumlinised glacial till covers much of the area, with river alluvium in the main valleys. Rock near surface and peat associated with Silurian bedrock area. Rural catchment, mostly grassland, some arable farming. Small town of Tandragee is the only sizeable urban area located at very bottom end of the catchment.
+Qmed Suitability,All high flows fully contained.Four gaugings in excess of QMED.
+Pooling Suitability,All high flows fully contained.Good number of high flow gaugings, the highest of which is 91% of AMAX1.
+[END]

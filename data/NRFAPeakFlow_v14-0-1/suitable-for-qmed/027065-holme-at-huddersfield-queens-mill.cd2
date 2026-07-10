@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27065
+[END]
+[CDS DETAILS]
+NAME,Holme
+LOCATION,Huddersfield Queens Mill
+NOMINAL AREA,  100.70
+NOMINAL NGR,4142,4157
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,414250,415750
+DTM AREA,  100.70
+ALTBAR, 276
+ASPBAR, 40
+ASPVAR,0.32
+BFIHOST,0.605
+DPLBAR, 12.34
+DPSBAR,134.2
+FARL,0.941
+LDP, 20.73
+PROPWET,0.57
+RMED-1H, 11.4
+RMED-1D, 47.3
+RMED-2D, 64.5
+SAAR,1237
+SAAR4170,1232
+SPRHOST,25.07
+URBCONC1990, 0.605
+URBEXT1990,0.0380
+URBLOC1990, 0.575
+URBCONC2000, 0.729
+URBEXT2000,0.0498
+URBLOC2000, 0.671
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir. Holme Bridge reservoir group in the headwaters affect flow regime. GENERAL: Flat-V weir, 11m wide, 1:10 cross-slope. STATION HYDROMETRY: Weir drowns at high flows. Gauged to within 40% of QMED and flow is well contained above this, however there is uncertainty in the magnitude of the highest flows beyond the modular limit. No known by-passing. FLOW REGIME: Reservoirs in headwaters - compensation releases from Holme Bridge group affects flow regime. Net export of water from the catchment.
+CATCHMENT,Predominantly Millstone Grit. Moorland headwaters; urban development and significant forest cover in the lower catchment.
+Qmed Suitability,Only gauged to within 40% of QMED but flow is well contained and good consistency in gaugings so extrapolation to QMED seems reasonable.
+Pooling Suitability,Not gauged to high enough level to give confidence in flows beyond modular limit of the weir.
+[END]

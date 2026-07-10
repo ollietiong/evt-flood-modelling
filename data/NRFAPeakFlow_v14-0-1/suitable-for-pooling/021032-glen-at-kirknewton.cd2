@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21032
+[END]
+[CDS DETAILS]
+NAME,Glen
+LOCATION,Kirknewton
+NOMINAL AREA,  196.05
+NOMINAL NGR,3918,6310
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,391850,631000
+DTM AREA,  196.05
+ALTBAR, 272
+ASPBAR,356
+ASPVAR,0.13
+BFIHOST,0.456
+DPLBAR, 17.75
+DPSBAR,193.9
+FARL,0.986
+LDP, 36.77
+PROPWET,0.46
+RMED-1H,  9.5
+RMED-1D, 38.4
+RMED-2D, 51.7
+SAAR, 877
+SAAR4170, 929
+SPRHOST,50.64
+URBEXT1990,0.0008
+URBEXT2000,0.0013
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Informal flat-V weir and velocity-area station draining The Cheviot. Station closed September 2010. GENERAL: Informal flat-V weir and velocity-area station beyond (1:2 and 1:5 slopes and about 1:100 cross-slope, insensitive). V is lop-sided as left wing wall was moved inwards after flood damage. The weir crest was eroded in the past. Station closed in September 2010 following repeated breaches of bank. Equipment removed in September 2010 and the weir was completely removed in September 2015. STATION HYDROMETRY: Banks are double terraced, with first step at 1.6m, second at 2.6m. A flood bank on the right bank protects the floodplain, but at high flows there was significant bypassing of the cableway (starting at 1.6m), leading to considerable uncertainty, true peaks not recorded. Flood bank breached upstream in September 2008. The bank was repaired in November 2008 but breached again in July 2009. Partially repaired by plugging the gap with gravel, but again breached in September 2009. Station rated by current meter gauging up to bankfull (1.6m). Multiple peak flow ratings applied across period of record, the most recent was developed by consultants as part of the Kirknewton flood mapping study and is valid from September 2008 to the end of the record. Flood Studies Report grade A for structure, but C due to chart record. FLOW RECORD: Flat-top hydrographs before September 1966 due to silting of inlet pipe. Logger installed in 1991 (very limited data 1983-1990 but charts available). Caution needed in interpreting suspect 1994 minima. Flows from 1989 reprocessed in 2002: low flows increased, some peak flows decreased. Peak flows in WY1983/1984 and WY1996/1997 rejected due to missing data. WY2007/2008 peak flows rejected because September 2008 flood caused breach in flood banks, resulting in missing flows until late October 2008. Subsequent peak flow data rejected as three breaches in upstream floodbank between September 2008 and station closure in September 2010. Breach was repaired twice but some of the flow was bypassing the weir from July 2009 to the end of the record. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Natural flow regime, very limited abstraction.
+CATCHMENT,Upland catchment, draining from The Cheviot with a natural flow regime. Developed mostly on impermeable igneous formations, around a third of the catchment is overlain by superficial deposits. Around half the catchment is grassland, with mountain/heath in upper reaches and arable in lower lying areas.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Known to bypass in large floods and peak hydrograph shape is sometimes questionable, but magnitude of gauged peaks warrants inclusion.
+[END]

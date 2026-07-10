@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203043
+[END]
+[CDS DETAILS]
+NAME,Oonawater
+LOCATION,Shanmoy
+NOMINAL AREA,   88.59
+NOMINAL NGR,2779,3556
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,278050,355700
+CENTROID NGR,Ireland,271880,358999
+DTM AREA,   88.59
+ALTBAR, 117
+ASPBAR, 92
+ASPVAR,0.17
+BFIHOST,0.400
+DPLBAR, 13.63
+DPSBAR, 78.1
+FARL,0.974
+FPEXT,0.0776
+LDP, 24.07
+PROPWET,0.59
+RMED-1H,  9.0
+RMED-1D, 31.4
+RMED-2D, 43.1
+SAAR,1003
+SAAR4170,1057
+SPRHOST,36.05
+URBCONC1990,-9999.000
+URBEXT1990,0.0090
+URBLOC1990, 0.315
+URBEXT2000,0.0021
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station located on left bank. Masonry hut housing stilling well with main and backup instruments both using shaft encoders with float and weight. Channel width c.7m at station. GENERAL: Velocity-area station with cableway first opened in 1981 with open channel control, flat V weir installed 1986. STATION HYDROMETRY: Rating is derived from current meter gaugings. Simple extrapolation occurs above 1.4m. More high flow gaugings are required. One peak flow rating across period of record. FLOW RECORD: The pre-weir record is intermittent, unreliable and is of limited use therefore peak flows are not shown. Daily flows for full period of record reprocessed in 2002. Late December 2010 flows considered suspect due to likely freezing in stilling well. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10) and in August 2025 (WINFAP Files v14).
+CATCHMENT,Predominantly improved grassland with no significant centres of habitation. Highest total grass cover of gauged NI catchments. Solid Geology - Mostly composed of Devonian and Carboniferous conglomerate, sandstone, mudstone and limestone that are generally indurated. Permeable Triassic sandstone (Sherwood) occurs in the east. Drift Geology - Extensive glacial till with sand and gravel and river alluvium in valleys.
+Qmed Suitability,Flows fully contained at QMED flows. Highest gauging in excess of QMED figure.
+Pooling Suitability,Not suitable for Pooling due to ungauged, out-of-bank flow at AMAX 4 and higher.
+[END]

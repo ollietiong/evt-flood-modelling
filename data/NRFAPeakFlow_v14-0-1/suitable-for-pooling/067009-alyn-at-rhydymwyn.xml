@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SJ2040866737" x="320408" y="366737">
+        <CatchmentCentroid grid="GB" ngr="SJ1902057784" x="319020" y="357784"/>
+        <area>81.595</area>
+        <altbar>303.0</altbar>
+        <aspbar>38.0</aspbar>
+        <aspvar>0.12</aspvar>
+        <bfihost>0.615</bfihost>
+        <bfihost19>0.527</bfihost19>
+        <bfihost19scaled>0.527</bfihost19scaled>
+        <dplbar>14.08</dplbar>
+        <dpsbar>142.5</dpsbar>
+        <draindens>1.06</draindens>
+        <farl>0.99</farl>
+        <farl2015>0.9874</farl2015>
+        <fpext>0.0328</fpext>
+        <fpdbar>0.322</fpdbar>
+        <fploc>1.068</fploc>
+        <ihdtmeasting>320400</ihdtmeasting>
+        <ihdtmnorthing>366750</ihdtmnorthing>
+        <ldp>27.08</ldp>
+        <propwet>0.41</propwet>
+        <rmed_1h>10.0</rmed_1h>
+        <rmed_1d>36.3</rmed_1d>
+        <rmed_2d>47.6</rmed_2d>
+        <saar>968.0</saar>
+        <saar4170>959.0</saar4170>
+        <saar9120>1020</saar9120>
+        <sprhost>27.71</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0016</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0016</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0063</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SJ2040866737" x="320408" y="366737">
+        <c>-0.02928</c>
+        <d1>0.37814</d1>
+        <d2>0.46022</d2>
+        <d3>0.29043</d3>
+        <e>0.29258</e>
+        <f>2.44483</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SJ200670" x="320000" y="367000">
+        <c_1_km>-0.029</c_1_km>
+        <d1_1_km>0.377</d1_1_km>
+        <d2_1_km>0.441</d2_1_km>
+        <d3_1_km>0.302</d3_1_km>
+        <e_1_km>0.293</e_1_km>
+        <f_1_km>2.448</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3, 3.7, 4.3, 5.3, 6.9, 8.2, 9.7, 11.2, 12.9, 14.8, 16.9, 18.7, 20.8, 22.8, 24.8, 26.6, 28.5, 30.2, 32, 33.5, 35.1, 36.6</Depths>
+        <Depths duration="0.25">5.2, 6.5, 7.6, 9.4, 12.4, 14.8, 17.7, 20.8, 24.3, 28.4, 32.6, 36.6, 41.1, 45.6, 50, 54.3, 58.7, 63.1, 67.6, 71.7, 76, 80.2</Depths>
+        <Depths duration="0.5">7, 8.6, 10.1, 12.5, 16.6, 19.9, 23.9, 28.1, 33.3, 39, 45.1, 50.8, 57.4, 63.9, 70.6, 76.9, 83.8, 90.4, 97.3, 103.7, 110.5, 117.2</Depths>
+        <Depths duration="0.75">8.2, 10, 11.8, 14.6, 19.4, 23.2, 27.9, 33.1, 39.2, 46, 53.3, 60.2, 68.1, 76.1, 84.2, 91.9, 100.3, 108.6, 117, 124.9, 133.5, 141.8</Depths>
+        <Depths duration="1">9.1, 11.1, 13.1, 16.2, 21.5, 25.7, 31.1, 36.7, 43.6, 51.2, 59.4, 67.3, 76.2, 85.2, 94.4, 103.1, 112.6, 122.1, 131.8, 140.8, 150.6, 160.3</Depths>
+        <Depths duration="2">12.9, 15.2, 17.5, 21.2, 27.3, 32.3, 38.6, 45.1, 52.9, 61.1, 69.8, 78, 87.1, 96.2, 105.6, 114.4, 124, 133.6, 143.3, 152.3, 162.2, 172</Depths>
+        <Depths duration="4">17.3, 20, 22.6, 26.9, 34.3, 40.1, 47.5, 54.8, 63.3, 71.9, 80.9, 89.4, 98.8, 108.1, 117.7, 126.6, 136.4, 146.1, 155.9, 165.1, 175.1, 184.9</Depths>
+        <Depths duration="6">20.2, 23.1, 26.1, 30.8, 39.1, 45.5, 53.4, 61.1, 69.9, 78.8, 88, 96.6, 106.2, 115.7, 125.4, 134.4, 144.3, 154, 164, 173.2, 183.3, 193.2</Depths>
+        <Depths duration="12">25.8, 29.4, 33, 38.7, 48.5, 55.8, 64.6, 73, 82.3, 91.6, 101.2, 110.1, 120, 129.8, 139.8, 148.9, 159, 168.8, 178.9, 188.3, 198.5, 208.6</Depths>
+        <Depths duration="18">29.8, 33.7, 37.8, 44.2, 54.7, 62.6, 71.8, 80.5, 90, 99.6, 109.3, 118.5, 128.5, 138.5, 148.6, 157.9, 168.1, 178, 188.2, 197.7, 208.1, 218.2</Depths>
+        <Depths duration="24">33, 37.2, 41.6, 48.4, 59.4, 67.6, 77, 85.9, 95.7, 105.4, 115.3, 124.6, 134.7, 144.8, 155, 164.5, 174.7, 184.8, 195.1, 204.7, 215.1, 225.4</Depths>
+        <Depths duration="48">42.1, 47, 52, 59.6, 71.4, 80, 89.9, 99.1, 109.1, 119.1, 129.3, 138.8, 149.2, 159.4, 169.9, 179.7, 190.3, 200.7, 211.2, 220.9, 231.6, 242</Depths>
+        <Depths duration="96">54.4, 60, 65.5, 73.8, 86.4, 95.2, 105.1, 114.3, 124.3, 134.2, 144.3, 153.8, 164.1, 174.4, 184.8, 194.5, 205.2, 215.6, 226.3, 236.3, 247.1, 257.7</Depths>
+        <Depths duration="192">75.8, 83.2, 90.4, 101, 116.6, 127.3, 139.3, 150.3, 162.1, 173.6, 185.3, 196, 207.7, 219.2, 230.8, 241.5, 253.2, 264.7, 276.3, 287, 298.7, 310.2</Depths>
+        <Depths duration="240">87.6, 96.3, 104.8, 117.2, 135.6, 148.3, 162.5, 175.4, 189.4, 203, 216.9, 229.6, 243.5, 257.1, 270.8, 283.5, 297.4, 310.9, 324.7, 337.4, 351.2, 364.8</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3.2, 3.7, 4.7, 6.2, 7.2, 8.2, 9.1, 10, 10.9, 12, 12.9, 14, 15.1, 16.3, 17.4, 18.6, 19.8, 21, 22.1, 23.2, 24.2</Depths>
+        <Depths duration="0.25">4.3, 5.5, 6.6, 8.4, 11.1, 13, 14.9, 16.9, 18.8, 21, 23.2, 25.2, 27.7, 30.2, 32.9, 35.5, 38.4, 41.4, 44.3, 47.2, 50.2, 53.1</Depths>
+        <Depths duration="0.5">5.8, 7.4, 8.9, 11.2, 14.9, 17.4, 20.2, 22.8, 25.8, 28.8, 32, 35, 38.6, 42.4, 46.4, 50.3, 54.8, 59.2, 63.8, 68.2, 73, 77.7</Depths>
+        <Depths duration="0.75">6.7, 8.6, 10.4, 13, 17.4, 20.3, 23.6, 26.9, 30.4, 34, 37.8, 41.5, 45.8, 50.4, 55.3, 60.2, 65.6, 71.1, 76.8, 82.2, 88.2, 94</Depths>
+        <Depths duration="1">7.5, 9.5, 11.5, 14.5, 19.2, 22.5, 26.3, 29.8, 33.8, 37.9, 42.2, 46.4, 51.3, 56.5, 62, 67.5, 73.7, 80, 86.5, 92.7, 99.5, 106.2</Depths>
+        <Depths duration="2">12, 14.4, 16.9, 20.4, 25.8, 29.6, 33.9, 37.9, 42.4, 47, 52, 56.8, 62.4, 68.3, 74.5, 80.5, 87.2, 93.9, 100.8, 107.2, 114.3, 121.2</Depths>
+        <Depths duration="4">17.3, 20.2, 23, 27.2, 33.5, 37.9, 43, 47.8, 53.2, 58.8, 64.8, 70.6, 77.3, 84.1, 91.1, 97.8, 105.2, 112.4, 119.8, 126.6, 134, 141.3</Depths>
+        <Depths duration="6">20.6, 23.8, 26.9, 31.4, 38.4, 43.4, 49.2, 54.7, 60.9, 67.3, 74.2, 80.8, 88.2, 95.6, 103.2, 110.3, 118, 125.6, 133.3, 140.3, 148, 155.6</Depths>
+        <Depths duration="12">26.5, 30.3, 34, 39.4, 48.1, 54.4, 61.9, 69, 77.1, 85.2, 93.6, 101.4, 109.9, 118.2, 126.7, 134.4, 142.8, 150.9, 159.2, 166.7, 174.9, 182.9</Depths>
+        <Depths duration="18">30, 34.2, 38.3, 44.6, 54.6, 61.9, 70.5, 78.7, 87.7, 96.7, 105.7, 114.1, 123, 131.8, 140.6, 148.6, 157.4, 165.9, 174.4, 182.2, 190.7, 199</Depths>
+        <Depths duration="24">32.7, 37.3, 41.8, 48.6, 59.5, 67.5, 76.8, 85.6, 95.2, 104.6, 114, 122.6, 131.9, 140.9, 150, 158.3, 167.2, 175.9, 184.6, 192.6, 201.2, 209.7</Depths>
+        <Depths duration="48">40.6, 46.1, 51.5, 59.7, 72.4, 81.3, 91.6, 101.1, 111.3, 121.3, 131.2, 140.3, 150, 159.4, 168.8, 177.4, 186.7, 195.7, 204.7, 213, 222, 230.7</Depths>
+        <Depths duration="96">52.8, 59.4, 65.9, 75.2, 89, 98.3, 108.6, 117.8, 127.7, 137.3, 146.9, 155.8, 165.3, 174.6, 183.9, 192.5, 201.8, 210.8, 219.9, 228.3, 237.4, 246.2</Depths>
+        <Depths duration="192">74.5, 83, 91.3, 103.2, 120.3, 131.8, 144.3, 155.4, 167.1, 178.3, 189.5, 199.7, 210.5, 221.1, 231.7, 241.5, 252.1, 262.4, 272.8, 282.4, 292.7, 302.9</Depths>
+        <Depths duration="240">84.3, 94.1, 103.7, 117.4, 137.3, 150.7, 165.3, 178.3, 192.1, 205.3, 218.4, 230.3, 243.1, 255.5, 268, 279.4, 291.8, 303.9, 316, 327.2, 339.3, 351.1</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Rhydymwyn" name="Alyn" number="67009">
+        <Comments>
+            <Comment type="Station Summary">Trapezoidal flume in concrete trapezoidal channel. Substantial losses of river flow.</Comment>
+            <Comment type="Hydrometric">Site is subject to rapid gravel accumulation, and so gravel is removed annually and after any mid-year high flow events. Gravel traps upstream of the flume. One peak flow rating applied across period of record. Rating valid from 0.05m stage. Rating shows good fit to gaugings up to 4.77m. Main level measurement is bridge mounted radar. Flow resumption subject to delay caused by float getting stuck in silt at the bottom of the stilling well. Bung added to inlet pipe to reduce data quality issues with shaft encoder.</Comment>
+            <Comment type="General">Trapezoidal flume in concrete trapezoidal channel. Site constructed in 1939. Intermittent flow regime.</Comment>
+            <Comment type="Flow record">Discharge frequently zero due to flow entering swallow holes in limestone upstream of site, hence rating only computes flows when stage exceeds 0.05m. Reprocessed flows for 2000-2008 loaded in 2012. Pre-1968 daily flows are very suspect, not held on the NRFA. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7).</Comment>
+            <Comment type="Flow regime">Swallow holes frequent between Maeshafn and Rhydymwyn; substantial losses of river flow through percolation to mine discharge tunnels. Flow is zero or near-zero approximately half of the time, with a marked difference between summer and winter flow duration curves.</Comment>
+            <Comment type="Catchment">Impermeable Silurian rocks in W half, Carboniferous Limestone escarpment to E. Mainly grass pasture, extensive forest cover.</Comment>
+            <Comment type="Factors affecting runoff">N</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED. QMED within bank and well gauged." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3. Flow at AMAX3 remains in bank." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>1.29</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

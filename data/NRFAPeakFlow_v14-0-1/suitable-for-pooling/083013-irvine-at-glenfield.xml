@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NS4299636996" x="242996" y="636996">
+        <CatchmentCentroid grid="GB" ngr="NS5253436317" x="252534" y="636317"/>
+        <area>211.89</area>
+        <altbar>167.0</altbar>
+        <aspbar>249.0</aspbar>
+        <aspvar>0.22</aspvar>
+        <bfihost>0.348</bfihost>
+        <bfihost19>0.369</bfihost19>
+        <bfihost19scaled>0.369</bfihost19scaled>
+        <dplbar>20.17</dplbar>
+        <dpsbar>63.9</dpsbar>
+        <draindens>1.4</draindens>
+        <farl>0.986</farl>
+        <farl2015>0.992</farl2015>
+        <fpext>0.0704</fpext>
+        <fpdbar>0.775</fpdbar>
+        <fploc>0.807</fploc>
+        <ihdtmeasting>243000</ihdtmeasting>
+        <ihdtmnorthing>637000</ihdtmnorthing>
+        <ldp>39.3</ldp>
+        <propwet>0.59</propwet>
+        <rmed_1h>9.3</rmed_1h>
+        <rmed_1d>37.0</rmed_1d>
+        <rmed_2d>52.9</rmed_2d>
+        <saar>1222.0</saar>
+        <saar4170>1221.0</saar4170>
+        <saar9120>1389</saar9120>
+        <sprhost>41.73</sprhost>
+        <urbconc1990>0.799</urbconc1990>
+        <urbext1990>0.015</urbext1990>
+        <urbloc1990>0.402</urbloc1990>
+        <urbconc2000>0.785</urbconc2000>
+        <urbext2000>0.0158</urbext2000>
+        <urbloc2000>0.407</urbloc2000>
+        <urbext2015>0.0224</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NS4299636996" x="242996" y="636996">
+        <c>-0.01932</c>
+        <d1>0.42059</d1>
+        <d2>0.47297</d2>
+        <d3>0.37102</d3>
+        <e>0.25086</e>
+        <f>2.36281</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NS430370" x="243000" y="637000">
+        <c_1_km>-0.019</c_1_km>
+        <d1_1_km>0.414</d1_1_km>
+        <d2_1_km>0.415</d2_1_km>
+        <d3_1_km>0.358</d3_1_km>
+        <e_1_km>0.249</e_1_km>
+        <f_1_km>2.367</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.2, 2.8, 3.3, 4.2, 5.6, 6.6, 7.8, 9, 10.4, 11.8, 13.3, 15.1, 17, 19.2, 21.3, 23.4, 25.6, 27.9, 30.1, 32.1, 34.3, 36.4</Depths>
+        <Depths duration="0.25">4, 5, 6.1, 7.7, 10.5, 12.5, 15, 17.2, 20.2, 23.2, 26.7, 30.3, 34.5, 39.2, 44.1, 48.9, 54.1, 59.4, 64.8, 69.9, 75.3, 80.6</Depths>
+        <Depths duration="0.5">5.4, 6.9, 8.3, 10.7, 14.6, 17.4, 20.9, 24.2, 28.5, 32.8, 38, 43.3, 49.6, 56.6, 63.8, 71, 78.9, 87, 95.4, 103, 111.7, 120.1</Depths>
+        <Depths duration="0.75">6.4, 8.1, 9.9, 12.7, 17.3, 20.8, 25, 29, 34, 39.1, 45.4, 51.7, 59.3, 67.6, 76.4, 85.1, 94.7, 104.4, 114.4, 123.8, 134.2, 144.5</Depths>
+        <Depths duration="1">7.3, 9.2, 11.2, 14.3, 19.5, 23.4, 28, 32.5, 38, 43.9, 50.7, 57.7, 66.2, 75.3, 85.1, 94.6, 105.1, 115.8, 126.7, 137, 148.3, 159.4</Depths>
+        <Depths duration="2">11.2, 13.4, 15.7, 19.2, 24.8, 29, 33.9, 38.9, 44.7, 51.1, 58.4, 66, 75.1, 84.6, 94.8, 104.5, 115.4, 126.2, 137.3, 147.7, 159.1, 170.3</Depths>
+        <Depths duration="4">16.1, 18.7, 21.2, 25, 31.1, 35.5, 40.8, 46.1, 52.2, 59, 66.7, 74.7, 84.1, 94, 104.4, 114.4, 125.4, 136.5, 147.8, 158.2, 169.7, 181</Depths>
+        <Depths duration="6">19.7, 22.4, 25, 29.1, 35.4, 40.1, 45.6, 50.9, 57.3, 64.2, 72.1, 80.2, 89.8, 99.8, 110.4, 120.5, 131.7, 142.9, 154.2, 164.8, 176.4, 187.8</Depths>
+        <Depths duration="12">27.2, 30.2, 33.2, 37.7, 44.6, 49.6, 55.4, 61.1, 67.8, 75, 83.2, 91.6, 101.4, 111.8, 122.6, 132.9, 144.3, 155.7, 167.4, 178.1, 189.9, 201.6</Depths>
+        <Depths duration="18">32.6, 35.9, 39.1, 43.9, 51.2, 56.5, 62.6, 68.5, 75.5, 83, 91.4, 100, 110, 120.6, 131.7, 142.2, 153.7, 165.3, 177.1, 188.1, 200.1, 211.8</Depths>
+        <Depths duration="24">36.9, 40.4, 43.8, 48.9, 56.6, 62.1, 68.5, 74.7, 81.9, 89.6, 98.2, 107, 117.2, 128, 139.3, 150, 161.9, 173.6, 185.5, 196.6, 208.7, 220.7</Depths>
+        <Depths duration="48">49.7, 53.8, 57.7, 63.5, 72.4, 78.7, 86.1, 93.2, 101.4, 110.2, 119.9, 129.7, 141.1, 152.6, 164.6, 176, 188.4, 200.6, 213, 224.6, 237.3, 249.8</Depths>
+        <Depths duration="96">67.2, 72.2, 77.1, 84.3, 95.2, 103.1, 112.2, 121.1, 131.5, 142.3, 154.2, 165.6, 178.4, 191.3, 204.5, 216.7, 230.2, 243.5, 257, 269.5, 283.1, 296.4</Depths>
+        <Depths duration="192">96.3, 103, 109.6, 119.3, 134.3, 145.1, 157.7, 169.9, 183.7, 197.7, 212.3, 226, 241.1, 256.2, 271.4, 285.3, 300.5, 315.4, 330.6, 344.7, 360.1, 375.1</Depths>
+        <Depths duration="240">110.4, 118, 125.4, 136.4, 153.5, 165.6, 179.8, 193.3, 208.4, 223.6, 239.3, 253.9, 269.9, 285.9, 301.9, 316.5, 332.4, 348, 363.9, 378.7, 394.8, 410.5</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3, 3.5, 4.3, 5.6, 6.3, 7.3, 8.2, 9.3, 10.3, 11.3, 12.5, 13.7, 15.1, 16.5, 17.9, 19.4, 21.1, 22.7, 24.2, 25.8, 27.4</Depths>
+        <Depths duration="0.25">4.5, 5.5, 6.5, 7.9, 10.4, 11.9, 14.1, 15.8, 18, 20.2, 22.6, 25, 27.8, 30.7, 34.1, 37.3, 40.9, 44.8, 48.8, 52.6, 56.6, 60.7</Depths>
+        <Depths duration="0.5">6.2, 7.5, 8.8, 11, 14.4, 16.7, 19.6, 22.2, 25.5, 28.6, 32.1, 35.7, 39.9, 44.4, 49.2, 54.1, 59.8, 65.7, 71.8, 77.5, 84, 90.3</Depths>
+        <Depths duration="0.75">7.3, 8.9, 10.5, 13.1, 17, 19.9, 23.4, 26.6, 30.4, 34, 38.4, 42.7, 47.6, 53, 59, 64.9, 71.7, 78.8, 86.1, 93.2, 100.9, 108.7</Depths>
+        <Depths duration="1">8.3, 10.1, 11.9, 14.7, 19.2, 22.4, 26.2, 29.8, 34, 38.2, 42.9, 47.6, 53.2, 59.1, 65.7, 72.1, 79.6, 87.4, 95.4, 103.1, 111.5, 119.9</Depths>
+        <Depths duration="2">12.2, 14.3, 16.3, 19.4, 24.3, 27.8, 31.9, 35.9, 40.4, 45.1, 50.3, 55.6, 61.8, 68.5, 75.6, 82.6, 90.6, 98.7, 107.1, 115, 123.7, 132.3</Depths>
+        <Depths duration="4">17.2, 19.5, 21.8, 25.3, 30.7, 34.5, 39.1, 43.4, 48.5, 53.8, 59.8, 65.8, 72.8, 80.1, 87.9, 95.5, 104, 112.5, 121.2, 129.4, 138.4, 147.3</Depths>
+        <Depths duration="6">20.8, 23.3, 25.8, 29.5, 35.2, 39.3, 44.2, 48.9, 54.3, 60.2, 66.6, 73.1, 80.6, 88.4, 96.7, 104.6, 113.4, 122.1, 131.1, 139.5, 148.6, 157.6</Depths>
+        <Depths duration="12">28.4, 31.3, 34.1, 38.2, 44.7, 49.4, 55, 60.5, 66.9, 73.8, 81.3, 88.7, 97.2, 106, 115.1, 123.6, 133, 142.3, 151.8, 160.5, 170.1, 179.5</Depths>
+        <Depths duration="18">33.7, 36.8, 39.9, 44.4, 51.5, 56.7, 62.9, 68.9, 76.1, 83.7, 92, 100.1, 109.4, 118.7, 128.3, 137.3, 147.1, 156.8, 166.6, 175.7, 185.5, 195.2</Depths>
+        <Depths duration="24">37.9, 41.3, 44.5, 49.4, 56.9, 62.5, 69.2, 75.7, 83.5, 91.7, 100.7, 109.4, 119.2, 129, 139.1, 148.4, 158.5, 168.4, 178.5, 187.8, 198, 207.9</Depths>
+        <Depths duration="48">50.1, 54.1, 58, 63.7, 72.8, 79.5, 87.7, 95.8, 105.4, 115.4, 126.1, 136.2, 147.3, 158.3, 169.5, 179.8, 191.1, 202, 213.1, 223.3, 234.4, 245.2</Depths>
+        <Depths duration="96">67.3, 72.1, 76.7, 83.8, 94.8, 103, 112.9, 122.7, 134.3, 146.2, 158.7, 170.4, 183.3, 195.9, 208.6, 220.3, 233, 245.4, 257.8, 269.3, 281.7, 293.8</Depths>
+        <Depths duration="192">97.4, 103.5, 109.4, 118.1, 131.6, 141.3, 152.8, 164.1, 177.2, 190.8, 205.3, 219.1, 234.4, 249.4, 264.6, 278.7, 293.9, 308.7, 323.6, 337.3, 352.2, 366.7</Depths>
+        <Depths duration="240">112.8, 119.5, 126, 135.5, 149.9, 160.2, 172.3, 183.9, 197.3, 211.3, 226.4, 240.9, 257, 273, 289.4, 304.4, 320.8, 336.7, 352.8, 367.6, 383.5, 399.2</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Glenfield" name="Irvine" number="83013">
+        <Comments>
+            <Comment type="Station Summary">Broad crested masonry weir on the River Irvine.</Comment>
+            <Comment type="Hydrometric">The control through the record is a masonry weir, originally constructed for a sluice and lade system for power generation, which is now redundant. Routine sluice openings until the 1970s caused evident dropouts in stage records. The flat-crested weir is inadequate for low flow estimation, so flows below 0.3m are flagged as suspect. The published datum history reflects available notes and understanding as of August 2024. The early period of operation by Glenfield and Kennedy between 1913 and 1981 recorded levels above the crest of the weir. There was an old imperial gauge board opposite the original location of stage recording (water tower) that is assumed to have been zeroed to the weir crest. The weir crest itself consists of large masonry blocks with gaps in-between. The station record review by SEPA in 2024 concluded that the figure of 20.78 mAOD should remain as the gauge zero figure for the period between 1913 and 1981, which is thought to reflect the weir crest and the imperial gauge board zero. A new gauge board was installed at the onset of operation by the River Clyde Purification Board in 1982 and the gauge zero is recorded as 20.589mAOD. The station operation was transferred to SEPA in 1996 who replaced the gauge board with a ramp gauge in September 2004. The gauge zero remained unchanged during this upgrade to a ramp gauge. The gauging station section is lined by flood defence walls that were raised around 2000 to effectively contain the highest events. The exact date and stage of the flood defence works needs to be further investigated. Until this information is available, an estimation of 01/01/2000 will be adopted as the date when the flood walls were raised. The earlier date when the original lower walls were built also needs to be determined so that the differences in channel containment can be reflected in the calibration through the flow record. Rating 3.2 provides confident flood estimations after the flood defence walls were raised, being informed by gaugings up to 2.3m (measured at 113.2 cumecs) and by fluvial modelling for the out of bank segment up to the top of the flood defence walls. Rating 2.1 is applied prior to the second phase of engineering works to convey the reduced confidence in calibration, being a copy of rating 3.2 with the upper limits lowered to flag the out of bank flows as suspect. The segment change point of rating 3.2 indicates the top of the channel to be around 2.048m, but this needs to be further checked by survey. Although rating 2.1 is currently flagged as suspect after 2.048m, this is probably a precautionary approach as the original walls form the foundation of the current wall and the flows will have been contained for a decent height above 2.048m. The original Peak Flow calculations between 1913 and 1981 were derived by a hydraulic formula with correction for drowning and skewness of the weir and with checks against medium range gaugings. The in-channel calibration from rating 3.1 (up to ~ 2m) is deemed an improved rating for this period, and considering the continuity that the weir control provides, it is the intention to recalculate the flows between 1913 and 1981 using a datum adjusted version of rating 3.1. This can only be done after the early-stage record has been quality controlled and until then the flow estimates will be marked as excluded in the Peak Flow record. Largest events in the early period inundated the inside of the meander where the station is positioned, with water flowing across the meander neck and bypassing the station. This is noted as happening during the floods of 03/01/1932 and 08/08/1961. The construction of flood walls means that bypassing is less of a feature after around 1990. Peaks in the 1913 to 1981 period were derived manually from the charts for the original flood studies project and although these records remain published in the peak flow dataset, the record will remain flagged as rejected until a full QC can be carried out.</Comment>
+            <Comment type="General">The stage record between 1913 and 1981 was recorded by Glenfield and Kennedy engineering works, who manufactured charts recorders and other water engineering components. Although the charts have been digitised by SEPA, there is a significant amount of work required to quality control and prepare the early record for Peak Flow calculation and hence the Peak Flow record is currently only recommended from 1982. Peaks in the 1913 to 1981 period were derived manually from the charts for the original flood studies project and although these records remain published in the Peak Flow dataset, the record will remain flagged as 'rejected' until a full QC can be carried out. Stage recording in the Water Tower was handed over to the Clyde River Purification Board (predecessor of SEPA) in 1982. After issues with the engineering works occasionally closing the inlet pipe of the Water Tower during floods, CRPB installed a second stage recorder in 2002 slightly upstream on a footbridge. The footbridge location initially failed to record lower levels due to siltation of the stilling well (plastic pipe attached to the bridge) and so the two sites worked in tandem until 2010 when recording ceased from the water tower. This was possible after the plastic pipe at the footbridge was replaced with a pressure transducer in 2004. The period of tandem operation had the consequence of two stations being created in SEPA hydrometric database; called Glenfield Water Tower and Glenfield Footbridge. To facilitate the calculation of a single flow archive, a third unified site was created in the SEPA database called Glenfield, which merged all the stage record. This single site approach is consistent with the NRFA holdings where there has only ever been one station called 'Glenfield'. Although the digital record starts on 01/05/1982, significant gaps in the early years mean that a POT series is currently not available before 01/10/1992; a gap between 18/05/85 and 11/07/1985 likely has two missing POT events, a gap between 01/10/86 and 01/11/86 likely has one missing POT event and a gap between 01/01/1992 and 05/02/1992 likely has two missing POT events as well as missing the AMAX event for WY1991. The credible AMAX record begins from 01/10/1982 but with the AMAX figure for 1991 missing.</Comment>
+            <Comment type="Flow record">Peaks in the 1913 to 1981 period were derived manually from the charts for the original flood studies project and although these records remain published in the peak flow dataset, the record will remain flagged as rejected until a full QC can be carried out. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow regime">A largely natural flow regime but the extent of agricultural flood levees in the catchment will likely have increased from the start of the record.</Comment>
+            <Comment type="Catchment">Mostly lowland catchment. Predominantly Carboniferous and igneous bedrock, with localised ORS; extensively overlain by superficial deposits (mainly Boulder Clay). Rural catchment with forested areas in NE and urbanisation along main valley (Darvel, Newmilns, Galston and Kilmarnock). Flood walls built approximately spring 1998.</Comment>
+            <Comment type="Factors affecting runoff">N</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged up to bankfull." suitable="Yes" type="QMED"/>
+            <Usage notes="Informed by gaugings up to 2.3m (measured at 113.2 cumecs) and by fluvial modelling for the out of bank segment up to the top of the flood defence walls." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>2.76</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60012
+[END]
+[CDS DETAILS]
+NAME,Twrch
+LOCATION,Ddol Las
+NOMINAL AREA,   19.50
+NOMINAL NGR,2650,2439
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,265000,243950
+CENTROID NGR,GB,266417,247870
+DTM AREA,   19.50
+ALTBAR, 305
+ASPBAR,192
+ASPVAR,0.21
+BFIHOST,0.419
+DPLBAR,  6.39
+DPSBAR,161.2
+FARL,1.000
+FPEXT,0.0323
+LDP, 12.59
+PROPWET,0.65
+RMED-1H, 11.2
+RMED-1D, 49.4
+RMED-2D, 66.2
+SAAR,1531
+SAAR4170,1682
+SPRHOST,43.02
+URBEXT1990,0.0000
+URBEXT2000,0.0024
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Natural flow regime. GENERAL: Velocity area station. Channel width 4.65m. Station closed Dec 1982 and re-opened Oct 1990. STATION HYDROMETRY: Gravel bed. Out of bank flow onto field on right bank, bypassing gauge. Two peak flow ratings applied across period of record, the most recent is valid from the reopening in October 1990. Many gaugings, though few high flow gaugings, and none above bank full. FLOW RECORD: No data Jan 1982 - Oct 1990 due to station closure. Low flows in July - Aug 2006 are suspect as intake pipe was not completely submerged. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Upland catchment, entirely rural in southern Cambrian Mountains. Impermeable formations; lower Silurian shales, grits and mudstones with no drift cover except for peat at highest altitudes in far north of catchment. Catchment is mostly grassland, with some patches of woodland.
+Qmed Suitability,Gauged close to QMED, and QMED flow contained.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED.
+[END]

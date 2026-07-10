@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SE7116255628" x="471162" y="455628">
+        <CatchmentCentroid grid="GB" ngr="SE7622682748" x="476226" y="482748"/>
+        <area>1639.2725</area>
+        <altbar>126.0</altbar>
+        <aspbar>163.0</aspbar>
+        <aspvar>0.14</aspvar>
+        <bfihost>0.604</bfihost>
+        <bfihost19>0.598</bfihost19>
+        <bfihost19scaled>0.598</bfihost19scaled>
+        <dplbar>58.8</dplbar>
+        <dpsbar>76.1</dpsbar>
+        <draindens>1.094</draindens>
+        <farl>0.994</farl>
+        <farl2015>0.9913</farl2015>
+        <fpext>0.1408</fpext>
+        <fpdbar>1.106</fpdbar>
+        <fploc>0.835</fploc>
+        <ihdtmeasting>471150</ihdtmeasting>
+        <ihdtmnorthing>455600</ihdtmnorthing>
+        <ldp>104.56</ldp>
+        <propwet>0.34</propwet>
+        <rmed_1h>10.6</rmed_1h>
+        <rmed_1d>32.2</rmed_1d>
+        <rmed_2d>42.2</rmed_2d>
+        <saar>763.0</saar>
+        <saar4170>782.0</saar4170>
+        <saar9120>832</saar9120>
+        <sprhost>28.44</sprhost>
+        <urbconc1990>0.541</urbconc1990>
+        <urbext1990>0.0071</urbext1990>
+        <urbloc1990>0.874</urbloc1990>
+        <urbconc2000>0.721</urbconc2000>
+        <urbext2000>0.008</urbext2000>
+        <urbloc2000>0.861</urbloc2000>
+        <urbext2015>0.0128</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SE7116255628" x="471162" y="455628">
+        <c>-0.0224</c>
+        <d1>0.35804</d1>
+        <d2>0.38258</d2>
+        <d3>0.25277</d3>
+        <e>0.29147</e>
+        <f>2.39487</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SE710560" x="471000" y="456000">
+        <c_1_km>-0.023</c_1_km>
+        <d1_1_km>0.337</d1_1_km>
+        <d2_1_km>0.331</d2_1_km>
+        <d3_1_km>0.243</d3_1_km>
+        <e_1_km>0.293</e_1_km>
+        <f_1_km>2.416</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3.2, 3.8, 4.8, 6.3, 7.4, 8.6, 9.7, 11, 12.3, 13.8, 15.4, 17.4, 19.7, 22.2, 24.6, 27.3, 30, 32.6, 34.9, 37.4, 39.8</Depths>
+        <Depths duration="0.25">4.3, 5.4, 6.5, 8.3, 11.1, 13, 15.4, 17.6, 20.1, 22.7, 25.9, 29.1, 33.4, 38.2, 43.5, 48.8, 54.8, 60.8, 66.8, 72.5, 78.5, 84.4</Depths>
+        <Depths duration="0.5">5.6, 7.1, 8.5, 10.7, 14.5, 17.1, 20.3, 23.3, 26.8, 30.6, 34.9, 39.5, 45.4, 52.2, 59.7, 67.3, 76, 84.7, 93.6, 101.9, 110.9, 119.8</Depths>
+        <Depths duration="0.75">6.5, 8.1, 9.8, 12.4, 16.7, 19.7, 23.5, 27, 31.1, 35.4, 40.6, 46, 53, 61, 70.1, 79.1, 89.6, 99.9, 110.6, 120.6, 131.6, 142.5</Depths>
+        <Depths duration="1">7.1, 8.9, 10.8, 13.6, 18.3, 21.7, 25.8, 29.7, 34.3, 39.2, 44.9, 50.9, 58.7, 67.6, 77.7, 87.8, 99.4, 111.1, 123.1, 134.3, 146.7, 158.9</Depths>
+        <Depths duration="2">10.8, 12.8, 14.9, 18.1, 23.2, 26.9, 31.4, 35.7, 40.8, 46.5, 53.1, 60.3, 69.3, 79.4, 90.3, 101, 113, 124.8, 137.1, 148.5, 161, 173.5</Depths>
+        <Depths duration="4">15.2, 17.6, 19.9, 23.4, 29, 33.1, 38, 42.9, 48.8, 55.4, 63.2, 71.5, 81.7, 92.6, 104.2, 115.2, 127.5, 139.7, 152.1, 163.7, 176.5, 189</Depths>
+        <Depths duration="6">18.3, 20.8, 23.3, 27, 33, 37.3, 42.6, 47.9, 54.3, 61.6, 70.2, 79.2, 90, 101.3, 113.2, 124.4, 136.8, 149.2, 161.8, 173.5, 186.4, 199.1</Depths>
+        <Depths duration="12">24.3, 27.1, 29.9, 34.1, 40.8, 45.8, 51.9, 58.2, 65.9, 74.7, 84.6, 94.8, 106.5, 118.5, 130.9, 142.5, 155.3, 167.9, 180.8, 192.9, 206, 219</Depths>
+        <Depths duration="18">28.2, 31.2, 34.2, 38.8, 46.1, 51.6, 58.5, 65.6, 74.4, 84.1, 95, 105.7, 118, 130.4, 143.1, 155, 168.1, 181, 194.1, 206.3, 219.7, 232.9</Depths>
+        <Depths duration="24">31.1, 34.3, 37.5, 42.3, 50.2, 56.2, 63.8, 71.7, 81.3, 91.8, 103.3, 114.5, 127.2, 139.8, 152.8, 165, 178.3, 191.4, 204.7, 217.1, 230.6, 244</Depths>
+        <Depths duration="48">38.5, 42.3, 46.1, 51.9, 61.8, 69.7, 79.7, 89.8, 101.6, 113.9, 126.9, 139.3, 152.9, 166.5, 180.2, 193.1, 207.1, 220.9, 234.8, 247.8, 261.9, 275.8</Depths>
+        <Depths duration="96">47.2, 51.8, 56.5, 64.2, 77.5, 88.1, 101.1, 113.6, 127.6, 141.8, 156.4, 170, 184.9, 199.5, 214.4, 228.2, 243.2, 257.9, 272.8, 286.5, 301.5, 316.2</Depths>
+        <Depths duration="192">59.3, 65.2, 71.4, 81.6, 99.6, 113.3, 129.4, 144.4, 160.9, 177.1, 193.6, 208.9, 225.4, 241.6, 258, 273.2, 289.6, 305.7, 321.9, 336.9, 353.2, 369.2</Depths>
+        <Depths duration="240">64.5, 71, 77.8, 89.1, 108.7, 123.4, 140.6, 156.5, 173.9, 190.9, 208.1, 224, 241.3, 258.1, 275.2, 290.9, 308, 324.7, 341.5, 357, 373.9, 390.4</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.3, 4, 5.2, 6.9, 8, 9.3, 10.5, 11.7, 12.9, 14.2, 15.3, 16.6, 17.9, 19.3, 20.7, 22.3, 24.1, 26, 27.8, 29.9, 31.9</Depths>
+        <Depths duration="0.25">4.5, 5.7, 6.9, 8.9, 12, 14.1, 16.6, 18.9, 21.4, 23.9, 26.4, 28.9, 31.8, 34.7, 37.8, 40.9, 44.8, 48.9, 53.3, 57.8, 62.7, 67.6</Depths>
+        <Depths duration="0.5">5.9, 7.5, 9, 11.6, 15.7, 18.6, 21.9, 25.2, 28.5, 32, 35.7, 39.2, 43.2, 47.4, 51.9, 56.5, 62.1, 68.1, 74.8, 81.2, 88.5, 95.9</Depths>
+        <Depths duration="0.75">6.8, 8.5, 10.3, 13.4, 18, 21.5, 25.4, 29.1, 33, 37.2, 41.5, 45.7, 50.5, 55.4, 60.9, 66.4, 73.2, 80.3, 88.3, 96.2, 105, 114</Depths>
+        <Depths duration="1">7.4, 9.4, 11.4, 14.7, 19.8, 23.6, 27.9, 32, 36.5, 41.1, 45.9, 50.6, 55.9, 61.4, 67.5, 73.7, 81.2, 89.3, 98.3, 107.1, 117.1, 127.2</Depths>
+        <Depths duration="2">11.3, 13.6, 16, 19.6, 25.2, 29.2, 33.8, 38.1, 42.9, 47.8, 53, 58, 63.9, 70.1, 77.1, 84.2, 92.8, 101.9, 111.7, 121.1, 131.6, 142.2</Depths>
+        <Depths duration="4">16, 18.6, 21.2, 25.2, 31.2, 35.6, 40.5, 45.2, 50.4, 55.8, 61.5, 67.2, 73.9, 81.2, 89.4, 97.7, 107.4, 117.4, 128, 138, 149, 160</Depths>
+        <Depths duration="6">19, 21.8, 24.6, 28.8, 35.2, 39.7, 45, 49.9, 55.5, 61.2, 67.5, 73.7, 81.2, 89.4, 98.5, 107.5, 118, 128.5, 139.5, 149.8, 161.2, 172.4</Depths>
+        <Depths duration="12">24.6, 27.7, 30.8, 35.4, 42.6, 47.7, 53.6, 59.3, 65.8, 72.8, 80.6, 88.5, 98, 108.1, 118.9, 129.2, 140.7, 152.2, 163.9, 174.7, 186.6, 198.3</Depths>
+        <Depths duration="18">28.1, 31.4, 34.7, 39.7, 47.4, 52.9, 59.5, 66, 73.6, 81.9, 91.1, 100.4, 111.2, 122.4, 134.1, 145.1, 157.1, 169, 181.2, 192.4, 204.6, 216.6</Depths>
+        <Depths duration="24">30.6, 34.1, 37.6, 42.9, 51.1, 57.2, 64.5, 71.8, 80.5, 89.9, 100.2, 110.5, 122.2, 134.1, 146.3, 157.7, 170.2, 182.4, 194.8, 206.3, 218.8, 231</Depths>
+        <Depths duration="48">37.4, 41.5, 45.5, 51.8, 62, 69.9, 79.9, 90, 101.9, 114.1, 127, 139.2, 152.6, 165.8, 179.2, 191.5, 204.8, 217.9, 231.1, 243.2, 256.3, 269.2</Depths>
+        <Depths duration="96">46.6, 51.3, 56.1, 63.7, 76.7, 87.2, 100.4, 113.3, 127.7, 142, 156.6, 170.1, 184.7, 199, 213.4, 226.5, 240.8, 254.7, 268.6, 281.4, 295.3, 308.9</Depths>
+        <Depths duration="192">61.1, 66.8, 72.6, 81.7, 96.9, 109, 123.9, 138.1, 153.7, 169, 184.5, 198.8, 214.2, 229.3, 244.5, 258.4, 273.5, 288, 302.7, 316.2, 330.7, 344.9</Depths>
+        <Depths duration="240">67.8, 73.9, 80.1, 89.6, 105.3, 117.5, 132.4, 146.6, 162.3, 177.6, 193.2, 207.6, 223.2, 238.4, 253.7, 267.8, 283, 297.8, 312.7, 326.3, 341.1, 355.6</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Stamford Bridge" name="Derwent" number="27015">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station, the lowest station on the Yorkshire Derwent. Superseded by 27041 and closed in 1975.</Comment>
+            <Comment type="Hydrometric">Discharges which bypass the weir via a flood sluice were taken into account in early records but rating relationship was very variable; chart recorder installed at cableway site downstream of the weir in 1962 and improved stage-discharge rating. The weir crest was lowered in 1958 and again in 1970. The flood plain occasionally overflows behind the station and the weir has drowned on rare occasions. Multiple peak flow ratings applied across period of record, the most recent is valid from July 1969. Flood Studies Report grade before 1958, Z; 1958-1962, B; after 1962, A2; overall A2.</Comment>
+            <Comment type="General">Broad-crested non-standard weir 31m wide with mill channel and separate navigation channel. Original recorder upstream of the weir, supplemented and eventually replaced by velocity area station downstream of the weir. Flood flows from the upper catchment are diverted to Scarborough via the Sea Cut (27033). The lowest gauging station on the Yorkshire Derwent, operating since 1932. Superseded in 1973 by 27041 (Buttercrambe) d/s. Station closed 31-12-1975. Levels only are now recorded at Stamford Bridge.</Comment>
+            <Comment type="Flow regime">Flood flows from 88.8 sq.km of the headwaters (eastern North Yorkshire Moors) are diverted from the Derwent via the Sea Cut; these flows are measured by station 27033 at Scarborough. Instantaneous peak flows are not corrected for flow diverted down the Sea Cut because of the difficulty of establishing a time correlation; diverted catchment area is 5% of Stamford Bridge catchment. No significant reservoirs.</Comment>
+            <Comment type="Catchment">Large catchment with mixed geology. Predominantly rural, mixed agriculture with moorland in headwaters. Downstream of Malton the Lias and Oolite series dipping northeast are cut through and underneath there, and down to Stamford Bridge, are Rhaetic and Trias Marls and sand. All Cretaceous, Jurassic and Triassic strata are represented in the catchment. The Vale of Pickering is alluvial. No known catchment changes.</Comment>
+            <Comment type="Factors affecting runoff">P</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="No gaugings are documented so suitability cannot be assessed." suitable="No" type="QMED"/>
+            <Usage notes="No gaugings are documented so suitability cannot be assessed." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

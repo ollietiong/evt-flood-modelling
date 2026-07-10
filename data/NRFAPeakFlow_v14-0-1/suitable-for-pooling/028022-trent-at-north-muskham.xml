@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SK80436056" x="480430" y="360560">
+        <CatchmentCentroid grid="GB" ngr="SK2940727745" x="429407" y="327745"/>
+        <area>8209.425</area>
+        <altbar>134.0</altbar>
+        <aspbar>122.0</aspbar>
+        <aspvar>0.06</aspvar>
+        <bfihost>0.502</bfihost>
+        <bfihost19>0.496</bfihost19>
+        <bfihost19scaled>0.492</bfihost19scaled>
+        <dplbar>129.73</dplbar>
+        <dpsbar>51.6</dpsbar>
+        <draindens>0.989</draindens>
+        <farl>0.946</farl>
+        <farl2015>0.8619</farl2015>
+        <fpext>0.131</fpext>
+        <fpdbar>1.563</fpdbar>
+        <fploc>0.833</fploc>
+        <ihdtmeasting>480450</ihdtmeasting>
+        <ihdtmnorthing>360500</ihdtmnorthing>
+        <ldp>202.13</ldp>
+        <propwet>0.3</propwet>
+        <rmed_1h>10.6</rmed_1h>
+        <rmed_1d>32.3</rmed_1d>
+        <rmed_2d>40.9</rmed_2d>
+        <saar>747.0</saar>
+        <saar4170>756.0</saar4170>
+        <saar9120>789</saar9120>
+        <sprhost>34.76</sprhost>
+        <urbconc1990>0.796</urbconc1990>
+        <urbext1990>0.0735</urbext1990>
+        <urbloc1990>1.065</urbloc1990>
+        <urbconc2000>0.896</urbconc2000>
+        <urbext2000>0.0994</urbext2000>
+        <urbloc2000>1.074</urbloc2000>
+        <urbext2015>0.1153</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SK80436056" x="480430" y="360560">
+        <c>-0.02662</c>
+        <d1>0.35754</d1>
+        <d2>0.34141</d2>
+        <d3>0.28302</d3>
+        <e>0.30607</e>
+        <f>2.39418</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SK800610" x="480000" y="361000">
+        <c_1_km>-0.022</c_1_km>
+        <d1_1_km>0.288</d1_1_km>
+        <d2_1_km>0.381</d2_1_km>
+        <d3_1_km>0.205</d3_1_km>
+        <e_1_km>0.304</e_1_km>
+        <f_1_km>2.521</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.1, 3.8, 4.4, 5.5, 7.1, 8.3, 9.6, 10.9, 12.5, 14.2, 16.4, 18.5, 21.1, 23.7, 26.4, 28.8, 31.5, 34, 36.4, 38.6, 40.8, 43</Depths>
+        <Depths duration="0.25">5.2, 6.3, 7.4, 9.3, 12.3, 14.4, 16.9, 19.5, 22.5, 25.9, 30.1, 34.6, 39.9, 45.3, 50.9, 56.2, 62, 67.7, 73.3, 78.6, 84.3, 89.8</Depths>
+        <Depths duration="0.5">6.7, 8.1, 9.7, 12.1, 15.9, 18.8, 22.1, 25.5, 29.7, 34.4, 40.2, 46.3, 53.5, 61.1, 69, 76.4, 84.7, 92.9, 101.1, 108.6, 117, 125.3</Depths>
+        <Depths duration="0.75">7.6, 9.3, 11.1, 13.8, 18.2, 21.4, 25.4, 29.3, 34.1, 39.7, 46.4, 53.5, 61.9, 70.8, 80.1, 89, 98.7, 108.4, 118.2, 127.3, 137.4, 147.2</Depths>
+        <Depths duration="1">8.4, 10.2, 12.1, 15.1, 19.8, 23.4, 27.7, 32.1, 37.4, 43.6, 50.9, 58.7, 68.1, 77.9, 88.2, 98, 108.9, 119.6, 130.5, 140.7, 151.9, 162.9</Depths>
+        <Depths duration="2">12.2, 14.4, 16.5, 19.8, 25.2, 29.2, 34.1, 39.3, 45.8, 53.4, 62.2, 71.3, 81.7, 92.3, 103.3, 113.5, 124.7, 135.8, 147.1, 157.6, 169.1, 180.3</Depths>
+        <Depths duration="4">16.8, 19.2, 21.6, 25.3, 31.2, 35.7, 41.4, 47.4, 55.2, 64.1, 74.2, 84.2, 95.4, 106.6, 118, 128.6, 140.3, 151.7, 163.3, 174.1, 185.8, 197.4</Depths>
+        <Depths duration="6">19.7, 22.3, 24.9, 28.8, 35.1, 39.9, 45.9, 52.4, 60.7, 70.2, 80.9, 91.2, 102.8, 114.2, 125.9, 136.8, 148.6, 160.2, 172, 183, 194.9, 206.5</Depths>
+        <Depths duration="12">24.9, 27.8, 30.6, 34.9, 41.8, 47.1, 53.8, 60.8, 69.8, 80, 91.2, 102, 114, 125.9, 137.9, 149, 161.2, 173.1, 185.2, 196.3, 208.5, 220.4</Depths>
+        <Depths duration="18">28, 31.1, 34.1, 38.7, 46, 51.5, 58.4, 65.7, 75, 85.3, 96.7, 107.6, 119.8, 131.8, 144, 155.3, 167.6, 179.7, 191.9, 203.2, 215.5, 227.5</Depths>
+        <Depths duration="24">30.3, 33.5, 36.7, 41.5, 49, 54.7, 61.9, 69.3, 78.6, 88.9, 100.4, 111.4, 123.7, 135.8, 148.1, 159.5, 171.9, 184.1, 196.4, 207.8, 220.2, 232.3</Depths>
+        <Depths duration="48">36.7, 40.3, 43.9, 49.2, 57.6, 63.8, 71.3, 79, 88.3, 98.4, 109.6, 120.6, 132.9, 145.2, 157.8, 169.4, 182.1, 194.5, 207.1, 218.8, 231.4, 243.8</Depths>
+        <Depths duration="96">45.7, 50, 54.2, 60.4, 70, 76.9, 85.1, 93.1, 102.3, 112.1, 122.7, 133.2, 145.1, 157.3, 169.8, 181.6, 194.5, 207.2, 220.1, 232.1, 245, 257.8</Depths>
+        <Depths duration="192">61.1, 66.7, 72.1, 79.9, 91.8, 100.2, 109.6, 118.5, 128.3, 138.3, 148.7, 158.8, 170.1, 181.6, 193.7, 205.2, 217.9, 230.6, 243.6, 255.7, 268.9, 281.9</Depths>
+        <Depths duration="240">68.5, 74.7, 80.7, 89.4, 102.5, 111.5, 121.7, 131.1, 141.5, 151.9, 162.6, 172.9, 184.3, 195.9, 207.9, 219.4, 232, 244.7, 257.7, 269.8, 283.1, 296.2</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.1, 3.8, 4.4, 5.6, 7.2, 8.3, 9.6, 10.7, 12, 13.2, 14.7, 16.1, 17.8, 19.7, 21.7, 23.7, 26.1, 28.3, 30.6, 32.6, 34.8, 36.9</Depths>
+        <Depths duration="0.25">5.2, 6.4, 7.5, 9.5, 12.4, 14.5, 16.8, 19.1, 21.6, 24.1, 27.1, 30.1, 33.6, 37.5, 41.8, 46.2, 51.3, 56.5, 61.6, 66.5, 71.8, 77</Depths>
+        <Depths duration="0.5">6.7, 8.2, 9.8, 12.2, 16, 18.8, 22, 24.9, 28.5, 32, 36.1, 40.2, 45.1, 50.6, 56.7, 62.8, 70.1, 77.4, 85, 91.9, 99.7, 107.5</Depths>
+        <Depths duration="0.75">7.6, 9.4, 11.2, 14, 18.3, 21.5, 25.2, 28.6, 32.8, 36.9, 41.6, 46.5, 52.2, 58.6, 65.8, 73.2, 81.7, 90.4, 99.4, 107.8, 117, 126.3</Depths>
+        <Depths duration="1">8.4, 10.3, 12.2, 15.3, 20, 23.5, 27.5, 31.4, 35.9, 40.5, 45.7, 51, 57.4, 64.5, 72.5, 80.6, 90.1, 99.7, 109.7, 119.1, 129.4, 139.7</Depths>
+        <Depths duration="2">12.4, 14.7, 17, 20.4, 25.7, 29.6, 34.1, 38.6, 43.7, 49.3, 55.5, 62, 69.8, 78.4, 87.8, 96.9, 107.2, 117.5, 128, 137.8, 148.6, 159.1</Depths>
+        <Depths duration="4">17.1, 19.7, 22.3, 26.1, 32.1, 36.4, 41.6, 46.8, 52.9, 59.6, 67.1, 75, 84.4, 94.4, 104.9, 114.8, 125.8, 136.6, 147.7, 157.9, 169, 180</Depths>
+        <Depths duration="6">20, 22.7, 25.5, 29.6, 35.9, 40.6, 46.2, 51.8, 58.5, 65.9, 74.4, 83.1, 93.3, 103.9, 115, 125.3, 136.6, 147.7, 159, 169.5, 180.9, 192.1</Depths>
+        <Depths duration="12">24.8, 27.9, 30.9, 35.4, 42.5, 47.7, 54, 60.4, 68.2, 76.8, 86.6, 96.5, 107.9, 119.4, 131.1, 142, 153.8, 165.4, 177.2, 188, 199.8, 211.3</Depths>
+        <Depths duration="18">27.7, 30.9, 34.1, 38.9, 46.4, 51.9, 58.6, 65.4, 73.7, 83, 93.4, 103.8, 115.6, 127.5, 139.5, 150.7, 162.8, 174.6, 186.6, 197.6, 209.6, 221.3</Depths>
+        <Depths duration="24">29.8, 33.2, 36.5, 41.5, 49.3, 55, 62, 69.1, 77.7, 87.3, 98, 108.7, 120.8, 132.8, 145, 156.3, 168.6, 180.6, 192.8, 204, 216.1, 227.9</Depths>
+        <Depths duration="48">35.7, 39.5, 43.3, 48.9, 57.6, 63.9, 71.5, 79, 88.1, 98, 108.9, 119.8, 132.1, 144.5, 157.1, 168.8, 181.5, 193.8, 206.3, 217.9, 230.3, 242.5</Depths>
+        <Depths duration="96">44.7, 49.3, 53.7, 60.3, 70.3, 77.4, 85.6, 93.6, 102.7, 112.3, 122.7, 133.1, 144.9, 157.1, 169.7, 181.6, 194.6, 207.3, 220.2, 232.1, 244.9, 257.5</Depths>
+        <Depths duration="192">60.8, 66.7, 72.4, 80.8, 93.3, 101.9, 111.5, 120.4, 130.2, 139.9, 150.1, 159.9, 170.9, 182.1, 193.8, 205, 217.4, 229.9, 242.7, 254.7, 267.8, 280.7</Depths>
+        <Depths duration="240">68.7, 75.2, 81.6, 90.8, 104.6, 113.9, 124.4, 133.9, 144.3, 154.5, 165.1, 175, 186.2, 197.4, 209, 220.1, 232.4, 244.7, 257.3, 269.1, 282.2, 295.1</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="North Muskham" name="Trent" number="28022">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station built in 1968 and replaced by ultrasonic gauge in 1996: the station provides the lowest Trent gauge above the tidal limit and drains a highly industrial catchment with substantial flow modifications.</Comment>
+            <Comment type="Hydrometric">Single rating applied to period of record. Station flows form a hybrid record after August 1996 when the time of flight ultrasonic flow meter is used to measure flows below a stage of 3.0 metres. Out of bank flows are calculated from the rating above this stage when the transducers are bypassed on the right bank. Floodplain becomes active from a stage above 3.0 mASD.</Comment>
+            <Comment type="General">Velocity area station from 1968 to 1996. An ultrasonic gauge was installed in 1996. Highest transducer 7m. The station provides the most downstream gauge on the Fluvial Trent and lies immediately upstream of Cromwell Weir (Trent tidal limit).</Comment>
+            <Comment type="Flow record">Station record at low flows prior to 1996 processed using rating equation and are less accurate than the Ultrasonic Record. At high flows the rating has been fit to gaugings up to a stage of 3.693 metres taken at Holme where the full river can be measured before the channel bypasses on the right bank. Events in 1977 and 2000 were gauged via a cableway but did not included bypass flow. The rating has carefully estimated the extent of bypass and is considered as accurate to the highest level observed in November 2000. Significant hysteresis is evident in the flow record between flows of 300 and 500 m3/s due to variable drowning of Cromwell Weir caused by tidal effects. The high flow rating has been fit to the rising limb gaugings so represents an over estimation of flows on the falling limb of the hydrograph at the flows. Hysteresis becomes less dominate at flows in excess of 500 m3/s. Corrections to the falling limb hydrograph have been made from 1996 onwards as the ultrasonic flow gauge shows the extent of hysteresis. Prior to 1996 no correction for hysteresis is possible on the falling limb of the flood hydrograph. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13).</Comment>
+            <Comment type="Flow regime">Very substantial flow modifications owing to imports, WRW, cooling water and industrial usage. Reservoir(s) in catchment affect runoff. Regulation from surface water and/or ground water. Runoff reduced by public water supply abstraction and increased by effluent returns. Runoff influenced by groundwater abstraction/recharge.</Comment>
+            <Comment type="Catchment">Largest gauged catchment on Trent, with range of land use. Predominantly impervious owing to glacial clay and Mercia Mudstone, but some sandstone and limestone (Dove, Derwent and downstream of Nottingham).</Comment>
+            <Comment type="Factors affecting runoff">SRPGEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Well rated up to the level of the highest recorded floods.Since 1996 the US gauge appears to be performing well and flows bypassing the gauge are accounted for by the rating curve." suitable="Yes" type="QMED"/>
+            <Usage notes="Well rated up to the level of the highest recorded floods.Since 1996 the US gauge appears to be performing well and flows bypassing the gauge are accounted for by the rating curve." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-0.28</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

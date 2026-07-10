@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 72009
+[END]
+[CDS DETAILS]
+NAME,Wenning
+LOCATION,Wennington
+NOMINAL AREA,  139.36
+NOMINAL NGR,3615,4700
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,361550,470100
+DTM AREA,  139.36
+ALTBAR, 231
+ASPBAR,358
+ASPVAR,0.05
+BFIHOST,0.370
+DPLBAR, 18.00
+DPSBAR, 91.3
+FARL,0.995
+LDP, 29.31
+PROPWET,0.60
+RMED-1H, 10.8
+RMED-1D, 42.8
+RMED-2D, 58.0
+SAAR,1313
+SAAR4170,1323
+SPRHOST,44.93
+URBEXT1990,0.0018
+URBCONC2000, 0.603
+URBEXT2000,0.0061
+URBLOC2000, 0.567
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir gauging a rural catchment. GENERAL: Truncated Flat V weir, approximately 14m wide, 1:20 cross-slopes, opened in 1969 with chart data from 27/11/1970. STATION HYDROMETRY: River well contained, not bypassed. Algal growth and upstream siltation need regular attention. No permanent cableway. Gaugings carried out from a bridge upstream, and more recently (2010s) from a road bridge approximately one mile downstream. Two peak flow ratings applied across period of record derived. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Predominantly natural flow regime with negligible impact from discharges.
+CATCHMENT,Coal Measures and Millstone Grit faulted against Carboniferous Limestone, small area of impervious Silurian slate in extreme east. Boulder Clay over most of catchment with some alluvium and hill peat. Land-use rural with heather moor in the south. No significant catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED, flows from the rating consistent with Hornby and Wray.
+Pooling Suitability,In spite of hydraulic modelling and matching with upstream catchments, the gaugings do not extend far enough to confirm rating extrapolation. Bypassing from upstream in largest events in the early record.
+[END]

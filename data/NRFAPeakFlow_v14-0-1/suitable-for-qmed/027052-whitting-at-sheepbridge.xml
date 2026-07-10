@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SK3763874771" x="437638" y="374771">
+        <CatchmentCentroid grid="GB" ngr="SK3389276826" x="433892" y="376826"/>
+        <area>54.27</area>
+        <altbar>182.0</altbar>
+        <aspbar>113.0</aspbar>
+        <aspvar>0.27</aspvar>
+        <bfihost>0.536</bfihost>
+        <bfihost19>0.547</bfihost19>
+        <bfihost19scaled>0.548</bfihost19scaled>
+        <dplbar>6.57</dplbar>
+        <dpsbar>91.6</dpsbar>
+        <draindens>1.119</draindens>
+        <farl>0.995</farl>
+        <farl2015>0.9666</farl2015>
+        <fpext>0.0232</fpext>
+        <fpdbar>0.217</fpdbar>
+        <fploc>0.734</fploc>
+        <ihdtmeasting>437650</ihdtmeasting>
+        <ihdtmnorthing>374750</ihdtmnorthing>
+        <ldp>12.45</ldp>
+        <propwet>0.38</propwet>
+        <rmed_1h>10.5</rmed_1h>
+        <rmed_1d>34.9</rmed_1d>
+        <rmed_2d>44.3</rmed_2d>
+        <saar>834.0</saar>
+        <saar4170>824.0</saar4170>
+        <saar9120>826</saar9120>
+        <sprhost>25.12</sprhost>
+        <urbconc1990>0.754</urbconc1990>
+        <urbext1990>0.0892</urbext1990>
+        <urbloc1990>0.895</urbloc1990>
+        <urbconc2000>0.847</urbconc2000>
+        <urbext2000>0.1058</urbext2000>
+        <urbloc2000>0.906</urbloc2000>
+        <urbext2015>0.11</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SK3763874771" x="437638" y="374771">
+        <c>-0.02523</c>
+        <d1>0.37468</d1>
+        <d2>0.44158</d2>
+        <d3>0.29162</d3>
+        <e>0.29897</e>
+        <f>2.354</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SK380750" x="438000" y="375000">
+        <c_1_km>-0.026</c_1_km>
+        <d1_1_km>0.342</d1_1_km>
+        <d2_1_km>0.411</d2_1_km>
+        <d3_1_km>0.313</d3_1_km>
+        <e_1_km>0.302</e_1_km>
+        <f_1_km>2.359</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.5, 4.2, 5.2, 6.7, 7.8, 9.1, 10.2, 11.6, 13.1, 14.7, 16.5, 18.7, 21.1, 23.7, 26.2, 28.9, 31.4, 33.9, 36.1, 38.5, 40.8</Depths>
+        <Depths duration="0.25">4.9, 6, 7.2, 9.1, 11.9, 13.9, 16.4, 18.6, 21.4, 24.4, 27.8, 31.5, 36.1, 41.3, 46.9, 52.3, 58.3, 64.2, 70, 75.6, 81.5, 87.2</Depths>
+        <Depths duration="0.5">6.3, 7.9, 9.4, 11.9, 15.5, 18.4, 21.7, 24.9, 28.6, 32.8, 37.8, 42.9, 49.4, 56.8, 64.8, 72.6, 81.3, 89.9, 98.7, 106.8, 115.8, 124.6</Depths>
+        <Depths duration="0.75">7.3, 9.1, 10.9, 13.7, 17.9, 21.3, 25.2, 28.9, 33.4, 38.2, 44, 50.1, 57.9, 66.6, 76.3, 85.7, 96.2, 106.6, 117, 126.9, 137.9, 148.7</Depths>
+        <Depths duration="1">8.1, 10, 12, 15, 19.8, 23.4, 27.7, 31.9, 36.8, 42.3, 48.7, 55.6, 64.3, 74, 84.8, 95.3, 107, 118.7, 130.6, 141.8, 154.2, 166.4</Depths>
+        <Depths duration="2">12, 14.1, 16.3, 19.7, 25, 28.9, 33.7, 38.4, 44.2, 50.7, 58.4, 66.6, 76.6, 87.2, 98.6, 109.4, 121.3, 133.2, 145.4, 156.8, 169.3, 181.6</Depths>
+        <Depths duration="4">16.6, 19.1, 21.5, 25.2, 31.1, 35.5, 40.9, 46.4, 53.2, 60.9, 69.9, 79.2, 90.2, 101.5, 113.2, 124.3, 136.5, 148.6, 160.9, 172.5, 185.1, 197.6</Depths>
+        <Depths duration="6">19.8, 22.4, 25, 29, 35.3, 40.1, 45.9, 51.9, 59.3, 67.7, 77.5, 87.3, 98.7, 110.3, 122.3, 133.5, 145.8, 158.1, 170.6, 182.2, 195, 207.6</Depths>
+        <Depths duration="12">26, 29, 32, 36.4, 43.6, 49, 55.7, 62.6, 71.3, 81, 91.8, 102.4, 114.4, 126.4, 138.7, 150.2, 162.8, 175.3, 188.1, 200, 213, 225.8</Depths>
+        <Depths duration="18">30.1, 33.3, 36.5, 41.3, 49, 54.9, 62.2, 69.8, 79.2, 89.5, 100.8, 111.8, 124.1, 136.3, 148.8, 160.5, 173.3, 186, 198.9, 211, 224.1, 237.1</Depths>
+        <Depths duration="24">33.2, 36.6, 40, 45, 53.2, 59.5, 67.3, 75.4, 85.3, 96, 107.6, 118.8, 131.2, 143.6, 156.3, 168.1, 181.1, 194, 207.1, 219.2, 232.5, 245.5</Depths>
+        <Depths duration="48">41.6, 45.5, 49.4, 55.3, 64.8, 72.1, 81.1, 90.3, 101.3, 112.8, 125.1, 136.8, 149.7, 162.4, 175.5, 187.7, 201, 214, 227.3, 239.5, 252.9, 266</Depths>
+        <Depths duration="96">52.5, 57.2, 61.8, 68.8, 79.9, 88.2, 98.3, 108.4, 120, 132.1, 144.9, 156.9, 170.3, 183.5, 197, 209.6, 223.2, 236.6, 250.2, 262.7, 276.4, 289.8</Depths>
+        <Depths duration="192">69.2, 75, 80.7, 89.2, 102.2, 111.6, 122.5, 132.9, 144.7, 156.7, 169.4, 181.5, 194.9, 208.3, 222, 234.8, 248.9, 262.6, 276.7, 289.6, 303.7, 317.6</Depths>
+        <Depths duration="240">76.8, 83.1, 89.3, 98.3, 112.1, 121.9, 133.1, 143.7, 155.5, 167.4, 179.9, 191.8, 205, 218.2, 231.9, 244.6, 258.6, 272.4, 286.5, 299.5, 313.7, 327.7</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.5, 4.2, 5.3, 6.9, 8.1, 9.3, 10.4, 11.6, 12.9, 14.2, 15.4, 16.8, 18.4, 20.1, 21.9, 23.9, 25.9, 28, 29.8, 31.8, 33.8</Depths>
+        <Depths duration="0.25">4.9, 6.1, 7.3, 9.2, 12.2, 14.4, 16.7, 18.9, 21.5, 24, 26.7, 29.4, 32.5, 35.9, 39.8, 43.7, 48.2, 53, 57.8, 62.4, 67.4, 72.3</Depths>
+        <Depths duration="0.5">6.3, 8, 9.5, 12.1, 16, 19, 22.2, 25.3, 28.8, 32.3, 36.3, 40, 44.5, 49.4, 54.9, 60.7, 67.3, 74.2, 81.5, 88.3, 95.8, 103.3</Depths>
+        <Depths duration="0.75">7.3, 9.2, 11, 14, 18.5, 21.9, 25.7, 29.3, 33.6, 37.7, 42.3, 46.8, 52.2, 58, 64.7, 71.6, 79.6, 87.9, 96.6, 104.9, 114.1, 123.4</Depths>
+        <Depths duration="1">8.1, 10.1, 12.1, 15.3, 20.4, 24.1, 28.3, 32.4, 37, 41.7, 46.8, 51.9, 57.9, 64.4, 71.9, 79.6, 88.5, 97.9, 107.8, 117.2, 127.6, 138</Depths>
+        <Depths duration="2">12.1, 14.4, 16.7, 20.2, 25.8, 29.8, 34.4, 38.8, 43.8, 49.1, 54.9, 60.7, 67.8, 75.5, 84.2, 92.9, 102.7, 112.7, 123.1, 132.9, 143.6, 154.2</Depths>
+        <Depths duration="4">16.9, 19.5, 22.1, 26, 32.1, 36.5, 41.7, 46.6, 52.4, 58.5, 65.3, 72.4, 80.9, 90, 100, 109.5, 120.2, 130.8, 141.7, 151.8, 162.9, 173.8</Depths>
+        <Depths duration="6">20.1, 22.9, 25.7, 29.9, 36.4, 41.1, 46.6, 52, 58.4, 65.2, 73, 81, 90.4, 100.4, 111, 121, 132.1, 143.1, 154.2, 164.6, 175.9, 187.1</Depths>
+        <Depths duration="12">26.2, 29.4, 32.5, 37.2, 44.7, 50.1, 56.6, 63.2, 71, 79.6, 89.3, 98.9, 110, 121.2, 132.8, 143.6, 155.3, 166.9, 178.6, 189.5, 201.3, 212.9</Depths>
+        <Depths duration="18">30, 33.4, 36.8, 41.9, 50, 56, 63.3, 70.7, 79.7, 89.5, 100.3, 110.8, 122.6, 134.4, 146.4, 157.6, 169.8, 181.7, 193.8, 204.9, 217, 228.9</Depths>
+        <Depths duration="24">32.8, 36.4, 40, 45.5, 54.1, 60.6, 68.5, 76.5, 86.3, 96.9, 108.3, 119.3, 131.6, 143.7, 156.1, 167.6, 180, 192.1, 204.4, 215.7, 228, 240</Depths>
+        <Depths duration="48">40.3, 44.6, 48.8, 55.1, 65.2, 72.8, 82, 91.4, 102.6, 114.3, 126.8, 138.6, 151.6, 164.4, 177.4, 189.4, 202.4, 215, 227.8, 239.5, 252.2, 264.7</Depths>
+        <Depths duration="96">50.8, 55.9, 60.9, 68.4, 80, 88.5, 98.6, 108.3, 119.6, 131.3, 143.7, 155.5, 168.7, 181.7, 195.1, 207.4, 220.9, 234, 247.2, 259.3, 272.5, 285.3</Depths>
+        <Depths duration="192">68.6, 75.1, 81.5, 90.7, 104.7, 114.4, 125.4, 135.6, 146.7, 157.7, 169.1, 179.9, 191.8, 203.7, 216, 227.6, 240.4, 253.1, 266.1, 278.2, 291.3, 304.3</Depths>
+        <Depths duration="240">77, 84.2, 91.2, 101.4, 116.6, 127.1, 138.8, 149.5, 161.1, 172.5, 184.1, 194.8, 206.6, 218.3, 230.3, 241.4, 253.7, 265.8, 278.2, 289.8, 302.4, 314.9</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Sheepbridge" name="Whitting" number="27052">
+        <Comments>
+            <Comment type="Station Summary">Crump weir in a confined channel with no known bypassing.</Comment>
+            <Comment type="Hydrometric">No known bypassing. Single daily and peak flow rating applied across period of record, developed from theoretical Crump rating with current meter gauging.</Comment>
+            <Comment type="General">Crump weir, 5.98m wide. No cableway. Confined in a straight concrete channel between road and railway embankments (3m high walls for 200m) in an industrialised valley. Station is 500m downstream of confluence of River Drone with Barlow Brook.</Comment>
+            <Comment type="Flow record">Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).</Comment>
+            <Comment type="Flow regime">Estimated 4.3% of catchment drains through Crowhole Reservoir. Dronfield Dam flood storage reservoir approximately 6km upstream may have some impact on flood flows. Sewage effluent returns.</Comment>
+            <Comment type="Catchment">Geology: Lower Coal Measure Standstones and Shales. Broad, gentle syncline is centred almost East West, along Barlow Beck. Mixed agriculture with moorland headwaters, significant urban development and industrialised valleys. Declining influence of coal mining industry since mine closures around 1920. There are numerous abandoned coal workings.</Comment>
+            <Comment type="Factors affecting runoff">SE</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged to QMED. Theoretical structure which is modular and contained to well above QMED gives confidence in rating extrapolation." suitable="Yes" type="QMED"/>
+            <Usage notes="Limited validation of rating by high flow gaugings beyond QMED. Downstream level data available from 2000, confirms structure goes non-modular at very high flows (Nov 2000, Jun 2007 events), rating does not take account of this. Largest events likely to be over-estimated as a result, although several other large events (e.g. Aug 2012, Dec 2012) do remain modular and are considered to be reliable." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.4</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 24003
+[END]
+[CDS DETAILS]
+NAME,Wear
+LOCATION,Stanhope
+NOMINAL AREA,  173.49
+NOMINAL NGR,3983,5390
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,398350,539050
+DTM AREA,  173.49
+ALTBAR, 472
+ASPBAR, 75
+ASPVAR,0.17
+BFIHOST,0.300
+DPLBAR, 13.24
+DPSBAR,132.2
+FARL,0.978
+LDP, 23.47
+PROPWET,0.59
+RMED-1H, 10.4
+RMED-1D, 42.4
+RMED-2D, 55.3
+SAAR,1279
+SAAR4170,1313
+SPRHOST,50.81
+URBEXT1990,0.0016
+URBEXT2000,0.0015
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir gauging the upper Wear catchment. Flow regime influenced by Burnhope reservoir. GENERAL: Compound Crump profile weir located in a steep rocky section, overall width 19.1m, central low crest width 7.6m, Larinier fish pass completed August 2018. Wing walls raised in 1967. A temporary cableway was used d/s of the weir in late 1960s-early 1970s. STATION HYDROMETRY: Weir suffers periodic upstream gravel accumulation, formerly limited by a gravel trap, now ineffective. Flows contained on left bank up to 3.1m until July 2007 when the left wing wall was repaired and raised. Instruments originally on right bank but poor for measuring low flows due to sand and gravel deposition. Instruments moved to left bank from mid-1990s but stilling well thought to suffer from drawdown at high stages >1.5m. A second instrument was reinstated on the right bank in 1998 to improve measurement at high flow but left bank gauge remained the primary data until Feb 2002, when reverted fully to the right bank. In July 2007 the inlet pipe was extended by 2m to improve measurement at low levels due to the accumulation of gravel around the pipe. Two peak flows ratings applied across period of record, pre- and post- fish pass construction (2018), refined using hydraulic modelling. Model gives confidence in rating performing well at high flows. Flood Studies Report grade A1. FLOW RECORD: Bypassing on the left bank affected flow events in 1995, 1999 and 2005. Flow of January 2005 event may be underestimated due to problems with gravel build up blocking the inlet pipe to the stilling well affecting level measurement. Weir repair and fish pass works commenced September 2017 resulting in inaccurate flow data until August 2018. Various periods of suspect flows throughout the record as a result of measurement problems due to gravel deposition and drawdown at high flows. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Very flashy response and extremely peaked flows. Burnhope reservoir (catchment area 19 sq.km) has noticeable effect; net export of water.
+CATCHMENT,Steep Pennine catchment. Mainly Lower Carboniferous Limestone, overlain by peat in headwaters and boulder clay and alluvium in valley. Some forestry but around three quarters grass pasture and moorland and some arable farming. No known catchment changes.
+Qmed Suitability,QMED contained in wing walls, confirmed by current meter gaugings and hydraulic modelling.
+Pooling Suitability,Recent hydraulic model improves confidence in high flow estimates.
+[END]

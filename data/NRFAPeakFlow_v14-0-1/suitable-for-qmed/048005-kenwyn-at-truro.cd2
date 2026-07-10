@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 48005
+[END]
+[CDS DETAILS]
+NAME,Kenwyn
+LOCATION,Truro
+NOMINAL AREA,   19.02
+NOMINAL NGR,1819, 450
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,181950,45000
+DTM AREA,   19.02
+ALTBAR,  83
+ASPBAR,114
+ASPVAR,0.19
+BFIHOST,0.601
+DPLBAR,  4.82
+DPSBAR, 90.4
+FARL,0.988
+LDP,  8.47
+PROPWET,0.42
+RMED-1H, 11.0
+RMED-1D, 36.0
+RMED-2D, 49.2
+SAAR,1100
+SAAR4170,1107
+SPRHOST,32.62
+URBCONC1990, 0.842
+URBEXT1990,0.0282
+URBLOC1990, 0.474
+URBCONC2000, 0.938
+URBEXT2000,0.0321
+URBLOC2000, 0.498
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump profile weir with flood retention ponds upstream that alter high flow response. GENERAL: Three-bay compound Crump profile weir with central crest length 1.22m and two side crests of 1.524m and 1.535m (4.27m total). Crest levels are: left 7.09mAOD, central 7.4mAOD, right 7.09mAOD. Pier and wing wall height 1.98m. STATION HYDROMETRY: Contains all flows. Weir can become non-modular at highest flows. Data from the Acoustic Time of Flight installed 100m upstream of the weir in 2009 have been integrated into the rating to improve the high flow accuracy. Previous rating overestimated high flows. New rating has reduced flows by up to 10% for peak flows on record. Low flow accuracy affected by variable shoaling directly upstream of weir. A timber weir d/s of the Crump, with a rectangular notch low flow section was installed in 06/2001 to allow water to be abstracted to feed the town leat. This is vulnerable to debris build up and can affect sensitivity of flow through central weir crest. Crump weir does not fully drown, but u/s flood storage ponds prevent large discharge over weir. One peak flow rating applied across period of record with the exception of the Jan 1988 high flow event where there are two temporary ratings applied. No bypassing expected. FLOW RECORD: Suspect data 28/07/2001 - 23/08/2001, resulting from backing up from an informal weir which was installed immediately downstream of the Crump in 06/2001. Flood retention ponds upstream, in operation from 01/1991. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11).
+CATCHMENT,Catchment of moderate relief on Old Red Sandstone and Devonian grits and shales, with wooded, incised valleys. Substantially natural catchment but flood retention ponds (from 01/1991) alter high flow response. High baseflow for the relief of the catchment.
+Qmed Suitability,Rating provides a reasonable estimate of QMED.
+Pooling Suitability,Rating uncertain beyond QMED, appears to overestimate flows.
+[END]

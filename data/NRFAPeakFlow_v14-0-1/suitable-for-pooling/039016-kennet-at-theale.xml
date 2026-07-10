@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SU6495970828" x="464959" y="170828">
+        <CatchmentCentroid grid="GB" ngr="SU3367470432" x="433674" y="170432"/>
+        <area>1037.3925</area>
+        <altbar>151.0</altbar>
+        <aspbar>99.0</aspbar>
+        <aspvar>0.13</aspvar>
+        <bfihost>0.766</bfihost>
+        <bfihost19>0.821</bfihost19>
+        <bfihost19scaled>0.821</bfihost19scaled>
+        <dplbar>46.99</dplbar>
+        <dpsbar>54.9</dpsbar>
+        <draindens>0.487</draindens>
+        <farl>0.965</farl>
+        <farl2015>0.884</farl2015>
+        <fpext>0.0783</fpext>
+        <fpdbar>0.651</fpdbar>
+        <fploc>0.81</fploc>
+        <ihdtmeasting>464950</ihdtmeasting>
+        <ihdtmnorthing>170850</ihdtmnorthing>
+        <ldp>90.53</ldp>
+        <propwet>0.31</propwet>
+        <rmed_1h>10.5</rmed_1h>
+        <rmed_1d>32.9</rmed_1d>
+        <rmed_2d>42.3</rmed_2d>
+        <saar>758.0</saar>
+        <saar4170>769.0</saar4170>
+        <saar9120>825</saar9120>
+        <sprhost>18.72</sprhost>
+        <urbconc1990>0.61</urbconc1990>
+        <urbext1990>0.0138</urbext1990>
+        <urbloc1990>0.815</urbloc1990>
+        <urbconc2000>0.774</urbconc2000>
+        <urbext2000>0.017</urbext2000>
+        <urbloc2000>0.671</urbloc2000>
+        <urbext2015>0.0253</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SU6495970828" x="464959" y="170828">
+        <c>-0.02655</c>
+        <d1>0.36228</d1>
+        <d2>0.29896</d2>
+        <d3>0.33847</d3>
+        <e>0.29573</e>
+        <f>2.46457</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SU650710" x="465000" y="171000">
+        <c_1_km>-0.029</c_1_km>
+        <d1_1_km>0.28</d1_1_km>
+        <d2_1_km>0.299</d2_1_km>
+        <d3_1_km>0.349</d3_1_km>
+        <e_1_km>0.309</e_1_km>
+        <f_1_km>2.56</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.4, 4.2, 5.4, 7.3, 8.6, 10, 11.2, 12.6, 13.9, 15.2, 16.6, 18.1, 19.5, 21.3, 23.1, 25.2, 27.4, 29.7, 31.8, 34.2, 36.5</Depths>
+        <Depths duration="0.25">4.5, 5.9, 7.3, 9.4, 12.8, 15, 17.8, 20.3, 22.8, 25.7, 28.5, 31.3, 34.5, 37.9, 41.8, 45.8, 50.4, 55.4, 60.8, 65.9, 71.6, 77.2</Depths>
+        <Depths duration="0.5">5.8, 7.6, 9.4, 12.2, 16.7, 19.8, 23.5, 26.9, 30.5, 34.3, 38.4, 42.2, 46.9, 51.7, 57.3, 62.9, 69.7, 77, 84.9, 92.5, 100.8, 109.1</Depths>
+        <Depths duration="0.75">6.7, 8.7, 10.8, 14, 19.2, 22.8, 27, 31.1, 35.3, 39.8, 44.6, 49.2, 54.7, 60.4, 67, 73.7, 81.9, 90.6, 100.1, 109.1, 119.3, 129.3</Depths>
+        <Depths duration="1">7.4, 9.6, 11.9, 15.4, 21, 25, 29.7, 34.1, 38.9, 43.9, 49.2, 54.3, 60.4, 66.8, 74.1, 81.6, 90.7, 100.5, 111.1, 121.3, 132.6, 143.9</Depths>
+        <Depths duration="2">11.7, 14.3, 16.9, 21, 27.3, 31.7, 36.9, 41.7, 47.1, 52.7, 58.7, 64.8, 72, 79.9, 88.8, 98, 108.7, 119.7, 131.3, 142.1, 154, 165.7</Depths>
+        <Depths duration="4">16.3, 19.4, 22.4, 27, 33.9, 38.8, 44.5, 49.9, 56.1, 62.5, 69.7, 77, 85.9, 95.7, 106.4, 117, 129, 140.9, 153.1, 164.4, 176.8, 189</Depths>
+        <Depths duration="6">19.1, 22.3, 25.6, 30.4, 37.7, 42.9, 49, 54.7, 61.4, 68.4, 76.4, 84.6, 94.6, 105.4, 117.1, 128.3, 140.8, 153.1, 165.6, 177.2, 189.8, 202.2</Depths>
+        <Depths duration="12">23.7, 27.3, 30.8, 36, 44, 49.7, 56.2, 62.6, 70, 78.2, 87.5, 97.1, 108.7, 120.8, 133.6, 145.6, 158.6, 171.5, 184.5, 196.5, 209.5, 222.2</Depths>
+        <Depths duration="18">26.6, 30.3, 34, 39.4, 47.7, 53.6, 60.4, 67.1, 74.9, 83.5, 93.4, 103.7, 115.9, 128.5, 141.7, 153.9, 167.3, 180.4, 193.6, 205.8, 219, 231.9</Depths>
+        <Depths duration="24">28.8, 32.7, 36.5, 42.1, 50.6, 56.6, 63.6, 70.4, 78.5, 87.3, 97.4, 107.9, 120.4, 133.3, 146.7, 159.1, 172.6, 185.9, 199.2, 211.5, 224.9, 237.9</Depths>
+        <Depths duration="48">35.7, 40, 44.1, 50.2, 59.3, 65.7, 73, 80.1, 88.3, 97.2, 107.3, 117.7, 130.2, 143.3, 156.9, 169.6, 183.4, 196.9, 210.5, 223, 236.5, 249.7</Depths>
+        <Depths duration="96">47.2, 52.1, 56.8, 63.5, 73.5, 80.3, 88.1, 95.3, 103.4, 111.8, 121, 130.4, 141.6, 153.7, 166.7, 179.2, 193.1, 206.6, 220.4, 233, 246.7, 260.1</Depths>
+        <Depths duration="192">68.5, 74.3, 79.9, 87.7, 99.2, 106.9, 115.4, 123.1, 131.3, 139.5, 148, 156.1, 165.4, 175.1, 185.8, 196.3, 208.6, 221.2, 234.4, 246.7, 260.1, 273.3</Depths>
+        <Depths duration="240">78.9, 85.2, 91.1, 99.5, 111.7, 119.8, 128.8, 136.8, 145.4, 153.7, 162.2, 170.3, 179.3, 188.5, 198.3, 208.1, 219.4, 231.2, 243.8, 255.6, 268.7, 281.6</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.5, 4.3, 5.7, 7.8, 9.4, 11.1, 12.5, 14.1, 15.6, 17.2, 18.7, 20.3, 21.8, 23.5, 25, 26.8, 28.5, 30.4, 32.1, 34, 35.9</Depths>
+        <Depths duration="0.25">4.4, 5.9, 7.5, 9.9, 13.8, 16.4, 19.6, 22.6, 25.6, 28.9, 32.1, 35.3, 38.7, 42.2, 46, 49.6, 53.6, 57.8, 62.2, 66.4, 71.3, 76</Depths>
+        <Depths duration="0.5">5.8, 7.7, 9.7, 12.8, 18, 21.6, 25.8, 29.9, 34.2, 38.6, 43.2, 47.6, 52.6, 57.6, 63.1, 68.2, 74.1, 80.3, 86.9, 93.2, 100.3, 107.5</Depths>
+        <Depths duration="0.75">6.6, 8.8, 11.1, 14.7, 20.6, 24.9, 29.7, 34.5, 39.5, 44.7, 50.2, 55.4, 61.3, 67.2, 73.7, 79.9, 87.1, 94.5, 102.4, 109.9, 118.6, 127.3</Depths>
+        <Depths duration="1">7.3, 9.7, 12.2, 16.2, 22.6, 27.3, 32.7, 37.9, 43.6, 49.4, 55.4, 61.2, 67.7, 74.4, 81.6, 88.5, 96.5, 104.8, 113.7, 122.2, 131.9, 141.7</Depths>
+        <Depths duration="2">11.3, 14.2, 17.1, 21.6, 28.7, 33.8, 39.7, 45.3, 51.5, 57.7, 64.3, 70.6, 77.8, 85.2, 93.2, 101, 109.9, 119, 128.7, 137.9, 148.3, 158.6</Depths>
+        <Depths duration="4">15.8, 19, 22.3, 27.3, 35.2, 40.8, 47.3, 53.4, 60.2, 67.2, 74.5, 81.7, 89.9, 98.4, 107.4, 116.2, 126.2, 136.4, 147, 156.9, 167.9, 178.8</Depths>
+        <Depths duration="6">18.4, 21.9, 25.4, 30.8, 39.1, 45.1, 52, 58.5, 65.8, 73.3, 81.3, 89.1, 98.1, 107.3, 117.1, 126.5, 137.2, 147.9, 159, 169.3, 180.7, 191.9</Depths>
+        <Depths duration="12">23.1, 27, 30.8, 36.7, 46, 52.7, 60.4, 67.8, 76.2, 84.9, 94.1, 103.1, 113.3, 123.8, 134.8, 145.2, 156.7, 168.2, 180, 190.9, 202.8, 214.5</Depths>
+        <Depths duration="18">25.9, 30.1, 34.2, 40.4, 50.3, 57.3, 65.6, 73.5, 82.5, 91.8, 101.7, 111.4, 122.3, 133.3, 144.8, 155.7, 167.6, 179.4, 191.5, 202.7, 214.8, 226.7</Depths>
+        <Depths duration="24">28.2, 32.5, 36.8, 43.3, 53.5, 60.8, 69.4, 77.7, 87, 96.7, 107, 117, 128.2, 139.6, 151.4, 162.5, 174.6, 186.6, 198.9, 210.2, 222.5, 234.5</Depths>
+        <Depths duration="48">35, 39.7, 44.4, 51.4, 62.3, 70.2, 79.3, 87.9, 97.7, 107.8, 118.5, 128.9, 140.5, 152.3, 164.5, 176, 188.5, 200.9, 213.4, 224.9, 237.5, 249.7</Depths>
+        <Depths duration="96">46.1, 51.3, 56.5, 63.9, 75.3, 83.2, 92.3, 100.8, 110.3, 120, 130.2, 140, 151.2, 162.6, 174.5, 185.9, 198.4, 210.9, 223.6, 235.2, 247.8, 260.2</Depths>
+        <Depths duration="192">66.5, 72.6, 78.3, 86.7, 99, 107.3, 116.6, 125, 134.1, 143, 152.2, 160.7, 170.3, 179.9, 190.1, 199.8, 210.8, 222, 233.7, 244.8, 257, 269.1</Depths>
+        <Depths duration="240">76.7, 83.2, 89.3, 98.2, 111.1, 119.8, 129.3, 138, 147.2, 156.2, 165.3, 173.7, 183, 192.2, 201.8, 210.9, 221, 231.4, 242.2, 252.5, 264.1, 275.7</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Theale" name="Kennet" number="39016">
+        <Comments>
+            <Comment type="Station Summary">Crump weir, the most downstream gauging station on the Kennet. Since 2014 there have been issues with the channel and a new location is being considered for the lower Kennet gauging station. Closed in 2019 and undergoing decommissioning.</Comment>
+            <Comment type="Hydrometric">Stilling well with radar and pressure sensors. Head and tail levels gauged, crest tapping not used. Cableway installed in 1999 but it was subsequently removed. The weir has subsided with a difference in level from left to right of 41mm across the weir crest. Standard Crump weir equation using tail levels (measured since 2005). Flows tend to be non-modular above 10 cumecs. Bypassing occurs above 29 cumecs, through gravel pits on the south side of the flood plain, hence flood flows may be underestimated by the peak flow rating. An increasing number of bottlenecks downstream causes drowning at increasingly lower flow rates.</Comment>
+            <Comment type="General">Crump weir (15.9m broad) equipped with crest pressure tapping (not used in flow calculations) and d/s recorder. The station is in an artificially straightened section of the Kennet. Since 2014 the station has experienced problems with channel morphology and a new gauging station downstream of Blakes Lock (Reading) has been installed as a possible replacement.</Comment>
+            <Comment type="Flow record">Flows of &gt;24 cumecs and stages of 0.77m+ are questionable: the rest of the flows gauged are believed to good. Bypassing, flow in Kennet and Avon Canal and over-reduction of drowned flows may cause underestimation of peak flows. GDFs 04-24/12/98 estimated by the NRFA using the Kennet at Newbury (39103). This was due to missing levels, as the gauging hut was refurbished. Since 2014 there have been issues with the channel rendering data unsuitable for flood estimation so peak flows are rejected. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow regime">High baseflow component but responsive contribution from the R. Enbourne. Can react quickly to heavy rainfall. Flows influenced by groundwater abstraction/recharge (WBGS), particularly during drought. Abstraction for industrial/agricultural purposes but have little net impact. Minor contribution to the Kennet &amp; Avon Canal.</Comment>
+            <Comment type="Catchment">Primarily a rural catchment, especially in the headwaters, with scattered settlements (Newbury is the largest town) and significant urban development concentrated along the Kennet Valley. A mainly pervious catchment (Chalk with significant Drift cover) but the lowest quarter is largely impermeable.</Comment>
+            <Comment type="Factors affecting runoff">RGI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED. Flows below bank full and estimates thought to be reasonable." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged to within 3% of AMAX3. Rating is thought to provide reasonable estimates despite known flow underestimation." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.55</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

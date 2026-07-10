@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SU4731868304" x="447318" y="168304">
+        <CatchmentCentroid grid="GB" ngr="SU3761778272" x="437617" y="178272"/>
+        <area>235.425</area>
+        <altbar>163.0</altbar>
+        <aspbar>134.0</aspbar>
+        <aspvar>0.22</aspvar>
+        <bfihost>0.839</bfihost>
+        <bfihost19>0.864</bfihost19>
+        <bfihost19scaled>0.864</bfihost19scaled>
+        <dplbar>19.61</dplbar>
+        <dpsbar>59.2</dpsbar>
+        <draindens>0.172</draindens>
+        <farl>0.979</farl>
+        <farl2015>0.9783</farl2015>
+        <fpext>0.034</fpext>
+        <fpdbar>0.231</fpdbar>
+        <fploc>0.88</fploc>
+        <ihdtmeasting>447300</ihdtmeasting>
+        <ihdtmnorthing>168300</ihdtmnorthing>
+        <ldp>34.46</ldp>
+        <propwet>0.32</propwet>
+        <rmed_1h>10.3</rmed_1h>
+        <rmed_1d>34.3</rmed_1d>
+        <rmed_2d>43.5</rmed_2d>
+        <saar>736.0</saar>
+        <saar4170>737.0</saar4170>
+        <saar9120>787</saar9120>
+        <sprhost>16.08</sprhost>
+        <urbconc1990>0.471</urbconc1990>
+        <urbext1990>0.0049</urbext1990>
+        <urbloc1990>0.626</urbloc1990>
+        <urbconc2000>0.648</urbconc2000>
+        <urbext2000>0.0051</urbext2000>
+        <urbloc2000>0.522</urbloc2000>
+        <urbext2015>0.0103</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SU4731868304" x="447318" y="168304">
+        <c>-0.0261</c>
+        <d1>0.38388</d1>
+        <d2>0.29886</d2>
+        <d3>0.29166</d3>
+        <e>0.2935</e>
+        <f>2.46355</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SU470680" x="447000" y="168000">
+        <c_1_km>-9999.0</c_1_km>
+        <d1_1_km>-9999.0</d1_1_km>
+        <d2_1_km>-9999.0</d2_1_km>
+        <d3_1_km>-9999.0</d3_1_km>
+        <e_1_km>-9999.0</e_1_km>
+        <f_1_km>-9999.0</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3.3, 4.1, 5.4, 7.4, 8.8, 10.3, 11.6, 13, 14.5, 15.8, 17.3, 18.8, 20.4, 21.9, 23.6, 25.3, 27.1, 29, 30.6, 32.4, 34.2</Depths>
+        <Depths duration="0.25">4.3, 5.7, 7.1, 9.4, 12.9, 15.4, 18.3, 20.9, 23.7, 26.7, 29.7, 32.7, 36, 39.5, 43.1, 46.7, 50.8, 55, 59.4, 63.6, 68.1, 72.7</Depths>
+        <Depths duration="0.5">5.6, 7.4, 9.2, 12.2, 16.9, 20.3, 24.2, 27.7, 31.6, 35.7, 40, 44.2, 48.8, 53.8, 59.1, 64.2, 70.1, 76.4, 82.9, 89.1, 95.8, 102.6</Depths>
+        <Depths duration="0.75">6.5, 8.5, 10.6, 14, 19.4, 23.4, 27.8, 31.9, 36.6, 41.4, 46.4, 51.4, 56.9, 62.8, 69.1, 75.2, 82.3, 89.8, 97.6, 105.1, 113.2, 121.5</Depths>
+        <Depths duration="1">7.1, 9.4, 11.7, 15.4, 21.3, 25.6, 30.5, 35.2, 40.4, 45.7, 51.2, 56.7, 62.9, 69.4, 76.3, 83.2, 91.2, 99.4, 108.2, 116.5, 125.7, 134.9</Depths>
+        <Depths duration="2">11.5, 14.2, 17, 21.3, 27.9, 32.7, 38.2, 43.5, 49.4, 55.5, 62, 68.4, 75.9, 83.7, 92.1, 100.4, 109.8, 119.3, 129, 138.1, 148, 157.8</Depths>
+        <Depths duration="4">16.3, 19.5, 22.7, 27.5, 35, 40.4, 46.6, 52.7, 59.6, 66.8, 74.7, 82.5, 91.6, 101.1, 111, 120.5, 131.1, 141.6, 152.1, 161.8, 172.3, 182.6</Depths>
+        <Depths duration="6">19.1, 22.6, 26, 31.2, 39.1, 44.8, 51.5, 58.1, 65.6, 73.6, 82.4, 91.1, 101.2, 111.5, 122.3, 132.3, 143.4, 154.2, 165.1, 175.1, 186, 196.5</Depths>
+        <Depths duration="12">23.8, 27.6, 31.4, 37, 45.7, 52, 59.4, 66.7, 75.3, 84.4, 94.6, 104.6, 116, 127.4, 139, 149.8, 161.4, 172.7, 184.1, 194.6, 205.9, 216.9</Depths>
+        <Depths duration="18">26.5, 30.6, 34.5, 40.4, 49.4, 56, 63.7, 71.4, 80.3, 90, 100.6, 111.1, 123, 134.8, 146.8, 157.8, 169.7, 181.2, 192.8, 203.5, 215, 226.1</Depths>
+        <Depths duration="24">28.6, 32.8, 36.9, 42.9, 52.2, 58.9, 66.8, 74.6, 83.8, 93.6, 104.4, 115.1, 127.2, 139.2, 151.3, 162.5, 174.5, 186.1, 197.9, 208.6, 220.2, 231.5</Depths>
+        <Depths duration="48">34.9, 39.5, 43.9, 50.4, 60.3, 67.3, 75.4, 83.3, 92.5, 102.2, 112.9, 123.5, 135.5, 147.6, 159.9, 171.2, 183.5, 195.4, 207.3, 218.3, 230.1, 241.5</Depths>
+        <Depths duration="96">45.4, 50.7, 55.6, 62.6, 73.2, 80.6, 88.9, 96.7, 105.4, 114.4, 124, 133.6, 144.6, 155.9, 167.8, 178.9, 191.2, 203.1, 215.2, 226.2, 238.1, 249.7</Depths>
+        <Depths duration="192">65.4, 71.4, 77.1, 85.3, 97.4, 105.4, 114.2, 122.1, 130.7, 139.1, 147.8, 156, 165.3, 174.8, 184.8, 194.5, 205.5, 216.6, 228, 238.7, 250.3, 261.6</Depths>
+        <Depths duration="240">75.3, 81.8, 87.9, 96.6, 109.4, 117.8, 127, 135.2, 144, 152.6, 161.3, 169.5, 178.5, 187.6, 197.2, 206.4, 216.7, 227.3, 238.3, 248.6, 260, 271.1</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.4, 4.3, 5.8, 8, 9.6, 11.4, 12.9, 14.6, 16.2, 17.8, 19.3, 21, 22.5, 24, 25.5, 27.1, 28.6, 30.1, 31.5, 33, 34.4</Depths>
+        <Depths duration="0.25">4.4, 5.9, 7.5, 10, 14, 17, 20.2, 23.3, 26.6, 29.9, 33.4, 36.6, 40, 43.6, 47.2, 50.6, 54.3, 58, 61.8, 65.4, 69.3, 73.2</Depths>
+        <Depths duration="0.5">5.7, 7.6, 9.7, 13, 18.3, 22.3, 26.8, 30.8, 35.4, 40, 44.9, 49.4, 54.3, 59.4, 64.7, 69.6, 75, 80.6, 86.2, 91.6, 97.4, 103.3</Depths>
+        <Depths duration="0.75">6.6, 8.8, 11.2, 14.9, 21, 25.7, 30.8, 35.6, 41, 46.4, 52.1, 57.4, 63.3, 69.3, 75.7, 81.4, 88, 94.8, 101.5, 108, 115.1, 122.3</Depths>
+        <Depths duration="1">7.2, 9.7, 12.3, 16.4, 23.1, 28.1, 33.8, 39.2, 45.2, 51.2, 57.5, 63.4, 70, 76.6, 83.6, 90.1, 97.5, 104.9, 112.5, 119.8, 127.8, 135.8</Depths>
+        <Depths duration="2">11.1, 14.1, 17.1, 21.9, 29.4, 34.8, 41.1, 46.9, 53.5, 60.1, 66.9, 73.4, 80.6, 87.9, 95.5, 102.7, 110.7, 118.8, 127.1, 134.9, 143.5, 152</Depths>
+        <Depths duration="4">15.4, 18.9, 22.3, 27.7, 36.1, 42.2, 49.2, 55.9, 63.2, 70.7, 78.4, 85.8, 94, 102.2, 110.7, 118.7, 127.6, 136.4, 145.4, 153.8, 163, 172.1</Depths>
+        <Depths duration="6">18, 21.7, 25.5, 31.2, 40.3, 46.9, 54.6, 61.8, 69.8, 77.9, 86.3, 94.3, 103.2, 112, 121.1, 129.6, 139, 148.2, 157.6, 166.3, 175.8, 185.2</Depths>
+        <Depths duration="12">22.5, 26.7, 31, 37.6, 48.1, 55.7, 64.6, 73, 82.3, 91.6, 101.2, 110.2, 120.1, 129.8, 139.8, 149, 158.9, 168.8, 178.7, 187.9, 197.9, 207.6</Depths>
+        <Depths duration="18">25.4, 29.8, 34.4, 41.5, 52.8, 61.1, 70.7, 79.7, 89.7, 99.6, 109.8, 119.2, 129.5, 139.7, 149.9, 159.3, 169.7, 179.7, 189.9, 199.3, 209.5, 219.5</Depths>
+        <Depths duration="24">27.5, 32.2, 37, 44.4, 56.2, 64.8, 74.8, 84.2, 94.6, 104.8, 115.3, 125, 135.5, 145.8, 156.3, 165.9, 176.4, 186.6, 197, 206.5, 216.8, 226.9</Depths>
+        <Depths duration="48">34, 39.1, 44.3, 52.2, 64.7, 73.8, 84.2, 94, 104.8, 115.4, 126.2, 136.2, 147.1, 157.7, 168.4, 178.2, 189, 199.5, 210.1, 219.8, 230.4, 240.7</Depths>
+        <Depths duration="96">44.2, 49.8, 55.2, 63.3, 75.8, 84.6, 94.7, 104.1, 114.4, 124.6, 135.1, 144.9, 155.6, 166.1, 176.8, 186.6, 197.4, 208, 218.7, 228.5, 239.1, 249.5</Depths>
+        <Depths duration="192">63.4, 69.6, 75.6, 84.3, 97.1, 105.8, 115.5, 124.3, 133.8, 143.1, 152.5, 161.2, 170.7, 180.1, 189.8, 198.8, 208.7, 218.5, 228.6, 237.9, 248, 258</Depths>
+        <Depths duration="240">73.2, 79.8, 86.2, 95.3, 108.6, 117.6, 127.6, 136.6, 146.2, 155.5, 164.8, 173.4, 182.8, 192, 201.4, 210.1, 219.6, 229.1, 238.7, 247.7, 257.5, 267.1</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Shaw Ultrasonic" name="Lambourn" number="39041">
+        <Comments>
+            <Comment type="Station Summary">Situated on the River Lambourn to measure the input into the River Kennet. Installed to replace Shaw GS (39019) which was removed in 2019 to aid fish passage.</Comment>
+            <Comment type="Hydrometric">Ultrasonic gauging station. 10 interleaved crossed paths in racks. Gauge reports water height above a mean bed datum of zero. Gaugeboard offset 75m. Base of duct bracket above gaugeboard: 76.975mAOD. Electricity is routed in from a feeder pillar located adjacent to public footpath (upstream).</Comment>
+            <Comment type="General">Installed during October 2014, alongside the Spout Ditch channel to be dual run with the original Shaw gauging station (39019) until it was decommissioned. Situated on the River Lambourn to measure the input into the River Kennet. The ultrasonic station is situated about 2.6km upstream of the confluence with the River Thames. The Lambourn catchment geology is predominantly Chalk, providing a high baseflow component to the hydrograph at Shaw. The Spout Ditch channel was not commissioned, and all equipment was removed. Station added to peak flows dataset in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow record">There was a known issue with the ultrasonic gauge during August and September 2022, the gauge was very noisy and thus the flow was marked as suspect. The gauge may have been overestimating flow at this time.</Comment>
+            <Comment type="Flow regime">Groundwater-dominated flow. Flows affected by augmentation from West Berks groundwater scheme.</Comment>
+            <Comment type="Catchment">A rural catchment in the Chalk of the Berkshire Downs. However there are significant Clay-with-Flints cover with alluvium in the valleys. Local suburban growth near the gauging station but it is primarily a rural catchment dominated by agricultural land use (predominantly arable and grassland).</Comment>
+            <Comment type="Factors affecting runoff"/>
+        </Comments>
+        <Usages>
+            <Usage notes="Gaugings across a good range and a few above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Assessment pending." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

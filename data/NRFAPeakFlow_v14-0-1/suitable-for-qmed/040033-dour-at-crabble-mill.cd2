@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 40033
+[END]
+[CDS DETAILS]
+NAME,Dour
+LOCATION,Crabble Mill
+NOMINAL AREA,   44.93
+NOMINAL NGR,6300,1430
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,630050,143000
+DTM AREA,   44.93
+ALTBAR, 120
+ASPBAR, 76
+ASPVAR,0.21
+BFIHOST,0.778
+DPLBAR,  7.69
+DPSBAR, 91.9
+FARL,0.958
+LDP, 15.86
+PROPWET,0.34
+RMED-1H, 12.3
+RMED-1D, 35.9
+RMED-2D, 50.7
+SAAR, 862
+SAAR4170, 847
+SPRHOST,22.67
+URBCONC1990, 0.479
+URBEXT1990,0.0161
+URBLOC1990, 0.657
+URBCONC2000, 0.727
+URBEXT2000,0.0335
+URBLOC2000, 0.700
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir, velocity-area station prior to 1984. GENERAL: Flat-V weir (1:20 cross-slope, capacity: 1 cumec) within concrete berms in brick-lined section, almost all flows contained. Replaced velocity-area station in 1984. STATION HYDROMETRY: Modular. Most flows contained. Possible changes in bed datum of previous rated section caused by scour; gravel and chalk form the bed substrate. Theoretical rating - extends to 1.59 cumecs; exceeded in Feb/Mar 1995 and in early 2001, when outstanding flows (confirmed by current metering 03/02/2001) reflect record groundwater levels and substantial urban runoff following >40mm storm. Spot gauging of 0.06 cumecs on 05/10/1976 represents good approximation for 1976 drought minimum. One peak flow rating applied across period of record. Large amount of scatter in gaugings. FLOW RECORD: Data estimated for Jun - Aug 1995. Reprocessing of high flow data carried out in May 2007 following rating review by Peter Brett Associates. Period between 1979 and 1984 rejected because the values were taken from a different site and not reprocessed. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Baseflow-dominated regime. Possible changes to abstractions. Urban fraction of catchment very responsive to notable storms. Runoff reduced by substantial groundwater abstraction. Ornamental lakes upstream.
+CATCHMENT,The Dour is a spring-fed Chalk stream (two main branches) draining to Dover. Rural headwaters but significant urban development in the lower valley above Crabble Mill.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,Highest gauging is near AMAX 3 but was taken in 1966 pre-weir installation and is not considered accurate.
+[END]

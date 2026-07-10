@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NS9327122756" x="293271" y="622756">
+        <CatchmentCentroid grid="GB" ngr="NS9577314376" x="295773" y="614376"/>
+        <area>251.805</area>
+        <altbar>418.0</altbar>
+        <aspbar>7.0</aspbar>
+        <aspvar>0.08</aspvar>
+        <bfihost>0.379</bfihost>
+        <bfihost19>0.32</bfihost19>
+        <bfihost19scaled>0.307</bfihost19scaled>
+        <dplbar>17.9</dplbar>
+        <dpsbar>183.1</dpsbar>
+        <draindens>1.24</draindens>
+        <farl>0.937</farl>
+        <farl2015>0.9219</farl2015>
+        <fpext>0.0433</fpext>
+        <fpdbar>0.676</fpdbar>
+        <fploc>0.805</fploc>
+        <ihdtmeasting>293250</ihdtmeasting>
+        <ihdtmnorthing>622750</ihdtmnorthing>
+        <ldp>34.8</ldp>
+        <propwet>0.71</propwet>
+        <rmed_1h>11.0</rmed_1h>
+        <rmed_1d>47.0</rmed_1d>
+        <rmed_2d>64.8</rmed_2d>
+        <saar>1540.0</saar>
+        <saar4170>1605.0</saar4170>
+        <saar9120>1785</saar9120>
+        <sprhost>47.91</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>7.0E-4</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0013</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0024</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NS9327122756" x="293271" y="622756">
+        <c>-0.02309</c>
+        <d1>0.45609</d1>
+        <d2>0.48431</d2>
+        <d3>0.36144</d3>
+        <e>0.27997</e>
+        <f>2.38253</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NS930230" x="293000" y="623000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.444</d1_1_km>
+        <d2_1_km>0.472</d2_1_km>
+        <d3_1_km>0.34</d3_1_km>
+        <e_1_km>0.283</e_1_km>
+        <f_1_km>2.296</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.2, 3.9, 4.8, 6.3, 7.4, 8.7, 9.8, 11.3, 12.7, 14.6, 16.4, 18.8, 21.4, 24.3, 27.1, 30.3, 33.6, 36.9, 39.8, 43.1, 46.2</Depths>
+        <Depths duration="0.25">4.7, 5.9, 7.1, 9, 12, 14.2, 16.8, 19.4, 22.5, 25.6, 29.6, 33.6, 38.8, 44.6, 51.2, 57.9, 65.6, 73.1, 81.1, 88.5, 96.7, 104.7</Depths>
+        <Depths duration="0.5">6.6, 8.3, 9.9, 12.6, 16.9, 20, 23.8, 27.5, 31.9, 36.6, 42.3, 48.2, 55.9, 64.5, 74.3, 84.3, 95.6, 107, 119.1, 130.4, 142.8, 155.2</Depths>
+        <Depths duration="0.75">7.9, 9.9, 12, 15.1, 20.2, 23.9, 28.6, 32.8, 38.1, 43.8, 50.5, 57.5, 66.6, 76.7, 88.4, 100, 113.5, 127, 141, 154.4, 168.9, 183.5</Depths>
+        <Depths duration="1">9, 11.3, 13.6, 17.2, 22.9, 27.1, 32.2, 37.1, 42.9, 49.2, 56.6, 64.4, 74.4, 85.7, 98.6, 111.4, 126.1, 140.9, 156.3, 170.7, 186.6, 202.3</Depths>
+        <Depths duration="2">14.1, 16.7, 19.3, 23.3, 29.6, 34.2, 39.6, 44.9, 51.2, 58, 66, 74.5, 85.3, 97.5, 111, 124.5, 139.6, 154.9, 170.5, 185.1, 201.2, 217.2</Depths>
+        <Depths duration="4">20.7, 23.7, 26.7, 31.2, 38.1, 43, 48.8, 54.4, 61, 68.3, 76.6, 85.5, 96.8, 109.4, 123.4, 137.2, 152.7, 168.2, 184.1, 199, 215.3, 231.5</Depths>
+        <Depths duration="6">25.6, 28.8, 32, 36.8, 44.1, 49.2, 55.3, 61.1, 67.9, 75.3, 83.7, 92.8, 104.2, 116.9, 131.1, 145.1, 160.7, 176.4, 192.5, 207.5, 224.1, 240.4</Depths>
+        <Depths duration="12">35.8, 39.5, 43.2, 48.5, 56.6, 62.2, 68.8, 75, 82.1, 89.8, 98.4, 107.6, 119.1, 132, 146.4, 160.7, 176.7, 192.8, 209.4, 224.9, 241.9, 258.5</Depths>
+        <Depths duration="18">43, 47, 51, 56.7, 65.3, 71.3, 78.2, 84.7, 92.2, 100, 108.9, 118.2, 129.9, 142.9, 157.7, 172.3, 188.7, 205.1, 222.1, 237.9, 255.2, 272.2</Depths>
+        <Depths duration="24">48.7, 53, 57.1, 63.2, 72.3, 78.6, 85.8, 92.5, 100.3, 108.4, 117.5, 127, 138.9, 152.3, 167.3, 182.2, 199.1, 215.9, 233.1, 249.2, 266.9, 284.3</Depths>
+        <Depths duration="48">64.4, 69.5, 74.4, 81.4, 91.7, 98.9, 107.1, 114.7, 123.4, 132.5, 142.7, 153.3, 166.4, 181, 197.4, 213.5, 231.6, 249.8, 268.2, 285.4, 304.2, 322.8</Depths>
+        <Depths duration="96">86.1, 92.2, 98, 106.5, 119, 127.7, 137.5, 146.8, 157.4, 168.6, 181.1, 194.2, 210.3, 227.7, 246.8, 265.2, 285.9, 306.3, 327.1, 346.5, 367.7, 388.6</Depths>
+        <Depths duration="192">123.1, 131.1, 138.8, 149.9, 166.4, 178, 191.3, 203.9, 218.5, 234, 251.5, 269.4, 290.9, 313.5, 337.5, 360.3, 385.5, 410.6, 436.3, 460.2, 486.3, 512.1</Depths>
+        <Depths duration="240">141.7, 150.7, 159.3, 171.7, 190.2, 203.2, 218.1, 232.5, 249, 266.6, 286.4, 306.8, 331, 356.1, 382.5, 407.5, 435, 462.4, 490.4, 516.5, 544.9, 573</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.2, 3.8, 4.6, 5.8, 6.7, 7.7, 8.5, 9.6, 10.6, 11.7, 12.9, 14.4, 16, 18, 20.1, 22.6, 25.2, 27.8, 30.2, 32.8, 35.3</Depths>
+        <Depths duration="0.25">5, 6, 7, 8.6, 11.1, 12.9, 14.9, 16.8, 19.1, 21.2, 23.8, 26.4, 29.7, 33.5, 37.9, 42.9, 48.8, 54.8, 61.1, 67, 73.5, 79.9</Depths>
+        <Depths duration="0.5">6.9, 8.4, 9.8, 12.1, 15.6, 18.1, 21.1, 23.9, 27.1, 30.4, 34.1, 37.9, 42.8, 48.4, 55.1, 62.5, 71.2, 80.2, 89.7, 98.7, 108.6, 118.6</Depths>
+        <Depths duration="0.75">8.3, 10, 11.8, 14.5, 18.7, 21.7, 25.3, 28.5, 32.3, 36.3, 40.7, 45.2, 50.9, 57.6, 65.5, 74.2, 84.5, 95.2, 106.2, 116.8, 128.5, 140.1</Depths>
+        <Depths duration="1">9.5, 11.4, 13.4, 16.5, 21.2, 24.6, 28.5, 32.2, 36.4, 40.8, 45.6, 50.6, 56.9, 64.3, 73.1, 82.6, 93.9, 105.6, 117.7, 129.2, 141.9, 154.5</Depths>
+        <Depths duration="2">14.5, 16.8, 19.1, 22.5, 27.7, 31.4, 35.7, 39.8, 44.4, 49.3, 54.9, 60.8, 68.2, 76.9, 87.1, 97.7, 109.9, 122.3, 134.8, 146.7, 159.7, 172.6</Depths>
+        <Depths duration="4">21.4, 24.1, 26.7, 30.6, 36.4, 40.6, 45.3, 49.9, 55.1, 60.7, 67.1, 73.8, 82.5, 92.5, 103.9, 115.3, 128.3, 141.1, 154.1, 166.3, 179.7, 192.9</Depths>
+        <Depths duration="6">26.5, 29.5, 32.4, 36.5, 42.8, 47.3, 52.3, 57.2, 62.8, 68.8, 75.8, 83.2, 92.6, 103.4, 115.4, 127.2, 140.4, 153.5, 166.9, 179.4, 193.1, 206.6</Depths>
+        <Depths duration="12">37.2, 40.7, 44, 48.8, 56, 61, 66.8, 72.3, 78.7, 85.6, 93.6, 102.2, 113.1, 125.2, 138.3, 151, 165, 178.9, 193.1, 206.3, 220.7, 234.8</Depths>
+        <Depths duration="18">44.6, 48.3, 52, 57.2, 65, 70.4, 76.7, 82.7, 89.6, 97.1, 105.8, 115.2, 127, 139.9, 153.9, 167.3, 182, 196.5, 211.3, 225, 240, 254.8</Depths>
+        <Depths duration="24">50.3, 54.3, 58.1, 63.7, 72, 77.8, 84.4, 90.7, 98.1, 106.2, 115.5, 125.5, 138, 151.7, 166.4, 180.3, 195.6, 210.7, 226, 240.3, 255.8, 271</Depths>
+        <Depths duration="48">66.1, 70.8, 75.3, 81.8, 91.5, 98.2, 105.9, 113.3, 122, 131.5, 142.6, 154.5, 169.2, 184.9, 201.7, 217.4, 234.5, 251.2, 268.2, 283.9, 301, 317.8</Depths>
+        <Depths duration="96">87.9, 93.8, 99.3, 107.3, 119.1, 127.3, 136.8, 145.9, 156.5, 168.1, 181.5, 195.9, 213.5, 232.3, 252.1, 270.5, 290.6, 310.3, 330.3, 348.9, 369, 388.7</Depths>
+        <Depths duration="192">126.5, 134.2, 141.7, 152.4, 168.1, 178.9, 191.3, 203, 216.4, 230.9, 247.5, 265.2, 287.1, 310.7, 335.8, 359.5, 385, 410.1, 435.7, 459.3, 485, 510.2</Depths>
+        <Depths duration="240">145.9, 154.7, 163.1, 175, 192.7, 204.8, 218.5, 231.4, 246.2, 261.9, 279.8, 298.6, 322, 347.5, 375.2, 401.3, 429.4, 457.2, 485.5, 511.7, 540.2, 568.1</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Abington" name="Clyde" number="84040">
+        <Comments>
+            <Comment type="Station Summary">Station built to improve flood warning in the Clyde catchment.</Comment>
+            <Comment type="Hydrometric">Station spills into right floodplain after around 2m and then into left floodplain after around 2.8m. Rating based on gaugings up to ~1.6m and thereafter higher flow estimates are informed by velocity indexing from a fixed ADCP and floodplain modelling.</Comment>
+            <Comment type="General">Velocity area station, the most upstream on the Clyde. Station added to peak flows dataset in August 2021 (WINFAP Files v10).</Comment>
+            <Comment type="Flow regime">Two major reservoirs in the catchment.</Comment>
+            <Comment type="Catchment">Heavily grazed uplands and heather moor. Large wind farms have been installed in the catchment since the station was built.</Comment>
+            <Comment type="Factors affecting runoff"/>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged to QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Although there are few gaugings above QMED, ratings takes into account out of bank flow." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

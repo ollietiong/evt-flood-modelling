@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 38018
+[END]
+[CDS DETAILS]
+NAME,Upper Lee
+LOCATION,Water Hall
+NOMINAL AREA,  157.74
+NOMINAL NGR,5299,2099
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,530000,209950
+DTM AREA,  157.74
+ALTBAR, 114
+ASPBAR, 93
+ASPVAR,0.11
+BFIHOST,0.686
+DPLBAR, 23.43
+DPSBAR, 40.5
+FARL,0.932
+LDP, 47.49
+PROPWET,0.30
+RMED-1H, 10.4
+RMED-1D, 30.0
+RMED-2D, 37.8
+SAAR, 663
+SAAR4170, 653
+SPRHOST,27.39
+URBCONC1990, 0.795
+URBEXT1990,0.1624
+URBLOC1990, 1.333
+URBCONC2000, 0.907
+URBEXT2000,0.1998
+URBLOC2000, 1.303
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station located in the Upper Lee catchment above the confluences of tributary rivers. GENERAL: Crump weir approximately 6m wide. Present station built in October 1971 to replace two temporary stations at Waterhall Farm and Roxford Farm. River course altered for gravel works and current station was built within this new artificial section. STATION HYDROMETRY: Modular throughout the flow range. Standard Crump weir calculation. Theoretical rating has a reasonable level of accuracy. Approach channel can become heavily choked with vegetation and has to be regularly managed. FLOW RECORD: All flows contained. Some early data (of limited quality) from two nearby gauging stations. There was a station on the River Lee at Roxford (38801) which, started in November 1952. In order to produce a single record, some correlations were undertaken between these stations. They had an overlapping record from September 1971 to August 1972. These were compared and a formula was used to derive Water Hall values. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: There is storage capacity in Luton Hoo lakes and the station is downstream of the outfall from an ornamental lake. Flows are substantially reduced as a result of groundwater abstraction (significant export). Considerable interludes of zero flow, occasionally interrupted by small sluice releases (above the thin-plate weir). Some surface water drainage from Luton bypasses the gauge via the East Hyde sewage treatment works. Rununculus growth in upstream section is rampant in the growing season. Cutting does occur on a regular basis but can lead to minor drift adjustment of water level.
+CATCHMENT,Catchment is mainly pervious (Chalk) but with glacial Drift in the headwaters. The land uses are principally agricultural with some important (expanding) urban centres.
+Qmed Suitability,Gauged to within 25% of QMED. All flows within bank.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

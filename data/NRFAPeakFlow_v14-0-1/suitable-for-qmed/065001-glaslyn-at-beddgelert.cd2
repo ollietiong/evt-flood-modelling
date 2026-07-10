@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 65001
+[END]
+[CDS DETAILS]
+NAME,Glaslyn
+LOCATION,Beddgelert
+NOMINAL AREA,   66.95
+NOMINAL NGR,2591,3477
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,259200,347800
+DTM AREA,   66.95
+ALTBAR, 338
+ASPBAR,205
+ASPVAR,0.07
+BFIHOST,0.406
+DPLBAR,  7.46
+DPSBAR,309.4
+FARL,0.895
+LDP, 16.62
+PROPWET,0.62
+RMED-1H, 13.0
+RMED-1D, 80.1
+RMED-2D,106.0
+SAAR,2810
+SAAR4170,3030
+SPRHOST,45.09
+URBEXT1990,0.0002
+URBEXT2000,0.0003
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,River section with non-standard stone section control. GENERAL: A 20m wide river section with non-standard stone section control. High profile site due to its importance for early flood warnings. STATION HYDROMETRY: Gravel removal may have produced abrupt level changes in the past (accumulations downstream cause backing up) but careful management and regular clearance allow a more stable rating to be maintained. Multiple ratings applied to period of record because of unstable bed, however only Rating 1, M, S, V and X are presented due to relevance to AMAX Flows. Station bypassed above levels of approximately 1.8m. Out of bank flow is substantial and is now accounted for in modelled high flow rating limbs that have been applied to the whole record. Rating tends to be insensitive at low flows due to subtle movements in the natural bed control but the non-standard stone section control improves stability. High flow gauging restricted to peaks and troughs because of rapid water level changes. No peak flow gaugings prior to 1989, therefore early ratings unverified. FLOW RECORD: Rating review in 2022 resulted in high flow modelled limbs being added to all historic ratings and flows reprocessed. Uncertainty remains at very high flows as there are no gaugings including the bypassing flow available to assess performance of the modelled limbs. Peak flow data prior to 1967 has been entered but may be regarded as suspect. Drop out in mean flows in early June 2020 due to gravel extraction taking place. Gaugings in February 2020 should be treated with caution due to bypassing flow not being measured and possible equipment issues. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Lakes (Dinas and Gwynant) and hydro-electric power discharge from the higher Llyn Llydaw marginally affect records.
+CATCHMENT,Very wet, upland catchment draining southern flanks of Snowdonia with much bare rock exposure (impermeable Silurian volcanics). Otherwise, land use is mostly grassland and rough moorland grazing. Some forest.
+Qmed Suitability,Ratings now account for by passing.
+Pooling Suitability,Known to bypass at ~1.8m which is now accounted for in modelled rating limb but no high flow gaugings to confirm.
+[END]

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SU5874607460" x="458746" y="107460">
+        <CatchmentCentroid grid="GB" ngr="SU6483712499" x="464837" y="112499"/>
+        <area>111.67</area>
+        <altbar>69.0</altbar>
+        <aspbar>200.0</aspbar>
+        <aspvar>0.26</aspvar>
+        <bfihost>0.639</bfihost>
+        <bfihost19>0.721</bfihost19>
+        <bfihost19scaled>0.721</bfihost19scaled>
+        <dplbar>13.29</dplbar>
+        <dpsbar>46.9</dpsbar>
+        <draindens>0.521</draindens>
+        <farl>0.979</farl>
+        <farl2015>0.9744</farl2015>
+        <fpext>0.0682</fpext>
+        <fpdbar>0.515</fpdbar>
+        <fploc>0.822</fploc>
+        <ihdtmeasting>458700</ihdtmeasting>
+        <ihdtmnorthing>107450</ihdtmnorthing>
+        <ldp>24.32</ldp>
+        <propwet>0.34</propwet>
+        <rmed_1h>9.2</rmed_1h>
+        <rmed_1d>35.2</rmed_1d>
+        <rmed_2d>45.8</rmed_2d>
+        <saar>819.0</saar>
+        <saar4170>863.0</saar4170>
+        <saar9120>930</saar9120>
+        <sprhost>24.23</sprhost>
+        <urbconc1990>0.639</urbconc1990>
+        <urbext1990>0.0392</urbext1990>
+        <urbloc1990>1.036</urbloc1990>
+        <urbconc2000>0.853</urbconc2000>
+        <urbext2000>0.0526</urbext2000>
+        <urbloc2000>1.038</urbloc2000>
+        <urbext2015>0.0698</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SU5874607460" x="458746" y="107460">
+        <c>-0.02653</c>
+        <d1>0.44701</d1>
+        <d2>0.31606</d2>
+        <d3>0.38734</d3>
+        <e>0.30401</e>
+        <f>2.26959</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SU590070" x="459000" y="107000">
+        <c_1_km>-0.026</c_1_km>
+        <d1_1_km>0.441</d1_1_km>
+        <d2_1_km>0.316</d2_1_km>
+        <d3_1_km>0.37</d3_1_km>
+        <e_1_km>0.301</e_1_km>
+        <f_1_km>2.24</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.2, 3.9, 4.6, 5.7, 7.4, 8.5, 9.7, 10.7, 11.9, 13, 14.2, 15.3, 16.6, 18.1, 20, 22.2, 25.5, 29.1, 33, 36.8, 40.6, 44.5</Depths>
+        <Depths duration="0.25">5.5, 6.8, 8.1, 9.9, 12.9, 14.9, 17.3, 19.5, 21.8, 24.3, 26.7, 29.2, 32.1, 35.3, 39.5, 44.4, 51.4, 59.4, 68.2, 76.7, 85.9, 95</Depths>
+        <Depths duration="0.5">7.2, 8.9, 10.5, 13, 17, 19.8, 23, 26.1, 29.2, 32.6, 36.3, 39.7, 43.9, 48.5, 54.4, 61.5, 71.6, 83, 95.9, 108.1, 121.7, 135.3</Depths>
+        <Depths duration="0.75">8.4, 10.2, 12.1, 15, 19.6, 22.8, 26.6, 30.1, 34, 38, 42.2, 46.4, 51.3, 56.9, 63.9, 72.4, 84.3, 98, 113.3, 128.1, 144.4, 160.8</Depths>
+        <Depths duration="1">9.2, 11.3, 13.3, 16.5, 21.5, 25.1, 29.3, 33.2, 37.5, 42, 46.7, 51.3, 56.8, 63, 70.8, 80.2, 93.6, 108.9, 126, 142.5, 160.8, 179.1</Depths>
+        <Depths duration="2">13.2, 15.4, 17.7, 21.2, 26.6, 30.4, 34.8, 38.9, 43.5, 48.3, 53.4, 58.6, 65.1, 73.1, 83.6, 96.2, 111.9, 128.8, 146.6, 163.5, 182.3, 200.9</Depths>
+        <Depths duration="4">17.7, 20.3, 22.8, 26.5, 32.2, 36.3, 41, 45.4, 50.3, 55.5, 61.3, 67.4, 75.5, 85.9, 99.4, 114, 131.3, 149, 167.3, 184.6, 203.6, 222.5</Depths>
+        <Depths duration="6">20.7, 23.4, 26, 29.9, 35.9, 40.1, 45, 49.6, 54.8, 60.3, 66.6, 73.4, 82.6, 94.5, 109.5, 124.9, 142.7, 160.6, 179.2, 196.6, 215.8, 234.8</Depths>
+        <Depths duration="12">26.4, 29.3, 32.2, 36.4, 42.9, 47.5, 52.7, 57.7, 63.5, 69.7, 77, 85.2, 96.6, 110.7, 127.3, 143.5, 161.8, 180.2, 199, 216.7, 236.1, 255.4</Depths>
+        <Depths duration="18">30.3, 33.3, 36.3, 40.8, 47.6, 52.4, 58, 63.3, 69.4, 76.1, 84, 93.1, 105.5, 120.5, 137.6, 154.2, 172.8, 191.3, 210.3, 228.2, 247.7, 267.1</Depths>
+        <Depths duration="24">33.3, 36.5, 39.6, 44.2, 51.3, 56.3, 62.1, 67.7, 74.1, 81.2, 89.5, 99, 112, 127.5, 144.8, 161.7, 180.4, 199.1, 218.2, 236.1, 255.8, 275.3</Depths>
+        <Depths duration="48">42, 45.7, 49.2, 54.5, 62.5, 68.1, 74.6, 80.8, 88, 95.8, 105, 115.2, 128.8, 144.6, 162.1, 179.2, 198.2, 217.2, 236.6, 254.7, 274.5, 294.1</Depths>
+        <Depths duration="96">55.2, 59.7, 64, 70.2, 79.7, 86.3, 93.8, 100.9, 108.9, 117.3, 126.8, 136.6, 149.2, 163.7, 180.4, 197, 215.9, 234.9, 254.5, 272.7, 292.8, 312.5</Depths>
+        <Depths duration="192">79.3, 85.2, 90.8, 99, 111.1, 119.4, 129, 137.8, 147.4, 156.9, 166.9, 176.4, 187.4, 199, 211.6, 224.6, 240.4, 257.3, 275.6, 293.4, 313.2, 332.9</Depths>
+        <Depths duration="240">91.5, 98, 104.3, 113.4, 126.9, 136.1, 146.7, 156.4, 166.8, 177, 187.5, 197.4, 208.5, 219.8, 231.6, 243.5, 257.6, 272.5, 288.6, 304.6, 322.9, 341.6</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.3, 4, 4.7, 5.9, 7.6, 8.7, 9.9, 11, 12.2, 13.3, 14.5, 15.7, 17, 18.5, 20.3, 22.3, 25.1, 28.4, 31.9, 35.3, 38.8, 42.3</Depths>
+        <Depths duration="0.25">5.7, 6.9, 8.3, 10.2, 13.3, 15.4, 17.8, 20, 22.4, 24.9, 27.4, 29.9, 32.8, 36.1, 40.1, 44.5, 50.7, 58, 65.9, 73.6, 82.1, 90.4</Depths>
+        <Depths duration="0.5">7.5, 9.1, 10.8, 13.4, 17.5, 20.4, 23.6, 26.8, 30, 33.4, 37.1, 40.6, 44.9, 49.5, 55.3, 61.7, 70.6, 81, 92.6, 103.8, 116.3, 128.8</Depths>
+        <Depths duration="0.75">8.7, 10.5, 12.4, 15.5, 20.1, 23.5, 27.3, 30.9, 34.9, 38.9, 43.2, 47.5, 52.5, 58.1, 64.9, 72.6, 83.1, 95.6, 109.5, 123, 138, 153.1</Depths>
+        <Depths duration="1">9.6, 11.6, 13.7, 17, 22.1, 25.8, 30.1, 34.1, 38.5, 43, 47.8, 52.5, 58.1, 64.3, 71.9, 80.5, 92.3, 106.2, 121.7, 136.8, 153.7, 170.5</Depths>
+        <Depths duration="2">13.6, 15.9, 18.3, 21.8, 27.4, 31.3, 35.8, 40.1, 44.8, 49.6, 54.9, 60.2, 66.7, 74.3, 83.9, 95.1, 109.4, 124.8, 141.2, 156.8, 174, 191.1</Depths>
+        <Depths duration="4">18.2, 20.9, 23.5, 27.3, 33.2, 37.4, 42.2, 46.8, 51.9, 57.2, 63.1, 69.3, 77.2, 86.7, 99, 112.4, 128.1, 144.4, 161.2, 177.1, 194.6, 211.9</Depths>
+        <Depths duration="6">21.3, 24.1, 26.8, 30.8, 36.9, 41.3, 46.3, 51.1, 56.5, 62.2, 68.6, 75.5, 84.4, 95.4, 109, 123.3, 139.6, 156.1, 173.2, 189.3, 206.9, 224.4</Depths>
+        <Depths duration="12">26.9, 30, 33, 37.3, 43.9, 48.7, 54.1, 59.3, 65.4, 71.9, 79.4, 87.7, 98.8, 112.2, 127.6, 142.7, 159.6, 176.5, 193.9, 210.1, 228, 245.6</Depths>
+        <Depths duration="18">30.8, 33.9, 37, 41.6, 48.6, 53.6, 59.4, 64.9, 71.4, 78.4, 86.8, 96.1, 108.5, 122.9, 138.9, 154.4, 171.5, 188.6, 206.1, 222.5, 240.5, 258.2</Depths>
+        <Depths duration="24">33.8, 37, 40.2, 45, 52.3, 57.5, 63.5, 69.4, 76.2, 83.6, 92.5, 102.5, 115.6, 130.5, 146.8, 162.6, 179.9, 197.1, 214.7, 231.1, 249.2, 267</Depths>
+        <Depths duration="48">42.5, 46.3, 50, 55.4, 63.6, 69.4, 76.1, 82.6, 90.3, 98.7, 108.7, 119.7, 133.8, 149.3, 166, 182, 199.7, 217.2, 235.1, 251.7, 270, 287.9</Depths>
+        <Depths duration="96">56.5, 61, 65.3, 71.5, 80.9, 87.6, 95.3, 102.5, 110.9, 119.7, 129.7, 140.3, 153.6, 168.4, 184.8, 200.7, 218.4, 236, 254.1, 271, 289.4, 307.6</Depths>
+        <Depths duration="192">80.8, 86.5, 92, 100, 111.8, 119.9, 129.4, 138.4, 148.1, 157.9, 168, 177.4, 188, 198.3, 210.9, 224.1, 239.5, 255.6, 272.5, 288.7, 306.8, 324.9</Depths>
+        <Depths duration="240">92.8, 99.1, 105.2, 114, 126.9, 135.8, 146.1, 155.7, 166.1, 176.3, 186.6, 196.1, 206.2, 215.8, 227.3, 239.4, 253.4, 268.1, 283.4, 298.2, 315, 332.1</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="North Fareham" name="Wallington" number="42001">
+        <Comments>
+            <Comment type="Station Summary">Flat-V weir installed 1991, 250m upstream of the M27 river crossing. Flashy response but with appreciable baseflow.</Comment>
+            <Comment type="Hydrometric">Modular limit 1.0m, stage peaks truncated at ~20 cumecs; weir drowns. Numerous potential bypassing locations u/s of the gauge; bypassing occurs before water level reaches the top of wing walls. Upstream of the station floodplain is typically less than 150m wide and river meanders from one side to the other. Flooding exacerbated by Wallington Bridge 1km d/s of the weir, and spring tides can extend u/s of the bridge. Between the gauge and M27 crossing the river consists of a series of interconnected pools with mobile channel bed, considerable bank erosion and debris in the channel. A 3m section of bank u/s of the station has been stabilised with rock and concrete, the d/s bank has been stabilised with loose rock covered by fencing. Bridge across weir can make current meter measurement difficult in flood flows. Two peak flow ratings applied across period of record, the most recent is valid from November-1991. Current rating developed from hydraulic model and confirmed by gaugings.</Comment>
+            <Comment type="General">Flat-V weir (1:10 cross slope, 6 m wide) installed 1991, 250m upstream of the M27 river crossing. Replaced a compound critical depth flume with total crest width 4.8m, comprising central low flow channel and two side channels (0.39 m above central channel) which operated from 0.567 m3/s and was occasionally blocked by debris.</Comment>
+            <Comment type="Flow record">Peak flow data only available from October 1976 onwards. Pre-1991, flows were truncated at ~10 cumecs (due to bypassing via the upstream eastern bank) and estimated using 42003. No data 20/07/91-03/12/91 due to station reconstruction. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7).</Comment>
+            <Comment type="Flow regime">Flashy response but with appreciable baseflow - zero flow in 1976 only. Groundwater catchment smaller than topographic catchment. In the upper catchment, runoff is negligible, except during wet winters when the bournes or lavants (seasonal streams) are running. Ground water abstraction causes a net diminution in runoff. Spray irrigation can significantly reduce summer flows. No direct surface water abstractions. Runoff from M27 motorway, 200m downstream of weir. Springs at Havant derive water from the Wallington area, therefore the Wallington is not typical of the area as a whole.</Comment>
+            <Comment type="Catchment">Permeable headwaters (Chalk) with impervious Eocene clays dominating below the headwaters. Upper Chalk with isolated patches of clay-with-flints covers northern half of catchment &amp; a narrow belt on Southern boundary. Reading Beds (predominantly clays), London Clay, Bagshot Sand &amp; Bracklesham Beds (sands &amp; clays) occur between the two chalk outcrops, with alluvium dominating the valleys. On leaving the central basin the river cuts through the edge of the Portsdown Chalk ridge and flows over Tertiary clays into the sea. A largely rural catchment, but with an expanding developed area encompassing Waterlooville, Denmead &amp; Purbrook in the headwaters.</Comment>
+            <Comment type="Factors affecting runoff">G</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Valid from 1991 when weir installed." suitable="Yes" type="QMED"/>
+            <Usage notes="Valid from 1991 when weir installed." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.64</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

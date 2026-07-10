@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="TQ75874777" x="575870" y="147770">
+        <CatchmentCentroid grid="GB" ngr="TQ8564242131" x="585642" y="142131"/>
+        <area>278.0475</area>
+        <altbar>45.0</altbar>
+        <aspbar>276.0</aspbar>
+        <aspvar>0.03</aspvar>
+        <bfihost>0.353</bfihost>
+        <bfihost19>0.328</bfihost19>
+        <bfihost19scaled>0.328</bfihost19scaled>
+        <dplbar>20.33</dplbar>
+        <dpsbar>27.4</dpsbar>
+        <draindens>1.107</draindens>
+        <farl>0.992</farl>
+        <farl2015>0.9506</farl2015>
+        <fpext>0.184</fpext>
+        <fpdbar>1.227</fpdbar>
+        <fploc>0.886</fploc>
+        <ihdtmeasting>575850</ihdtmeasting>
+        <ihdtmnorthing>147750</ihdtmnorthing>
+        <ldp>36.97</ldp>
+        <propwet>0.34</propwet>
+        <rmed_1h>11.8</rmed_1h>
+        <rmed_1d>32.5</rmed_1d>
+        <rmed_2d>42.0</rmed_2d>
+        <saar>691.0</saar>
+        <saar4170>691.0</saar4170>
+        <saar9120>727</saar9120>
+        <sprhost>44.56</sprhost>
+        <urbconc1990>0.528</urbconc1990>
+        <urbext1990>0.0062</urbext1990>
+        <urbloc1990>0.887</urbloc1990>
+        <urbconc2000>0.722</urbconc2000>
+        <urbext2000>0.0148</urbext2000>
+        <urbloc2000>0.992</urbloc2000>
+        <urbext2015>0.0263</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="TQ75874777" x="575870" y="147770">
+        <c>-0.0226</c>
+        <d1>0.33648</d1>
+        <d2>0.35659</d2>
+        <d3>0.29881</d3>
+        <e>0.30916</e>
+        <f>2.48394</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="TQ760480" x="576000" y="148000">
+        <c_1_km>-0.023</c_1_km>
+        <d1_1_km>0.348</d1_1_km>
+        <d2_1_km>0.367</d2_1_km>
+        <d3_1_km>0.258</d3_1_km>
+        <e_1_km>0.312</e_1_km>
+        <f_1_km>2.495</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3, 3.9, 4.7, 6, 7.9, 9.3, 10.7, 12.1, 13.4, 15, 16.5, 18.1, 20, 22.1, 24.5, 27, 29.8, 32.4, 35.2, 37.8, 40.3, 42.9</Depths>
+        <Depths duration="0.25">5.2, 6.6, 8, 10.1, 13.6, 16, 18.7, 21.3, 24.1, 27, 30.3, 33.4, 37.5, 41.8, 46.9, 52.1, 58.1, 64.2, 70.4, 76.2, 82.5, 88.7</Depths>
+        <Depths duration="0.5">6.6, 8.4, 10.2, 13, 17.4, 20.7, 24.3, 27.7, 31.5, 35.7, 39.9, 44.4, 49.8, 55.9, 63, 70.2, 78.6, 87.1, 96, 104.4, 113.5, 122.4</Depths>
+        <Depths duration="0.75">7.5, 9.6, 11.6, 14.8, 19.9, 23.5, 27.6, 31.7, 36.1, 40.8, 45.8, 51.1, 57.4, 64.5, 72.6, 81.1, 91, 101, 111.5, 121.4, 132.1, 142.7</Depths>
+        <Depths duration="1">8.2, 10.4, 12.6, 16.1, 21.6, 25.6, 30.2, 34.5, 39.4, 44.6, 50.1, 55.8, 62.8, 70.6, 79.6, 88.9, 99.8, 110.9, 122.5, 133.3, 145.3, 157</Depths>
+        <Depths duration="2">12.4, 15, 17.6, 21.6, 27.7, 32.2, 37.3, 42.2, 47.9, 54, 60.9, 68.2, 77.3, 87.5, 98.7, 109.6, 121.7, 133.8, 146.2, 157.7, 170.2, 182.5</Depths>
+        <Depths duration="4">17, 20, 22.9, 27.4, 34.3, 39.2, 45.1, 50.9, 57.9, 65.8, 75.2, 85.2, 97.3, 109.8, 122.7, 134.8, 148, 161, 174.1, 186.3, 199.4, 212.4</Depths>
+        <Depths duration="6">19.6, 22.8, 26, 30.7, 38, 43.4, 49.8, 56.4, 64.6, 74.1, 85.5, 97.3, 110.8, 124.3, 138, 150.6, 164.4, 177.8, 191.4, 204, 217.6, 230.8</Depths>
+        <Depths duration="12">24, 27.5, 31, 36.2, 44.3, 50.4, 58.1, 66.4, 77.4, 90.3, 104.9, 118.8, 134, 148.8, 163.5, 177, 191.6, 205.7, 220, 233.1, 247.4, 261.2</Depths>
+        <Depths duration="18">26.7, 30.4, 34.1, 39.5, 48.2, 54.7, 63.1, 72.6, 85.4, 100.1, 116, 130.8, 146.6, 161.9, 177.1, 191.1, 206, 220.5, 235.2, 248.6, 263.1, 277.3</Depths>
+        <Depths duration="24">28.9, 32.8, 36.5, 42.2, 51.1, 58, 66.9, 77.2, 91.1, 106.9, 123.5, 138.7, 154.9, 170.5, 186.1, 200.3, 215.6, 230.4, 245.2, 258.8, 273.5, 287.8</Depths>
+        <Depths duration="48">36, 40.2, 44.3, 50.4, 60.2, 67.7, 77.7, 89.3, 105.2, 122.6, 140.4, 156.6, 173.7, 190, 206.2, 221, 236.9, 252.3, 267.7, 281.9, 297.1, 311.9</Depths>
+        <Depths duration="96">48, 52.8, 57.4, 64.2, 74.9, 83, 93.5, 105.6, 122.2, 140.4, 159.3, 176.3, 194.3, 211.4, 228.4, 243.9, 260.5, 276.5, 292.6, 307.3, 323.1, 338.4</Depths>
+        <Depths duration="192">70.1, 75.7, 81.1, 88.9, 100.9, 109.7, 120.8, 132.7, 148.8, 167.6, 187.7, 205.8, 225, 243.3, 261.4, 277.8, 295.4, 312.5, 329.5, 345.1, 361.8, 378.1</Depths>
+        <Depths duration="240">80.7, 86.7, 92.3, 100.6, 113.2, 122.3, 133.5, 145.4, 161.4, 180.2, 200.6, 219.3, 239, 257.8, 276.4, 293.2, 311.3, 328.9, 346.3, 362.1, 379.3, 395.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.7, 4.5, 5.6, 7.4, 8.6, 9.9, 11.2, 12.4, 13.7, 15, 16.3, 17.8, 19.4, 21.3, 23.2, 25.6, 27.9, 30.4, 32.8, 35.1, 37.6</Depths>
+        <Depths duration="0.25">4.9, 6.3, 7.6, 9.6, 12.7, 14.9, 17.3, 19.7, 22.2, 24.7, 27.5, 30.1, 33.3, 36.7, 40.7, 44.9, 49.9, 55.2, 60.8, 66.1, 71.9, 77.5</Depths>
+        <Depths duration="0.5">6.3, 8, 9.8, 12.2, 16.3, 19.2, 22.6, 25.6, 29, 32.5, 36.2, 40, 44.3, 49.1, 54.6, 60.5, 67.5, 74.9, 82.9, 90.5, 98.8, 107</Depths>
+        <Depths duration="0.75">7.2, 9.1, 11, 13.9, 18.6, 21.9, 25.6, 29.3, 33.3, 37.2, 41.6, 45.9, 51, 56.6, 63.1, 69.9, 78.2, 86.9, 96.3, 105.2, 115, 124.8</Depths>
+        <Depths duration="1">7.8, 9.9, 12, 15.2, 20.2, 23.8, 28, 31.9, 36.3, 40.7, 45.5, 50.2, 55.8, 62, 69.1, 76.6, 85.7, 95.4, 105.8, 115.6, 126.5, 137.3</Depths>
+        <Depths duration="2">11.8, 14.3, 16.7, 20.4, 26.1, 30.1, 34.7, 39, 43.9, 49, 54.6, 60.4, 67.5, 75.5, 84.6, 93.9, 104.6, 115.6, 126.8, 137.2, 148.7, 159.9</Depths>
+        <Depths duration="4">16.2, 19, 21.8, 25.9, 32.2, 36.7, 41.9, 46.9, 52.8, 59.1, 66.5, 74.4, 84.2, 94.8, 106.3, 117.2, 129.3, 141.1, 153.1, 164.2, 176.3, 188.2</Depths>
+        <Depths duration="6">18.7, 21.7, 24.7, 29.1, 35.8, 40.6, 46.3, 51.9, 58.7, 66.4, 75.6, 85.4, 97.1, 109.2, 121.7, 133.2, 145.8, 158.2, 170.7, 182.2, 194.7, 207</Depths>
+        <Depths duration="12">23, 26.3, 29.6, 34.4, 41.9, 47.5, 54.4, 61.7, 71.2, 82.5, 95.7, 108.5, 122.5, 136.2, 149.9, 162.5, 176.1, 189.2, 202.5, 214.7, 228, 240.9</Depths>
+        <Depths duration="18">25.7, 29.2, 32.6, 37.7, 45.8, 51.8, 59.6, 68.3, 80.1, 93.8, 108.7, 122.6, 137.5, 151.9, 166.2, 179.3, 193.4, 207.1, 220.8, 233.5, 247.1, 260.4</Depths>
+        <Depths duration="24">27.9, 31.5, 35.1, 40.4, 48.8, 55.2, 63.7, 73.5, 86.9, 102, 117.8, 132.3, 147.8, 162.6, 177.4, 190.8, 205.2, 219.3, 233.4, 246.3, 260.2, 273.8</Depths>
+        <Depths duration="48">35, 39, 42.9, 48.7, 58, 65.2, 75.2, 87, 103.1, 120.3, 137.7, 153.4, 170, 185.8, 201.4, 215.6, 230.9, 245.7, 260.6, 274.2, 288.8, 303</Depths>
+        <Depths duration="96">47, 51.6, 56, 62.5, 72.6, 80.4, 90.7, 102.9, 119.6, 137.7, 156.1, 172.7, 190.3, 207, 223.5, 238.5, 254.7, 270.3, 285.9, 300.2, 315.6, 330.5</Depths>
+        <Depths duration="192">69.2, 74.6, 79.7, 87.1, 98.3, 106.4, 116.5, 127.5, 142.2, 159.5, 178.3, 195.8, 214.6, 232.5, 250.3, 266.4, 283.6, 300.3, 317.1, 332.3, 348.7, 364.6</Depths>
+        <Depths duration="240">79.9, 85.6, 91.1, 98.9, 110.5, 118.7, 128.6, 139.1, 152.9, 169.4, 187.9, 205.6, 224.8, 243.2, 261.5, 278.1, 295.8, 313, 330.2, 345.9, 362.7, 379.1</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Stilebridge" name="Beult" number="40005">
+        <Comments>
+            <Comment type="Station Summary">Flat-V weir with high flow rating. Ultrasonics used to validate high flow rating. Predominantly clay catchment on the largest tributary of the Medway.</Comment>
+            <Comment type="Hydrometric">Flat V weir is primary flow calculation. Flood banks confine flows, the floodplain beyond this is approx. 300-400m wide and water now seeps through into adjacent field due to rabbit burrowing. Out-of-bank flows can be significant but are accounted for in the rating. Stepping boards in place on upstream bridge in summer to maintain levels; their insertion and removal is managed separately so the time of adjustment of levels in unknown. But they are far enough upstream to not affect the gauge. Heavy upstream weed growth causes issues with lower ultrasonic paths during summer months. Regular maintenance required but difficult due to depth of channel. Upper ultrasonic paths function well despite this meaning that portion of flow calculated through this method is reliable. The Medway may control the levels in severe floods. Station calibrated by model tests and cableway gaugings (79 cumecs gauged during Oct 2000 flood), though cableway no longer in place.</Comment>
+            <Comment type="General">Flat V-weir with high flow rating and single-path ultrasonics installed to help validate high flows. The station is located on a long and reasonably straight reach of the River Beult approx. 110m downstream of the Stile bridge, 12 km upstream of the Medway confluence. Constructed in 2001 to replace existing weir ~30m d/s, a compound broad-crested structure, with the central flume separated by short divide piers (which could trap debris) from the broad-crested flanking sections. The ends of the dividing walls caused disturbance of flow, although modelling showed a negligible overall impact. Regarded as full range aside from largest exceptional events.</Comment>
+            <Comment type="Flow record">Peak flow data pre-2001 are from the weir site. Post-2001 are from weir and ultrasonics. Drop out in daily flows in April 2015 confirmed by the EA, pattern also seen at upstream station. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8).</Comment>
+            <Comment type="Flow regime">Small overall impact of artificial influences - all abstraction is agricultural (and therefore very variable). Runoff increased by effluent returns. Some upstream temporary summer weirs and sluices in past. Minor baseflow (from the Lower Greensand) but very responsive regime.</Comment>
+            <Comment type="Catchment">The Beult forms the largest tributary of the River Medway. Weald clay accounts for 78% of the catchment. Base flow is very low for a Kent catchment. Very little natural storage exists causing a flashy runoff regime. Some spring flow is received from Lower Greensand outcrop along northern margin (6% of the catchment) and also from Hastings Beds (consisting of Tunbridge Wells Sands, Wadhurst Clay &amp; Ashdown Sands) which outcrop in the south (16% of the catchment). Predominantly rural with scattered settlements, total urban coverage &lt;1% of total catchment area.</Comment>
+            <Comment type="Factors affecting runoff">EI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="From 2002. Gauged above QMED. Reasonable fit to gaugings." suitable="Yes" type="QMED"/>
+            <Usage notes="Until 2002 when structure was rebuilt. Gauged beyond AMAX3. Some bypassing which is accounted for in rating." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-0.18</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

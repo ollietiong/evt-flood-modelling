@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SN7618736244" x="276187" y="236244">
+        <CatchmentCentroid grid="GB" ngr="SN7670950235" x="276709" y="250235"/>
+        <area>220.2775</area>
+        <altbar>351.0</altbar>
+        <aspbar>167.0</aspbar>
+        <aspvar>0.11</aspvar>
+        <bfihost>0.431</bfihost>
+        <bfihost19>0.381</bfihost19>
+        <bfihost19scaled>0.366</bfihost19scaled>
+        <dplbar>21.25</dplbar>
+        <dpsbar>185.5</dpsbar>
+        <draindens>1.25</draindens>
+        <farl>0.933</farl>
+        <farl2015>0.9248</farl2015>
+        <fpext>0.0302</fpext>
+        <fpdbar>0.55</fpdbar>
+        <fploc>0.85</fploc>
+        <ihdtmeasting>276150</ihdtmeasting>
+        <ihdtmnorthing>236250</ihdtmnorthing>
+        <ldp>39.11</ldp>
+        <propwet>0.64</propwet>
+        <rmed_1h>11.2</rmed_1h>
+        <rmed_1d>51.1</rmed_1d>
+        <rmed_2d>68.0</rmed_2d>
+        <saar>1685.0</saar>
+        <saar4170>1741.0</saar4170>
+        <saar9120>1857</saar9120>
+        <sprhost>43.85</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>1.0E-4</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>2.0E-4</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>6.0E-4</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SN7618736244" x="276187" y="236244">
+        <c>-0.02856</c>
+        <d1>0.47675</d1>
+        <d2>0.45182</d2>
+        <d3>0.3803</d3>
+        <e>0.29456</e>
+        <f>2.45827</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SN760360" x="276000" y="236000">
+        <c_1_km>-0.029</c_1_km>
+        <d1_1_km>0.47</d1_1_km>
+        <d2_1_km>0.447</d2_1_km>
+        <d3_1_km>0.389</d3_1_km>
+        <e_1_km>0.296</e_1_km>
+        <f_1_km>2.382</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 3, 3.5, 4.4, 5.7, 6.7, 7.6, 8.5, 9.4, 10.6, 11.6, 12.8, 14.2, 15.8, 17.9, 19.7, 21.9, 24, 26, 27.8, 29.7, 31.6</Depths>
+        <Depths duration="0.25">4.4, 5.5, 6.7, 8.3, 10.9, 12.8, 14.9, 16.9, 19, 21.4, 23.9, 26.6, 30.1, 34, 38.5, 43.1, 48.5, 53.7, 59, 63.9, 69.2, 74.3</Depths>
+        <Depths duration="0.5">6.2, 7.8, 9.3, 11.7, 15.4, 18, 21.2, 24.1, 27.4, 31.1, 34.9, 39.2, 44.4, 50.3, 57.5, 64.8, 73.3, 81.7, 90.3, 98.3, 107.2, 115.8</Depths>
+        <Depths duration="0.75">7.5, 9.4, 11.2, 14, 18.5, 21.8, 25.5, 29.3, 33.2, 37.8, 42.6, 47.9, 54.4, 62, 70.9, 80, 90.7, 101.4, 112.3, 122.6, 134, 145.1</Depths>
+        <Depths duration="1">8.5, 10.6, 12.7, 15.9, 21, 24.7, 29, 33.2, 37.9, 43, 48.6, 54.6, 62.1, 70.8, 81.1, 91.7, 104.1, 116.4, 129.1, 141, 154.2, 167.2</Depths>
+        <Depths duration="2">13.9, 16.4, 19, 22.7, 28.5, 32.7, 37.5, 42.1, 47.4, 53, 59.4, 66.1, 74.7, 84.4, 95.5, 106.8, 119.4, 131.9, 144.9, 157.1, 170.4, 183.7</Depths>
+        <Depths duration="4">21.5, 24.6, 27.5, 32, 38.6, 43.3, 48.7, 53.8, 59.7, 65.9, 72.9, 80.3, 89.6, 99.9, 111.6, 123.3, 136.2, 149.1, 162.3, 174.8, 188.4, 201.8</Depths>
+        <Depths duration="6">27.2, 30.5, 33.8, 38.6, 45.8, 50.9, 56.6, 62.1, 68.3, 74.9, 82.3, 90.1, 99.7, 110.3, 122.1, 134, 147.1, 160.2, 173.6, 186.2, 200, 213.6</Depths>
+        <Depths duration="12">38.6, 42.7, 46.5, 52, 60.4, 66.1, 72.6, 78.7, 85.7, 93, 101.1, 109.5, 119.7, 131, 143.1, 155.1, 168.8, 182.1, 195.9, 208.8, 222.9, 236.8</Depths>
+        <Depths duration="18">46.3, 50.7, 54.9, 61, 70.1, 76.3, 83.4, 90, 97.5, 105.3, 113.9, 122.8, 133.6, 145.3, 157.7, 169.5, 183.6, 197.1, 211.1, 224.3, 238.6, 252.8</Depths>
+        <Depths duration="24">52.2, 56.9, 61.4, 68, 77.7, 84.3, 91.9, 98.9, 106.8, 115.1, 124.2, 133.4, 144.5, 156.5, 169.3, 181.2, 195.2, 209.2, 223.4, 236.7, 251.3, 265.7</Depths>
+        <Depths duration="48">68.6, 74.3, 79.8, 87.7, 99.3, 107.2, 116.2, 124.5, 133.8, 143.3, 153.5, 163.6, 175.6, 188.2, 201.7, 214.4, 228.4, 242.2, 257.3, 271, 286, 300.9</Depths>
+        <Depths duration="96">92, 99.3, 106.2, 116.2, 130.7, 140.6, 151.5, 161.5, 172.5, 183.4, 194.7, 205.4, 217.5, 230, 243.2, 256, 270.2, 284.5, 299.2, 313.4, 329, 343.9</Depths>
+        <Depths duration="192">131.6, 141.6, 151.1, 164.8, 184.4, 197.5, 211.8, 224.6, 238.2, 251.5, 264.8, 277.1, 290.6, 303.8, 317.4, 329.9, 343.8, 357.5, 371.7, 385, 399.4, 413.7</Depths>
+        <Depths duration="240">150.5, 161.9, 172.7, 188.2, 210.3, 225, 241.1, 255.4, 270.6, 285.3, 300, 313.5, 328.2, 342.5, 357, 370.5, 385.1, 399.6, 414.4, 428.1, 442.9, 457.5</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 2.9, 3.4, 4.2, 5.3, 6.2, 7, 7.7, 8.4, 9.2, 9.9, 10.6, 11.3, 12, 12.8, 13.4, 14.2, 15, 15.9, 16.7, 17.6, 18.5</Depths>
+        <Depths duration="0.25">4.3, 5.3, 6.4, 7.9, 10.2, 11.9, 13.7, 15.2, 16.9, 18.7, 20.3, 22, 23.8, 25.7, 27.5, 29.3, 31.5, 33.7, 36, 38.4, 40.9, 43.5</Depths>
+        <Depths duration="0.5">6.1, 7.5, 8.9, 11.1, 14.4, 16.7, 19.4, 21.8, 24.4, 27.1, 29.8, 32.3, 35.2, 38, 41.1, 44.1, 47.6, 51.2, 55.2, 59, 63.3, 67.7</Depths>
+        <Depths duration="0.75">7.3, 9, 10.7, 13.3, 17.3, 20.2, 23.4, 26.5, 29.5, 33, 36.2, 39.5, 43.1, 46.8, 50.7, 54.4, 58.9, 63.6, 68.6, 73.5, 79.2, 84.9</Depths>
+        <Depths duration="1">8.3, 10.2, 12.1, 15.1, 19.6, 22.9, 26.6, 30, 33.7, 37.5, 41.4, 45.1, 49.2, 53.5, 58, 62.4, 67.6, 73, 78.9, 84.6, 91.1, 97.8</Depths>
+        <Depths duration="2">13.6, 16, 18.3, 21.8, 27.1, 30.7, 34.9, 38.7, 42.9, 47.1, 51.5, 55.6, 60.4, 65.3, 70.6, 75.8, 82, 88.4, 95.2, 101.7, 109, 116.2</Depths>
+        <Depths duration="4">21.2, 24, 26.9, 30.9, 37.1, 41.3, 46.1, 50.5, 55.4, 60.3, 65.5, 70.5, 76.4, 82.5, 89.2, 95.8, 103.3, 110.9, 118.8, 126.2, 134.2, 142.1</Depths>
+        <Depths duration="6">26.6, 29.8, 32.9, 37.4, 44.2, 48.8, 54.1, 59, 64.5, 70.1, 76.1, 82, 88.9, 96.1, 103.9, 111.5, 119.9, 128.2, 136.7, 144.5, 153, 161.3</Depths>
+        <Depths duration="12">37.2, 41.1, 44.8, 50.2, 58.3, 63.9, 70.4, 76.6, 83.6, 91.1, 99.4, 107.6, 117, 126.4, 136.1, 145.1, 154.8, 164.2, 173.6, 182.2, 191.5, 200.5</Depths>
+        <Depths duration="18">44, 48.4, 52.5, 58.5, 67.5, 73.9, 81.4, 88.6, 97.1, 106.2, 116.1, 125.8, 136.5, 147, 157.6, 167.2, 177.5, 187.5, 197.4, 206.4, 216.2, 225.6</Depths>
+        <Depths duration="24">49.4, 54, 58.5, 65, 74.8, 81.8, 90.1, 98.2, 107.8, 118, 129, 139.5, 151, 162.1, 173.2, 183.2, 194, 204.3, 214.6, 224, 234.1, 243.9</Depths>
+        <Depths duration="48">64.5, 70.2, 75.6, 83.6, 95.5, 104.1, 114.1, 123.8, 135.1, 146.8, 159.2, 170.7, 183.2, 195.2, 207.1, 217.9, 229.4, 240.4, 251.4, 261.4, 272.1, 282.5</Depths>
+        <Depths duration="96">87.5, 94.8, 101.8, 111.8, 126.4, 136.4, 147.6, 157.8, 168.9, 179.8, 191.1, 201.6, 213.2, 224.5, 236, 246.6, 258.1, 269.2, 280.4, 290.7, 301.7, 312.4</Depths>
+        <Depths duration="192">128.5, 138.8, 148.4, 162.1, 181.6, 194.5, 208.5, 220.9, 233.9, 246.4, 258.8, 270.1, 282.2, 293.9, 305.7, 316.4, 328, 339.3, 350.7, 361.1, 372.3, 383.3</Depths>
+        <Depths duration="240">148.4, 160.1, 171.2, 186.8, 209.1, 223.8, 239.8, 254, 269, 283.3, 297.5, 310.5, 324.4, 337.8, 351.3, 363.7, 377.1, 390, 403.1, 415.1, 428.1, 440.7</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Dolau Hirion" name="Tywi" number="60007">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station. Stable section with natural control. Regulated by Llyn Brianne Reservoir.</Comment>
+            <Comment type="Hydrometric">One peak flow rating applied across period of record. Good fit to gauging. River regulated - Llyn Brianne Reservoir in upper catchment. Reservoir is used to augment low flows for PWS abstractions downstream, also for HEP generation in winter.</Comment>
+            <Comment type="General">Velocity area station. Stable section with natural control and fairly steep and high banks; lb is 3.8m, rb is 4.5m. Channel width: 38m.</Comment>
+            <Comment type="Flow record">Flows since 1969 reprocessed in 2010 due to rating change, leading to increase in low flows and decrease in high flows, most significant since 1988. Flows since 31 Jan 2008 reprocessed in 2013 due to rating change, with main affect lowering of low flow GDFs and HIFs. Flows since 01 Nov 1982 reprocessed in 2022 due to rating review. AMAX from 1967 to 1971 water years are excluded from QMED calculation; they are from before Llyn Brianne reservoir first filled - began to fill in March 1972 and full by December 1972. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). WY1978/1979 rejected because the timing is suspect and doesn't correspond to nearby gauges.</Comment>
+            <Comment type="Flow regime">Regulated by Llyn Brianne Reservoir.</Comment>
+            <Comment type="Catchment">Upland area of Cambrian Hills. Principally impermeable Ordovician strata. Mainly peaty soils, seasonally wet. Grassland (mostly hill farming with some livestock at lower levels); extensive forest cover, very dense in NE.</Comment>
+            <Comment type="Factors affecting runoff">SREI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Well gauged up to QMED. Good agreement in rating with check gaugings." suitable="Yes" type="QMED"/>
+            <Usage notes="Few high flow gaugings. Rating can not be validated beyond QMED." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.18</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

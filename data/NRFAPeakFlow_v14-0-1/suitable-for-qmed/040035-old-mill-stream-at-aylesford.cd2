@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 40035
+[END]
+[CDS DETAILS]
+NAME,Old Mill Stream
+LOCATION,Aylesford
+NOMINAL AREA,   17.96
+NOMINAL NGR,6023,1412
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,602350,141250
+DTM AREA,   17.96
+ALTBAR,  72
+ASPBAR,257
+ASPVAR,0.31
+BFIHOST,0.686
+DPLBAR,  6.00
+DPSBAR, 38.3
+FARL,0.991
+LDP, 10.29
+PROPWET,0.34
+RMED-1H, 11.9
+RMED-1D, 33.3
+RMED-2D, 44.3
+SAAR, 753
+SAAR4170, 781
+SPRHOST,26.66
+URBCONC1990, 0.542
+URBEXT1990,0.0265
+URBLOC1990, 0.489
+URBCONC2000, 0.798
+URBEXT2000,0.0369
+URBLOC2000, 0.401
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rated section derived from previous ultrasonic flow gauge. GENERAL: Site was setup in 2003 as a new flood forecasting site. Flow was measured using an ultrasonic flow gauge with 4 single paths. In March 2020, ultrasonics were replaced with a rating derived from data produced by the ultrasonic gauge. Station added to peak flows dataset in September 2022 (WINFAP Files v11). STATION HYDROMETRY: Concrete section with vertical walls. Small non-standard structure exists downstream, originally to raise head above lowest transducer path. FLOW RECORD: Much of the data between 01/07/2004 and 09/01/2013 has been flagged as 'suspect' by the EA due to performance problems with the ultrasonic gauge specifically at low flows. Peaks still appear good and infills have been provided for DMF values where needed. WY2005/2006 and WY2012/2012 rejected as AMAX likely occured during period of missing data. FLOW REGIME: Responsive regime.
+CATCHMENT,Predominantly clay catchment, gauge itself in a urban portion of Ashford.
+Qmed Suitability,Site gauged on 30/04/2018 at 2.38m3/s and showed good performance so deemed appropriate for QMED.
+Pooling Suitability,No comment
+[END]

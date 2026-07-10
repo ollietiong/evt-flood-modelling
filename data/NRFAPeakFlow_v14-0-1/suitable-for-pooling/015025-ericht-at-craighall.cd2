@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 15025
+[END]
+[CDS DETAILS]
+NAME,Ericht
+LOCATION,Craighall
+NOMINAL AREA,  437.41
+NOMINAL NGR,3174,7471
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,317400,747150
+DTM AREA,  437.41
+ALTBAR, 452
+ASPBAR,168
+ASPVAR,0.12
+BFIHOST,0.489
+DPLBAR, 29.24
+DPSBAR,173.0
+FARL,0.989
+LDP, 46.60
+PROPWET,0.55
+RMED-1H,  8.6
+RMED-1D, 38.2
+RMED-2D, 51.7
+SAAR,1130
+SAAR4170,1242
+SPRHOST,39.09
+URBEXT1990,0.0003
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a natural catchment. Ice build up can occur at the station. GENERAL: Velocity area station, 46m wide. Stable bedrock control. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: Cableway present. All flows contained, rating curve well defined. Multiple peak flow ratings across period of record. FLOW RECORD: Extreme low temperatures can cause ice build up and hence erroneous flow values, e.g. Dec 2001 - Jan 2002. FLOW REGIME: Flows are natural.
+CATCHMENT,Mountainous steeply sloping catchment. Mostly impermeable bedrock, metamorphic, two thirds overlain by superficial deposits. Land use mainly rough grazing with some forestry.
+Qmed Suitability,Rating well supported by gaugings to QMED.
+Pooling Suitability,Flows are contained and the rating is informed by flood gaugings.
+[END]

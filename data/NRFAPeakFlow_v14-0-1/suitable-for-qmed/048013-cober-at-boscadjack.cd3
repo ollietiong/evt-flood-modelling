@@ -1,0 +1,47 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48013
+[END]
+[CDS DETAILS]
+NAME,Cober
+LOCATION,Boscadjack
+NOMINAL AREA,   26.82
+NOMINAL NGR,1674, 307
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,167450,30750
+CENTROID NGR,GB,168381, 33670
+DTM AREA,   26.82
+ALTBAR, 162
+ASPBAR,186
+ASPVAR,0.17
+BFIHOST,0.673
+DPLBAR,  4.71
+DPSBAR, 65.1
+FARL,0.977
+FPEXT,0.0366
+LDP,  8.66
+PROPWET,0.44
+RMED-1H, 11.6
+RMED-1D, 42.4
+RMED-2D, 55.0
+SAAR,1265
+SAAR4170,1258
+SPRHOST,14.73
+URBEXT1990,0.0036
+URBEXT2000,0.0040
+URBLOC2000,-9.999
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station installed for flood warning purposes in 1998. GENERAL: Velocity-area station, about a 4m wide section. Station opened in 1998 as a flood warning level site, one of 3 flow sites on the River Cober. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: Fairly stable shoal forms a natural bed control at lower flows. Has been subject to change but stable since 2011. The site is not bypassed but is impacted by a public water supply abstraction upstream of the site on the River Cober at Trenear gauging station. Between Trenars gauging station and this site, there is a significant input of about 35% of the catchment flow from the Releath Stream. Rated by gaugings to within 75% of bankfull (1.1m) and extrapolated to bank full. FLOW RECORD: High flow event in 2012 did not change the relationship at high flows. FLOW REGIME: Moderate influence from public water supply abstraction and compensation flows at Trenear gauging station and industrial abstractions. Flows influenced by hstorical mineworkings in the catchment.
+CATCHMENT,Igneous catchment, granite with some areas of alluvium. Land use is mostly rural/agricultural/ mining with little urbanisation. No major changes to catchment.
+Qmed Suitability,Gauged to within 70% of bankfull, extrapolated to bankfull.
+Pooling Suitability,Not gauged above bankfull.
+[END]

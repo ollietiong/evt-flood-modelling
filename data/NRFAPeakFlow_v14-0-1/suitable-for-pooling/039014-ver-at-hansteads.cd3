@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39014
+[END]
+[CDS DETAILS]
+NAME,Ver
+LOCATION,Hansteads
+NOMINAL AREA,  134.55
+NOMINAL NGR,5150,2019
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,515100,201950
+CENTROID NGR,GB,508494,212324
+DTM AREA,  134.55
+ALTBAR, 136
+ASPBAR,123
+ASPVAR,0.26
+BFIHOST,0.677
+DPLBAR, 18.52
+DPSBAR, 38.5
+FARL,0.947
+FPEXT,0.0545
+LDP, 31.59
+PROPWET,0.30
+RMED-1H, 10.5
+RMED-1D, 31.2
+RMED-2D, 38.2
+SAAR, 699
+SAAR4170, 705
+SPRHOST,32.02
+URBCONC1990, 0.698
+URBEXT1990,0.0713
+URBLOC1990, 0.718
+URBCONC2000, 0.891
+URBEXT2000,0.1062
+URBLOC2000, 0.685
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Most downstream gauging structure on the River Ver composed of a Compound Crump weir. GENERAL: Compound Crump weir with 2 crests, each 2.44m broad. Superseded the original broad-crested weir in 1969 (plus a bypass channel). STATION HYDROMETRY: Theoretical crump weir formula used to calculate flow, evidence suggests weir rarely drowns or by-passed. Uncertainty in calibration gaugings influenced by the difficulty in finding a suitable gauging location. In March 2016, low cost baffles were installed to aid fish passage. FLOW RECORD: The early flow data are of a lesser quality (pre-1969). Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Relatively stable, spring-fed flow regime but artificial influences (sewage effluent returns especially) evident in low flow patterns. Changing groundwater abstraction pattern over time. Runoff diminished by large groundwater abstractions (including public water supply for Luton). These increased sharply from 1950, changing the character of the river, until a restoration programme (alleviation of low flow) was initiated in the early 1990s; abstractions much reduced by the late 1990s.
+CATCHMENT,Permeable Chalk catchment, with significant Drift cover. Mostly rural headwaters but with significant urban development in the lower valley. Topographical catchment area significantly exceeds the hydrological catchment.
+Qmed Suitability,Check gauged beyond QMED. Confirms theoretical rating to a reasonably good level of accuracy. Gauging deviations suggest a consistent overestimation of flow.
+Pooling Suitability,Weir drowns only at the highest flow and thought to be generally reliable although no high flow check gaugings available for confirmation. Only the post 1969 record suitable for pooling.
+[END]

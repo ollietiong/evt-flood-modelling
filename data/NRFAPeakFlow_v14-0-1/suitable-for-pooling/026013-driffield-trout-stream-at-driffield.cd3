@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 26013
+[END]
+[CDS DETAILS]
+NAME,Driffield Trout Stream
+LOCATION,Driffield
+NOMINAL AREA,   53.33
+NOMINAL NGR,5018,4560
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,501850,456100
+CENTROID NGR,GB,495225,453356
+DTM AREA,   53.33
+ALTBAR,  63
+ASPBAR,104
+ASPVAR,0.41
+BFIHOST,0.807
+DPLBAR,  9.45
+DPSBAR, 28.0
+FARL,0.997
+FPEXT,0.0934
+LDP, 17.49
+PROPWET,0.32
+RMED-1H, 10.9
+RMED-1D, 31.9
+RMED-2D, 41.2
+SAAR, 690
+SAAR4170, 732
+SPRHOST,17.61
+URBCONC1990, 0.513
+URBEXT1990,0.0095
+URBLOC1990, 0.594
+URBCONC2000, 0.437
+URBEXT2000,0.0060
+URBLOC2000, 0.387
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic gauge in chalk stream draining eastern flanks of the wolds. GENERAL: Ultrasonic gauge in straight channel. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: Crossed-path, multi-path ultrasonic gauge in straight section of chalk stream. No stage discharge relationship due to shifting gravels and weed growth, despite weirs downstream and shallow gradient. Weed can be problematic for the gauge and requires regular maintenance to keep the gauge section clear. Gauge generally performs well in comparison with check gaugings. All flows contained, no by-passing. FLOW REGIME: Highly baseflow dominated regime, displaying typical seasonal hydrograph with smaller rainfall response super-imposed onto the large baseflow hydrograph.
+CATCHMENT,Rural catchment on primarily chalk geology, highly permeable. Upper reaches of the topographical catchment mainly consist of dry valleys, the tributaries of the trout stream generally emerge from springs at the foot of the Yorkshire Wolds. This is the UK's most northerly chalk stream and is designated as a SSSI.
+Qmed Suitability,Gauged to two times QMED.
+Pooling Suitability,Gauged to within 22% of AMAX1, flow remains within bank and ultrasonic operates reliably, although the record is currently quite short.
+[END]

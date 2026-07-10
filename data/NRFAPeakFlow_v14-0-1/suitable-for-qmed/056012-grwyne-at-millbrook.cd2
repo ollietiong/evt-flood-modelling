@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 56012
+[END]
+[CDS DETAILS]
+NAME,Grwyne
+LOCATION,Millbrook
+NOMINAL AREA,   82.80
+NOMINAL NGR,3240,2175
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,324050,217600
+DTM AREA,   82.80
+ALTBAR, 431
+ASPBAR,147
+ASPVAR,0.15
+BFIHOST,0.648
+DPLBAR, 11.75
+DPSBAR,240.8
+FARL,0.984
+LDP, 25.61
+PROPWET,0.54
+RMED-1H, 10.4
+RMED-1D, 46.1
+RMED-2D, 58.9
+SAAR,1241
+SAAR4170,1278
+SPRHOST,18.04
+URBEXT1990,0.0001
+URBEXT2000,0.0011
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir of reinforced concrete and local stone with phosphor bronze crest. Reservoirs in catchment affect runoff. GENERAL: Crump weir of reinforced concrete and local stone with phosphor bronze crest, 10.67m wide. STATION HYDROMETRY: Limited u/s shoaling and weed growth on weir may affect low flows. Fish counter on d/s side of weir not thought to affect performance. Flows contained up to 2.27m. No bypassing on either bank at high flows - channel contained by road wall on lb. Three peak flow ratings applied across period of record. NRW confirm no high flow gaugings; highest gauging at 7.6 cumecs. Reservoirs in catchment affect runoff. FLOW RECORD: Gap in data between 1985 and 1988. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).
+CATCHMENT,Impermeable, predominantly Old Red Sandstone conglomerates, sandstone and marl. Predominantly grassland for livestock farming, significant heathland and some afforestation.
+Qmed Suitability,Although not gauged to within 30% of QMED, rating has been extended using a hydraulic model.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED.
+[END]

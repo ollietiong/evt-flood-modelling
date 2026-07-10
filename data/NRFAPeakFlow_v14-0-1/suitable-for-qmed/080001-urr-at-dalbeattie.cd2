@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 80001
+[END]
+[CDS DETAILS]
+NAME,Urr
+LOCATION,Dalbeattie
+NOMINAL AREA,  197.07
+NOMINAL NGR,2821,5610
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,282150,561000
+DTM AREA,  197.07
+ALTBAR, 155
+ASPBAR,170
+ASPVAR,0.13
+BFIHOST,0.376
+DPLBAR, 20.25
+DPSBAR, 79.6
+FARL,0.963
+LDP, 37.67
+PROPWET,0.64
+RMED-1H, 11.5
+RMED-1D, 44.2
+RMED-2D, 57.3
+SAAR,1341
+SAAR4170,1352
+SPRHOST,48.39
+URBEXT1990,0.0004
+URBEXT2000,0.0016
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a natural catchment. GENERAL: Velocity area station with cableway (span 35m) located between two sharp bends. STATION HYDROMETRY: Gravel and rock bar forms low flow control, channel control at high flows. Highest gauging at 3.1m (120 cumecs; ~1.3 QMED). Extrapolation of ratings is thought to be fair. Multiple peak flow ratings across period of record. FLOW RECORD: Station liable to tidal backwater, occasional tidal peaks recorded. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10) and in August 2024 (WINFAP Files v13). FLOW REGIME: Natural catchment.
+CATCHMENT,Low-lying catchment. Silurian shales and greywackes with granite intrusion in Dalbeattie area. Extensively covered by Boulder Clay. Land use: pasture, hill grazing and forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,Station is well gauged and contained.
+Pooling Suitability,Variable tidal influence impacts the confidence in flood estimation accuracy.
+[END]

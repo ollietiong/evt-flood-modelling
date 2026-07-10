@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 11003
+[END]
+[CDS DETAILS]
+NAME,Don
+LOCATION,Bridge of Alford
+NOMINAL AREA,  509.94
+NOMINAL NGR,3568,8170
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,356800,817050
+DTM AREA,  509.94
+ALTBAR, 408
+ASPBAR, 75
+ASPVAR,0.11
+BFIHOST,0.565
+DPLBAR, 33.50
+DPSBAR,161.0
+FARL,0.996
+LDP, 69.02
+PROPWET,0.56
+RMED-1H,  8.6
+RMED-1D, 35.7
+RMED-2D, 49.2
+SAAR, 967
+SAAR4170,1080
+SPRHOST,33.59
+URBEXT1990,0.0004
+URBEXT2000,0.0003
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, one of four stations on the River Don. Culfork is the most upstream, then Alford, with Haughton and Parkhill further downstream. GENERAL: Velocity area station, one of four stations on the River Don. Culfork is the most upstream, then Alford, with Haughton and Parkhill further downstream. STATION HYDROMETRY: Cableway rated. Stable natural control with slight changes to lower sections of ratings every couple of years since flows began in 1973. Rating derived from current meter and ADCP gaugings from cableway up to 2.7m. Peak flow rating extrapolated up to 5.0m using multiple cross sections and 1D and 2D modelling. A single peak flow rating is applied to the entire record. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Natural regime. Responsiveness dampened by superficial deposits.
+CATCHMENT,Upland catchment. Mountainous headwaters, often snowy in winter. Mainly Dalradian metamorphics, some older basic intrusives and a small pocket of ORS. High moorland, forestry, hill grazing and some arable in the valley bottom. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,Rating based on ratings up to 2.7m and then hydraulic modelling thereafter, including a modelled upper segment to account for out of bank flow.
+[END]

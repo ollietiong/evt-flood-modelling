@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="ST6480164723" x="364801" y="164723">
+        <CatchmentCentroid grid="GB" ngr="ST5793860243" x="357938" y="160243"/>
+        <area>128.87</area>
+        <altbar>120.0</altbar>
+        <aspbar>28.0</aspbar>
+        <aspvar>0.24</aspvar>
+        <bfihost>0.591</bfihost>
+        <bfihost19>0.608</bfihost19>
+        <bfihost19scaled>0.574</bfihost19scaled>
+        <dplbar>15.69</dplbar>
+        <dpsbar>70.9</dpsbar>
+        <draindens>0.973</draindens>
+        <farl>0.842</farl>
+        <farl2015>0.8331</farl2015>
+        <fpext>0.045</fpext>
+        <fpdbar>0.382</fpdbar>
+        <fploc>0.903</fploc>
+        <ihdtmeasting>364800</ihdtmeasting>
+        <ihdtmnorthing>164750</ihdtmnorthing>
+        <ldp>29.37</ldp>
+        <propwet>0.35</propwet>
+        <rmed_1h>11.2</rmed_1h>
+        <rmed_1d>38.6</rmed_1d>
+        <rmed_2d>51.0</rmed_2d>
+        <saar>987.0</saar>
+        <saar4170>958.0</saar4170>
+        <saar9120>1022</saar9120>
+        <sprhost>28.88</sprhost>
+        <urbconc1990>0.483</urbconc1990>
+        <urbext1990>0.0088</urbext1990>
+        <urbloc1990>0.869</urbloc1990>
+        <urbconc2000>0.615</urbconc2000>
+        <urbext2000>0.0093</urbext2000>
+        <urbloc2000>0.947</urbloc2000>
+        <urbext2015>0.0174</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="ST6480164723" x="364801" y="164723">
+        <c>-0.02593</c>
+        <d1>0.3875</d1>
+        <d2>0.39704</d2>
+        <d3>0.27315</d3>
+        <e>0.2922</e>
+        <f>2.51067</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="ST650650" x="365000" y="165000">
+        <c_1_km>-0.026</c_1_km>
+        <d1_1_km>0.371</d1_1_km>
+        <d2_1_km>0.406</d2_1_km>
+        <d3_1_km>0.306</d3_1_km>
+        <e_1_km>0.29</e_1_km>
+        <f_1_km>2.449</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.5, 4.1, 5, 6.3, 7.3, 8.4, 9.4, 10.5, 11.7, 13.3, 15, 17.2, 19.7, 22.2, 24.7, 27.3, 29.9, 32.3, 34.5, 36.9, 39.1</Depths>
+        <Depths duration="0.25">5.1, 6.1, 7.2, 8.8, 11.3, 13.1, 15.2, 17.2, 19.5, 22.3, 25.4, 29.1, 33.6, 38.9, 44.6, 50.1, 56.1, 61.9, 67.8, 73.4, 79.3, 85.1</Depths>
+        <Depths duration="0.5">6.8, 8.1, 9.5, 11.7, 15, 17.6, 20.4, 23.2, 26.6, 30.3, 34.8, 39.8, 46.4, 54, 62.1, 70.1, 78.8, 87.5, 96.3, 104.6, 113.6, 122.5</Depths>
+        <Depths duration="0.75">7.9, 9.4, 11.1, 13.6, 17.5, 20.4, 23.7, 27, 31, 35.4, 40.7, 46.8, 54.6, 63.6, 73.3, 82.8, 93.3, 103.7, 114.4, 124.4, 135.3, 146.1</Depths>
+        <Depths duration="1">8.7, 10.4, 12.2, 15, 19.3, 22.5, 26.2, 29.9, 34.3, 39.3, 45.2, 51.9, 60.7, 70.6, 81.4, 92, 103.7, 115.4, 127.3, 138.5, 150.8, 162.9</Depths>
+        <Depths duration="2">12.7, 14.7, 16.7, 19.8, 24.6, 28.1, 32.4, 36.7, 42.1, 48.3, 56.1, 64.8, 75.4, 86.5, 98.3, 109.4, 121.6, 133.7, 146, 157.5, 170, 182.4</Depths>
+        <Depths duration="4">17.7, 20.1, 22.4, 25.8, 31.3, 35.4, 40.5, 45.8, 52.7, 61, 71.1, 81.6, 93.6, 105.7, 118.2, 129.9, 142.6, 155.1, 167.9, 179.8, 192.8, 205.6</Depths>
+        <Depths duration="6">21.3, 23.8, 26.3, 30, 36, 40.6, 46.3, 52.4, 60.6, 70.4, 81.8, 93.1, 105.8, 118.5, 131.4, 143.4, 156.5, 169.4, 182.5, 194.7, 207.9, 221</Depths>
+        <Depths duration="12">28.2, 31.1, 33.9, 38.3, 45.4, 50.9, 58, 66, 76.7, 88.9, 102.1, 114.6, 128.3, 141.9, 155.6, 168.3, 182.1, 195.5, 209.2, 221.9, 235.7, 249.2</Depths>
+        <Depths duration="18">32.6, 35.8, 39, 43.8, 51.6, 57.7, 65.8, 74.9, 86.9, 100.1, 114.1, 127.2, 141.4, 155.4, 169.5, 182.6, 196.8, 210.6, 224.6, 237.6, 251.7, 265.5</Depths>
+        <Depths duration="24">36.1, 39.5, 42.8, 47.9, 56.3, 62.8, 71.5, 81.2, 93.9, 107.6, 122.1, 135.5, 150.1, 164.4, 178.8, 192.1, 206.5, 220.6, 234.8, 248, 262.3, 276.3</Depths>
+        <Depths duration="48">45.8, 49.9, 53.8, 59.8, 69.4, 76.8, 86.3, 96.5, 109.5, 123.6, 138.6, 152.5, 167.8, 182.6, 197.6, 211.3, 226.3, 240.8, 255.5, 269, 283.7, 298.1</Depths>
+        <Depths duration="96">60.4, 65.4, 70.3, 77.5, 88.5, 96.5, 106, 115.3, 126.5, 138.7, 152.3, 165.6, 180.6, 195.6, 210.8, 224.8, 240, 254.9, 269.9, 283.7, 298.7, 313.3</Depths>
+        <Depths duration="192">86.3, 93, 99.5, 108.9, 122.9, 132.4, 143.1, 152.9, 163.5, 174, 184.9, 195.2, 206.6, 218.3, 230.5, 242.2, 255.3, 268.6, 282.4, 295.4, 309.7, 324</Depths>
+        <Depths duration="240">98.8, 106.4, 113.8, 124.4, 140, 150.6, 162.4, 173.1, 184.5, 195.7, 207, 217.5, 228.9, 240.3, 251.8, 262.7, 274.6, 286.5, 298.7, 310.2, 322.9, 335.6</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3.2, 3.9, 5.1, 6.8, 7.9, 9.2, 10.3, 11.4, 12.5, 13.6, 14.7, 15.7, 16.9, 18, 19.2, 20.5, 22, 23.4, 24.9, 26.5, 28.2</Depths>
+        <Depths duration="0.25">4.3, 5.6, 6.9, 8.9, 12.1, 14.3, 16.7, 18.8, 21.3, 23.6, 26, 28.4, 30.8, 33.5, 36.2, 39, 42.2, 45.6, 49.2, 52.9, 57, 61.2</Depths>
+        <Depths duration="0.5">5.8, 7.5, 9.2, 11.9, 16.1, 19, 22.4, 25.4, 28.9, 32.2, 35.6, 38.9, 42.5, 46.4, 50.4, 54.6, 59.3, 64.4, 69.8, 75.4, 81.6, 88.1</Depths>
+        <Depths duration="0.75">6.7, 8.7, 10.7, 13.7, 18.7, 22.1, 26, 29.6, 33.7, 37.6, 41.7, 45.7, 50, 54.7, 59.5, 64.4, 70.1, 76.3, 82.9, 89.6, 97.3, 105.1</Depths>
+        <Depths duration="1">7.4, 9.6, 11.8, 15.2, 20.6, 24.4, 28.8, 32.8, 37.3, 41.7, 46.3, 50.7, 55.6, 60.7, 66.1, 71.6, 78, 84.9, 92.3, 99.8, 108.4, 117.2</Depths>
+        <Depths duration="2">12.2, 14.8, 17.5, 21.5, 27.6, 31.9, 36.7, 41.2, 46.2, 51.1, 56.2, 61.2, 66.8, 72.7, 79.3, 85.9, 93.7, 102, 110.9, 119.5, 129.1, 138.6</Depths>
+        <Depths duration="4">17.8, 20.9, 24, 28.7, 35.6, 40.4, 45.8, 50.8, 56.4, 62.1, 68.2, 74.3, 81.4, 89.2, 97.8, 106.5, 116.5, 126.5, 136.8, 146.5, 157, 167.3</Depths>
+        <Depths duration="6">21.2, 24.7, 28, 33, 40.4, 45.5, 51.4, 56.9, 63.1, 69.5, 76.7, 83.9, 92.6, 102.1, 112.5, 122.5, 133.5, 144.4, 155.4, 165.6, 176.6, 187.4</Depths>
+        <Depths duration="12">27.3, 31.1, 34.9, 40.4, 48.7, 54.6, 61.4, 68, 75.9, 84.7, 94.9, 105.4, 117.6, 129.9, 142.5, 154, 166.4, 178.4, 190.4, 201.4, 213.3, 224.8</Depths>
+        <Depths duration="18">31, 35.1, 39.1, 45, 53.8, 60.1, 67.6, 75.2, 84.5, 95.2, 107.6, 120, 133.7, 147.1, 160.5, 172.6, 185.6, 198.1, 210.7, 222.1, 234.4, 246.4</Depths>
+        <Depths duration="24">33.9, 38.2, 42.4, 48.5, 57.7, 64.3, 72.3, 80.5, 90.9, 103, 116.8, 130.1, 144.6, 158.5, 172.3, 184.8, 198.2, 211, 223.9, 235.6, 248.2, 260.4</Depths>
+        <Depths duration="48">43.3, 48.1, 52.8, 59.5, 69.6, 76.9, 85.8, 95, 106.9, 120.9, 136.4, 151.1, 166.7, 181.6, 196.3, 209.5, 223.6, 237.1, 250.5, 262.8, 275.9, 288.7</Depths>
+        <Depths duration="96">59.2, 64.7, 70, 77.5, 88.5, 96.3, 105.3, 114.2, 125.1, 137.5, 151.9, 166.2, 182, 197.3, 212.4, 226.1, 240.7, 254.7, 268.5, 281.1, 294.6, 307.7</Depths>
+        <Depths duration="192">88.6, 95.3, 101.5, 110.1, 122.2, 130.4, 139.4, 147.6, 156.6, 165.7, 175.6, 185.4, 197.2, 209.9, 223.6, 236.8, 251.2, 265.2, 279.1, 291.9, 305.5, 318.8</Depths>
+        <Depths duration="240">103, 110.1, 116.7, 125.7, 138.5, 146.9, 156.1, 164.3, 173.1, 181.7, 190.7, 199.2, 209, 219.3, 230.7, 242.1, 255.1, 268.3, 281.9, 294.4, 308, 321.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Compton Dando" name="Chew" number="53004">
+        <Comments>
+            <Comment type="Station Summary">Trapezoidal critical depth flume in deeply incised channel opened in 1958 north of the village of Compton Dando. Ultrasonic gauge installed 2007.</Comment>
+            <Comment type="Hydrometric">Full range station rated by current meter above 2m owing to backing-up caused by downstream bend. Two peak flow ratings applied across period of record. The most recent (from 1991) includes two modelled upper limbs.</Comment>
+            <Comment type="General">Station opened in 1958 north of the village of Compton Dando. Trapezoidal critical depth flume in deeply incised channel 5-6 m deep. Wide natural flood plain to north, terrace to south. Ultrasonic gauge installed 11/2007.</Comment>
+            <Comment type="Flow record">The peak flow associated with the AMAX for the water year 1967/1968 is roughly estimated at 100 cumecs with high uncertainty due to significant extrapolation and debris in the flume. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8) and in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow regime">Large storage reservoir of Chew Valley Lake in headwaters; controls approx 40% of catchment area. Flows significantly affected by seasonal compensation flows and surface water abstractions for public water supply and industry.</Comment>
+            <Comment type="Catchment">Catchment of mixed geology - predominantly clay. Headwaters fed by limestone springs. Steep valleys downstream of reservoir on impermeable Coal Measures. Land-use is rural. Chew Valley Lake (a reservoir), provides significant storage -started to fill in the mid 1950s.</Comment>
+            <Comment type="Factors affecting runoff">SP</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED. High confidence in rating." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged close to AMAX3. Confident in model derived rating beyond QMED." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>2.71</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

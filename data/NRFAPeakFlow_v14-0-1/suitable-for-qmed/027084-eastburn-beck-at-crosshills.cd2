@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27084
+[END]
+[CDS DETAILS]
+NAME,Eastburn Beck
+LOCATION,Crosshills
+NOMINAL AREA,   41.01
+NOMINAL NGR,4020,4452
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,402050,445250
+DTM AREA,   41.01
+ALTBAR, 260
+ASPBAR, 35
+ASPVAR,0.20
+BFIHOST,0.315
+DPLBAR,  7.46
+DPSBAR,114.2
+FARL,0.998
+LDP, 12.10
+PROPWET,0.62
+RMED-1H, 10.5
+RMED-1D, 38.1
+RMED-2D, 53.1
+SAAR,1129
+SAAR4170,1123
+SPRHOST,46.64
+URBCONC1990, 0.601
+URBEXT1990,0.0101
+URBLOC1990, 0.470
+URBCONC2000, 0.661
+URBEXT2000,0.0177
+URBLOC2000, 0.549
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir in a steep Pennine catchment with a natural regime. GENERAL: Concrete flat-V weir (14m wide) in widened channel upstream of confluence with R Aire. STATION HYDROMETRY: All flows contained, no known bypassing. Backing-up from the River Aire (confluence <100m downstream) causes drowning at high flows; d/s levels monitored but processed flows assume modularity - downstream water levels indicate that there was a hydraulic gradient over the weir for all AMAX values (where data were available), but not some POTs. Theoretical peak flow rating applied across period of record. Good fit to available gaugings. FLOW RECORD: Tree on weir affected data in Mar/Apr 2004, period in Oct 2006 affected by silt partially blocking stilling well, suspect rise in May 2008 for same reason, along with period Jul-Oct 2015. Level may be under-recorded on 31/10/2000, the downstream gauge recorded a level 0.3m higher than the upstream gauge. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Natural regime. No known artificial influences.
+CATCHMENT,Steep Pennine catchment draining to the Aire, developed on Millstone Grit, with extensive Boulder Clay cover. Largely moorland with rough grazing the principal land use. Continuing increase in urbanisation through period of record in the lower catchment (Crosshills).
+Qmed Suitability,Only gauged to 30% of QMED but theoretical rating expected to be reasonable at QMED.
+Pooling Suitability,Large extrapolation of rating to highest levels without check gaugings to support is insufficient evidence of suitability for pooling.
+[END]

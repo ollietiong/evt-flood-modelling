@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 18023
+[END]
+[CDS DETAILS]
+NAME,Monachyle Burn
+LOCATION,Upper Monachyle
+NOMINAL AREA,    2.20
+NOMINAL NGR,2480,7250
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,248000,725000
+DTM AREA,    2.20
+ALTBAR, 489
+ASPBAR,111
+ASPVAR,0.32
+BFIHOST,0.368
+DPLBAR,  1.54
+DPSBAR,136.7
+FARL,1.000
+LDP,  2.62
+PROPWET,0.79
+RMED-1H, 11.5
+RMED-1D, 56.1
+RMED-2D, 81.6
+SAAR,2406
+SAAR4170,2159
+SPRHOST,47.75
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,One of the Balquhidder experimental catchments. GENERAL: Aluminium alloy Flat V (1:10) weir, 3.2m wide with vertical sidewalls, keyed into a natural rockbar. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: Containable head 1.2m has max. flow of 9.0 cumecs. FLOW RECORD: Instrumentation problems throughout 1996, data infilled from Lower Monachyle and Kirkton. FLOW REGIME: Natural catchment.
+CATCHMENT,Very wet interfluve area to the break in slope to a steep- sided glacial valley. Shallow and deep peat, peaty gleys and upland brown earths over mica schist. Some bare rock on W boundary. Heather moorland. Experimental catchment run by IH, nested within 18017 and neighbouring 18018.
+Qmed Suitability,Flows based on weir equation only.
+Pooling Suitability,Flows based on weir equation only.
+[END]

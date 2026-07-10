@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24001
+[END]
+[CDS DETAILS]
+NAME,Wear
+LOCATION,Sunderland Bridge
+NOMINAL AREA,  661.17
+NOMINAL NGR,4265,5377
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,426500,537750
+CENTROID NGR,GB,404830,534973
+DTM AREA,  661.17
+ALTBAR, 301
+ASPBAR, 95
+ASPVAR,0.20
+BFIHOST,0.342
+DPLBAR, 40.10
+DPSBAR, 97.7
+FARL,0.978
+FPEXT,0.0347
+LDP, 71.51
+PROPWET,0.47
+RMED-1H, 10.1
+RMED-1D, 35.8
+RMED-2D, 46.9
+SAAR, 932
+SAAR4170, 970
+SPRHOST,43.94
+URBCONC1990, 0.615
+URBEXT1990,0.0148
+URBLOC1990, 0.505
+URBCONC2000, 0.760
+URBEXT2000,0.0193
+URBLOC2000, 0.497
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weirs provide longest flow record on the Wear, reservoirs affect 7% of the upstream catchment. GENERAL: Compound broad-crested weirs within the arches of road bridge; total crest length 38.7m. STATION HYDROMETRY: Control is a compound broad-crested weir within the arches of the downstream road bridge. Flows up to 1.06m stage are contained by vertical arch walls, high flows are well above this, the tapping point is within the drawdown effect. Weed growth in summer may cause overestimation of flows. Rating originally based on theoretical weir rating, subsequently fitted to check gaugings up to 3.4m (375 cumecs), wade gaugings at low flows and cableway above. One peak flow rating applied throughout. Flood Studies Report grade B. FLOW RECORD: Flows for the period 1957-73 reprocessed using rating fitted to current meter gaugings. Full record reprocessed in 2001 to give improved fit to gaugings, reviewed again in 2019 and reprocessed with rating D to slightly increase flows below 7 cumecs, high flows unchanged. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Gives steep sided hydrographs, often with multiple peaks. Significant artificial influences: reservoirs in catchment (Burnhope, Waskerley and Tunstall with total direct catchment area of 45 sq.km); STW effluent forms significant portion of low flows; minewater discharges (regime altered by pit closure) and, in drought years, minimum flows supported by Kielder transfer.
+CATCHMENT,Predominantly upland catchment on mainly Carboniferous formations (Limestone, Millstone Grit and Coal Measures). Half the catchment is overlain by superficial deposits (peat in headwaters, Boulder Clay in lower reaches). Land use is half grass pasture, with moorland headwaters, arable and some urban development in lower reaches. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

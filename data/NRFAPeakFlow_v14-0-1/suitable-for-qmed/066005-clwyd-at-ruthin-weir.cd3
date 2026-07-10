@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 66005
+[END]
+[CDS DETAILS]
+NAME,Clwyd
+LOCATION,Ruthin Weir
+NOMINAL AREA,   96.39
+NOMINAL NGR,3121,3592
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,312200,359200
+CENTROID NGR,GB,309817,351811
+DTM AREA,   96.39
+ALTBAR, 234
+ASPBAR, 46
+ASPVAR,0.18
+BFIHOST,0.518
+DPLBAR, 12.77
+DPSBAR,114.8
+FARL,0.995
+FPEXT,0.0372
+LDP, 27.59
+PROPWET,0.51
+RMED-1H,  9.3
+RMED-1D, 35.0
+RMED-2D, 46.3
+SAAR, 958
+SAAR4170, 956
+SPRHOST,34.93
+URBEXT1990,0.0032
+URBCONC2000, 0.556
+URBEXT2000,0.0053
+URBLOC2000, 0.159
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard concrete weir with central low flow notch (short trapezoidal flume). GENERAL: Station rebuilt in 2009. Central notch is for low flows and fish pass. STATION HYDROMETRY: Weir width: 14m. Large modular range (extending well beyond the 2000 flood). Hydraulic continuity between groundwater and streamflow along part of Afons Clywd and Hesbin. Larinier fish pass constructed up centre of central notch as part of rebuild in 2009 (used to be 3 stepped pools). Side looking ADCP installed under the bridge in 2010, used as backup. Above 1.2m, flow backs up behind bridge which causes flooding of fields upstream, but no bypassing. Downstream stilling basin has walls with low flow notches cut out. GDF gaugings completed through flow range. Multiple peak flow ratings applied across period of record based on gaugings. High confidence in rating up until bank full. Site is well gauged below QMED with some high flow gaugings. FLOW RECORD: Data was reprocessed from 2001 -2006, using three separate ratings for the period. High flows increased, and the 2005 and 2006 low flows were reduced. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Hydraulic continuity known to exist between groundwater and streamflow along parts of the Clywd and Hesbin. Mwrog Street Flood Alleviation Scheme constructed in 2004. This diverts all flow in excess of 1 cumec from the Mrwog around the town and discharges in the Clwyd downstream of the gauging station. Before this, all flows in the Mwrog discharged to the Clwyd upstream of the gauging station. Estimated reduction of QMED at Ruthin by approx 7%.
+CATCHMENT,Upper Clwyd rises in area of impermeable Palaeozoic rocks, with more permeable strata in lower catchment. Patchy Boulder Clay cover. Most grassland, with some forest cover.
+Qmed Suitability,Well gauged to, and beyond QMED.
+Pooling Suitability,Significant upstream bypassing likely influenced by low bridge soffit.
+[END]

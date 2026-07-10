@@ -1,0 +1,45 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+201009
+[END]
+[CDS DETAILS]
+NAME,Owenkillew
+LOCATION,Crosh
+NOMINAL AREA,  440.62
+NOMINAL NGR,2418,3866
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,241850,386650
+DTM AREA,  440.62
+ALTBAR, 234
+ASPBAR,179
+ASPVAR,0.07
+BFIHOST,0.355
+DPLBAR, 25.49
+DPSBAR,115.5
+FARL,0.997
+LDP, 48.34
+PROPWET,0.64
+RMED-1H,  8.5
+RMED-1D, 36.3
+RMED-2D, 49.7
+SAAR,1367
+SAAR4170,1332
+SPRHOST,48.23
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBEXT2000,0.0002
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station opened in 1980. Steel cabinet kiosk installed in February 2018 to replace original wooden hut and cableway destroyed in August 2017 flood. GENERAL: Velocity-area station comprised of steel cabinet kiosk on right bank housing main and backup instruments both using pressure probes. Station replaced that at Killymore in 1980, because of mobile bed problems. Killymore, about a mile upstream, was part of the original core network from the early 1970's. Wooden hut housing stilling well and cableway winch at Crosh destroyed during 23 August 2017 flood. New station sited c.60 m downstream of original station on higher ground although pressure probes are located in same position in river channel inlet pipe to stilling well used in previous station location. STATION HYDROMETRY: River gets out-of-bank at high flows. The rating is derived from current meter gaugings. Simple extrapolation is used beyond 3.458m (maximum gauged level). Gauging and rating is good but some gaugings at higher flows would be useful. One peak flow rating across period of record. FLOW RECORD: Highest flow recorded in August 2017 eclipsed previous, long-held peak flow recorded in October 1987. Flows for full period of record reprocessed in 2002. Data in late 2010 suspect likely due to frozen stilling well. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12) and in August 2025 (WINFAP Files v14). FLOW REGIME: No water abstractions or significant returns.
+CATCHMENT,Catchment of grassland, heath and forest with substantial agriculture. Solid geology -Moinian and Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Drift geology - glacial till extensive and overlain with sand, gravel and river alluvium. Rock near surface and post-glacial peat cover extensive on high ground with restricted development of river alluvium in valleys.
+Qmed Suitability,Maximum gauged flow in excess of QMED. Unmeasured floodplain flow is less than 10 % at QMED.
+Pooling Suitability,More high flow gauging required to have better confidence to upgrade station to Suitable for Pooling as flows are not fully contained above QMED with unmeasured floodplain flow at very high flows (AMAX3 and higher) estimated to be in excess of 20%.
+[END]

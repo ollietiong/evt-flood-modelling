@@ -1,0 +1,47 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21036
+[END]
+[CDS DETAILS]
+NAME,Whiteadder Water
+LOCATION,Abbey St Bathans
+NOMINAL AREA,  216.85
+NOMINAL NGR,3758,6623
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,375850,662350
+CENTROID NGR,GB,366098,661697
+DTM AREA,  216.85
+ALTBAR, 321
+ASPBAR, 94
+ASPVAR,0.17
+BFIHOST,0.456
+DPLBAR, 16.47
+DPSBAR,120.8
+FARL,0.962
+FPEXT,0.0204
+LDP, 29.97
+PROPWET,0.43
+RMED-1H,  9.6
+RMED-1D, 43.7
+RMED-2D, 57.5
+SAAR, 886
+SAAR4170, 952
+SPRHOST,42.33
+URBEXT1990,0.0001
+URBEXT2000,0.0002
+URBLOC2000,-9.999
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Stable mill weir control with velocity area calibration from gaugings up to bankfull, with hydraulic modelling above bankfull. GENERAL: The station originally operated as a level only station for flood warning from 01/04/2001. Gauging effort in 2023 combined with hydraulic modelling of the floodplain allowed flow calibration through the stage range. The old mill weir control provides continuity through the record and has allowed the hindcasting of the flow calibration from 2001, although there is very poor accuracy for the estimation of low flows. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: The stage recording is from a pressure transducer mounted on the pier of a foot bridge. The control is a flat broad crested mill weir 400m downstream from the stage recorder. The weir runs diagonal to flow at approximately 45 degrees. The associated sluice and mill lade has not been used for its original purpose during the period of record, but it has been used to feed a trout farm located downstream from the weir. Although not obvious in the stage record, the water feed to this trout farm may compromise the accuracy of low to mid flow estimation. Combined with the insensitivity of the long flat weir crest, this site is not conducive to accurate low flow estimation. High flow estimations are informed by gaugings up to bankfull at 1.920m, with a measured flow of 123.1 cumecs. Thereafter estimates are based on hydraulic modelling. FLOW RECORD: Decent mid to high flow estimation, but poor low flow accuracy. FLOW REGIME: Catchment contains Whiteadder and Watchwater Reservoirs for public water supply which can have substantial effects - particularly during low flows.
+CATCHMENT,Upland moorland catchment used for sheep grazing, with heather management for grouse shooting. Catchment contains the Whiteadder and Watchwater Reservoirs used for public water supply.
+Qmed Suitability,No comment
+Pooling Suitability,High flow estimations are informed by gaugings up to bankfull at 1.920m, with a measured flow of 123.1 cumecs. Thereafter estimates are based on hydraulic modelling.
+[END]

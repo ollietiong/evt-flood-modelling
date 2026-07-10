@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 63001
+[END]
+[CDS DETAILS]
+NAME,Ystwyth
+LOCATION,Pont Llolwyn
+NOMINAL AREA,  170.10
+NOMINAL NGR,2590,2772
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,259050,277300
+DTM AREA,  170.10
+ALTBAR, 265
+ASPBAR,278
+ASPVAR,0.12
+BFIHOST,0.489
+DPLBAR, 19.16
+DPSBAR,159.8
+FARL,0.990
+LDP, 41.11
+PROPWET,0.63
+RMED-1H, 10.5
+RMED-1D, 45.6
+RMED-2D, 60.6
+SAAR,1456
+SAAR4170,1509
+SPRHOST,39.17
+URBEXT1990,0.0006
+URBEXT2000,0.0012
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; non-standard oak weir shallow V bed control. Natural flow regime. GENERAL: Velocity area station; non-standard oak weir shallow V bed control, installed in 1973. Channel width: 16m. STATION HYDROMETRY: Stable section. Recorder on steep left bank. Floods spill over right bank onto floodplain (approx. 30m wide) and bypass station. Intake pipe has issues with blockages - lower intake pipe buried in left bank gabions. One peak flow rating applied across period of record. Rating accounts for out of bank flow derived by hydraulic modelling. Channel re-graded and weir refurbished in September 1998, with no change of datum. FLOW RECORD: Data estimated by NRFA for 21/09 - 27/09 1998 during weir refurbishment. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Few abstractions and discharges. Natural to within 10% at Q95.
+CATCHMENT,Impermeable silurian deposits. Peaty soils in eastern hills, seasonally wet. Most of western catchment has soils with permeable substrata. Mainly grassland, hill farming in uplands, livestock at lower levels. Some forest.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged above QMED. Upper rating limb determined by hydraulic modelling.
+[END]

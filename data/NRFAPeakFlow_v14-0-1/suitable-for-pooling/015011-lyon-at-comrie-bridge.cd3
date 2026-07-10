@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15011
+[END]
+[CDS DETAILS]
+NAME,Lyon
+LOCATION,Comrie Bridge
+NOMINAL AREA,  388.33
+NOMINAL NGR,2785,7486
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,278550,748700
+CENTROID NGR,GB,256969,745549
+DTM AREA,  388.33
+ALTBAR, 552
+ASPBAR, 97
+ASPVAR,0.08
+BFIHOST,0.439
+DPLBAR, 31.03
+DPSBAR,272.1
+FARL,0.907
+FPEXT,0.0283
+LDP, 59.97
+PROPWET,0.70
+RMED-1H, 10.7
+RMED-1D, 49.9
+RMED-2D, 71.6
+SAAR,2005
+SAAR4170,1947
+SPRHOST,47.57
+URBEXT1990,0.0003
+URBEXT2000,0.0001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a steeply sloping catchment with hydro-electric power storage. GENERAL: Velocity area station 40m wide. Upgraded from pressure recorder (installed 1972, start of peak flows) to full network status in 1983. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: 170 sq km controlled for hydro-electric power (major development 1951-59) storage in Lochs Lyon, An Daimh and Stronuich. Hydro-power diversions greatly reduce catchment runoff. Flows affected by ice during cold winters. Multiple peak flow ratings across period of record. FLOW RECORD: Peak stage and flows pre-1981 are taken from SEPA black summary books and charts, no rating is available for this period. Twice-daily ramp readings: 6/37 to 9/72. 'Weekly' nature of time-series prior to 1973. Naturalised monthly flows available from 1973-87. FLOW REGIME: 170 sq. km controlled for hydro-electric power(major development 1951-59) storage in Lochs Lyon, An Daimh and Stronuich. Hydro-power diversions greatly reduce catchment runoff.
+CATCHMENT,Steeply sloping catchment (Grampian mountains). Bedrock metamorphic (schist, quartzite and marble) with approx. Half overlain by superficial deposits. Land use rough grazing and forestry.
+Qmed Suitability,Reasonable fit to rating. Gauged above QMED.
+Pooling Suitability,Reasonable fit to rating. Gauged above bankfull and to a sufficient stage to have some confidence in the AMAX 3 event being within 30% of the true value.
+[END]

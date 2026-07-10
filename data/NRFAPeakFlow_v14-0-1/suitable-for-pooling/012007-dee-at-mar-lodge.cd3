@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 12007
+[END]
+[CDS DETAILS]
+NAME,Dee
+LOCATION,Mar Lodge
+NOMINAL AREA,  292.00
+NOMINAL NGR,3097,7895
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,309800,789550
+CENTROID NGR,GB,301329,789774
+DTM AREA,  292.00
+ALTBAR, 682
+ASPBAR,116
+ASPVAR,0.09
+BFIHOST,0.400
+DPLBAR, 15.26
+DPSBAR,235.2
+FARL,0.989
+FPEXT,0.0331
+LDP, 28.82
+PROPWET,0.69
+RMED-1H,  9.1
+RMED-1D, 42.0
+RMED-2D, 60.5
+SAAR,1334
+SAAR4170,1492
+SPRHOST,50.10
+URBEXT1990,0.0001
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the highest on the Dee. GENERAL: Velocity area station, about 45m wide. Highest gauging station on the Dee. STATION HYDROMETRY: Cableway rated, unstable natural control. Prolonged cold spells cause a considerable drop in flow and on rare occasions ice formation on the control requires estimation of flow. River well contained, no bypassing. Rating derived from current meter gaugings up to 2.3m (about QMED), simple extrapolation beyond. No out of bank surveys have been undertaken at this site by either SEPA or any external contractors. However, recent work by consultants following flooding from Storm Frank (Dec 2015) has suggested modelling should be undertaken to account of out of bank flow at this site as some water bypassed the station flowing through trees on the left-hand bank on the Mar Lodge estate. This may have an impact on subsequent high flow rating reviews but as of 30/10/17 this information is not available. One peak flow rating applied up to 14/08/14, where the channel profile changed significantly during the remnants of hurricane Bertha. The rating is being re-calibrated and no peak flow estimates are currently available post 14/08/14. FLOW RECORD: December 1989 flows estimated due to ice formation. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Natural regime.
+CATCHMENT,Upland catchment with mountainous headwaters, often snowy in winter. Dalradian and Moinian metamorphic and granite mountains. Nearly half overlain by superficial deposits. Mountainous with moorland and some forestry. No significant catchment changes known. Catchment rainfall may be significantly underestimated.
+Qmed Suitability,No comment.
+Pooling Suitability,No comment.
+[END]

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 46014
+[END]
+[CDS DETAILS]
+NAME,Teign
+LOCATION,Chudleigh
+NOMINAL AREA,  232.28
+NOMINAL NGR,2857, 785
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,285750,78500
+DTM AREA,  232.28
+ALTBAR, 227
+ASPBAR, 88
+ASPVAR,0.13
+BFIHOST,0.575
+DPLBAR, 22.69
+DPSBAR,136.7
+FARL,0.976
+LDP, 45.25
+PROPWET,0.46
+RMED-1H, 12.3
+RMED-1D, 46.6
+RMED-2D, 63.2
+SAAR,1228
+SAAR4170,1212
+SPRHOST,27.24
+URBEXT1990,0.0013
+URBEXT2000,0.0050
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station immediately upstream of a single-span road bridge. GENERAL: Ultrasonic station immediately upstream of a single-span road bridge. Channel is 19m wide, good straight approach and exit. Initially built for Water Resources as a replacement for Preston Gauging Station (46002) with a sister site at Bovey Parke (46013), now a multifunctional site. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: The first floods of each autumn typically bring lots of debris (leaves) which can cause some problems with the velocity measurement. This is addressed in post-processing as required. The channel cross section is not stable (frequent shoaling). This is addressed by undertaking regular cross section surveys. FLOW REGIME: Four reservoirs and various water reclamation works have minor affect on low flow regime.
+CATCHMENT,Bulk of the river system rises on Dartmoor Granite moorland, and traverses a complex of Devonian and Carboniferous shales, sandstones and cherts before its wide alluvial valley crosses Tertiary sands and clays. Land use is low-grade agriculture and woodland.
+Qmed Suitability,Gauge performs well up to and above QMED.
+Pooling Suitability,Gauge performs well up to and above QMED.
+[END]

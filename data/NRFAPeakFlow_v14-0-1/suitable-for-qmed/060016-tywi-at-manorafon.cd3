@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60016
+[END]
+[CDS DETAILS]
+NAME,Tywi
+LOCATION,Manorafon
+NOMINAL AREA,  580.87
+NOMINAL NGR,2657,2239
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,265750,224000
+CENTROID NGR,GB,276653,238720
+DTM AREA,  580.87
+ALTBAR, 273
+ASPBAR,232
+ASPVAR,0.08
+BFIHOST,0.468
+DPLBAR, 29.78
+DPSBAR,166.6
+FARL,0.973
+FPEXT,0.0552
+LDP, 60.16
+PROPWET,0.63
+RMED-1H, 11.2
+RMED-1D, 50.2
+RMED-2D, 67.2
+SAAR,1564
+SAAR4170,1596
+SPRHOST,40.16
+URBEXT1990,0.0007
+URBEXT2000,0.0016
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rated section. Llyn Brianne in headwaters regulates flow. GENERAL: Rated section. Channel width: 34.25m. Station added to peak flows dataset in September 2022 (WINFAP Files v11). STATION HYDROMETRY: Very low sheet pile submerged wall and cableway. Relatively straight river channel susceptible to moving bed of stone and gravel. Irregular boulder weir, of higher level than the station's sheet pile wall, constructed on 28/09/1995 in the river channel approx 180m d/s of gauging station. Station is bypassed at flows just above current QMED (212 m3/s). Peak level of 3.81m on 23/10/1998; however, rating not valid above 3.5m, so corresponding peak flow is questionable. FLOW RECORD: Flows 2-5 Sep 1995 suspect, coinciding with construction downstream of informal boulder weir and corresponding new rating for station. Flows 28 Nov 1997-25 Mar 1998 also suspect as response looks anomalous. Peak flows between 1967 and 1997 are rejected due to uncertainty of the rating. FLOW REGIME: Llyn Brianne in headwaters regulates flow down to major Dwr Cymru Welsh Water abstraction immediately d/s of station.
+CATCHMENT,Predominantly impermeable geology, Ordovician and Silurian with Old Red Sandstone on southern boundary. Peaty soils in headwaters. Alluvium in valleys. Catchment is predominantly grassland with hill farming in upper catchment, some livestock and dairying at lower levels. Remainder of catchment is forested, with a significant concentration along NE margin.
+Qmed Suitability,QMED is just above bankful and it has been gauged close to this value.
+Pooling Suitability,Rating not valid above 3.5m.
+[END]

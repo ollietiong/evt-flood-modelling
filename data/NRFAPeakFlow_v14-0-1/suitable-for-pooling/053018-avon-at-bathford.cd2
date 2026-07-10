@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 53018
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Bathford
+NOMINAL AREA, 1569.35
+NOMINAL NGR,3785,1670
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,378550,167000
+DTM AREA, 1569.35
+ALTBAR, 109
+ASPBAR, 83
+ASPVAR,0.10
+BFIHOST,0.575
+DPLBAR, 44.77
+DPSBAR, 48.9
+FARL,0.985
+LDP, 94.44
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 34.3
+RMED-2D, 44.5
+SAAR, 817
+SAAR4170, 840
+SPRHOST,31.10
+URBCONC1990, 0.664
+URBEXT1990,0.0229
+URBLOC1990, 0.816
+URBCONC2000, 0.797
+URBEXT2000,0.0298
+URBLOC2000, 0.805
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway next to railway bridge opened in 1969. Acoustic Doppler equipment (ADCP) used for flow measurement 2006-2012. Briefly reverted to Velocity Area after the ADCP failed but returned to ADCP in June 2013. GENERAL: Velocity area station with cableway next to railway bridge, 4km upstream of Bath (replacement for Bath St James 53003), immediately downstream of confluence with By Brook. Opened in 1969. The early part of the record is Stage/Discharge. However, with the exception of a brief period in 2013 the flow data since 2012 has been derived from indexed Acoustic Doppler equipment. STATION HYDROMETRY: Under high flow conditions the railway bridge acts as a control, causing extensive floodplain inundation at high flows. All flows are contained through bridge 10m downstream due to enclosing railway embankment. Deterioration of Bathampton weir c.1.3km downstream has in the past affected low flows; acoustic Doppler equipment installed 15/12/2006 to improve the data. Recent works have been carried out to repair the weir and from 2012 onwards the station reverted to velocity area with flows produced using stage/discharge. Deep section and low velocities render flows below 5 m3/s inaccurate. One rating applied across period of record. Good fit to maximum out of bank gauging at ~3.5m. Full rating review carried out in March 1998. FLOW RECORD: Daily flows suspect during Summer 1976 due to extremely low levels, and during June 1997 when a sluice gate at Bathampton Weir failed. POTs missing December 1971 and October 1974 due to a lack of high-resolution data. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in August 2024 (WINFAP Files v13). FLOW REGIME: Abstraction from surface water/groundwater for public water supply. Flows augmented by groundwater scheme in catchment and effluent returns.
+CATCHMENT,Catchment of mixed geology: predominantly clays and limestone; eastern tributaries rise from Chalk. Land-use is mainly rural, some urbanisation. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 4% of AMAX3. High flow gaugings validate rating during out of bank conditions.
+[END]

@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 84019
+[END]
+[CDS DETAILS]
+NAME,North Calder Water
+LOCATION,Calderpark
+NOMINAL AREA,  129.34
+NOMINAL NGR,2680,6624
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,268100,662500
+DTM AREA,  129.34
+ALTBAR, 151
+ASPBAR,248
+ASPVAR,0.23
+BFIHOST,0.326
+DPLBAR, 19.15
+DPSBAR, 49.9
+FARL,0.920
+LDP, 38.27
+PROPWET,0.58
+RMED-1H,  8.6
+RMED-1D, 31.7
+RMED-2D, 42.7
+SAAR, 973
+SAAR4170, 932
+SPRHOST,41.53
+URBCONC1990, 0.776
+URBEXT1990,0.1050
+URBLOC1990, 0.710
+URBCONC2000, 0.876
+URBEXT2000,0.1463
+URBLOC2000, 0.711
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in central lowlands east of Glasgow. GENERAL: Velocity area station; about 12m wide section. The recorder is sited in a river bend, which creates a asymmetrical velocity profile. Outer bank is a steep cliff being undercut by river. The inner bank is quite steep. STATION HYDROMETRY: The station was built with a broad crested weir in 1962, and then the weir was removed on 09/10/1972. The datum was lowered by 2 feet on 01/04/1972; likely in preparation for the weir removal. There is no rating archived that represents the datum and control change between April and October 1972 and more investigation is required to validate the details in this period. The cableway was removed due to landslip and fallen tree on 24/07/1990. All flows are contained. The post 1972 rating is derived from current meter gaugings up to 1.360m (measured flow of 25.5cumecs) with simple extrapolation beyond. FLOW RECORD: No POTs between 1968 and 1973 and during this period peak flows are lower than gauged daily flows. Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: Many artificial influences which mainly impact on low to medium flows. Contains several storage reservoirs for canal supply. Monkland Canal drains through catchment and affects low flows. Water is also exported to Forth & Clyde Canal.
+CATCHMENT,Lies in central lowlands east of Glasgow. Contains several small storage lochs. Sedimentary rocks of Carboniferous age; approx. 95% of which is overlain by superficial deposits. Land use: grassland, forestry, arable lands u/s; extensive urban area d/s. No significant catchment changes known. However changes in sewage discharges and abstraction policy of Scottish Water might have occurred and would have an impact on low flows.
+Qmed Suitability,But with some caution as the highest spot gaugings are only about half QMED.
+Pooling Suitability,Spot gaugings are less than half QMED. Considerable uncertainty in the high flood flows.
+[END]

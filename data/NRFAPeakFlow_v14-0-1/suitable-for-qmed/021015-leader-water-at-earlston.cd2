@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21015
+[END]
+[CDS DETAILS]
+NAME,Leader Water
+LOCATION,Earlston
+NOMINAL AREA,  239.11
+NOMINAL NGR,3564,6388
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,356500,638800
+DTM AREA,  239.11
+ALTBAR, 292
+ASPBAR,139
+ASPVAR,0.20
+BFIHOST,0.563
+DPLBAR, 18.92
+DPSBAR,106.3
+FARL,0.999
+LDP, 31.38
+PROPWET,0.43
+RMED-1H,  9.1
+RMED-1D, 35.7
+RMED-2D, 47.7
+SAAR, 853
+SAAR4170, 894
+SPRHOST,33.40
+URBEXT1990,0.0013
+URBEXT2000,0.0013
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Leader in the Scottish Borders. GENERAL: Velocity area station about 30m wide. STATION HYDROMETRY: This is an open channel station from 1984 at least. There are remnants of an old mill weir (for Rhymers Mill) on the river bank about half a mile downstream and it is likely the weir was intact up to 1984, where the stage plot indicates a major change in bed levels starting from the large flood on 03/11/1984. A period of channel adjustment is apparent for a few years after 1984 and its hypothesised that the 1984 flood knocked the weir out. The right bank is much lower in than the left bank and flood water stretches beyond the cableway on the wooded right bank. A cableway allows gauging at higher flows, although the highest gaugings up to 1.8m were carried out before 1984 and so these are not valid for rating calibration after 1984. Since then, the highest gauging is at 1.470m, measured at 57.001 cumecs. Hence the post 1984 flood estimations, of peaks reaching 2.53m, are based on simple extrapolation and of low confidence. The low flow section control is a gravel bar that is fairly insensitive and not conducive to accurate low flow estimation. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Natural flow regime.
+CATCHMENT,Upland catchment draining from the Lammermuir Hills. Bedrock Silurian shale and ORS; some superficial deposit cover. Land use hill grazing with arable farming at lower levels; some forest. No significant catchment changes.
+Qmed Suitability,No comment.
+Pooling Suitability,Uncertainty as to quality at higher flows due to bypassing,. Needs a re-assessment by SEPA to clarify worth.
+[END]

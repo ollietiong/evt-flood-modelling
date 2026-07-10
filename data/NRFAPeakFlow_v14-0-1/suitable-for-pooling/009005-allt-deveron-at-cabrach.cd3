@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  9005
+[END]
+[CDS DETAILS]
+NAME,Allt Deveron
+LOCATION,Cabrach
+NOMINAL AREA,   68.08
+NOMINAL NGR,3378,8291
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,337850,829100
+CENTROID NGR,GB,338071,824955
+DTM AREA,   68.08
+ALTBAR, 439
+ASPBAR,  1
+ASPVAR,0.15
+BFIHOST,0.396
+DPLBAR,  7.87
+DPSBAR,118.3
+FARL,1.000
+FPEXT,0.0252
+LDP, 16.74
+PROPWET,0.59
+RMED-1H,  9.0
+RMED-1D, 37.7
+RMED-2D, 53.9
+SAAR,1071
+SAAR4170,1172
+SPRHOST,46.17
+URBEXT1990,0.0001
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging an upland catchment with a natural regime. GENERAL: The station has been in operation since 1948 and SEPA digital records begin at 29/01/1990. The pre-1990 record exists as paper charts from a clockwork recorder. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: The station control is a compound broad-crested weir with a low flow notch. Water flows from the low flow notch and over the main crest at around 0.330m. Flows are derived from gaugings and a rating. The stability of the weir allows one rating to be applied through the digital record from 1990 and this rating potentially can be applied back to the construction of the weir. Digitising of SEPA records is required to determine if current weir has been in place since the start of operations in 1948. The confidence of flood estimation from this station was greatly improved by a gauging at 1.9m on 18/11/2022, with a measured flow of 59 cumecs,. An improved rating was applied through the digital archive and hence allowed the station to be included in the peak flow dataset from 2023. Although bankfull is around 1.5m, where the river spills onto the floodplain on the far bank and bypasses the weir, the location and technique of the flood gauging on 18/11/2022 meant that no flow was missed. The gauging location was upstream from the station, just downstream from the road bridge before the river spilled over the bank. FLOW RECORD: Pre 1958 record is of inconsistent quality with frequent gaps - faulty recorder operation. Occasional very low flows e.g. Jan 1978, March 1979 and Feb 2021, occur as a result of ice. FLOW REGIME: Natural regime.
+CATCHMENT,Upland catchment with rugged topography. Mostly moorland developed on complex basement geology - principally metamorphics. Some grassland and forestry.
+Qmed Suitability,Rating well supported by gaugings to QMED.
+Pooling Suitability,There is good confidence in flood estimations as the rating is informed by flood gauging up to 1.9m, measured at 59 cumecs. The weir also provides control stability and allows a simple rating history.
+[END]

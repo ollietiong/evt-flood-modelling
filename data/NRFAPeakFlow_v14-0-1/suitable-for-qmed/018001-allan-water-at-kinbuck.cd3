@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 18001
+[END]
+[CDS DETAILS]
+NAME,Allan Water
+LOCATION,Kinbuck
+NOMINAL AREA,  160.29
+NOMINAL NGR,2792,7053
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,279250,705400
+CENTROID NGR,GB,282725,709261
+DTM AREA,  160.29
+ALTBAR, 245
+ASPBAR,108
+ASPVAR,0.05
+BFIHOST,0.507
+DPLBAR, 15.71
+DPSBAR, 92.8
+FARL,0.974
+FPEXT,0.0758
+LDP, 25.81
+PROPWET,0.59
+RMED-1H,  9.5
+RMED-1D, 42.9
+RMED-2D, 57.2
+SAAR,1384
+SAAR4170,1331
+SPRHOST,41.33
+URBEXT1990,0.0010
+URBEXT2000,0.0015
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A velocity-area station with broadly natural flows. GENERAL: Velocity area station, stage recorder sited 40m u/s of twin-arch bridge. Station added to peak flows dataset in August 2021 (WINFAP Files v10). STATION HYDROMETRY: Steep section contains all floods. Bridge acts as control at all stages. Gabions installed in 1980 beneath one arch to stabilise control. Reasonably stable rating, although low flow gaugings and rating segments now influenced by deposition from drain entering between measuring section and main bridge control on right bank. FLOW REGIME: Flows are broadly natural.
+CATCHMENT,River flows through broad flat valley. Lateral tributaries drain steep hillsides. Bedrock predominantly ORS; 85% overlain by superficial deposits. Land use predominantly grassland with some arable and forest.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,Station requires more high flow gaugings before it can be made suitable for pooling.
+[END]

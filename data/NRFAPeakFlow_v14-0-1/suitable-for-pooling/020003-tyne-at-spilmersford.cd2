@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 20003
+[END]
+[CDS DETAILS]
+NAME,Tyne
+LOCATION,Spilmersford
+NOMINAL AREA,  162.77
+NOMINAL NGR,3456,6688
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,345600,668900
+DTM AREA,  162.77
+ALTBAR, 195
+ASPBAR,  5
+ASPVAR,0.26
+BFIHOST,0.520
+DPLBAR, 10.84
+DPSBAR, 65.6
+FARL,0.987
+LDP, 22.51
+PROPWET,0.43
+RMED-1H,  8.4
+RMED-1D, 32.7
+RMED-2D, 48.7
+SAAR, 724
+SAAR4170, 758
+SPRHOST,33.89
+URBEXT1990,0.0026
+URBEXT2000,0.0045
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, flood warning station. GENERAL: Velocity area station. The channel reach is within steep, high flood banks which contain all floods in record. Flows from this station are used as part of the Haddington flood warning system. STATION HYDROMETRY: SEPA has record of gaugings from 29/09/1959 and so the station must have existed in some form from at least this date. The formal start date is 01/02/1962, but the existence of earlier data is worth recognition and hopefully can be resurrected and understood on future investigation. The original station was open channel with a gravel bar acting as the low flow control. The original NRFA station description mentioned that the gauge board was lowered by 0.125m on 01/09/1969. However, the datum history on NRFA suggests the adjustment was from 70mAOD to 69.09mAOD (-0.91m). Hence there is an outstanding action on SEPA to check the station history records and clarify the adjustment. The datum adjustment is not currently reflected in the Peak Flow rating records and in need of review. A gabion basket control was installed on 29/09/1972. On 01/08/1975, the current concrete broad crested weir was constructed, likely using the gabion as a foundation. Until the control and datum history are clarified, the pre 01/08/1975 records are recommended by SEPA to be rejected. The post 01/08/75 data has greater confidence, with the concrete weir providing some stability. The weir drowns out at medium flows. Flows are largely contained in the channel. Three peak flow ratings across period of record. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5) and in August 2024 (WINFAP Files v13). Peak flows are rejected pre-1975 pending clarification of control and datum history. FLOW REGIME: Flashy response. Low flows are affected by industrial and agricultural abstractions.
+CATCHMENT,The headwaters drain exposed moorland of the Lammermuir Hills. Bedrock mostly impermeable predominantly overlain by superficial deposits (thin soils). Silurian/Devonian sedimentaries. Land use predominantly arable with some forest. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,High flood banks contain all flow.
+[END]

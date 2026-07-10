@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19014
+[END]
+[CDS DETAILS]
+NAME,Brox Burn
+LOCATION,Newliston
+NOMINAL AREA,   37.33
+NOMINAL NGR,3113,6731
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,311400,673150
+CENTROID NGR,GB,305306,671153
+DTM AREA,   37.33
+ALTBAR, 133
+ASPBAR, 84
+ASPVAR,0.39
+BFIHOST,0.431
+DPLBAR,  7.94
+DPSBAR, 44.2
+FARL,0.989
+FPEXT,0.0738
+LDP, 15.98
+PROPWET,0.49
+RMED-1H,  8.7
+RMED-1D, 35.5
+RMED-2D, 44.3
+SAAR, 826
+SAAR4170, 831
+SPRHOST,43.13
+URBCONC1990, 0.724
+URBEXT1990,0.0763
+URBLOC1990, 0.871
+URBCONC2000, 0.829
+URBEXT2000,0.1154
+URBLOC2000, 0.827
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A station on the Brox Burn upstream of the confluence with the River Almond. GENERAL: Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: A flat broad crested weir has been in place though the entire period of record. Although the station started operation in 1976, the digital record starts from June 1997. The insensitive weir design is not conducive to accurate low flow estimations. The weir does however provide some control stability and continuity through record. Some work was carried out in 2022 to improve the ratings applied through the record and to improve the upper segment for optimal and consistent estimation of floods. These improvements allowed the station to be considered for inclusion in the Peak Flows. One peak flow rating across period of record. Rated flood flows are based on gaugings up to 1.012m, with a measured flow of 8.4 cumecs. Flow estimates above the highest gauging are based on a simple extrapolation of the rating. The banks appear sufficiently high to contain the higher floods and so this improves the likelihood that the extrapolated rating is producing reasonable flow estimates. Considering the above information, pooling status has been tentatively assigned to this station. However, with the highest flood in the digital record reaching 1.797m and other larger events exceeding 1.5m, the extent of the rating extrapolation brings uncertainty that the end user should consider before using this dataset in a particular study. FLOW RECORD: The POT record is likely missing two peaks in WY2008/09 due to gaps in the stage record.
+CATCHMENT,
+Qmed Suitability,Well calibrated to QMED.
+Pooling Suitability,Simple extrapolation of the rating above highest gauging, but higher floods thought to be contained.
+[END]

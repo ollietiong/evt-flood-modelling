@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27087
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Low Marishes
+NOMINAL AREA,  475.94
+NOMINAL NGR,4832,4774
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,483300,477400
+CENTROID NGR,GB,493361,484722
+DTM AREA,  475.94
+ALTBAR, 101
+ASPBAR,182
+ASPVAR,0.14
+BFIHOST,0.684
+DPLBAR, 24.16
+DPSBAR, 67.3
+FARL,0.996
+FPEXT,0.1876
+LDP, 55.68
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 33.2
+RMED-2D, 42.9
+SAAR, 741
+SAAR4170, 751
+SPRHOST,25.95
+URBCONC1990, 0.575
+URBEXT1990,0.0106
+URBLOC1990, 0.905
+URBCONC2000, 0.744
+URBEXT2000,0.0100
+URBLOC2000, 0.983
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Electromagnetic gauge replaced with ultrasonic in low gradient channel, affected by backwater from Rye confluence downstream (can even flow backwards at high flows) and diversion of high flows out of upper catchment via Sea Cut. GENERAL: Electromagnetic gauge in trapezoidal section with vertical abutments above, 13.5m wide at top water level, provides full range flow measurement. Station was replaced with an ultrasonic gauging station in June 2022. STATION HYDROMETRY: Electromagnetic gauge with overhead coil set across old railway bridge abutments. Section has a trapezoidal channel, 8m wide at bed and 13.5m wide at top, with vertical brick abutments above. Weedgrowth in section does not affect the gauge. Confluence with Rye 2.7km d/s leads to significant backwater and can cause flow reversal in flood as Rye peaks earlier than Derwent. Diversion of flood flows from upper catchment via Sea Cut. Early problems with siltation of tapping pipe largely resolved by installation of new pipe at higher level but have occasionally reoccurred. Cableway allows check gauging to high level, 2 highest gaugings around 20% above flow recorded by the gauge but other gaugings are more consistent. No stable stage-discharge relation is possible due to variable backwater, direct flow measured by the gauge is used throughout the range. FLOW RECORD: Flow regularly drops to zero ahead of the peak during flood events, thought to be due to higher flow inputs from the Rye pushing back up into the Derwent; the gauge cannot record negative flow and flat lines at zero; peak flows on the Derwent likely to be a combination of catchment runoff and water from the Rye draining back out of storage, the majority of AMAX events affected in this way. Station added to peak flows dataset in September 2022 (WINFAP Files v11). FLOW REGIME: Strong baseflow influence on the flow regime; largely natural regime but some losses from spray irrigation in summer and Sea Cut diversion reduces the contributing catchment area by 20% at high flows (measured at 27033).
+CATCHMENT,The catchment drains the eastern part of the North York Moors. Geology: mostly permeable Oolite and Corallian formations, superficial deposits (lacustrine clays) in low-lying areas in south. Largely rural with moorland and wooded headwaters, predominantly arable in lower reaches. No known catchment changes.
+Qmed Suitability,Full range EM station capable of measuring QMED accurately. However, flow from 20% of catchment is diverted into Sea Cut at high flow and the confluence with the river Rye downstream causes water to push back upstream into the Derwent during flood events, resulting in zero or negative flows. Caution is advised if using for QMED adjustment.
+Pooling Suitability,Station measures full range of flows and checked close to max recorded flow. However see QMED comment regarding flow diversion and zero/negative flows due to backwater from the Rye. For this reason it is not considered representative of the catchment descriptors and not suitable for pooling.
+[END]

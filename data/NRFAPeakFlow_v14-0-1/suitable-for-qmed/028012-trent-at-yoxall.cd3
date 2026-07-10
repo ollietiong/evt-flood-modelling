@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28012
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Yoxall
+NOMINAL AREA, 1206.60
+NOMINAL NGR,4132,3177
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,413200,317700
+CENTROID NGR,GB,392747,326331
+DTM AREA, 1206.60
+ALTBAR, 129
+ASPBAR,177
+ASPVAR,0.07
+BFIHOST,0.520
+DPLBAR, 41.35
+DPSBAR, 41.7
+FARL,0.951
+FPEXT,0.1145
+LDP, 72.87
+PROPWET,0.35
+RMED-1H, 10.5
+RMED-1D, 31.2
+RMED-2D, 38.9
+SAAR, 746
+SAAR4170, 761
+SPRHOST,33.98
+URBCONC1990, 0.773
+URBEXT1990,0.0650
+URBLOC1990, 1.226
+URBCONC2000, 0.863
+URBEXT2000,0.0812
+URBLOC2000, 1.224
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic gauge on the upper Trent, previously an electromagnetic and velocity area station. GENERAL: Two velocity-area sites were used prior to December 1994. The first (just d/s of bridge) opened 1959 and closed after river re-grading in 1976, the second and current site (50 m d/s of original site) began in 1974. Replaced with an electromagnetic gauge in December 1994. Following failure of the electromagnetic gauge, an ultrasonic gauge was installed in 2011. Located just downstream of a major road bridge and a smaller single track arched bridge. STATION HYDROMETRY: Severe weed growth requires summer rating adjustments. Cableway measured in-channel flows (some eddying below bridge, can cause reversal of flows at cableway). Cableway bypassed by highest flows. Multiple ratings applied across period of record, revised in 2016 and 2024. Many gaugings, but wide scatter as a result of weed growth in summer. Current rating is a better fit to out of bank flows, but is not applied to earlier record. FLOW RECORD: Training bank built on the right banks in 1986 prevents out-of-bank flows re-joining river just upstream of gauging station. Large floods can still spill out-of-bank upstream of the training banks on the right bank, and bypass the station, flowing through two flood relief culverts under the road. Peak flows rejected as unrepresentative of the catchment from 1980-1987 because interpolation of flow data did not providing accurate representation of on-site conditions. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Significant modification to flows including reservoir(s) in catchment and regulation from surface water and/or ground water. Runoff is influenced by groundwater abstraction/recharge and effluent returns, and is reduced by industrial/agricultural/public water supply abstraction.
+CATCHMENT,Large diverse catchment with Coal Measures in the headwaters and Triassic Mudstone and Permain and Triassic Sandstones elsewhere. Approx 30% Boulder Clay and Till deposits with large gravel terraces providing storage alongside the main river. Mixed farming, sand and gravel extraction, industrial development.
+Qmed Suitability,Gauged to QMED, although with scatter providing some uncertainty.
+Pooling Suitability,Uncertainty in out of bank flows pre-1986.
+[END]

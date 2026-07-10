@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NY9055573231" x="390555" y="573231">
+        <CatchmentCentroid grid="GB" ngr="NY7708089424" x="377080" y="589424"/>
+        <area>1012.975</area>
+        <altbar>278.0</altbar>
+        <aspbar>125.0</aspbar>
+        <aspvar>0.14</aspvar>
+        <bfihost>0.31</bfihost>
+        <bfihost19>0.334</bfihost19>
+        <bfihost19scaled>0.32</bfihost19scaled>
+        <dplbar>37.97</dplbar>
+        <dpsbar>92.3</dpsbar>
+        <draindens>1.281</draindens>
+        <farl>0.991</farl>
+        <farl2015>0.9762</farl2015>
+        <fpext>0.0471</fpext>
+        <fpdbar>0.666</fpdbar>
+        <fploc>0.764</fploc>
+        <ihdtmeasting>390550</ihdtmeasting>
+        <ihdtmnorthing>573200</ihdtmnorthing>
+        <ldp>66.25</ldp>
+        <propwet>0.5</propwet>
+        <rmed_1h>9.8</rmed_1h>
+        <rmed_1d>34.7</rmed_1d>
+        <rmed_2d>46.3</rmed_2d>
+        <saar>1023.0</saar>
+        <saar4170>1091.0</saar4170>
+        <saar9120>1184</saar9120>
+        <sprhost>50.69</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>5.0E-4</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>5.0E-4</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0015</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NY9055573231" x="390555" y="573231">
+        <c>-0.02089</c>
+        <d1>0.37835</d1>
+        <d2>0.46021</d2>
+        <d3>0.31831</d3>
+        <e>0.2726</e>
+        <f>2.35698</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NY910730" x="391000" y="573000">
+        <c_1_km>-0.023</c_1_km>
+        <d1_1_km>0.379</d1_1_km>
+        <d2_1_km>0.409</d2_1_km>
+        <d3_1_km>0.292</d3_1_km>
+        <e_1_km>0.278</e_1_km>
+        <f_1_km>2.254</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3, 3.5, 4.3, 5.5, 6.4, 7.3, 8.3, 9.4, 10.6, 12.1, 13.5, 15.3, 17.2, 19.1, 20.9, 22.7, 24.5, 26.3, 27.8, 29.4, 31</Depths>
+        <Depths duration="0.25">4.4, 5.4, 6.3, 7.8, 10.1, 11.8, 13.7, 15.7, 18, 20.5, 23.6, 26.8, 30.6, 34.6, 39, 43, 47.3, 51.7, 55.9, 59.9, 64.1, 68.2</Depths>
+        <Depths duration="0.5">6, 7.3, 8.5, 10.6, 13.7, 16.1, 18.9, 21.7, 25, 28.7, 33.2, 38, 43.7, 49.8, 56.2, 62.5, 69.2, 76, 82.8, 89, 96, 102.7</Depths>
+        <Depths duration="0.75">7, 8.5, 10, 12.5, 16.2, 19, 22.3, 25.7, 29.7, 34.3, 39.7, 45.6, 52.6, 60, 68, 75.7, 84.1, 92.5, 101.1, 109.1, 117.8, 126.5</Depths>
+        <Depths duration="1">7.8, 9.5, 11.2, 13.9, 18.1, 21.2, 25, 28.8, 33.4, 38.6, 44.8, 51.4, 59.4, 67.9, 77.1, 85.9, 95.6, 105.3, 115.2, 124.5, 134.7, 144.8</Depths>
+        <Depths duration="2">11.6, 13.6, 15.5, 18.5, 23.2, 26.7, 31, 35.4, 40.7, 46.9, 54.1, 61.5, 70.3, 79.5, 89, 98, 108, 118, 128.1, 137.6, 148, 158.2</Depths>
+        <Depths duration="4">16.5, 18.7, 20.9, 24.3, 29.6, 33.6, 38.5, 43.5, 49.8, 56.9, 65, 73.2, 82.6, 92.2, 102.1, 111.5, 121.8, 132, 142.4, 152.1, 162.7, 173.1</Depths>
+        <Depths duration="6">19.9, 22.3, 24.7, 28.3, 34, 38.3, 43.6, 49.1, 55.9, 63.6, 72.2, 80.8, 90.6, 100.5, 110.7, 120.2, 130.7, 141.1, 151.7, 161.6, 172.4, 183</Depths>
+        <Depths duration="12">26.8, 29.5, 32.3, 36.4, 42.9, 47.9, 54, 60.4, 68.2, 76.8, 86.4, 95.7, 106.1, 116.6, 127.4, 137.4, 148.4, 159.3, 170.4, 180.7, 191.9, 203</Depths>
+        <Depths duration="18">31.4, 34.4, 37.4, 41.8, 48.9, 54.3, 61, 68, 76.6, 85.9, 96, 105.9, 116.8, 127.8, 139, 149.4, 160.9, 172.2, 183.7, 194.3, 206, 217.4</Depths>
+        <Depths duration="24">34.9, 38.1, 41.2, 46, 53.6, 59.4, 66.6, 74.1, 83.2, 93.1, 103.8, 114, 125.5, 136.8, 148.4, 159.3, 171.1, 182.8, 194.7, 205.7, 217.8, 229.6</Depths>
+        <Depths duration="48">44.5, 48.3, 52.1, 57.7, 66.8, 73.9, 82.7, 91.7, 102.6, 114.2, 126.5, 138.3, 151.2, 164, 177.1, 189.2, 202.5, 215.6, 228.9, 241.2, 254.6, 267.7</Depths>
+        <Depths duration="96">57.8, 62.4, 67.1, 74.2, 85.8, 94.8, 106.1, 117.6, 131.3, 145.7, 160.7, 174.9, 190.6, 206, 221.7, 236.2, 252.1, 267.8, 283.6, 298.3, 314.3, 330</Depths>
+        <Depths duration="192">79.9, 86.1, 92.4, 102.1, 118.1, 130.5, 146.1, 161.9, 180.4, 199.6, 219.6, 238.4, 259, 279.4, 300.1, 319.4, 340.4, 360.9, 381.7, 401, 422.1, 442.8</Depths>
+        <Depths duration="240">90.4, 97.5, 104.6, 115.5, 133.6, 147.6, 165.2, 183, 203.8, 225.3, 247.7, 268.8, 291.9, 314.7, 338, 359.6, 383, 406, 429.3, 451, 474.5, 497.7</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.7, 3.3, 3.8, 4.6, 5.9, 6.8, 7.7, 8.6, 9.5, 10.4, 11.3, 12.2, 13.4, 14.7, 16.1, 17.6, 19.2, 20.9, 22.6, 24.1, 25.7, 27.3</Depths>
+        <Depths duration="0.25">4.9, 5.9, 6.9, 8.4, 10.8, 12.5, 14.4, 16.2, 18.1, 20, 22.2, 24.3, 26.8, 29.6, 32.9, 36.2, 40, 44.1, 48.1, 51.9, 56, 60.1</Depths>
+        <Depths duration="0.5">6.6, 7.9, 9.2, 11.4, 14.7, 17, 19.8, 22.3, 25.1, 28.1, 31.2, 34.5, 38.3, 42.6, 47.4, 52.7, 58.5, 64.8, 71.3, 77.2, 83.9, 90.5</Depths>
+        <Depths duration="0.75">7.7, 9.3, 10.9, 13.5, 17.4, 20.1, 23.4, 26.5, 29.9, 33.5, 37.3, 41.3, 46.1, 51.3, 57.4, 63.8, 71.1, 78.9, 87.1, 94.7, 103, 111.4</Depths>
+        <Depths duration="1">8.6, 10.4, 12.2, 15, 19.4, 22.5, 26.2, 29.7, 33.6, 37.7, 42.1, 46.6, 52.1, 58.1, 65.1, 72.4, 80.9, 89.8, 99.2, 108, 117.8, 127.5</Depths>
+        <Depths duration="2">12.5, 14.6, 16.6, 19.6, 24.4, 27.8, 31.8, 35.6, 39.9, 44.4, 49.5, 54.7, 61.1, 68.2, 76.3, 84.4, 93.6, 103, 112.7, 121.9, 131.9, 141.8</Depths>
+        <Depths duration="4">17.4, 19.7, 22, 25.4, 30.6, 34.4, 38.8, 43, 47.9, 53.1, 59, 65.3, 72.9, 81.2, 90.4, 99.2, 109, 118.9, 129, 138.4, 148.7, 158.9</Depths>
+        <Depths duration="6">20.8, 23.3, 25.7, 29.4, 35, 39, 43.7, 48.3, 53.6, 59.4, 66.1, 73.1, 81.6, 90.7, 100.4, 109.6, 119.8, 130, 140.3, 150, 160.6, 171</Depths>
+        <Depths duration="12">27.6, 30.4, 33.2, 37.3, 43.8, 48.4, 54, 59.5, 66.1, 73.5, 81.9, 90.6, 100.7, 111, 121.7, 131.7, 142.6, 153.4, 164.4, 174.6, 185.7, 196.6</Depths>
+        <Depths duration="18">32.1, 35.2, 38.2, 42.8, 49.8, 55, 61.4, 67.7, 75.6, 84.3, 94.1, 103.8, 114.8, 125.9, 137.2, 147.7, 159.2, 170.4, 181.9, 192.5, 204, 215.3</Depths>
+        <Depths duration="24">35.6, 38.9, 42.2, 47, 54.7, 60.4, 67.5, 74.7, 83.6, 93.4, 104.3, 114.8, 126.5, 138, 149.8, 160.8, 172.7, 184.4, 196.2, 207.2, 219.1, 230.8</Depths>
+        <Depths duration="48">45.5, 49.4, 53.4, 59.4, 69.2, 76.7, 86.3, 96.3, 108.3, 120.9, 134, 146.3, 159.7, 172.7, 186, 198.1, 211.3, 224.2, 237.3, 249.3, 262.4, 275.2</Depths>
+        <Depths duration="96">59.4, 64.5, 69.6, 77.4, 90.4, 100.6, 113.6, 126.9, 142.2, 157.6, 173.4, 187.9, 203.5, 218.8, 234.1, 248.2, 263.4, 278.3, 293.3, 307.1, 322, 336.7</Depths>
+        <Depths duration="192">82.8, 89.7, 96.6, 107.2, 124.7, 138.3, 155.2, 172, 191.2, 210.3, 229.8, 247.7, 267, 285.8, 304.8, 322.1, 340.9, 359.1, 377.5, 394.4, 412.8, 430.7</Depths>
+        <Depths duration="240">93.9, 101.6, 109.3, 121.1, 140.5, 155.4, 173.8, 192, 212.7, 233.5, 254.6, 274.1, 295.2, 315.6, 336.3, 355.2, 375.6, 395.4, 415.4, 433.8, 453.8, 473.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Reaverhill" name="North Tyne" number="23003">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station, replaced 23015. Flow regime influenced by Kielder reservoir.</Comment>
+            <Comment type="Hydrometric">Velocity area station with natural channel control, some out of bank flow in very big events but no by-passing. Subject to regulation from Kielder reservoir since 1980. Ratings fitted to current meter gaugings at on site cableway, gauged to within 30% of AMAX1, some spread in gaugings but generally good fit and extrapolation is reasonable. Flood Studies Report grade A1. Three ratings applied over period of record.</Comment>
+            <Comment type="General">Velocity area station (63m wide at bank full) with natural channel control on a straight, stable reach with a stony bed. Replaced earlier station at Barrasford (23015) which was unreliable.</Comment>
+            <Comment type="Flow record">Post-reservoir data marked as rejected. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11).</Comment>
+            <Comment type="Flow regime">Kielder Reservoir impounds approximately 24 per cent of the catchment to Reaverhill, flow regime is impacted by regulation releases to support downstream abstractions in dry weather and by regular releases of between 3 and 16 cumecs for hydropower generation. Hydropower releases have little influence on high flows, however reservoir does have a significant impact on flood flows due to drawdown and attenuation. Catcleugh Reservoir also in the catchment, impounds 40 km2 in the headwaters of the Rede catchment with some net export of water from here to support Colt Crag and Hallington reservoirs.</Comment>
+            <Comment type="Catchment">A very responsive upland catchment. Developed mainly on formations of the Carboniferous series (Fell Sandstone, Scremerston Group and Lower Limestone), around half of the catchment is overlain by Boulder Clay and peat in the headwaters. A predominantly natural regime until construction of Kielder reservoir (impounded 1982) which controls 24% of top of North Tyne catchment. Land use is rugged moorland and upland pasture, with significant afforestation in the west of the catchment since 1926. Pre-reservoir FARL2015 (for WINFAP 5.3 or later) or FARL (for earlier versions of WINFAP) should be used with these records because the peak flow data after the reservoir started impounding is rejected. Pre- and post-reservoir values for FARL2015 are 0.9762 and 0.9161, respectively. Pre- and post-reservoir values for FARL are 0.991 and 0.936, respectively.</Comment>
+            <Comment type="Factors affecting runoff">S</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged above QMED. The hydraulic properties of the channel are not expected to change significantly above bank full." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

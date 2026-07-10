@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23009
+[END]
+[CDS DETAILS]
+NAME,South Tyne
+LOCATION,Alston
+NOMINAL AREA,  118.68
+NOMINAL NGR,3715,5465
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,371550,546550
+CENTROID NGR,GB,371823,540060
+DTM AREA,  118.68
+ALTBAR, 514
+ASPBAR,  5
+ASPVAR,0.25
+BFIHOST,0.266
+DPLBAR, 10.14
+DPSBAR,119.0
+FARL,0.999
+FPEXT,0.0252
+LDP, 16.54
+PROPWET,0.64
+RMED-1H, 11.0
+RMED-1D, 45.0
+RMED-2D, 61.2
+SAAR,1522
+SAAR4170,1708
+SPRHOST,53.70
+URBEXT1990,0.0006
+URBEXT2000,0.0013
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat V weir in a Pennine catchment with a responsive, natural regime. GENERAL: Velocity area station with informal flat V control, subject to periodic boulder damage and undergone several reconstructions. All flow contained. Maintained as chart only for period 1983-1992. Cableway removed in 1980. STATION HYDROMETRY: Velocity area station, originally open channel section, an informal flat V control built April 1971 and rebuilt Autumn 1978 following boulder damage. Weir repaired again in 2001. Multi-path ultrasonic gauge installed 1999 to support rating development, ultrasonic can be unreliable at high flows and was deactivated in November 2021. Several ratings applied to daily flow data throughout 1970s, based on current meter gaugings. Two ratings applied to peak flows, latest is from November 1984. Significant extrapolation above highest check gauging but rating supported by ultrasonic data and appears stable. FLOW RECORD: Weir is prone to damage from boulders during high flows, leading to frequent repairs and changes of rating during 1970s and 80s. Period of unreliable data 1983-1992, chart maintained through this period but levels not digitised or processed for flow. Rating reviewed in 2019 and records reprocessed from 1992. Rating reviewed in 2022 and records reprocessed from 2018. Water year 1991/1992 peak flows rejected as partial water year missed AMAX due to missing data. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Very responsive, natural regime. No known artificial influences.
+CATCHMENT,Steep Pennine moorland catchment developed on Middle and Upper Carboniferous Limestone and Millstone Grit. Land use is predominantly rough grazing. No known catchment changes.
+Qmed Suitability,Only gauged to 60% of QMED but channel is regular in shape and remains in bank at QMED, rating extrapolation should be reasonable.
+Pooling Suitability,Only gauged to around 30% of AMAX3 and out of bank flows are unchecked.
+[END]

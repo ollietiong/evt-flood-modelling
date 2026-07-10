@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NO0978889522" x="309788" y="789522">
+        <CatchmentCentroid grid="GB" ngr="NO0132989774" x="301329" y="789774"/>
+        <area>291.995</area>
+        <altbar>682.0</altbar>
+        <aspbar>116.0</aspbar>
+        <aspvar>0.09</aspvar>
+        <bfihost>0.4</bfihost>
+        <bfihost19>0.357</bfihost19>
+        <bfihost19scaled>0.357</bfihost19scaled>
+        <dplbar>15.26</dplbar>
+        <dpsbar>235.2</dpsbar>
+        <draindens>1.091</draindens>
+        <farl>0.989</farl>
+        <farl2015>1.0</farl2015>
+        <fpext>0.0331</fpext>
+        <fpdbar>0.502</fpdbar>
+        <fploc>0.832</fploc>
+        <ihdtmeasting>309800</ihdtmeasting>
+        <ihdtmnorthing>789550</ihdtmnorthing>
+        <ldp>28.82</ldp>
+        <propwet>0.69</propwet>
+        <rmed_1h>9.1</rmed_1h>
+        <rmed_1d>42.0</rmed_1d>
+        <rmed_2d>60.5</rmed_2d>
+        <saar>1334.0</saar>
+        <saar4170>1492.0</saar4170>
+        <saar9120>1566</saar9120>
+        <sprhost>50.1</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>1.0E-4</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NO0978889522" x="309788" y="789522">
+        <c>-0.0204</c>
+        <d1>0.48103</d1>
+        <d2>0.52429</d2>
+        <d3>0.3715</d3>
+        <e>0.25394</e>
+        <f>2.29532</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NO100900" x="310000" y="790000">
+        <c_1_km>-0.022</c_1_km>
+        <d1_1_km>0.474</d1_1_km>
+        <d2_1_km>0.509</d2_1_km>
+        <d3_1_km>0.366</d3_1_km>
+        <e_1_km>0.259</e_1_km>
+        <f_1_km>2.12</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.1, 2.6, 3.2, 4.2, 5.6, 6.7, 7.8, 8.9, 10.1, 11.2, 12.3, 13.4, 14.6, 15.5, 16.7, 17.7, 18.7, 19.8, 20.8, 21.8, 22.8, 23.8</Depths>
+        <Depths duration="0.25">3.8, 5, 6.2, 8.2, 11.1, 13.2, 15.8, 18, 20.7, 23.1, 25.8, 28.2, 30.9, 33.4, 36.3, 38.6, 41.5, 44.2, 47.1, 49.7, 52.6, 55.5</Depths>
+        <Depths duration="0.5">5.5, 7.1, 8.9, 11.6, 16, 19.1, 22.8, 26.2, 30, 33.7, 37.8, 41.5, 45.6, 49.6, 53.9, 57.8, 62.2, 66.6, 71.2, 75.5, 80.3, 84.9</Depths>
+        <Depths duration="0.75">6.6, 8.6, 10.7, 14.1, 19.4, 23.3, 27.7, 31.8, 36.4, 41.1, 45.9, 50.5, 55.4, 60.4, 65.5, 70.3, 75.7, 81.1, 86.7, 91.8, 97.6, 103.4</Depths>
+        <Depths duration="1">7.6, 9.9, 12.3, 16.1, 22.1, 26.5, 31.5, 36.2, 41.5, 46.7, 52.1, 57.1, 62.7, 68.2, 74, 79.3, 85.3, 91.2, 97.3, 103, 109.4, 115.7</Depths>
+        <Depths duration="2">12.2, 14.9, 17.6, 21.8, 28.3, 33, 38.4, 43.4, 48.9, 54.3, 59.9, 65.2, 71, 76.8, 82.8, 88.5, 94.7, 100.9, 107.2, 113.3, 119.9, 126.6</Depths>
+        <Depths duration="4">18, 21, 24.1, 28.7, 35.8, 40.9, 46.6, 52, 57.8, 63.7, 69.6, 75.3, 81.5, 87.8, 94.2, 100.3, 107, 113.8, 120.7, 127.3, 134.6, 141.9</Depths>
+        <Depths duration="6">22.1, 25.4, 28.7, 33.6, 41.1, 46.4, 52.5, 58.1, 64.3, 70.4, 76.7, 82.7, 89.3, 95.9, 102.8, 109.3, 116.5, 123.7, 131.2, 138.2, 145.9, 153.6</Depths>
+        <Depths duration="12">30.7, 34.6, 38.3, 43.8, 52.3, 58.3, 65.2, 71.6, 78.6, 85.6, 92.8, 99.6, 107.2, 114.9, 122.8, 130.2, 138.5, 146.6, 155, 162.8, 171.4, 179.8</Depths>
+        <Depths duration="18">36.9, 41, 45, 51.1, 60.5, 67.1, 74.6, 81.6, 89.4, 97.2, 105.3, 112.9, 121.4, 129.8, 138.5, 146.5, 155.4, 164.2, 173.1, 181.4, 190.4, 199.2</Depths>
+        <Depths duration="24">41.7, 46.2, 50.5, 57, 67.1, 74.2, 82.4, 90.1, 98.6, 107.1, 115.9, 124.2, 133.3, 142.4, 151.6, 160.2, 169.5, 178.7, 188, 196.6, 206, 215.1</Depths>
+        <Depths duration="48">56.2, 61.5, 66.8, 74.9, 87.4, 96.3, 106.5, 116.2, 126.9, 137.5, 148.3, 158.4, 169.3, 180, 190.8, 200.7, 211.3, 221.6, 232, 241.6, 251.9, 262</Depths>
+        <Depths duration="96">75.5, 82.1, 88.8, 99.1, 115.5, 127.3, 141, 153.7, 167.3, 180.5, 193.6, 205.7, 218.6, 231.2, 243.9, 255.4, 267.8, 279.6, 291.4, 302.2, 313.8, 325.1</Depths>
+        <Depths duration="192">105.6, 114.7, 124.1, 138.6, 162.1, 179, 198.1, 215.2, 233, 249.8, 266.4, 281.3, 297.2, 312.5, 327.7, 341.5, 356.3, 370.5, 384.8, 397.8, 411.9, 425.6</Depths>
+        <Depths duration="240">119.8, 130.2, 140.9, 157.8, 185, 204.4, 226, 245.1, 264.8, 283.3, 301.4, 317.7, 335, 351.6, 368.1, 383.1, 399.1, 414.5, 430, 444.1, 459.3, 474.1</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.3, 2.8, 3.2, 4, 5, 5.9, 6.8, 7.6, 8.6, 9.6, 10.6, 11.8, 13, 14.1, 15.5, 16.7, 18, 19.3, 20.6, 21.9, 23.1, 24.4</Depths>
+        <Depths duration="0.25">4.3, 5.2, 6.2, 7.7, 10, 11.6, 13.7, 15.4, 17.6, 19.8, 22.3, 24.7, 27.5, 30.3, 33.6, 36.5, 39.9, 43.2, 46.7, 49.9, 53.4, 56.9</Depths>
+        <Depths duration="0.5">6.1, 7.5, 8.9, 10.9, 14.3, 16.7, 19.7, 22.4, 25.6, 28.9, 32.7, 36.4, 40.6, 45, 50, 54.6, 59.9, 65.1, 70.7, 75.8, 81.5, 87.1</Depths>
+        <Depths duration="0.75">7.4, 9.1, 10.7, 13.3, 17.3, 20.4, 23.9, 27.2, 31.1, 35.2, 39.7, 44.3, 49.4, 54.9, 60.7, 66.4, 72.8, 79.3, 86.1, 92.2, 99.1, 106</Depths>
+        <Depths duration="1">8.5, 10.4, 12.3, 15.2, 19.8, 23.2, 27.2, 31, 35.4, 40, 45.1, 50.1, 55.9, 62, 68.6, 74.9, 82.1, 89.2, 96.6, 103.5, 111.1, 118.6</Depths>
+        <Depths duration="2">12.7, 14.9, 17, 20.3, 25.5, 29.3, 33.7, 38.1, 43.1, 48.4, 54.3, 60.1, 66.8, 73.7, 80.9, 87.8, 95.4, 103, 110.8, 118.1, 126, 133.8</Depths>
+        <Depths duration="4">18.3, 20.7, 23.2, 26.9, 32.8, 37.1, 42.3, 47.4, 53.3, 59.6, 66.5, 73.2, 80.8, 88.6, 96.6, 104.1, 112.3, 120.4, 128.6, 136.3, 144.6, 152.8</Depths>
+        <Depths duration="6">22.3, 25, 27.7, 31.7, 38.1, 42.8, 48.4, 54, 60.6, 67.5, 75.1, 82.4, 90.6, 98.8, 107.2, 115.1, 123.6, 132, 140.6, 148.5, 157.1, 165.5</Depths>
+        <Depths duration="12">30.9, 34, 37.2, 41.8, 49.1, 54.6, 61.1, 67.7, 75.4, 83.5, 92.2, 100.5, 109.6, 118.7, 127.9, 136.4, 145.6, 154.6, 163.7, 172.1, 181.2, 190.1</Depths>
+        <Depths duration="18">37.1, 40.5, 43.9, 48.9, 56.9, 62.8, 70, 77.1, 85.6, 94.5, 103.8, 112.7, 122.4, 132, 141.7, 150.6, 160.3, 169.7, 179.3, 188.1, 197.6, 207</Depths>
+        <Depths duration="24">42, 45.6, 49.2, 54.6, 63, 69.3, 77, 84.7, 93.7, 103.2, 113.2, 122.5, 132.7, 142.7, 152.9, 162.2, 172.3, 182.2, 192.2, 201.3, 211.3, 221.1</Depths>
+        <Depths duration="48">56.1, 60.5, 64.8, 71.2, 81.5, 89.2, 98.6, 108, 119, 130.3, 142, 153, 164.8, 176.4, 188.1, 198.9, 210.5, 221.7, 233, 243.4, 254.7, 265.8</Depths>
+        <Depths duration="96">75.4, 81, 86.6, 95.1, 109.2, 120.1, 133.6, 147.1, 162.4, 177.4, 192.6, 206.5, 221.3, 235.8, 250.2, 263.4, 277.7, 291.7, 305.7, 318.6, 332.6, 346.2</Depths>
+        <Depths duration="192">106.5, 114.9, 123.8, 138.5, 165.1, 185.9, 210.1, 232.5, 256, 278.3, 300.1, 319.7, 340.6, 360.6, 380.6, 398.8, 418.4, 437.4, 456.5, 474.1, 493.1, 511.7</Depths>
+        <Depths duration="240">121.3, 131.6, 143, 162.7, 198.1, 224.5, 254.4, 281.1, 308.7, 334.5, 359.6, 382.2, 406.1, 429.1, 451.9, 472.8, 495.2, 516.9, 538.7, 558.8, 580.4, 601.6</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Mar Lodge" name="Dee" number="12007">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station, the highest on the Dee.</Comment>
+            <Comment type="Hydrometric">Cableway rated, unstable natural control. Prolonged cold spells cause a considerable drop in flow and on rare occasions ice formation on the control requires estimation of flow. River well contained, no bypassing. Rating derived from current meter gaugings up to 2.3m (about QMED), simple extrapolation beyond. No out of bank surveys have been undertaken at this site by either SEPA or any external contractors. However, recent work by consultants following flooding from Storm Frank (Dec 2015) has suggested modelling should be undertaken to account of out of bank flow at this site as some water bypassed the station flowing through trees on the left-hand bank on the Mar Lodge estate. This may have an impact on subsequent high flow rating reviews but as of 30/10/17 this information is not available. One peak flow rating applied up to 14/08/14, where the channel profile changed significantly during the remnants of hurricane Bertha. The rating is being re-calibrated and no peak flow estimates are currently available post 14/08/14.</Comment>
+            <Comment type="General">Velocity area station, about 45m wide. Highest gauging station on the Dee.</Comment>
+            <Comment type="Flow record">December 1989 flows estimated due to ice formation. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7).</Comment>
+            <Comment type="Flow regime">Natural regime.</Comment>
+            <Comment type="Catchment">Upland catchment with mountainous headwaters, often snowy in winter. Dalradian and Moinian metamorphic and granite mountains. Nearly half overlain by superficial deposits. Mountainous with moorland and some forestry. No significant catchment changes known. Catchment rainfall may be significantly underestimated.</Comment>
+            <Comment type="Factors affecting runoff">N</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="No comment." suitable="Yes" type="QMED"/>
+            <Usage notes="No comment." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-0.66</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 67009
+[END]
+[CDS DETAILS]
+NAME,Alyn
+LOCATION,Rhydymwyn
+NOMINAL AREA,   81.60
+NOMINAL NGR,3204,3667
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320400,366750
+DTM AREA,   81.60
+ALTBAR, 303
+ASPBAR, 38
+ASPVAR,0.12
+BFIHOST,0.615
+DPLBAR, 14.08
+DPSBAR,142.5
+FARL,0.990
+LDP, 27.08
+PROPWET,0.41
+RMED-1H, 10.0
+RMED-1D, 36.3
+RMED-2D, 47.6
+SAAR, 968
+SAAR4170, 959
+SPRHOST,27.71
+URBEXT1990,0.0016
+URBEXT2000,0.0016
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume in concrete trapezoidal channel. Substantial losses of river flow. GENERAL: Trapezoidal flume in concrete trapezoidal channel. Site constructed in 1939. Intermittent flow regime. STATION HYDROMETRY: Site is subject to rapid gravel accumulation, and so gravel is removed annually and after any mid-year high flow events. Gravel traps upstream of the flume. One peak flow rating applied across period of record. Rating valid from 0.05m stage. Rating shows good fit to gaugings up to 4.77m. Main level measurement is bridge mounted radar. Flow resumption subject to delay caused by float getting stuck in silt at the bottom of the stilling well. Bung added to inlet pipe to reduce data quality issues with shaft encoder. FLOW RECORD: Discharge frequently zero due to flow entering swallow holes in limestone upstream of site, hence rating only computes flows when stage exceeds 0.05m. Reprocessed flows for 2000-2008 loaded in 2012. Pre-1968 daily flows are very suspect, not held on the NRFA. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Swallow holes frequent between Maeshafn and Rhydymwyn; substantial losses of river flow through percolation to mine discharge tunnels. Flow is zero or near-zero approximately half of the time, with a marked difference between summer and winter flow duration curves.
+CATCHMENT,Impermeable Silurian rocks in W half, Carboniferous Limestone escarpment to E. Mainly grass pasture, extensive forest cover.
+Qmed Suitability,Gauged above QMED. QMED within bank and well gauged.
+Pooling Suitability,Gauged beyond AMAX3. Flow at AMAX3 remains in bank.
+[END]

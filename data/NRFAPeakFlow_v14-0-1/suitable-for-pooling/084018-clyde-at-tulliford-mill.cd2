@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 84018
+[END]
+[CDS DETAILS]
+NAME,Clyde
+LOCATION,Tulliford Mill
+NOMINAL AREA,  938.36
+NOMINAL NGR,2893,6403
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,289400,640300
+DTM AREA,  938.36
+ALTBAR, 330
+ASPBAR,  7
+ASPVAR,0.07
+BFIHOST,0.452
+DPLBAR, 42.73
+DPSBAR,126.2
+FARL,0.966
+LDP, 84.89
+PROPWET,0.61
+RMED-1H,  9.6
+RMED-1D, 38.5
+RMED-2D, 53.3
+SAAR,1205
+SAAR4170,1225
+SPRHOST,42.30
+URBEXT1990,0.0013
+URBEXT2000,0.0024
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Clyde. GENERAL: Velocity area station; approx. 60m wide. STATION HYDROMETRY: Natural open channel control. Weed growth at low flows affects the Clyde from May to September. Banks are likely overtopped during extreme events. A major rating shift is applied on 18/10/2011, Pre 18/10/2011, one flood segment is applied to various lower segments and is gauged up to 2.543m (measured flow of 372.4 cumecs) with simple extrapolation beyond. Post 18/10/2011, a new flood segment is applied to ratings, based on gaugings up to 2.230m (measured flow of 313.9 cumecs) with simple extrapolation beyond. The reason for the change in flood control is currently unknown and the rating change is based purely on gauging evidence. FLOW RECORD: Monthly naturalised flows available (1969-1974). Flows from Jan 1978 reprocessed in 2013. Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: Catchment includes a number of PWS gathering grounds from which the yield is exported.
+CATCHMENT,The catchment ranges in height from 180-800m. Mixed geology - ancient sedimentaries (ORS/Ordovician) dominate the headwaters; mostly igneous formations below. Substantial superficial deposits. About one third is cultivated, the remainder is hill grazing and moorland, with some forestry. No significant catchment changes known. Small reservoirs in headwaters.
+Qmed Suitability,No comment.
+Pooling Suitability,There are sufficient flood gaugings to inform confident flood estimation and warrant pooling status.
+[END]

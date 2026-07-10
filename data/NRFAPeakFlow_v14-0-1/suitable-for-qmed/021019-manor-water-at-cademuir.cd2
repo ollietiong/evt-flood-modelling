@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21019
+[END]
+[CDS DETAILS]
+NAME,Manor Water
+LOCATION,Cademuir
+NOMINAL AREA,   59.95
+NOMINAL NGR,3217,6368
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,321700,636900
+DTM AREA,   59.95
+ALTBAR, 458
+ASPBAR, 10
+ASPVAR,0.17
+BFIHOST,0.482
+DPLBAR,  7.69
+DPSBAR,273.0
+FARL,0.997
+LDP, 14.18
+PROPWET,0.72
+RMED-1H,  9.9
+RMED-1D, 40.6
+RMED-2D, 52.6
+SAAR,1344
+SAAR4170,1466
+SPRHOST,40.54
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on Manor Water. Water surface can freeze in winter. GENERAL: Velocity area station (section ~10m wide). STATION HYDROMETRY: Artificial control consisting of a flat concrete bar with stone pitched banks. The historic rating record suggests the weir was constructed on 30/06/69. If the station operated before this date, its assumed it was as a natural open channel control. The site is situated at end of straight reach with a bend just below a bar. Water surface can freeze in winter necessitating ice corrections. Bypassing occurs at higher flows on the lb. Peak flow rating derived from current meter gaugings up to 1.1m (about 0.8 QMED), with a simple extrapolation beyond. Since the 90s the site has only been gauged up to 0.6m/10cumecs. The channel suffers from bank erosion and upstream erosion is thought to have increased the amount of bypassing during large events. The increased channel instability was likely triggered by the large flood of 30/12/15, known as Storm Frank. The weir has also become badly eroded. Considering the bank/weir erosion and the lack of high gaugings, there is little confidence in flows above QMED. FLOW RECORD: Monthly naturalised flows available. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). No Peak Flow data after December 2015 following damage to station. No Daily Flow Data after September 2019 due to ongoing degradation of the weir. FLOW REGIME: Runoff is slightly diminished by an u/s abstraction (Langhaugh Intake). Very responsive catchment.
+CATCHMENT,Steep upland catchment developed on Silurian shale, some of which is overlain by superficial deposits. Land use mostly hill grazing; some forest. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,No gaugings near QMED since the 1990s and bank and weir erosion in recent years means low confidence in flow estimates above QMED.
+[END]

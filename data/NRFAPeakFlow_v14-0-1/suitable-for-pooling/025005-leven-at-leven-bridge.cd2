@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 25005
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Leven Bridge
+NOMINAL AREA,  194.15
+NOMINAL NGR,4444,5120
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444500,512100
+DTM AREA,  194.15
+ALTBAR, 126
+ASPBAR,300
+ASPVAR,0.23
+BFIHOST,0.381
+DPLBAR, 27.05
+DPSBAR, 75.9
+FARL,0.994
+LDP, 44.61
+PROPWET,0.34
+RMED-1H, 10.1
+RMED-1D, 33.3
+RMED-2D, 43.6
+SAAR, 726
+SAAR4170, 727
+SPRHOST,40.45
+URBCONC1990, 0.560
+URBEXT1990,0.0098
+URBLOC1990, 0.956
+URBCONC2000, 0.736
+URBEXT2000,0.0137
+URBLOC2000, 0.967
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir with bypass Crump weir. Station closed 2008 and replaced by 25029. GENERAL: A pre-existing two-stage compound broad-crested weir 17.4m wide, with a bypass Crump profile weir 4.6m wide, adapted for gauging in 1959. The site is badly silted u/s and difficult to maintain. Station closed in May 2008 and replaced by a new station 6km u/s (25029). STATION HYDROMETRY: Sharp bend and road bridge just u/s of weirs. Large drop downstream, therefore believed to be modular throughout range. Tidal effects are rare, water level at weir footings ponded to high tide level since 1995 by Tees Barrage. Some limited bypassing occurs via overspill on u/s bend. Suffered from siltation upstream of the weir which may have affected rating curve. Theoretical rating but lower limb amended to fit check gaugings. Gauged to almost QMED. One peak flow rating applies across period of record. FLOW RECORD: Bypassed once in 2000, but thought to be due to a bridge blockage; 2000 flood peak may consequently be unreliable, though capacity of weir and bridge calculated as 107 cumecs. Suspect daily flow data removed 04/08/2005 - 06/01/2006 during construction of fish pass. Original rating amended based on check gaugings, slight reduction in low flows, high flows unaffected. Rating only applied from 1982, earlier daily flows left unchanged. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Sensibly natural regime. No known artificial influences.
+CATCHMENT,Headwaters drain from the Cleveland Hills. Mixed geology of mostly Permian/Jurassic age, generally low permeability. Almost all the catchment is overlain by superficial deposits, mainly Boulder Clay. Mixed agriculture, with some moorland and forestry in headwaters, minor urban development in the lower valley. No known catchment changes.
+Qmed Suitability,Gauged to within 12% of QMED.
+Pooling Suitability,Although no gaugings beyond QMED, flows well contained by a modular control (almost) throughout the full range. Some by-pass on the right bank in the biggest flood events.
+[END]

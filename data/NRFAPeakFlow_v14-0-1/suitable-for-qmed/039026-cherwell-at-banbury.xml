@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SP4583241068" x="445832" y="241068">
+        <CatchmentCentroid grid="GB" ngr="SP4951549775" x="449515" y="249775"/>
+        <area>204.585</area>
+        <altbar>139.0</altbar>
+        <aspbar>159.0</aspbar>
+        <aspvar>0.11</aspvar>
+        <bfihost>0.41</bfihost>
+        <bfihost19>0.38</bfihost19>
+        <bfihost19scaled>0.378</bfihost19scaled>
+        <dplbar>16.91</dplbar>
+        <dpsbar>42.5</dpsbar>
+        <draindens>1.092</draindens>
+        <farl>0.95</farl>
+        <farl2015>0.9455</farl2015>
+        <fpext>0.1056</fpext>
+        <fpdbar>0.836</fpdbar>
+        <fploc>0.866</fploc>
+        <ihdtmeasting>445850</ihdtmeasting>
+        <ihdtmnorthing>241100</ihdtmnorthing>
+        <ldp>32.1</ldp>
+        <propwet>0.3</propwet>
+        <rmed_1h>11.4</rmed_1h>
+        <rmed_1d>33.8</rmed_1d>
+        <rmed_2d>41.9</rmed_2d>
+        <saar>664.0</saar>
+        <saar4170>700.0</saar4170>
+        <saar9120>716</saar9120>
+        <sprhost>42.78</sprhost>
+        <urbconc1990>0.548</urbconc1990>
+        <urbext1990>0.0132</urbext1990>
+        <urbloc1990>0.849</urbloc1990>
+        <urbconc2000>0.747</urbconc2000>
+        <urbext2000>0.0164</urbext2000>
+        <urbloc2000>0.603</urbloc2000>
+        <urbext2015>0.0232</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SP4583241068" x="445832" y="241068">
+        <c>-0.02499</c>
+        <d1>0.34867</d1>
+        <d2>0.34747</d2>
+        <d3>0.23122</d3>
+        <e>0.29642</e>
+        <f>2.51208</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SP460410" x="446000" y="241000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.32</d1_1_km>
+        <d2_1_km>0.328</d2_1_km>
+        <d3_1_km>0.245</d3_1_km>
+        <e_1_km>0.301</e_1_km>
+        <f_1_km>2.477</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.4, 4.2, 5.1, 6.3, 8.1, 9.6, 11.1, 12.5, 14.2, 15.8, 17.8, 19.7, 21.9, 24.2, 26.7, 28.9, 31.5, 33.8, 36.3, 38.5, 40.8, 42.9</Depths>
+        <Depths duration="0.25">5.7, 7, 8.4, 10.5, 13.9, 16.3, 19.1, 21.9, 25, 28.3, 32.1, 35.9, 40.4, 45.1, 50.3, 55.1, 60.5, 65.9, 71.4, 76.5, 81.9, 87.3</Depths>
+        <Depths duration="0.5">7.3, 9, 10.8, 13.3, 17.7, 20.9, 24.6, 28.2, 32.3, 36.8, 41.9, 47, 53.2, 59.7, 66.7, 73.4, 81, 88.5, 96.2, 103.4, 111.2, 118.9</Depths>
+        <Depths duration="0.75">8.3, 10.2, 12.1, 15.1, 20, 23.5, 27.9, 32, 36.9, 42, 47.9, 53.7, 60.8, 68.4, 76.5, 84.3, 93.1, 101.9, 110.9, 119.4, 128.6, 137.6</Depths>
+        <Depths duration="1">9, 11, 13.2, 16.4, 21.7, 25.6, 30.3, 34.8, 40.1, 45.7, 52.1, 58.5, 66.2, 74.5, 83.4, 92, 101.7, 111.3, 121.2, 130.5, 140.6, 150.6</Depths>
+        <Depths duration="2">12.9, 15.2, 17.6, 21.3, 27.2, 31.5, 36.7, 41.8, 47.9, 54.5, 61.9, 69.3, 78.1, 87.2, 96.9, 105.9, 115.9, 125.9, 136.1, 145.6, 156, 166.3</Depths>
+        <Depths duration="4">17.3, 20, 22.7, 26.8, 33.4, 38.3, 44.3, 50.3, 57.5, 65.2, 73.8, 82.4, 92.1, 102, 112.1, 121.6, 132, 142.4, 152.9, 162.7, 173.4, 184</Depths>
+        <Depths duration="6">20.1, 22.9, 25.8, 30.2, 37.4, 42.8, 49.4, 56, 64, 72.5, 81.7, 90.8, 101, 111.2, 121.6, 131.3, 142, 152.6, 163.4, 173.4, 184.3, 195</Depths>
+        <Depths duration="12">24.9, 28.2, 31.4, 36.5, 44.8, 51.1, 58.9, 66.7, 75.9, 85.5, 95.8, 105.6, 116.4, 127.1, 137.9, 148, 159, 170, 181.1, 191.4, 202.6, 213.6</Depths>
+        <Depths duration="18">27.9, 31.4, 34.9, 40.4, 49.4, 56.3, 64.7, 73, 82.8, 92.9, 103.5, 113.6, 124.7, 135.7, 146.8, 157.1, 168.3, 179.4, 190.6, 201.1, 212.5, 223.6</Depths>
+        <Depths duration="24">30, 33.6, 37.4, 43.2, 52.7, 59.9, 68.7, 77.3, 87.3, 97.6, 108.5, 118.7, 130, 141.1, 152.4, 162.8, 174.2, 185.3, 196.6, 207.2, 218.7, 229.9</Depths>
+        <Depths duration="48">35.7, 39.9, 44.2, 50.7, 61.1, 68.9, 78.2, 87.1, 97.4, 107.8, 118.8, 129.2, 140.6, 151.9, 163.4, 174.1, 185.7, 197, 208.5, 219.2, 230.8, 242.2</Depths>
+        <Depths duration="96">43.9, 48.8, 53.7, 60.9, 72.2, 80.2, 89.5, 98.3, 108.1, 118.1, 128.5, 138.3, 149.4, 160.4, 171.7, 182.3, 193.8, 205.2, 216.7, 227.4, 238.9, 250.3</Depths>
+        <Depths duration="192">58.2, 64.3, 70.3, 79, 92.1, 101.2, 111.4, 120.7, 130.7, 140.6, 150.7, 160, 170.2, 180.3, 190.6, 200.2, 210.7, 221.1, 231.8, 241.6, 252.4, 263</Depths>
+        <Depths duration="240">65.1, 71.9, 78.5, 88.1, 102.5, 112.4, 123.5, 133.6, 144.4, 155, 165.8, 175.7, 186.5, 197.1, 207.9, 217.9, 228.8, 239.5, 250.4, 260.4, 271.4, 282.1</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.2, 4, 4.7, 5.9, 7.5, 8.8, 10, 11.2, 12.5, 13.8, 15.2, 16.7, 18.4, 20.3, 22.4, 24.5, 26.9, 29.2, 31.6, 33.7, 35.9, 38</Depths>
+        <Depths duration="0.25">5.3, 6.6, 7.8, 9.8, 12.8, 14.9, 17.2, 19.5, 22, 24.7, 27.6, 30.5, 34.1, 37.9, 42.3, 46.7, 51.7, 56.9, 62.1, 67, 72.3, 77.4</Depths>
+        <Depths duration="0.5">6.8, 8.4, 10, 12.5, 16.3, 19.1, 22.1, 25.2, 28.5, 32.1, 36, 39.9, 44.8, 50.1, 56.1, 62.2, 69.2, 76.4, 83.7, 90.6, 98.1, 105.5</Depths>
+        <Depths duration="0.75">7.7, 9.5, 11.3, 14.1, 18.4, 21.5, 25.1, 28.6, 32.5, 36.6, 41.1, 45.6, 51.2, 57.4, 64.4, 71.4, 79.6, 88, 96.5, 104.5, 113.4, 122.1</Depths>
+        <Depths duration="1">8.4, 10.3, 12.3, 15.3, 20, 23.4, 27.3, 31.1, 35.3, 39.8, 44.7, 49.7, 55.8, 62.5, 70.2, 78, 86.9, 96.1, 105.5, 114.3, 124, 133.6</Depths>
+        <Depths duration="2">12.5, 14.7, 17, 20.4, 25.7, 29.5, 33.9, 38.1, 43, 48.3, 54.2, 60.3, 67.8, 76, 85, 93.7, 103.4, 113.1, 123, 132.3, 142.3, 152.3</Depths>
+        <Depths duration="4">17, 19.7, 22.2, 26.1, 32.1, 36.4, 41.5, 46.4, 52.3, 58.8, 66.3, 74, 83.3, 92.9, 103, 112.6, 123, 133.3, 143.7, 153.4, 163.9, 174.2</Depths>
+        <Depths duration="6">19.8, 22.6, 25.4, 29.5, 35.9, 40.6, 46.2, 51.8, 58.5, 66, 74.6, 83.4, 93.6, 103.9, 114.5, 124.5, 135.3, 145.9, 156.6, 166.6, 177.3, 187.9</Depths>
+        <Depths duration="12">24.3, 27.4, 30.5, 35.2, 42.5, 48, 54.6, 61.5, 70, 79.4, 89.8, 100, 111.3, 122.5, 133.8, 144.3, 155.7, 166.9, 178.1, 188.4, 199.6, 210.6</Depths>
+        <Depths duration="18">26.8, 30.2, 33.5, 38.5, 46.4, 52.3, 59.7, 67.3, 76.7, 86.9, 98.1, 108.8, 120.6, 132.1, 143.8, 154.6, 166.2, 177.6, 189.1, 199.7, 211.1, 222.3</Depths>
+        <Depths duration="24">28.7, 32.2, 35.7, 41, 49.3, 55.6, 63.4, 71.4, 81.2, 91.9, 103.4, 114.4, 126.4, 138.2, 150, 160.9, 172.7, 184.3, 195.9, 206.6, 218.2, 229.5</Depths>
+        <Depths duration="48">34, 38, 42, 48, 57.4, 64.3, 72.8, 81.3, 91.4, 102.2, 113.8, 125, 137.2, 149.3, 161.5, 172.7, 184.8, 196.6, 208.4, 219.3, 231.1, 242.6</Depths>
+        <Depths duration="96">42.2, 47.1, 51.9, 58.9, 69.6, 77.2, 86, 94.4, 103.9, 113.7, 124.3, 134.4, 145.8, 157.4, 169.2, 180.3, 192.4, 204.2, 216.2, 227.2, 239.1, 250.7</Depths>
+        <Depths duration="192">57.3, 63.7, 69.9, 78.8, 92.1, 101.2, 111.3, 120.5, 130.4, 140.1, 150, 159.1, 169.1, 179, 189.1, 198.6, 208.9, 219.2, 229.7, 239.5, 250.2, 260.8</Depths>
+        <Depths duration="240">64.7, 71.8, 78.7, 88.7, 103.5, 113.5, 124.6, 134.6, 145.3, 155.7, 166.2, 175.8, 186.3, 196.5, 206.9, 216.5, 226.9, 237.1, 247.4, 256.9, 267.3, 277.5</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Banbury" name="Cherwell" number="39026">
+        <Comments>
+            <Comment type="Station Summary">Asymmetrical compound Crump-type weir within a largely rural catchment that is influenced by abstraction, STWs and the Oxford canal.</Comment>
+            <Comment type="Hydrometric">Modular limit is approximately 22 cumecs (c. 1.1m). Rated by standard compound Crump weir equation using tail levels, pending non-standardisation. D/s tail level monitoring only introduced in 1992 but tail water levels fall below intake pipe (low to medium flows) so only applied at peak flows. Rating is fairly accurate up to modular limit (approx 1.1m). Peak flow flood forecasting rating available, thought to be more accurate than tail water corrections.</Comment>
+            <Comment type="General">Asymmetrical non-standard compound Crump-type weir (crest widths: 3.05m, 8.94m). U/s gradient 1:2; d/s gradient 1:3. Design and built dimensions differ so rating under review. The low flow weir is separated from the wider high flow weir by a vertical steel plate that is supported by metal struts fastened to the rb abutment.</Comment>
+            <Comment type="Flow record">April 1998 peak estimated at around 90 cumecs (but level exceeded structure-full by c. 1.5m). Flows above 30 cumecs should be treated with caution because of the impact of Banbury flood storage area. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).</Comment>
+            <Comment type="Flow regime">A relatively responsive regime but flows influenced by public water supply abstraction and STW. A large u/s abstraction (Grimsbury) can appreciably distort the low flow hydrograph. Sewage effluent also appreciable. Approx. 50 sq.km of the catchment drains directly to the Oxford Canal; some of this runoff returns (via an overfall weir) u/s of Banbury. The flood storage area at Banbury has a capacity of 3 million cubic metres and was completed in 2012. The two outlets are designed to hold the flow at about 2x18 = 36 cumecs until the spillway begins to operate.</Comment>
+            <Comment type="Catchment">A largely impermeable catchment mainly of Liassic formations. Mainly rural but with considerable urban development near the catchment outfall.</Comment>
+            <Comment type="Factors affecting runoff">P</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED. Rating is reasonably accurate up to a stage of around 1.1m." suitable="Yes" type="QMED"/>
+            <Usage notes="High flows are impacted by the flood storage scheme and non-modularity." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>0.44</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

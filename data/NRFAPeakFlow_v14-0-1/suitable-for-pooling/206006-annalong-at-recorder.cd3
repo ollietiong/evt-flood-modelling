@@ -1,0 +1,47 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+206006
+[END]
+[CDS DETAILS]
+NAME,Annalong
+LOCATION,Recorder
+NOMINAL AREA,   14.44
+NOMINAL NGR,3350,3231
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,334950,323100
+CENTROID NGR,Ireland,333904,325199
+DTM AREA,   14.44
+ALTBAR, 385
+ASPBAR,146
+ASPVAR,0.28
+BFIHOST,0.336
+DPLBAR,  3.44
+DPSBAR,270.8
+FARL,0.981
+FPEXT,0.0230
+LDP,  7.04
+PROPWET,0.53
+RMED-1H, 11.6
+RMED-1D, 61.4
+RMED-2D, 76.9
+SAAR,1704
+SAAR4170,1565
+SPRHOST,51.72
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station operated by Belfast City & District Water Commissioners opened in February 1895. GENERAL: Station composed of steel plate weir with end contractions and rectangular notch to accommodate low flows. Levels recorded from stilling pool transmitted to standpipe in which a float is connected to a clockwork recorder and flows registered on chart mounted on a cylindrical drum. Station opened in February 1895. Station decommissioned in 1943 when a tunnel upstream to the the Silent Valley reservoir was opened rendering the records no longer natural. STATION HYDROMETRY: Weir has been classified as good with an A2 grade given in the FSR. The rating for this station is not available but it is thought that the discharge measurements are probably theoretical. FLOW RECORD: Concerns regarding the accuracy of the weir were raised c.1900 and were found to be unfounded following investigation. FLOW REGIME: Upland, responsive and natural flow regime.
+CATCHMENT,The catchment lies within the quartzose granites of the Mourne Complex. The Annalong Valley has deep deposits of glacial silts, sands, gravels and boulders.
+Qmed Suitability,No information on rating or gaugings, flows provided by Belfast Water commissioners. Station was given an A2 rating in FSR, implying a high quality rating.
+Pooling Suitability,In the absence of any data relating to gaugings or containment of flows the station has been recommended for pooling given its representative growth curve.
+[END]

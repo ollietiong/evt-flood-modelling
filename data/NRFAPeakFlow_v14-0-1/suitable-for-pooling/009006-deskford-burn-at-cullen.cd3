@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  9006
+[END]
+[CDS DETAILS]
+NAME,Deskford Burn
+LOCATION,Cullen
+NOMINAL AREA,   47.13
+NOMINAL NGR,3504,8666
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,350400,866650
+CENTROID NGR,GB,350148,861899
+DTM AREA,   47.13
+ALTBAR, 141
+ASPBAR, 27
+ASPVAR,0.27
+BFIHOST,0.549
+DPLBAR,  7.98
+DPSBAR, 77.6
+FARL,0.996
+FPEXT,0.0309
+LDP, 15.12
+PROPWET,0.43
+RMED-1H,  8.0
+RMED-1D, 32.5
+RMED-2D, 44.3
+SAAR, 823
+SAAR4170, 827
+SPRHOST,33.00
+URBEXT1990,0.0015
+URBEXT2000,0.0003
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a coastal catchment in North Scotland. Some influence of abstraction. GENERAL: Representative site for Banff coastal streams. 8m wide section above old mill weir. Station added to peak flows dataset in September 2020 (WINFAP Files v9). STATION HYDROMETRY: The main control was an old mill weir, which has been significantly eroded after floods in 2009 and 2014. Two peak flow ratings are in place for before and after the 2014 flood. A cableway was installed during the station rebuild in 2014 and this allowed flood gauging at the station. The highest gauging was captured on 17/06/2016 at 1.568m, with a measured flow of 39.1 cumecs. There is some out of bank flow after around 1.4m. The weir was eroded during a flood in 2009 as the associated rating shift is currently applied from the flood of 04/09/2009. Although there was a larger flood on 02/11/2009. a single gauging in the intervening period on 08/10/2009 provides evidence that the erosion can indeed be attributed to the September flood. The station was moved to the right bank in 2014, with a logger installed in the new station on 16/04/2014. This was operated in tandem with the old station for three months. Not long after the new station was operational, it was established that the new ramp was set to a different datum in error. The stage and gauging record before 06/08/2014 08:30 were shifted up by 0.068m to tie in with the new gauge zero and avoid a datum shift. Note this is not standard practice for datum shifts. A DGPS survey of the new ramp gauge in 2017 found the gauge zero to be 7.368m AOD, which is 0.495m higher than the zero datum of the old staff gauge at 6.873m AOD. The difference between the old and new datums is greater than the 0.068m adjustment that was applied to the data pre 06/08/2014. This creates some uncertainty on the whether the correct adjustment was used to cancel out the datum shift in 2014. It is possible the 0.068m shift was deduced by comparing plots from the period when the two stations were run in tandem and not by survey. The accuracy of the survey for the original gauge zero is also unknown at present. The uncertainty is compounded as a very large flood on 11/08/14 destroyed the old staff gauge and caused significant damage to the weir control, significantly lowering the base level of the control. The timing of this flood coinciding with the station rebuild confuses the cause of the 2014 shift (datum and/or control) and removes the ability to survey and clarify the zero figure of the old staff gauge. Work is ongoing to better understand these uncertainties. FLOW RECORD: Data complete from 05/02/2010. Some gaps in the stage record pre-2010 were infilled by regression from Scotsmill gauging station. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Some spray irrigation abstraction for frost protection in Apr-May.
+CATCHMENT,Area of gentle topography with complex geology of metamorphics, altered l'st and granite. Land use mostly arable and pasture with some forestry.
+Qmed Suitability,Well contained at QMED.
+Pooling Suitability,There is reasonable confidence that AMAX 1, 2 and 3 are within 30% of the true flow despite some out of bank flow reported in the field ~ 1.4m stage.
+[END]

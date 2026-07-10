@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 92002
+[END]
+[CDS DETAILS]
+NAME,Allt Coire nan Con
+LOCATION,Polloch
+NOMINAL AREA,    8.15
+NOMINAL NGR,1792,7688
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,179200,768800
+CENTROID NGR,GB,181828,769656
+DTM AREA,    8.15
+ALTBAR, 331
+ASPBAR,200
+ASPVAR,0.50
+BFIHOST,0.359
+DPLBAR,  3.77
+DPSBAR,290.1
+FARL,0.989
+FPEXT,0.0086
+LDP,  7.41
+PROPWET,0.80
+RMED-1H, 12.5
+RMED-1D, 54.6
+RMED-2D, 75.9
+SAAR,2538
+SAAR4170,2570
+SPRHOST,53.79
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station operated from 30/12/1969. Daily flows held from 1986, peak flows from water year 2001. GENERAL: Pillar Box hut with stilling well. New station planned with cableway in 2018/2019. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: Station gauged to wading limit. The station has a pillar box hut with a stilling well and a natural channel control. Added to the Peak Flows dataset in October 2018 (WINFAP Files v7) with QMED indicative suitability status. This was updated to Pooling suitability in 2024 following a flood measurement in 2023. One peak flow rating across period of record. FLOW RECORD: The wading limit for gauging is around 0.6m and high flow gaugings have been carried out using ADCP instruments upstream of the station. One peak flow rating is applied through the period of record. A stationary upward looking acoustic instrument was installed for a period in 2023 and this measured a large flood on 21/08/23. This measurement validated the flood rating and improved the confidence in the estimation of higher flood events. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13).
+CATCHMENT,
+Qmed Suitability,Gauged up to QMED using ADCP boat.
+Pooling Suitability,There is good confidence in the upper end of the rating after a large flood of 21/08/2023 was measured using an upward looking acoustic instrument.
+[END]

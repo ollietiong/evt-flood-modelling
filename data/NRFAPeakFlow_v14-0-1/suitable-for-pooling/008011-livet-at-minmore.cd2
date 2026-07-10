@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+  8011
+[END]
+[CDS DETAILS]
+NAME,Livet
+LOCATION,Minmore
+NOMINAL AREA,  102.78
+NOMINAL NGR,3201,8290
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320150,829000
+DTM AREA,  102.78
+ALTBAR, 445
+ASPBAR,333
+ASPVAR,0.17
+BFIHOST,0.449
+DPLBAR, 11.38
+DPSBAR,168.4
+FARL,1.000
+LDP, 22.22
+PROPWET,0.63
+RMED-1H,  9.0
+RMED-1D, 37.0
+RMED-2D, 50.4
+SAAR,1001
+SAAR4170,1141
+SPRHOST,41.99
+URBEXT1990,0.0010
+URBEXT2000,0.0001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in an upland catchment with a natural regime and no significant abstractions. GENERAL: Velocity area station about 13m wide. STATION HYDROMETRY: Legacy notes in NRFA describe a boulder/rubble control (remnant of an old weir), good low flow calibration, Build up of debris can occur on weir control. The remnants of this weir have long since eroded out so the control is effectively a natural cobble and boulder riffle. Some bypassing on left bank occurs at extreme flows, originating from further upstream. Tapping pipe shortened in 1986 to avoid velocity drawdown. Before 25/09/87 levels recorded in well were often less than readings on gauge. Two peak flow ratings across period of record, with the most recent rating derived from gaugings up to 1.945m, 63.8 cumecs, simple extrapolation beyond. Before 25/09/1987 an adjustment had to be made on gauged stages - rating derived from the adjusted gaugings. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: Natural regime, no significant abstractions (minor distillery abstractions in the past).
+CATCHMENT,Upland catchment. Mountainous headwaters, often snowy in winter. Moorland with some afforestation developed on complex basement geology - metamorphics and igneous rocks, overlain by significant superficial cover. No significant catchment changes known.
+Qmed Suitability,No comment.
+Pooling Suitability,Gauged to 1.618m, measured at 49 cumecs,and largely contained. A tentative pooling status considering there is out of bank flow that is not factored into the simple extrapolation and also the rating shifts are significant and nor clear cut, likely reflecting varying states of the rubble control.
+[END]

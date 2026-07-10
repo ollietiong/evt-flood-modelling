@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 57007
+[END]
+[CDS DETAILS]
+NAME,Taff
+LOCATION,Fiddlers Elbow
+NOMINAL AREA,  193.84
+NOMINAL NGR,3089,1951
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308900,195150
+DTM AREA,  193.84
+ALTBAR, 367
+ASPBAR,180
+ASPVAR,0.20
+BFIHOST,0.402
+DPLBAR, 20.71
+DPSBAR,153.1
+FARL,0.906
+LDP, 37.87
+PROPWET,0.52
+RMED-1H, 12.0
+RMED-1D, 58.4
+RMED-2D, 78.7
+SAAR,1719
+SAAR4170,1731
+SPRHOST,44.68
+URBCONC1990, 0.654
+URBEXT1990,0.0300
+URBLOC1990, 0.716
+URBCONC2000, 0.763
+URBEXT2000,0.0441
+URBLOC2000, 0.677
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir. Flows affected by impounding reservoirs. GENERAL: Flat V weir with concrete side walls. STATION HYDROMETRY: Weir width 23m; cross-slope 1:20, 1:5 downstream, 1:2 upstream. Station and cableway were moved during October 1982. Valid date for current rating (28 March 1985) is the date of the first gauging following the move. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Series of six public water supply impounding reservoirs in the upper catchment (Taf Fawr and Taf Fechan), which all pre-date station records, affect runoff. Runoff at low flows influenced by groundwater abstraction/recharge and abstraction for industry/agriculture. Increased by effluent returns. The last operational coal mines in this area closed in 1985. Minewater recovery is understood to have occurred by the late 1980s. Mine dewatering increased low flows and mines may have provided some attenuation in flood events.
+CATCHMENT,Coal Measures with Millstone Grit and Carboniferous Limestone in northern area. Boulder Clay and Alluvial deposits in valleys. Mainly upland area with peaty soils, seasonally wet. Land use is largely grassland, heathland at highest elevations and some forest. Considerable urban development in valley bottom. Half of catchment within Brecon Beacons National Park.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings. Highest rating limbs based on hydraulic model.
+Pooling Suitability,Gauged to within 7% of AMAX3 and hydraulic model derived rating. High confidence in flows beyond QMED.
+[END]

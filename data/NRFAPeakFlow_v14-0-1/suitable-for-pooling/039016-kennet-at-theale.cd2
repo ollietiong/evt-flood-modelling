@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 39016
+[END]
+[CDS DETAILS]
+NAME,Kennet
+LOCATION,Theale
+NOMINAL AREA, 1037.39
+NOMINAL NGR,4649,1708
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,464950,170850
+DTM AREA, 1037.39
+ALTBAR, 151
+ASPBAR, 99
+ASPVAR,0.13
+BFIHOST,0.766
+DPLBAR, 46.99
+DPSBAR, 54.9
+FARL,0.965
+LDP, 90.53
+PROPWET,0.31
+RMED-1H, 10.5
+RMED-1D, 32.9
+RMED-2D, 42.3
+SAAR, 758
+SAAR4170, 769
+SPRHOST,18.72
+URBCONC1990, 0.610
+URBEXT1990,0.0138
+URBLOC1990, 0.815
+URBCONC2000, 0.774
+URBEXT2000,0.0170
+URBLOC2000, 0.671
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir, the most downstream gauging station on the Kennet. Since 2014 there have been issues with the channel and a new location is being considered for the lower Kennet gauging station. Closed in 2019 and undergoing decommissioning. GENERAL: Crump weir (15.9m broad) equipped with crest pressure tapping (not used in flow calculations) and d/s recorder. The station is in an artificially straightened section of the Kennet. Since 2014 the station has experienced problems with channel morphology and a new gauging station downstream of Blakes Lock (Reading) has been installed as a possible replacement. STATION HYDROMETRY: Stilling well with radar and pressure sensors. Head and tail levels gauged, crest tapping not used. Cableway installed in 1999 but it was subsequently removed. The weir has subsided with a difference in level from left to right of 41mm across the weir crest. Standard Crump weir equation using tail levels (measured since 2005). Flows tend to be non-modular above 10 cumecs. Bypassing occurs above 29 cumecs, through gravel pits on the south side of the flood plain, hence flood flows may be underestimated by the peak flow rating. An increasing number of bottlenecks downstream causes drowning at increasingly lower flow rates. FLOW RECORD: Flows of >24 cumecs and stages of 0.77m+ are questionable: the rest of the flows gauged are believed to good. Bypassing, flow in Kennet and Avon Canal and over-reduction of drowned flows may cause underestimation of peak flows. GDFs 04-24/12/98 estimated by the NRFA using the Kennet at Newbury (39103). This was due to missing levels, as the gauging hut was refurbished. Since 2014 there have been issues with the channel rendering data unsuitable for flood estimation so peak flows are rejected. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: High baseflow component but responsive contribution from the R. Enbourne. Can react quickly to heavy rainfall. Flows influenced by groundwater abstraction/recharge (WBGS), particularly during drought. Abstraction for industrial/agricultural purposes but have little net impact. Minor contribution to the Kennet & Avon Canal.
+CATCHMENT,Primarily a rural catchment, especially in the headwaters, with scattered settlements (Newbury is the largest town) and significant urban development concentrated along the Kennet Valley. A mainly pervious catchment (Chalk with significant Drift cover) but the lowest quarter is largely impermeable.
+Qmed Suitability,Gauged above QMED. Flows below bank full and estimates thought to be reasonable.
+Pooling Suitability,Gauged to within 3% of AMAX3. Rating is thought to provide reasonable estimates despite known flow underestimation.
+[END]

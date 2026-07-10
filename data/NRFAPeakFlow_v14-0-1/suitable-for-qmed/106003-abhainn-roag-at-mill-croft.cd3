@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+106003
+[END]
+[CDS DETAILS]
+NAME,Abhainn Roag
+LOCATION,Mill Croft
+NOMINAL AREA,   13.81
+NOMINAL NGR, 767,8347
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,76700,834750
+CENTROID NGR,GB, 79640,834379
+DTM AREA,   13.81
+ALTBAR, 142
+ASPBAR,290
+ASPVAR,0.43
+BFIHOST,0.333
+DPLBAR,  4.43
+DPSBAR,158.6
+FARL,0.923
+FPEXT,0.0695
+LDP,  7.91
+PROPWET,0.62
+RMED-1H, 10.4
+RMED-1D, 38.3
+RMED-2D, 50.4
+SAAR,1730
+SAAR4170,1485
+SPRHOST,50.52
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a natural mountainous catchment on South Uist (Outer Hebrides). GENERAL: Open channel section 7m wide with gravel control. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: No cableway. Gauged to around QMED. One peak flow rating across period of record.
+CATCHMENT,A natural mountainous catchment on North Uist with little storage. Mainly rough grazing, peat bog and moorland with some forestry.
+Qmed Suitability,Gauged up to around QMED.
+Pooling Suitability,Not gauged sufficiently above QMED to a sufficient stage to have some confidence in the AMAX 3 event being within 30% of the true value.
+[END]

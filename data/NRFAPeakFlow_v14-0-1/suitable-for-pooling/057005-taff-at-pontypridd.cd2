@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 57005
+[END]
+[CDS DETAILS]
+NAME,Taff
+LOCATION,Pontypridd
+NOMINAL AREA,  451.69
+NOMINAL NGR,3079,1897
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,307950,189700
+DTM AREA,  451.69
+ALTBAR, 320
+ASPBAR,156
+ASPVAR,0.14
+BFIHOST,0.409
+DPLBAR, 22.67
+DPSBAR,163.6
+FARL,0.949
+LDP, 45.92
+PROPWET,0.50
+RMED-1H, 12.7
+RMED-1D, 63.6
+RMED-2D, 84.7
+SAAR,1833
+SAAR4170,1845
+SPRHOST,43.27
+URBCONC1990, 0.642
+URBEXT1990,0.0405
+URBLOC1990, 0.741
+URBCONC2000, 0.754
+URBEXT2000,0.0600
+URBLOC2000, 0.734
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard flat V weir. Flow regime influenced by reservoirs. GENERAL: Non-standard flat V weir. STATION HYDROMETRY: Weir width: 32m; cross-slope 1:20 upstream and downstream. Top of right bank is playing field, left bank much higher and is former railway bank. Full range and flows contained within the section. High flow gaugings taken using ADVP to around 3m. FLOW RECORD: Weir refurbished Sep-Nov 1996, and weir was recapped Sep-Oct 1997; data during both periods have been infilled using data from Fiddler's Elbow (57007) upstream. Full period of record peak flow data reviewed and released in Oct 2018 (WINFAP Files v7). FLOW REGIME: Series of six public water supply impounding reservoirs in the upper catchment (Taf Fawr and Taf Fechan) affects runoff. Runoff at low flows influenced by groundwater abstraction/recharge and abstraction for industry/agriculture. The last operational coal mines in this area closed in 1985. Minewater recovery is understood to have occurred by the late 1980s. Mine dewatering increased low flows and mines may have provided some attenuation in flood events.
+CATCHMENT,Coal Measures, some Boulder Clay cover and alluvial deposits in valleys. Mainly upland area with peaty soils on hills, seasonally wet. Catchment is largely grassland with livestock farming on hills, heathland at highest elevations and some forest cover. Extensive urban and industrial development in valleys.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Confident in the rating beyond QMED.
+[END]

@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 26009
+[END]
+[CDS DETAILS]
+NAME,West Beck
+LOCATION,Snakeholme Lock
+NOMINAL AREA,  195.61
+NOMINAL NGR,5066,4555
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,506650,455600
+DTM AREA,  195.61
+ALTBAR, 105
+ASPBAR,107
+ASPVAR,0.31
+BFIHOST,0.897
+DPLBAR, 21.31
+DPSBAR, 55.1
+FARL,0.991
+LDP, 37.97
+PROPWET,0.32
+RMED-1H, 11.1
+RMED-1D, 33.7
+RMED-2D, 42.9
+SAAR, 721
+SAAR4170, 767
+SPRHOST,10.45
+URBCONC1990, 0.512
+URBEXT1990,0.0079
+URBLOC1990, 0.642
+URBCONC2000, 0.699
+URBEXT2000,0.0055
+URBLOC2000, 0.548
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Electromagnetic station in a permeable Chalk catchment draining the Yorkshire Wolds. GENERAL: Electromagnetic gauge (1988-2022) with buried magnetic coil in 8m wide channel. Measures the West Beck, Driffield Canal runs alongside (original course of West Beck) and is gauged separately (station 26010 until 2016, replaced by new gauge at Wansford Bridge not currently on NRFA). STATION HYDROMETRY: Electromagnetic gauge in trapezoidal section. Weedgrowth in channel and shallow gradient leads to variable control and backwater, this does not affect the Electromagnetic gauge but prevents use of alternative stage:discharge relationship. Check gaugings to check accuracy of gauge and gap editing only. Electromagnetic gauge replaced by time-of-flight ultrasonic gauge in same section in October 2022. FLOW RECORD: Gauge has always been prone to drop outs and spikes in data. Early records edited using derived ratings and constant shifts but since 2001 validation has been limited to gross error checks and spike removal only. Check gaugings typically compare well with EM gauge though and record is considered good. Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: Hydrology dominated by groundwater component (seasonal winter maxima) with superimposed, small rainfall runoff hydrographs. Small net export of water and some spray irrigation (trivial overall impact). On rare occasions levels are affected by the tide, although normal tidal limit is Hempholme.
+CATCHMENT,Permeable Chalk (Lower Cretaceous / Jurassic) catchment draining from the Yorkshire Wolds; some superficial deposits in lower catchment - note that chalk is harder than that found in Southern England. Surface and groundwater catchments are expected to differ considerably. Rural, mixed agriculture. Catchment includes a SSSI. No known catchment changes. NRFA catchment definition changed in 2015 review, previously included Driffield Canal.
+Qmed Suitability,Gauged well above QMED.
+Pooling Suitability,Gauged close to AMAX1 flow.
+[END]

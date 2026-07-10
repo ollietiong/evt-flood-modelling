@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84040
+[END]
+[CDS DETAILS]
+NAME,Clyde
+LOCATION,Abington
+NOMINAL AREA,  251.81
+NOMINAL NGR,2932,6227
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,293250,622750
+CENTROID NGR,GB,295773,614376
+DTM AREA,  251.81
+ALTBAR, 418
+ASPBAR,  7
+ASPVAR,0.08
+BFIHOST,0.379
+DPLBAR, 17.90
+DPSBAR,183.1
+FARL,0.937
+FPEXT,0.0433
+LDP, 34.80
+PROPWET,0.71
+RMED-1H, 11.0
+RMED-1D, 47.0
+RMED-2D, 64.8
+SAAR,1540
+SAAR4170,1605
+SPRHOST,47.91
+URBEXT1990,0.0007
+URBEXT2000,0.0013
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station built to improve flood warning in the Clyde catchment. GENERAL: Velocity area station, the most upstream on the Clyde. Station added to peak flows dataset in August 2021 (WINFAP Files v10). STATION HYDROMETRY: Station spills into right floodplain after around 2m and then into left floodplain after around 2.8m. Rating based on gaugings up to ~1.6m and thereafter higher flow estimates are informed by velocity indexing from a fixed ADCP and floodplain modelling. FLOW REGIME: Two major reservoirs in the catchment.
+CATCHMENT,Heavily grazed uplands and heather moor. Large wind farms have been installed in the catchment since the station was built.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,Although there are few gaugings above QMED, ratings takes into account out of bank flow.
+[END]

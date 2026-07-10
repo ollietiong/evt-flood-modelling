@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27094
+[END]
+[CDS DETAILS]
+NAME,Wiske
+LOCATION,Romanby Viewly Bridge
+NOMINAL AREA,  158.21
+NOMINAL NGR,4350,4921
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,435100,492100
+DTM AREA,  158.21
+ALTBAR,  62
+ASPBAR,268
+ASPVAR,0.09
+BFIHOST,0.367
+DPLBAR, 17.03
+DPSBAR, 29.9
+FARL,0.998
+LDP, 39.43
+PROPWET,0.34
+RMED-1H, 10.3
+RMED-1D, 29.6
+RMED-2D, 36.9
+SAAR, 637
+SAAR4170, 658
+SPRHOST,39.07
+URBCONC1990, 0.704
+URBEXT1990,0.0160
+URBLOC1990, 0.440
+URBCONC2000, 0.820
+URBEXT2000,0.0182
+URBLOC2000, 0.407
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic gauge with velocity-area rating for low flows, in low lying catchment draining western flanks of the North York Moors. GENERAL: Crossed-path multi-path ultrasonic gauge in rectangular section under bridge, with informal flat V weir downstream for low flow control. STATION HYDROMETRY: Ultrasonic gauge performs well at medium and higher flows but performance is poor at lower flows. The flat V weir has a rating curve which performs well at low flows, so flows are derived from this below 0.6m stage (3.4 cumecs) and from the ultrasonic gauge above this. Gauged to within 40% of QMED. Some minor by-passing through adjacent flood arches in very large events. FLOW RECORD: Data should be treated with caution from 10/2018 onwards due to sediment deposition impacting the operation of the gauge. FLOW REGIME: Effluent returns and spray irrigation abstractions have some impact on the flow regime.
+CATCHMENT,A low-lying, largely rural catchment mostly on Permian/Triassic formations (sandstones and mudstones), with extensive Drift cover.
+Qmed Suitability,Only gauged to within 40% of QMED but ultrasonic gauge in well defined channel so can expect measurement up to QMED to be good.
+Pooling Suitability,Not gauged to high enough levels to give confidence in the ultrasonic data to recommend for pooling at this stage.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58005
+[END]
+[CDS DETAILS]
+NAME,Ogmore
+LOCATION,Brynmenyn
+NOMINAL AREA,   74.30
+NOMINAL NGR,2903,1844
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,290400,184400
+CENTROID NGR,GB,293419,189898
+DTM AREA,   74.30
+ALTBAR, 268
+ASPBAR,192
+ASPVAR,0.22
+BFIHOST,0.492
+DPLBAR,  9.22
+DPSBAR,222.1
+FARL,0.999
+FPEXT,0.0248
+LDP, 16.37
+PROPWET,0.52
+RMED-1H, 12.9
+RMED-1D, 59.5
+RMED-2D, 78.8
+SAAR,1976
+SAAR4170,2008
+SPRHOST,35.75
+URBCONC1990, 0.569
+URBEXT1990,0.0214
+URBLOC1990, 0.961
+URBCONC2000, 0.673
+URBEXT2000,0.0327
+URBLOC2000, 0.926
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir; velocity area station for high flows. Flows influenced by effluent discharge and abstractions. GENERAL: Flat V weir; velocity area station for high flows. Channel width is 13.7m. STATION HYDROMETRY: Weir 1:20 cross slope, 1:2 upstream slope, 1:5 downstream. All flows contained. FLOW RECORD: Weir refurbishment carried out Sep 2012 - Apr 2013, with data recorded at a temporary sensor; downstream 58001 Ogmore at Bridgend used to infill missing data and correct erroneous data. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Ratings reviewed in 2022 and data reprocessed for full period of record. FLOW REGIME: Runoff increased by effluent discharge upstream. Flow reduced by industrial and agricultural abstraction. The last operational coal mines in this area closed in 1985. Minewater recovery is understood to have occurred by the late 1980s. Mine dewatering increased low flows and mines may have provided some attenuation in flood events.
+CATCHMENT,Mainly Coal Measures. Predominantly grassland with livestock farming, some heathland in upland area. Forested areas throughout. Peaty soils in upper areas, seasonally wet. Urban development in the valleys.
+Qmed Suitability,Gauged above QMED. Rating in good agreement with check gaugings.
+Pooling Suitability,Gauged at higher flows. Rating is expected to perform well up to 2.0m.
+[END]

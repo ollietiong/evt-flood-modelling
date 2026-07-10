@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 62003
+[END]
+[CDS DETAILS]
+NAME,Teifi
+LOCATION,Pont Llanio
+NOMINAL AREA,  175.39
+NOMINAL NGR,2652,2568
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,265250,256900
+DTM AREA,  175.39
+ALTBAR, 289
+ASPBAR,270
+ASPVAR,0.13
+BFIHOST,0.441
+DPLBAR, 18.11
+DPSBAR,110.3
+FARL,0.983
+LDP, 31.37
+PROPWET,0.65
+RMED-1H, 10.4
+RMED-1D, 43.4
+RMED-2D, 58.9
+SAAR,1448
+SAAR4170,1499
+SPRHOST,43.20
+URBEXT1990,0.0008
+URBEXT2000,0.0022
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station located in the upper Teifi catchment, downstream of Cors Caron/Tregaron Bog which provides significant flow attenuation. Therefore gauged flows are only representative of the flow regime on the Teifi, downstream of Cors Caron. GENERAL: Velocity area station in a rural catchment. 3 arched bridge downstream - flow is typically through 2 arches with the 3rd permitting out of bank flow. Station opened on 1st July 1998. Station added to peak flows dataset in August 2021 (WINFAP Files v10). STATION HYDROMETRY: Rating derived from gaugings which are taken immediately downstream of the bridge due to the accessibility (can gauge off the bridge). During higher flows, this is one of the only areas where the flow remains relatively contained, rather than spreading out across the extensive flood plain. At 2.2m there is standing water on the narrow flood plain opposite the station, with some flow occurring above that level. This is not accounted for in the rating. Extent and velocity of floodplain flow have been estimated from site observation and were used with topographic data to calculate flood plain flow at QMED of around 5% of rated flow. FLOW REGIME: Mostly natural flow regime with significant attenuation of main river flows due to Cors Caron/Tregaron Bog. This usually results in double (or multi) peaked flood events at this station as flows from tributaries - the largest of which is the Brennig - peak first, followed later by the attenuated main river flow (which is often the higher peak).
+CATCHMENT,Mainly impermeable Ordovician and Silurian geology. Peaty, seasonally wet soils in upland areas. Apart from Tregaron bog, most of the lower areas have soils with permeable substrata. Predominantly grassland.
+Qmed Suitability,Rating extrapolated to QMED. Unmeasured floodplain flow estimated to be around 5% at QMED.
+Pooling Suitability,Rating does not account for floodplain flow.
+[END]

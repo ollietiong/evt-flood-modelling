@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 82001
+[END]
+[CDS DETAILS]
+NAME,Girvan
+LOCATION,Robstone
+NOMINAL AREA,  243.63
+NOMINAL NGR,2216,5996
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,221700,599650
+DTM AREA,  243.63
+ALTBAR, 193
+ASPBAR,315
+ASPVAR,0.11
+BFIHOST,0.400
+DPLBAR, 26.07
+DPSBAR,105.9
+FARL,0.942
+LDP, 55.15
+PROPWET,0.60
+RMED-1H, 10.0
+RMED-1D, 39.1
+RMED-2D, 54.2
+SAAR,1368
+SAAR4170,1328
+SPRHOST,42.27
+URBEXT1990,0.0022
+URBEXT2000,0.0040
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Girvan. Flows affected by abstractions from Loch Bradan. GENERAL: Velocity area station approx. 15m wide. STATION HYDROMETRY: Low flow control is an informal gravel weir built in 1982, which is subject to re-grading in substantial floods. Flood banks contain all flows (pre-1982, right bank inundated beyond 2.2m). Peak flow ratings from current meter gaugings. Rating for period up to 1982 max gauging 2.2m (about 0.9 QMED); post-1982 max gauging up to 1.9m (about 0.7 QMED), simple extrapolation beyond. Gaugings to 1982 show scatter; may suggest a changing relationship. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Runoff diminished by abstractions from Loch Bradan. Additional storage in a few high level lochs.
+CATCHMENT,Upland catchment draining from Carrick Forest. Complex geology: Ordovician/Carboniferous metamorphics and igneous formations; predominantly overlain by superficial deposits, drift and peat also. Mostly hill pasture with some mixed farming in the valley and afforestation in the headwaters; several lochs.
+Qmed Suitability,Gauged to near QMED.
+Pooling Suitability,Only after June 1982 when an embankment was built to allow for containment of flows above 2.2m.
+[END]

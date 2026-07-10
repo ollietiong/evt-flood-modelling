@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 54044
+[END]
+[CDS DETAILS]
+NAME,Tern
+LOCATION,Ternhill
+NOMINAL AREA,   95.73
+NOMINAL NGR,3628,3314
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,362900,331450
+DTM AREA,   95.73
+ALTBAR, 125
+ASPBAR,252
+ASPVAR,0.15
+BFIHOST,0.698
+DPLBAR, 16.36
+DPSBAR, 44.1
+FARL,0.960
+LDP, 26.94
+PROPWET,0.34
+RMED-1H,  9.7
+RMED-1D, 29.7
+RMED-2D, 38.8
+SAAR, 739
+SAAR4170, 794
+SPRHOST,25.06
+URBCONC1990, 0.598
+URBEXT1990,0.0137
+URBLOC1990, 0.796
+URBCONC2000, 0.771
+URBEXT2000,0.0194
+URBLOC2000, 0.769
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular thin plate notch 4m wide weir. GENERAL: Rectangular thin plate weir present on site, 4m wide by 0.43m depth. The site is located next to the confluence of the Bailey Brook, and shares the gauging station on site with the Bailey Brook gauge (54052). Levels exceptionally rarely reach out of bank. STATION HYDROMETRY: Predominantly a low flow site. Previously there was a cableway to measure high flows, but this has since been removed. It is possible to measure and gauge all the way to bankfull. One rating applied across the whole period of record. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Significant ground and surface water abstractions in the catchment with effluent from Market Drayton. Irregular operation of sluices from Oakleigh Park may affect natural flow.
+CATCHMENT,Agricultural, low relief catchment, high baseflow from Bunter sandstone and glacial sand and gravel. Boulder Clay typifies the right hand bank geology.
+Qmed Suitability,Although limited high flow gaugings, QMED is well below bank full and theoretical rating expected to perform well.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED.
+[END]

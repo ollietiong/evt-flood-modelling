@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 76007
+[END]
+[CDS DETAILS]
+NAME,Eden
+LOCATION,Sheepmount
+NOMINAL AREA, 2276.00
+NOMINAL NGR,3390,5571
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,339000,557150
+DTM AREA, 2276.00
+ALTBAR, 248
+ASPBAR,329
+ASPVAR,0.08
+BFIHOST,0.489
+DPLBAR, 62.12
+DPSBAR,103.3
+FARL,0.971
+LDP,125.17
+PROPWET,0.64
+RMED-1H, 10.7
+RMED-1D, 39.9
+RMED-2D, 53.7
+SAAR,1182
+SAAR4170,1224
+SPRHOST,37.80
+URBCONC1990, 0.655
+URBEXT1990,0.0056
+URBLOC1990, 0.442
+URBCONC2000, 0.768
+URBEXT2000,0.0082
+URBLOC2000, 0.522
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the furthest downstream on the River Eden. GENERAL: Velocity area station opened 1967 in a deep, slack section. River approximately 35m wide at gauging section. STATION HYDROMETRY: Permanent cableway. Full-range. Most floods contained in immediate channel, significant bypassing on left bank, more so before 1970, when floodbanks constructed. However, post-1970 major floods, such as Storm Desmond still have very significant bypassing and floodplain flow. Inlet may block at high flows - extended c2013. Gravel movement around downstream bridge and weed growth may affect low flows. Periodic recalibration. Multiple ratings consolidated pre-1993 to remove extrapolation of the effects of weed growth and gravel movement into the peak flow range. Two peak flow ratings therefore applied across period of record derived from current meter gaugings, the most recent is applied after storm Desmond. FLOW RECORD: A new rating from December 2015 (storm Desmond) onwards was implemented in January 2019. However, peak flows are thought to be underestimated by 5 - 15% and a further rating review is in progress. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Mainly natural catchment, but contains some large settlements (Carlisle, Penrith) and reservoirs (Haweswater, Wet Sleddale). Reservoirs control 2% of catchment naturally, though actual proportion may be higher as Haweswater collects water from Lowther tributaries. Flows influenced by these, especially at low flows.
+CATCHMENT,Rural catchment except for Carlisle, Penrith and Appleby. Headwaters in Carboniferous Limestone of Pennines to east, impervious Lower Palaeozoics of Lake District massif to west; moorland. Extensive Boulder Clay covered Permo-Triassic sandstone in Vale of Eden. Land-use: arable and grazing. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged close to AMAX3.Good fit to gaugings.
+[END]

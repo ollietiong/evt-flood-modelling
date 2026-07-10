@@ -1,0 +1,45 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+203046
+[END]
+[CDS DETAILS]
+NAME,Rathmore Burn
+LOCATION,Rathmore Bridge
+NOMINAL AREA,   22.50
+NOMINAL NGR,3197,3853
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,319750,385400
+DTM AREA,   22.50
+ALTBAR, 150
+ASPBAR,197
+ASPVAR,0.45
+BFIHOST,0.429
+DPLBAR,  6.41
+DPSBAR, 57.9
+FARL,1.000
+LDP, 11.12
+PROPWET,0.52
+RMED-1H, 10.2
+RMED-1D, 35.0
+RMED-2D, 45.3
+SAAR,1043
+SAAR4170,1065
+SPRHOST,36.88
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in November 1981. Predominantly rural catchment and the smallest catchment of all the NI stations in the Peak Flows dataset at 22.5km2. GENERAL: Velocity-area station comprised of steel cabinet kiosk on left bank housing main and backup instruments both using pressure probes upstream of double-arched road bridge. Channel width c.4.6m at station. Station located c.1km upstream of confluence with the Sixmilewater. Stable cobble channel bed with well defined straight banks reinforced by tree roots. STATION HYDROMETRY: Arches of road bridge downstream are liable to collect branches and debris particularly after high flows so backing-up can be an issue. Flows fully contained at QMED but anything above 2.6m does get out of bank. One rating applied across period of record. FLOW RECORD: Highest flow recorded on 16th August 2008 when 3 inches of rain fell in 12 hours on already saturated ground during what the Met Office termed "Awful August". Late December 2010 flows considered suspect due to likely freezing in stilling well. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8) and in August 2024 (WINFAP Files v13). FLOW REGIME: One of the faster-responding catchments in the NI subset of the Peak Flows stations with a t-rise figure of 9 hours. Some minor abstractions upstream associated with agriculture.
+CATCHMENT,Solid geology - the area is underlain predominantly by Palaeogene basalt and rhyolite lava flows. Drift geology - extensive glacial till with an area of lacustrine clay. Limited rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. Predominantly improved grassland, but rock outcrops also; some horticulture (mainly potatoes). No significant urban centres.
+Qmed Suitability,Highest gauging is only ~2/3 of QMED, but given flows are contained at QMED, stable bed and little deviation in spot gaugings over time the station is assigned suitable for QMED estimation.
+Pooling Suitability,Not enough high flow gaugings to be considered suitable for Pooling.
+[END]

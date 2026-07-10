@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 83005
+[END]
+[CDS DETAILS]
+NAME,Irvine
+LOCATION,Shewalton
+NOMINAL AREA,  367.57
+NOMINAL NGR,2345,6368
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,234500,636900
+DTM AREA,  367.57
+ALTBAR, 151
+ASPBAR,241
+ASPVAR,0.24
+BFIHOST,0.339
+DPLBAR, 27.56
+DPSBAR, 55.5
+FARL,0.980
+LDP, 52.58
+PROPWET,0.60
+RMED-1H,  9.4
+RMED-1D, 37.3
+RMED-2D, 52.8
+SAAR,1228
+SAAR4170,1211
+SPRHOST,42.41
+URBCONC1990, 0.826
+URBEXT1990,0.0240
+URBLOC1990, 0.571
+URBCONC2000, 0.841
+URBEXT2000,0.0271
+URBLOC2000, 0.571
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with bank stability issues since March 2011. GENERAL: Velocity area station approx. 30m wide. STATION HYDROMETRY: Flows are largely contained in the channel. The station has an open channel control and a rock bar and road bridge approximately 600m downstream are likely key features in the high flow control. Foundations of a mill weir 400m downstream may also survive as a stubborn bed control feature. The flood rating QHigh1973 applied through the record up to the 2011 datum change is informed by gauging up to 3.81m (measured flow of 324 cumecs) and then based on simple extrapolation thereafter. The flood rating QHigh2011 applied after the 2011 datum change is informed by gaugings up to 3.463m (measured flow of 156 cumecs) and then benefits from upper segment that are derived from hydraulic modelling. The station starts operating in July 1972 and the digital record currently starts from 01/03/1978. The historic daily mean flow is the only flow record currently available from 1972. The calculation of 15min resolution flow and Peak Flow series before 01/03/1978 is subject to the future digitising of paper records. A fragment of punch tape data and contemporary gaugings indicate a major datum or control change between February 1973 and February 1974. A potential datum shift is not recorded in SEPA's station history notes and a full understanding will not be possible until paper records are digitised. Another possibility is a major control shift. A written note of 'dam repair' on a chart from 19/05/1973 is odd as a dam currently doesn't exist downstream. However, historic maps show a mill weir did exist approximately 400m downstream and it's possible this feature was still in existence in 1972-1973 and fragments of the foundation likely survive as a bed riffle feature. The station was rebuilt on the same footprint in 2011 to mitigate bank slumping. The works included a new well, hut, ramp gauge and the reprofiling of the bank at the station. The civil works were completed by 14/03/2011. The new stilling well was initially dipped until the new ramp was set up and operational on 14/11/2011. The ramp gauge was set to a new datum from this date. However, a jump in stage is not apparent until 21/11/2011 08:15 and so the rating shift was applied from the 21st to avoid a jump in the flow record. The stage plot shows a gradual increase in base level from around 2003 until 2011 and it is possible this reflects a gradual slump of the old ramp gauge rather than an increase in the bed control. This uncertainty is compensated by rating changes since 2003. The gaugings and stage in this period are aligned to the same ramp readings and hence the flow record on this period is deemed reliable despite the uncertainty around the reference gauge. The period of bank instability between 2003 and 2011 is complicit with issues recording stage in the stilling well, with discrepancies between the well and river level first noted from around March 2008. These issues were linked to the bank instability and water ingress from historic drainage pipes into the stilling well. The poor performance of the well between 2008 and 2011 has been corrected by stage edits informed by monthly visits and calibration against the ramp. In this period of poor well performance, the only period of stage data marked as suspect is between 03/02/11 and 01/11/11, where editing did not satisfy the hydrologist during the quality control of the data. This period coincides with the AMAX flow events in water years 2010 and 2011. Despite this lower confidence in the station performance in 2010 and 2011, the flood estimates most likely remain reasonable and have not been flagged for exclusion in the Peak Flow record. The station stilling well issues resurfaced in 2019 and a pressure level sensor was installed directly in the river on 20/09/2019 to replace the stilling well as the primary source of level data, effectively making the stilling well redundant. FLOW RECORD: Flows rejected between 1971 and 1977 pending digitisation and investigation of datum shift. The flow record between 2008 and 2019 is of reduced confidence due to challenges recording stage, where bank instability and seepage of groundwater drainage into the stilling well impacted its performance. The reference ramp gauge may also have been impacted by the bank instability. The stage record was edited into a useable state, but the reduced confidence is worth noting by any user of the dataset. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: A responsive, sensibly natural flow regime (but affected by effluent from STW). In the near future there is a comprehensive flood prevention scheme planned.
+CATCHMENT,Generally upland catchment but topography more subdued below Greenholm. Bedrock predominantly Carboniferous sediments with basalt tracts towards headwaters. Extensively overlain by superficial deposits, mainly Boulder Clay with peat in the headwaters. Land use: mixed farming and hill grazing; some forestry in the upper catchment. Kilmarnock (12km u/s) is the only large urban area.
+Qmed Suitability,No comment.
+Pooling Suitability,Channel containment, flood gaugings and hydraulic modelling all contribute to this station producing decent flood estimations.
+[END]

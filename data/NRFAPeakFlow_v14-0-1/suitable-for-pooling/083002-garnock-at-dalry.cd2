@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 83002
+[END]
+[CDS DETAILS]
+NAME,Garnock
+LOCATION,Dalry
+NOMINAL AREA,   91.21
+NOMINAL NGR,2293,6487
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,229350,648750
+DTM AREA,   91.21
+ALTBAR, 201
+ASPBAR,151
+ASPVAR,0.30
+BFIHOST,0.369
+DPLBAR, 10.37
+DPSBAR, 94.9
+FARL,0.944
+LDP, 20.17
+PROPWET,0.61
+RMED-1H, 10.9
+RMED-1D, 48.5
+RMED-2D, 63.2
+SAAR,1715
+SAAR4170,1692
+SPRHOST,43.85
+URBCONC1990, 0.678
+URBEXT1990,0.0133
+URBLOC1990, 0.551
+URBCONC2000, 0.774
+URBEXT2000,0.0221
+URBLOC2000, 0.570
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A velocity-area station downstream of the Muirhead and Camphill Reservoirs. GENERAL: River section 0.8km d/s of Dalry. Station added to peak flows dataset in September 2023 (WINFAP Files v12). STATION HYDROMETRY: After a long period of closure, the station was reopened on 21/11/2014 to inform flood management. The new station infrastructure is situated on top of the original station plinth. The station is gauged up to 2.657m, with a measured flow of 57.7 cumecs. The rating has been extended by flow modelling to increase the confidence of flood estimation. The new station has a different datum from the original site. FLOW REGIME: Runoff substantially reduced by PWS exports from u/s reservoirs.
+CATCHMENT,
+Qmed Suitability,No comment
+Pooling Suitability,Gaugings up to 2.657m and flow modelling provide some confidence in the flood estimations.
+[END]

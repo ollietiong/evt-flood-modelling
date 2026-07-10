@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45007
+[END]
+[CDS DETAILS]
+NAME,Exe
+LOCATION,Trews Weir
+NOMINAL AREA, 1193.68
+NOMINAL NGR,2922, 918
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292250,91850
+CENTROID NGR,GB,292882,115313
+DTM AREA, 1193.68
+ALTBAR, 187
+ASPBAR,164
+ASPVAR,0.10
+BFIHOST,0.558
+DPLBAR, 41.97
+DPSBAR,114.6
+FARL,0.989
+FPEXT,0.0496
+LDP, 92.94
+PROPWET,0.44
+RMED-1H, 11.5
+RMED-1D, 38.6
+RMED-2D, 51.9
+SAAR,1090
+SAAR4170,1138
+SPRHOST,33.69
+URBCONC1990, 0.545
+URBEXT1990,0.0052
+URBLOC1990, 0.246
+URBCONC2000, 0.776
+URBEXT2000,0.0124
+URBLOC2000, 0.527
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station at Exeter Quay approximately 300m upstream of the actual 'Trews Weir' structure. GENERAL: Ultrasonic station at Exeter Quay approximately 300m upstream of the actual 'Trews Weir' structure. Channel about 45m wide. Initially built for Water Resources, but now multifunctional. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: The performance of the gauge has improved over time with upgrades to the ultrasonic equipment. Limited bypassing at high flows. Very low velocities during periods of low flows have historically caused some performance issues. There is a lot going on here, with the mouth of Exeter Canal feeding from the weir pool, as well as Trews Weir Radial gate, bypass channel, fish pass and 'overspill weir' to the flood relief channel all having an impact on the regime. The level of the 'overspill weir' to the flood relief channel was lowered in 2015. The gauge has sustained damage during high flow events - most notably in the October 2000 floods. FLOW RECORD: According to EA, level data and few gaugings with one poor rating available from 09-78 to 09-81. Site closed as considered unsuitable for stage-discharge rating (due to weir, flood gates, boat traffic, canal offtake, etc.). 15 minute record is variable at first (though daily means could be reasonable) but record improves over time. Site damaged in 10-2000 flood and loses flow subsequently to 08-2001. Site upgraded at end 2006 and now much better. FLOW REGIME: Wimbleball Reservoir in catchment affects runoff. Runoff also reduced by other public water supply abstraction. Runoff influenced by groundwater abstraction/recharge. Runoff increased by effluent returns. Runoff reduced by industrial/agricultural abstraction. Moderate surface and groundwater abstractions affect low flows.
+CATCHMENT,The Exe headwaters drain Exmoor. Geology predominantly Devonian sandstones and Carboniferous Culm Measures, with subordinate Permian sandstones in the east. Moorland, forestry and a range of agriculture. No major catchment changes. The Culm rises in the Blackdown Hills. Headwaters drain Greensand and Gault Clay. Predominantly Permo-Triassic sandstones, breccias and marls with extensive valley gravels and alluvium. The catchment has a subdued relief and is predominantly agricultural; the largest settlement is Cullompton. Small areas of woodlands in the east. No major catchment changes.The Creedy is a v-shaped catchment draining moderate to high relief valleys to the N and W. Predominantly Culm Measures, sandstones and shales with some Permo-Triassic breccias and sandstones near Crediton. Low grade agriculture, grazing and forestry. No major catchment changes.
+Qmed Suitability,Gauge performs well up to and above QMED.
+Pooling Suitability,Gauge performs well up to and above QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39055
+[END]
+[CDS DETAILS]
+NAME,Yeading Brook West
+LOCATION,North Hillingdon
+NOMINAL AREA,   16.82
+NOMINAL NGR,5083,1846
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,508500,184500
+CENTROID NGR,GB,512197,187911
+DTM AREA,   16.82
+ALTBAR,  51
+ASPBAR,194
+ASPVAR,0.34
+BFIHOST,0.172
+DPLBAR,  6.47
+DPSBAR, 16.1
+FARL,0.999
+FPEXT,0.2032
+LDP, 12.27
+PROPWET,0.29
+RMED-1H, 10.9
+RMED-1D, 31.5
+RMED-2D, 40.2
+SAAR, 657
+SAAR4170, 676
+SPRHOST,50.09
+URBCONC1990, 0.901
+URBEXT1990,0.3949
+URBLOC1990, 1.078
+URBCONC2000, 0.951
+URBEXT2000,0.5347
+URBLOC2000, 1.067
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Gauging station located on Yeading Brook West, a small tributary of the River Crane. The station was closed in 1995. GENERAL: Flat V weir (width: 5.02m, 1:20 cross-slope) u/s of culvert below the Western Avenue. Station demolished 1995. STATION HYDROMETRY: Limited depth of approach - structure drowns readily at low discharges (0.28 cumecs) but there is a satisfactory gauged rating. Control passes to the culvert d/s of the station. Since 1983 some bypassing has occurred via a feeder ditch. One rating applied across period of record. Capable of providing good quality data but persistant problems with the correct zero setting of the stage recorders in the 1970s. FLOW RECORD: Daily mean flows are historically inconsistent, causing high uncertainty in the peak flow record therefore flows are rejected between 1979 and 1986. Flow data recorded during 1995 was very unreliable and as such the record ends of July 1994. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Additional floodplain storage (provided as part of 1983 river improvement scheme) increased lag times.
+CATCHMENT,Impervious, suburban catchment in NW London, including some of the runoff from Northolt Airport. Some agricultural land immediately u/s of the station.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to QMED with good fit to rating curve. All flows within bank, but bypassing reported via feeder channel post-1983.
+[END]

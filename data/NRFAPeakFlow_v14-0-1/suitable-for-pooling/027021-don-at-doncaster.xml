@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SE5697703973" x="456977" y="403973">
+        <CatchmentCentroid grid="GB" ngr="SK3540991201" x="435409" y="391201"/>
+        <area>1252.87</area>
+        <altbar>154.0</altbar>
+        <aspbar>77.0</aspbar>
+        <aspvar>0.2</aspvar>
+        <bfihost>0.492</bfihost>
+        <bfihost19>0.509</bfihost19>
+        <bfihost19scaled>0.504</bfihost19scaled>
+        <dplbar>46.73</dplbar>
+        <dpsbar>76.7</dpsbar>
+        <draindens>0.985</draindens>
+        <farl>0.922</farl>
+        <farl2015>0.8763</farl2015>
+        <fpext>0.0571</fpext>
+        <fpdbar>0.618</fpdbar>
+        <fploc>0.799</fploc>
+        <ihdtmeasting>456950</ihdtmeasting>
+        <ihdtmnorthing>403950</ihdtmnorthing>
+        <ldp>83.17</ldp>
+        <propwet>0.34</propwet>
+        <rmed_1h>10.5</rmed_1h>
+        <rmed_1d>35.9</rmed_1d>
+        <rmed_2d>47.2</rmed_2d>
+        <saar>800.0</saar>
+        <saar4170>800.0</saar4170>
+        <saar9120>833</saar9120>
+        <sprhost>29.91</sprhost>
+        <urbconc1990>0.754</urbconc1990>
+        <urbext1990>0.1179</urbext1990>
+        <urbloc1990>0.847</urbloc1990>
+        <urbconc2000>0.878</urbconc2000>
+        <urbext2000>0.1345</urbext2000>
+        <urbloc2000>0.875</urbloc2000>
+        <urbext2015>0.1605</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SE5697703973" x="456977" y="403973">
+        <c>-0.02526</c>
+        <d1>0.37401</d1>
+        <d2>0.44345</d2>
+        <d3>0.26256</d3>
+        <e>0.30001</e>
+        <f>2.38864</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SE570040" x="457000" y="404000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.338</d1_1_km>
+        <d2_1_km>0.351</d2_1_km>
+        <d3_1_km>0.291</d3_1_km>
+        <e_1_km>0.298</e_1_km>
+        <f_1_km>2.438</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.5, 4.1, 5.2, 6.8, 8, 9.3, 10.5, 11.9, 13.4, 15.3, 17.2, 19.5, 22.1, 24.8, 27.5, 30.3, 32.9, 35.7, 38, 40.5, 43</Depths>
+        <Depths duration="0.25">4.8, 5.9, 7.1, 9, 11.9, 14.1, 16.7, 19, 21.9, 25, 28.6, 32.6, 37.6, 43, 49, 54.7, 61, 67.1, 73.4, 79.3, 85.6, 91.7</Depths>
+        <Depths duration="0.5">6.2, 7.7, 9.3, 11.8, 15.8, 18.6, 22, 25.3, 29.3, 33.6, 38.7, 44.2, 51.2, 59, 67.5, 75.7, 84.8, 93.8, 103.1, 111.8, 121.2, 130.5</Depths>
+        <Depths duration="0.75">7.1, 8.8, 10.7, 13.6, 18.1, 21.5, 25.5, 29.4, 34.1, 39.2, 45.1, 51.7, 60, 69.3, 79.4, 89.1, 100, 110.9, 122, 132.6, 144.1, 155.4</Depths>
+        <Depths duration="1">7.9, 9.8, 11.8, 14.9, 19.9, 23.6, 28, 32.3, 37.5, 43.2, 49.9, 57.2, 66.4, 76.7, 88, 99, 111.2, 123.4, 136, 147.8, 160.8, 173.6</Depths>
+        <Depths duration="2">11.8, 14, 16.2, 19.6, 25.1, 29.2, 34.1, 39, 45, 51.8, 59.9, 68.6, 79.3, 90.6, 102.6, 113.9, 126.5, 139.1, 151.9, 163.9, 177, 190</Depths>
+        <Depths duration="4">16.4, 18.9, 21.4, 25.2, 31.3, 35.8, 41.4, 47.1, 54.2, 62.3, 72, 82, 93.6, 105.6, 118.1, 129.8, 142.7, 155.5, 168.6, 180.7, 194.1, 207.2</Depths>
+        <Depths duration="6">19.7, 22.3, 25, 29, 35.5, 40.3, 46.4, 52.6, 60.5, 69.5, 80, 90.5, 102.7, 115, 127.7, 139.6, 152.7, 165.6, 178.8, 191.1, 204.6, 217.9</Depths>
+        <Depths duration="12">26.1, 29.1, 32.1, 36.6, 43.9, 49.5, 56.5, 63.9, 73.1, 83.5, 95.1, 106.5, 119.3, 132.1, 145.2, 157.4, 170.8, 184.1, 197.6, 210.1, 223.8, 237.3</Depths>
+        <Depths duration="18">30.5, 33.7, 36.9, 41.8, 49.7, 55.8, 63.4, 71.5, 81.6, 92.7, 104.9, 116.6, 129.7, 142.8, 156.1, 168.6, 182.2, 195.6, 209.3, 222, 235.9, 249.6</Depths>
+        <Depths duration="24">33.9, 37.3, 40.7, 45.8, 54.2, 60.6, 68.8, 77.4, 88, 99.6, 112.1, 124.1, 137.5, 150.7, 164.3, 176.9, 190.7, 204.3, 218.1, 230.9, 244.9, 258.7</Depths>
+        <Depths duration="48">43.2, 47.1, 51, 56.9, 66.6, 74.2, 83.6, 93.4, 105.2, 117.6, 130.9, 143.5, 157.4, 171.1, 185.2, 198.2, 212.4, 226.4, 240.5, 253.7, 268, 282.2</Depths>
+        <Depths duration="96">54.7, 59.3, 63.8, 70.8, 82, 90.6, 101.3, 112, 124.5, 137.6, 151.4, 164.5, 178.9, 193.1, 207.7, 221.1, 235.9, 250.3, 265, 278.5, 293.3, 307.8</Depths>
+        <Depths duration="192">70.9, 76.5, 81.9, 90.1, 103.1, 112.5, 123.8, 134.9, 147.6, 160.8, 174.7, 188, 202.7, 217.3, 232.4, 246.3, 261.6, 276.7, 291.9, 306.1, 321.4, 336.5</Depths>
+        <Depths duration="240">78, 84, 89.8, 98.5, 112.1, 121.8, 133.3, 144.4, 157.1, 170.1, 183.9, 197, 211.6, 226.3, 241.4, 255.5, 270.9, 286.1, 301.6, 315.9, 331.5, 346.8</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.6, 4.3, 5.4, 7, 8.2, 9.5, 10.6, 11.8, 13.1, 14.5, 15.8, 17.4, 19, 20.9, 22.8, 25.1, 27.3, 29.7, 31.8, 34, 36.2</Depths>
+        <Depths duration="0.25">4.9, 6, 7.3, 9.3, 12.3, 14.5, 17, 19.2, 21.8, 24.4, 27.2, 30, 33.4, 36.9, 41.1, 45.4, 50.5, 55.7, 61.1, 66.2, 71.7, 77.2</Depths>
+        <Depths duration="0.5">6.4, 7.9, 9.6, 12.1, 16.2, 19.1, 22.5, 25.6, 29.2, 32.8, 36.8, 40.8, 45.5, 50.7, 56.7, 62.9, 70.2, 77.9, 85.8, 93.4, 101.6, 109.9</Depths>
+        <Depths duration="0.75">7.3, 9.1, 11, 14.1, 18.7, 22, 26, 29.7, 34, 38.3, 42.9, 47.6, 53.3, 59.5, 66.6, 74, 82.8, 92, 101.6, 110.8, 120.8, 130.8</Depths>
+        <Depths duration="1">8.1, 10.1, 12.2, 15.4, 20.5, 24.2, 28.6, 32.7, 37.4, 42.2, 47.4, 52.7, 59, 65.9, 73.9, 82.2, 92.1, 102.4, 113.2, 123.5, 134.8, 146.1</Depths>
+        <Depths duration="2">12.2, 14.5, 16.9, 20.5, 26.1, 30.1, 34.9, 39.4, 44.5, 49.9, 55.9, 62, 69.5, 77.9, 87.3, 96.8, 107.6, 118.6, 129.9, 140.6, 152.2, 163.8</Depths>
+        <Depths duration="4">17.1, 19.8, 22.5, 26.5, 32.7, 37.2, 42.4, 47.5, 53.4, 59.7, 66.9, 74.4, 83.6, 93.6, 104.4, 114.8, 126.5, 138, 149.9, 160.9, 172.9, 184.8</Depths>
+        <Depths duration="6">20.5, 23.3, 26.2, 30.4, 37.1, 41.9, 47.6, 53.1, 59.7, 66.8, 75, 83.6, 93.9, 104.8, 116.3, 127.2, 139.3, 151.2, 163.3, 174.6, 186.9, 199</Depths>
+        <Depths duration="12">26.6, 29.9, 33.1, 38, 45.5, 51.1, 57.8, 64.6, 72.8, 81.9, 92.3, 102.8, 114.9, 127.1, 139.6, 151.2, 164, 176.5, 189.2, 201, 213.8, 226.4</Depths>
+        <Depths duration="18">30.5, 34, 37.5, 42.7, 51, 57.2, 64.8, 72.5, 82, 92.5, 104.1, 115.6, 128.4, 141.2, 154.2, 166.3, 179.5, 192.4, 205.4, 217.5, 230.7, 243.5</Depths>
+        <Depths duration="24">33.3, 37.1, 40.8, 46.3, 55.2, 61.8, 70.1, 78.6, 89, 100.3, 112.7, 124.7, 138, 151.2, 164.5, 176.9, 190.3, 203.5, 216.8, 229.1, 242.5, 255.6</Depths>
+        <Depths duration="48">41.1, 45.4, 49.7, 56.2, 66.6, 74.5, 84.4, 94.5, 106.6, 119.3, 132.9, 145.7, 159.9, 173.8, 187.9, 200.9, 214.9, 228.6, 242.5, 255.3, 269.1, 282.7</Depths>
+        <Depths duration="96">51.7, 57, 62.1, 69.8, 81.9, 90.8, 101.6, 112.2, 124.5, 137.4, 150.9, 163.9, 178.3, 192.5, 207, 220.4, 234.9, 249.1, 263.4, 276.6, 290.9, 304.9</Depths>
+        <Depths duration="192">69.7, 76.4, 82.8, 92.4, 106.8, 116.9, 128.4, 139.1, 150.9, 162.7, 175, 186.7, 199.7, 212.8, 226.3, 239.1, 253.2, 267.1, 281.4, 294.6, 309.1, 323.3</Depths>
+        <Depths duration="240">78.2, 85.6, 92.8, 103.2, 118.8, 129.6, 141.7, 152.8, 164.9, 176.8, 189, 200.4, 213, 225.5, 238.4, 250.5, 263.9, 277.1, 290.8, 303.5, 317.5, 331.4</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Doncaster" name="Don" number="27021">
+        <Comments>
+            <Comment type="Station Summary">Ultrasonic/Velocity Area station in the centre of Doncaster. Heavily urbanised catchment and numerous artificial influences on the flow regime.</Comment>
+            <Comment type="Hydrometric">By-passing via the Sheffield and South Yorkshire Navigation, 1km upstream and measured at Long Sandall Lock. Significant scatter in gaugings above 1m stage. Recalibrated in late 1970s following removal of rubble weir (low flow control) due to measurement problems. Gauge zero was raised 1m in April 1978. Daily mean flow rating reviewed in 2014: Rating D implemented 11/01/1978-31/12/2000, Rating E implemented 01/01/2001 to present. Rated by check gauging (by cableway 1977 to 2000). Extrapolated above 5.49m. Full range ultrasonic available since December 2000. Flood Studies Report (1975) grade A1 to 2.3m, B above this.</Comment>
+            <Comment type="General">Full range ultrasonic since 2000 in the centre of Doncaster. Previously a velocity-area station, 24m wide, formerly with cableway in a straight, embanked open channel reach from 1958. The ultrasonics are in an open channel control with significant hysteresis. New road bridge completed January 2001. Stage Discharge rating still preferred for peak flows.</Comment>
+            <Comment type="Flow record">Intermittent records exist for as early as 1868 (see FSR), but they are not considered reliable, or representative of the modern catchment. Channel improvements, carried out in 1957, lowered water levels in the lower Don. Missing data 1976-1977 due to rubble weir removal. Post-1977 flows reprocessed in 2014. November 2000 flood peak is believed to be underestimated. June 2007 flood peak gauged at c.350 cumecs by ADVP. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10).</Comment>
+            <Comment type="Flow regime">River regulators and sluices on the Rother and Dearne tributaries control the operation of washlands in large floods. The heavily reservoired Don headwaters and Chesterfield and Clowne areas provide for a net import for supply via supply from the Derwent Valley and groundwater abstractions.</Comment>
+            <Comment type="Catchment">The catchment drains the east flank of the Pennines above Chesterfield, Sheffield and Barnsley. Mixed geology: Millstone Grit (headwaters), Coal Measures, Magnesian Limestone and Triassic Sandstones. Moorland headwaters, mixed agriculture in valleys along with significant industrialisation and urbanisation, including Sheffield, Rotherham and Doncaster. The eastern part of the catchment is low-lying, and was historically marshland, being drained in the 17th and 18th centuries by Dutch engineers. Historic tree-clearing, particularly in the Rother and Dearne valleys. Old mining areas are commonly subject to subsequent land-subsidence which poses a problem for the extensive raised flood banks. Once agricultural, Doncaster and Askern are now largely urbanised. Recent landscaping of Rother Country Park included significant tree planting. River regulators have been introduced over a period of time from 1958 to 1988.</Comment>
+            <Comment type="Factors affecting runoff">SPEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged well beyond QMED with all flow contained." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3. Limited amount of by-pass via canal." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>2.11</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

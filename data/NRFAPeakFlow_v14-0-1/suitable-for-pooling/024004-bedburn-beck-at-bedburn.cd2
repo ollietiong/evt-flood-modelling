@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 24004
+[END]
+[CDS DETAILS]
+NAME,Bedburn Beck
+LOCATION,Bedburn
+NOMINAL AREA,   74.12
+NOMINAL NGR,4117,5321
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,411800,532200
+DTM AREA,   74.12
+ALTBAR, 316
+ASPBAR, 95
+ASPVAR,0.33
+BFIHOST,0.362
+DPLBAR,  9.84
+DPSBAR,109.0
+FARL,0.999
+LDP, 17.31
+PROPWET,0.59
+RMED-1H, 10.0
+RMED-1D, 34.8
+RMED-2D, 45.1
+SAAR, 895
+SAAR4170, 948
+SPRHOST,43.76
+URBEXT1990,0.0007
+URBEXT2000,0.0006
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir set in a deep valley with progressive afforestation and felling practices. GENERAL: Compound Crump profile weir. No cableway. A steep drop d/s makes drowning unlikely. Set in a deep valley. STATION HYDROMETRY: Compound Crump profile weir, 2.4m wide low flow crest, 10.3m overall crest length (2:1 u/s and 5:1 d/s slopes). Flanking weir crests are 0.3m above central low flow crest. May be out of bank on right bank behind gauging hut in largest events (>2.1m stage) but well contained on left bank by steep slope and bypassing likely to be minimal. Difficult to gauge at high flows although this is now possible with ADCP and ARC boat. Single peak flow rating applied across period of record. Good fit to available gaugings. Flood Studies Report grade A1 to 2m. FLOW RECORD: Missing between Sep-Oct 1978 (reason unknown) and 10-12/08-2002 due to a tree affecting levels. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Natural regime, no known artificial influences.
+CATCHMENT,Predominantly upland catchment, on Millstone Grit in north and Coal Measures to south, a quarter of the catchment overlain by drift cover of Boulder Clay and peat. Land use is upland moorland, grass pasture and coniferous forest. Progressive afforestation and felling (Hamsterley Forest) since gauge established may have created changes in hydrological regime.
+Qmed Suitability,Although not gauged to within 30% of QMED, all flows are contained within the formal structure.
+Pooling Suitability,Almost all flows are contained within the formal structure, some minimal out of bank flow in very highest events, rating extrapolation expected to perform well.
+[END]

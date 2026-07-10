@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="NS4988662918" x="249886" y="662918">
+        <CatchmentCentroid grid="GB" ngr="NS5465655442" x="254656" y="655442"/>
+        <area>236.2575</area>
+        <altbar>146.0</altbar>
+        <aspbar>9.0</aspbar>
+        <aspvar>0.25</aspvar>
+        <bfihost>0.414</bfihost>
+        <bfihost19>0.425</bfihost19>
+        <bfihost19scaled>0.404</bfihost19scaled>
+        <dplbar>20.35</dplbar>
+        <dpsbar>63.9</dpsbar>
+        <draindens>1.376</draindens>
+        <farl>0.927</farl>
+        <farl2015>0.9277</farl2015>
+        <fpext>0.0827</fpext>
+        <fpdbar>1.064</fpdbar>
+        <fploc>0.79</fploc>
+        <ihdtmeasting>249900</ihdtmeasting>
+        <ihdtmnorthing>662900</ihdtmnorthing>
+        <ldp>36.66</ldp>
+        <propwet>0.6</propwet>
+        <rmed_1h>9.7</rmed_1h>
+        <rmed_1d>40.6</rmed_1d>
+        <rmed_2d>56.5</rmed_2d>
+        <saar>1306.0</saar>
+        <saar4170>1270.0</saar4170>
+        <saar9120>1431</saar9120>
+        <sprhost>38.16</sprhost>
+        <urbconc1990>0.843</urbconc1990>
+        <urbext1990>0.1277</urbext1990>
+        <urbloc1990>0.747</urbloc1990>
+        <urbconc2000>0.87</urbconc2000>
+        <urbext2000>0.1277</urbext2000>
+        <urbloc2000>0.755</urbloc2000>
+        <urbext2015>0.1574</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="NS4988662918" x="249886" y="662918">
+        <c>-0.01671</c>
+        <d1>0.43163</d1>
+        <d2>0.43777</d2>
+        <d3>0.37812</d3>
+        <e>0.24544</e>
+        <f>2.41744</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="NS500630" x="250000" y="663000">
+        <c_1_km>-0.016</c_1_km>
+        <d1_1_km>0.405</d1_1_km>
+        <d2_1_km>0.411</d2_1_km>
+        <d3_1_km>0.364</d3_1_km>
+        <e_1_km>0.245</e_1_km>
+        <f_1_km>2.371</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.2, 2.9, 3.6, 4.5, 6.1, 7.2, 8.6, 9.8, 11.2, 12.7, 14.2, 15.8, 17.6, 19.8, 22.1, 24.6, 27.2, 29.9, 32.7, 35.2, 38, 40.6</Depths>
+        <Depths duration="0.25">4, 5.2, 6.5, 8.3, 11.3, 13.6, 16.3, 18.7, 21.6, 24.8, 28.1, 31.4, 35.7, 40.2, 45.4, 50.8, 56.9, 63.2, 69.9, 76, 82.7, 89.4</Depths>
+        <Depths duration="0.5">5.5, 7.1, 8.9, 11.4, 15.6, 18.8, 22.6, 26.1, 30.1, 34.6, 39.4, 44.5, 50.5, 57.1, 64.8, 72.7, 81.7, 91, 100.9, 110.2, 120.4, 130.6</Depths>
+        <Depths duration="0.75">6.5, 8.5, 10.5, 13.5, 18.5, 22.3, 26.8, 30.8, 35.7, 41, 46.5, 52.3, 59.4, 67.2, 76.3, 85.4, 96, 106.8, 118.5, 129.1, 141.1, 153</Depths>
+        <Depths duration="1">7.4, 9.5, 11.8, 15.2, 20.8, 25, 29.9, 34.5, 39.9, 45.6, 51.8, 58.2, 66, 74.6, 84.5, 94.5, 106.1, 117.9, 130.4, 142.1, 155, 167.7</Depths>
+        <Depths duration="2">11.8, 14.3, 16.8, 20.6, 26.7, 31.2, 36.4, 41.4, 47.1, 53.1, 59.9, 66.8, 75.2, 84.6, 95.2, 105.8, 117.8, 130.1, 142.7, 154.6, 167.7, 180.6</Depths>
+        <Depths duration="4">17.3, 20.1, 22.9, 27.2, 33.8, 38.5, 44.1, 49.4, 55.5, 61.9, 69.1, 76.4, 85.5, 95.4, 106.5, 117.5, 130, 142.5, 155.3, 167.4, 180.6, 193.6</Depths>
+        <Depths duration="6">21.2, 24.2, 27.2, 31.7, 38.6, 43.6, 49.4, 54.9, 61.2, 67.9, 75.3, 82.9, 92.2, 102.4, 113.8, 125, 137.7, 150.4, 163.4, 175.5, 188.8, 202</Depths>
+        <Depths duration="12">29.5, 32.9, 36.3, 41.2, 48.8, 54.2, 60.4, 66.3, 73.1, 80.2, 88.2, 96.3, 106.2, 116.9, 128.6, 140.1, 153.3, 166.3, 179.5, 191.9, 205.5, 218.9</Depths>
+        <Depths duration="18">35.4, 39.1, 42.7, 48, 56, 61.6, 68.2, 74.5, 81.6, 89.1, 97.5, 106, 116.4, 127.5, 139.6, 151.3, 164.5, 177.8, 191.4, 204, 217.8, 231.3</Depths>
+        <Depths duration="24">40.1, 44, 47.8, 53.3, 61.7, 67.7, 74.5, 81, 88.5, 96.4, 105.1, 114.1, 124.8, 136.3, 148.7, 160.7, 174.1, 187.4, 201.1, 214, 228.1, 241.9</Depths>
+        <Depths duration="48">53.9, 58.4, 62.7, 69, 78.6, 85.3, 93.1, 100.5, 109.1, 118.2, 128.3, 138.6, 150.8, 163.5, 177, 189.8, 204.1, 218.2, 232.6, 245.8, 260.3, 274.5</Depths>
+        <Depths duration="96">73, 78.3, 83.4, 91, 102.4, 110.6, 120.2, 129.4, 140.2, 151.6, 164.3, 176.8, 191.3, 205.9, 221, 235.2, 250.5, 265.5, 280.8, 294.8, 310.1, 325.1</Depths>
+        <Depths duration="192">104.4, 111.2, 117.9, 127.7, 142.8, 153.8, 166.9, 179.7, 194.5, 209.9, 226.3, 241.8, 258.8, 275.7, 292.8, 308.5, 325.5, 342, 358.6, 374, 390.6, 406.9</Depths>
+        <Depths duration="240">119.6, 127.2, 134.7, 145.6, 162.6, 175, 189.8, 204.1, 220.5, 237.4, 254.9, 271.4, 289.3, 306.9, 324.8, 341.2, 358.8, 375.9, 393.1, 409, 426.2, 442.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 3, 3.6, 4.4, 5.8, 6.7, 7.9, 8.8, 9.9, 11, 12, 13.2, 14.2, 15.5, 16.7, 18.1, 19.6, 21.2, 22.9, 24.5, 26.3, 28</Depths>
+        <Depths duration="0.25">4.4, 5.5, 6.6, 8.2, 10.8, 12.7, 14.9, 16.9, 19.1, 21.5, 23.8, 26.1, 28.7, 31.5, 34.4, 37.5, 41, 44.8, 48.9, 52.8, 57.2, 61.6</Depths>
+        <Depths duration="0.5">6, 7.5, 9, 11.3, 14.9, 17.6, 20.7, 23.5, 26.7, 30, 33.5, 36.9, 40.7, 44.7, 49.2, 53.7, 58.9, 64.5, 70.6, 76.5, 83.2, 90.1</Depths>
+        <Depths duration="0.75">7.1, 8.9, 10.7, 13.3, 17.6, 20.8, 24.5, 27.8, 31.6, 35.5, 39.5, 43.4, 47.9, 52.6, 57.9, 63.1, 69.2, 75.8, 82.8, 89.7, 97.5, 105.4</Depths>
+        <Depths duration="1">8, 10, 12, 15, 19.8, 23.3, 27.3, 31.1, 35.3, 39.5, 44, 48.3, 53.2, 58.4, 64.1, 69.8, 76.5, 83.6, 91.2, 98.7, 107.1, 115.6</Depths>
+        <Depths duration="2">12.3, 14.5, 16.8, 20.1, 25.4, 29.1, 33.4, 37.5, 42, 46.6, 51.4, 56.1, 61.6, 67.5, 73.9, 80.3, 87.8, 95.7, 104, 112, 120.8, 129.6</Depths>
+        <Depths duration="4">17.9, 20.4, 23, 26.7, 32.5, 36.6, 41.3, 45.7, 50.6, 55.7, 61.2, 66.6, 72.9, 79.7, 87.2, 94.5, 103, 111.6, 120.6, 129, 138.2, 147.4</Depths>
+        <Depths duration="6">21.9, 24.7, 27.4, 31.5, 37.6, 41.9, 46.9, 51.7, 57, 62.5, 68.5, 74.5, 81.5, 89.1, 97.3, 105.3, 114.3, 123.3, 132.7, 141.4, 150.9, 160.3</Depths>
+        <Depths duration="12">30.5, 33.7, 36.8, 41.3, 48.3, 53.3, 59.1, 64.6, 71, 77.7, 85.1, 92.5, 101.1, 110.2, 119.8, 128.8, 138.8, 148.6, 158.6, 167.9, 178, 187.9</Depths>
+        <Depths duration="18">36.4, 39.9, 43.3, 48.3, 55.9, 61.4, 67.9, 74.1, 81.4, 89.2, 97.7, 106.3, 116.1, 126.1, 136.4, 146, 156.5, 166.8, 177.3, 186.9, 197.4, 207.7</Depths>
+        <Depths duration="24">41.1, 44.8, 48.4, 53.7, 62, 68, 75, 81.9, 90, 98.7, 108.3, 117.7, 128.3, 138.9, 149.7, 159.8, 170.7, 181.3, 192.1, 202, 212.8, 223.4</Depths>
+        <Depths duration="48">54.4, 58.8, 63.1, 69.4, 79.5, 86.9, 96, 105.1, 115.9, 127.2, 139.1, 150.3, 162.5, 174.5, 186.5, 197.6, 209.5, 221.2, 232.9, 243.6, 255.2, 266.5</Depths>
+        <Depths duration="96">72.8, 78.2, 83.4, 91.3, 103.9, 113.4, 125, 136.6, 149.9, 163.5, 177.4, 190.2, 204, 217.4, 230.7, 242.9, 255.9, 268.6, 281.3, 293, 305.7, 317.9</Depths>
+        <Depths duration="192">104.9, 111.7, 118.4, 128.4, 143.9, 155.4, 169, 182.3, 197.4, 212.6, 228.2, 242.6, 258.1, 273, 287.8, 301.5, 316.2, 330.5, 344.7, 357.7, 371.8, 385.5</Depths>
+        <Depths duration="240">121.2, 128.6, 136, 146.7, 163.4, 175.4, 189.5, 203.1, 218.4, 233.9, 249.9, 264.7, 280.7, 296.2, 311.6, 325.8, 341.2, 356.1, 370.9, 384.5, 399.1, 413.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Hawkhead" name="White Cart Water" number="84012">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station with complex water utilisation.</Comment>
+            <Comment type="Hydrometric">Major flood defence works have been developed through the White Cart catchment. In the first phase, three flood storage areas were built in the upper catchment. This work started in March 2008 and were completed in Autumn 2010. A second phase of the flood defence involved the construction of flood defence walls along the White Cart in the Southside of Glasgow upstream of Hawkhead Gauging Station. This work started in January 2009 and was completed in October 2011.</Comment>
+            <Comment type="General">Velocity area station; approx. 20m wide section in a straight reach of uniform cross-section. Occasional vandalism.</Comment>
+            <Comment type="Flow record">Complex water utilisation; some monthly naturalised flows available (1963-74). Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5).</Comment>
+            <Comment type="Flow regime">Storage in the catchment with complex water utilisation. Urban drainage systems.</Comment>
+            <Comment type="Catchment">Predominantly lowland catchment. Carboniferous rocks (basalt in the headwaters) dominate; greater than half overlain by Boulder Clay. Much of the catchment is open pasture (with several small lochs) but the northern part is heavily urbanised (Glasgow); some forestry. Notable floodplains. Development of East Kilbride and Newton Mearns (suburban development). Flood prevention scheme planned for the future.</Comment>
+            <Comment type="Factors affecting runoff">S</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged to QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Bypassing above 3.3m." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-3.19</value>
+            <significance comment="Significant at the 5% level">5</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

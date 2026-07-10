@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 37014
+[END]
+[CDS DETAILS]
+NAME,Roding
+LOCATION,High Ongar
+NOMINAL AREA,   92.65
+NOMINAL NGR,5561,2041
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,556150,204100
+DTM AREA,   92.65
+ALTBAR,  76
+ASPBAR,130
+ASPVAR,0.17
+BFIHOST,0.403
+DPLBAR, 15.73
+DPSBAR, 18.4
+FARL,0.986
+LDP, 31.35
+PROPWET,0.31
+RMED-1H, 11.2
+RMED-1D, 29.9
+RMED-2D, 38.0
+SAAR, 597
+SAAR4170, 610
+SPRHOST,46.46
+URBCONC1990, 0.406
+URBEXT1990,0.0086
+URBLOC1990, 0.978
+URBCONC2000, 0.569
+URBEXT2000,0.0076
+URBLOC2000, 1.150
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Highest flow gauging station on the River Roding. Essex modified Flat V weir that was superceded by Ultrasonic time of flight due to repeated drowning. GENERAL: Ultrasonic time of flight in an 11m section. Ultrasonic replaced Essex weir rating in November 2012. Essex weir used to maintain head for measuring cross section. Used for both water resource and flood warning/forecasting purposes. STATION HYDROMETRY: Originally Essex weir superseded by Ultrasonic time of flight with the weir used to retain depth. Bypassing can also occur on both banks and can occur surprisingly quickly. Structure subject to drowning during high flows due to backwater effects from two d/s bridges. Heavy in-channel vegetation and surcharging of bridge soffit also influence drowning. Evidence that the modular limit has reduced over time due to the reduction in channel clearance and maintenance. Evidence of weir settlement discovered in 1991. Flows were corrected from 1987-91 to take account of this. FLOW RECORD: Levels can exceed bankfull and gauge is bypassed. Naturalised flows available between 1964 and 1976. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Responsive flow regime. Minimal net import into the catchment but flows are influenced by groundwater abstraction/recharge. Abstraction for industrial/agricultural purposes, particularly spray irrigation, can substantially deplete low flows.
+CATCHMENT,Generally low lying, largely impermeable (London Clay/glacial deposits), agricultural catchment with some industrial land use.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to near AMAX3. Good fit to gaugings.
+[END]

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SU8706206450" x="487062" y="106450">
+        <CatchmentCentroid grid="GB" ngr="SU8771913380" x="487719" y="113380"/>
+        <area>86.1975</area>
+        <altbar>122.0</altbar>
+        <aspbar>192.0</aspbar>
+        <aspvar>0.2</aspvar>
+        <bfihost>0.936</bfihost>
+        <bfihost19>0.915</bfihost19>
+        <bfihost19scaled>0.915</bfihost19scaled>
+        <dplbar>11.94</dplbar>
+        <dpsbar>102.0</dpsbar>
+        <draindens>0.144</draindens>
+        <farl>1.0</farl>
+        <farl2015>0.9997</farl2015>
+        <fpext>0.0336</fpext>
+        <fpdbar>0.233</fpdbar>
+        <fploc>0.657</fploc>
+        <ihdtmeasting>487050</ihdtmeasting>
+        <ihdtmnorthing>106450</ihdtmnorthing>
+        <ldp>21.09</ldp>
+        <propwet>0.34</propwet>
+        <rmed_1h>10.3</rmed_1h>
+        <rmed_1d>40.7</rmed_1d>
+        <rmed_2d>50.9</rmed_2d>
+        <saar>922.0</saar>
+        <saar4170>964.0</saar4170>
+        <saar9120>1054</saar9120>
+        <sprhost>7.23</sprhost>
+        <urbconc1990>0.21</urbconc1990>
+        <urbext1990>0.0056</urbext1990>
+        <urbloc1990>0.267</urbloc1990>
+        <urbconc2000>0.599</urbconc2000>
+        <urbext2000>0.0075</urbext2000>
+        <urbloc2000>0.571</urbloc2000>
+        <urbext2015>0.0096</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SU8706206450" x="487062" y="106450">
+        <c>-0.02728</c>
+        <d1>0.44264</d1>
+        <d2>0.28859</d2>
+        <d3>0.38683</d3>
+        <e>0.30964</e>
+        <f>2.39458</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SU870060" x="487000" y="106000">
+        <c_1_km>-0.026</c_1_km>
+        <d1_1_km>0.434</d1_1_km>
+        <d2_1_km>0.24</d2_1_km>
+        <d3_1_km>0.341</d3_1_km>
+        <e_1_km>0.306</e_1_km>
+        <f_1_km>2.353</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.2, 3.9, 4.6, 5.7, 7.4, 8.6, 9.8, 10.9, 12, 13.1, 14.3, 15.5, 16.8, 18.2, 20, 22, 24.7, 28.1, 31.6, 35, 38.6, 42.1</Depths>
+        <Depths duration="0.25">5.5, 6.8, 8.1, 10.1, 13.2, 15.5, 18, 20.1, 22.6, 25.1, 27.7, 30.2, 33.2, 36.4, 40.4, 45.1, 51.3, 58.7, 67.1, 75.1, 83.9, 92.5</Depths>
+        <Depths duration="0.5">7.3, 9, 10.8, 13.5, 17.7, 20.8, 24.2, 27.3, 30.8, 34.3, 38.1, 41.8, 46.1, 50.9, 56.7, 63.5, 72.7, 83.5, 95.9, 107.9, 121.1, 134.1</Depths>
+        <Depths duration="0.75">8.5, 10.5, 12.6, 15.7, 20.6, 24.2, 28.2, 31.8, 36.2, 40.3, 44.9, 49.3, 54.4, 60.2, 67.2, 75.3, 86.4, 99.5, 114.5, 128.9, 144.9, 160.8</Depths>
+        <Depths duration="1">9.5, 11.7, 14, 17.4, 22.8, 26.7, 31.2, 35.4, 40.1, 44.9, 49.9, 54.8, 60.6, 67.1, 74.9, 84, 96.4, 111.1, 127.9, 144.1, 162.1, 179.9</Depths>
+        <Depths duration="2">14.1, 16.6, 19.1, 22.9, 28.8, 33, 37.7, 42.2, 47.2, 52.3, 57.7, 63.3, 70, 78, 88, 99.7, 114.9, 131.6, 149.2, 165.8, 184.1, 202.3</Depths>
+        <Depths duration="4">19.5, 22.4, 25.2, 29.3, 35.7, 40.2, 45.4, 50.2, 55.6, 61.2, 67.3, 73.7, 81.9, 91.9, 104.7, 118.7, 135.7, 153.1, 171.3, 188.4, 207.1, 225.6</Depths>
+        <Depths duration="6">23.1, 26.1, 29.1, 33.5, 40.3, 45, 50.4, 55.4, 61.1, 67.1, 73.8, 80.8, 90.1, 101.6, 116, 131.1, 148.8, 166.5, 184.9, 202.2, 221.2, 240</Depths>
+        <Depths duration="12">29.8, 33.2, 36.6, 41.4, 48.8, 53.9, 59.8, 65.4, 71.8, 78.6, 86.4, 95, 106.5, 120.6, 137.1, 153.5, 172, 190.4, 209.2, 226.8, 246.1, 265.2</Depths>
+        <Depths duration="18">34.2, 37.8, 41.3, 46.5, 54.2, 59.7, 66, 71.9, 78.8, 86.2, 94.8, 104.4, 117.5, 132.9, 150.3, 167.2, 186.3, 204.9, 223.9, 241.7, 261.2, 280.5</Depths>
+        <Depths duration="24">37.5, 41.2, 44.9, 50.3, 58.4, 64.1, 70.7, 76.9, 84.1, 92, 101.3, 111.7, 125.7, 141.9, 159.8, 177.1, 196.4, 215.2, 234.5, 252.3, 271.9, 291.3</Depths>
+        <Depths duration="48">46.8, 51.2, 55.3, 61.4, 70.6, 77, 84.4, 91.5, 99.8, 108.8, 119.6, 131.6, 147.3, 164.7, 183.6, 201.5, 221.3, 241, 260.9, 279.2, 299.2, 319</Depths>
+        <Depths duration="96">61.3, 66.4, 71.3, 78.4, 89.1, 96.5, 105.1, 113.1, 122.3, 132.2, 143.7, 155.9, 171.3, 188.7, 207.7, 226, 246.2, 266.3, 286.9, 305.9, 326.6, 346.7</Depths>
+        <Depths duration="192">87.9, 94.4, 100.6, 109.7, 122.9, 131.9, 142.2, 151.6, 162, 172.2, 183, 193.9, 207, 221.3, 237.4, 253.5, 272.3, 291.7, 312, 331.2, 352.1, 372.8</Depths>
+        <Depths duration="240">101.8, 109.1, 116, 126.1, 140.7, 150.6, 161.8, 172, 183, 193.8, 204.9, 215.8, 228.6, 242.1, 256.7, 271, 287.4, 304.5, 322.8, 340.6, 360.7, 380.8</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3.3, 4.1, 4.9, 6.2, 8.1, 9.4, 10.7, 11.9, 13.1, 14.3, 15.6, 16.8, 18.2, 19.5, 21.3, 22.9, 24.9, 27.1, 29.4, 31.6, 33.9, 36.1</Depths>
+        <Depths duration="0.25">5.8, 7.2, 8.7, 11, 14.4, 16.9, 19.6, 22, 24.6, 27.2, 30.1, 32.8, 35.9, 39.1, 42.9, 46.9, 51.6, 56.8, 62.4, 67.7, 73.6, 79.3</Depths>
+        <Depths duration="0.5">7.6, 9.6, 11.6, 14.7, 19.3, 22.7, 26.5, 29.8, 33.6, 37.3, 41.4, 45.3, 49.8, 54.6, 60.3, 66.1, 73.1, 80.8, 89.2, 97.3, 106.2, 114.9</Depths>
+        <Depths duration="0.75">8.9, 11.2, 13.5, 17.1, 22.5, 26.4, 30.8, 34.8, 39.4, 43.8, 48.8, 53.4, 58.8, 64.6, 71.5, 78.4, 86.9, 96.3, 106.4, 116.2, 127, 137.8</Depths>
+        <Depths duration="1">9.9, 12.4, 15, 18.9, 24.9, 29.2, 34.1, 38.7, 43.7, 48.8, 54.2, 59.4, 65.5, 72, 79.6, 87.4, 97, 107.5, 118.9, 129.9, 142.1, 154.2</Depths>
+        <Depths duration="2">15.2, 18.3, 21.3, 25.7, 32.6, 37.3, 42.7, 47.8, 53.3, 59, 65, 71, 78.1, 86, 95, 104.5, 115.9, 127.7, 140, 151.7, 164.5, 177.1</Depths>
+        <Depths duration="4">21.1, 24.5, 28, 33, 40.6, 45.9, 51.9, 57.4, 63.7, 70.1, 77.2, 84.4, 93.3, 103.3, 114.7, 125.9, 138.5, 151.3, 164.6, 176.9, 190.4, 203.6</Depths>
+        <Depths duration="6">24.5, 28.2, 31.9, 37.3, 45.3, 50.8, 57.2, 63.1, 69.8, 76.9, 84.8, 93.1, 103.4, 115, 127.5, 139.7, 153.1, 166.2, 179.8, 192.5, 206.5, 220.2</Depths>
+        <Depths duration="12">30.3, 34.4, 38.3, 44.2, 52.9, 59, 65.9, 72.6, 80.2, 88.5, 98.2, 108.5, 121.4, 135, 149.3, 162.6, 177, 191, 205.2, 218.5, 233.1, 247.5</Depths>
+        <Depths duration="18">33.8, 38.2, 42.4, 48.5, 57.6, 64, 71.3, 78.3, 86.6, 95.7, 106.3, 117.8, 131.7, 146.2, 161.2, 175, 189.8, 204.4, 219.2, 233.1, 248.1, 262.6</Depths>
+        <Depths duration="24">36.6, 41.1, 45.4, 51.7, 61.1, 67.7, 75.3, 82.6, 91.3, 100.9, 112.2, 124.3, 138.7, 153.6, 168.9, 183.1, 198.4, 213.2, 228.3, 242.2, 257.2, 271.8</Depths>
+        <Depths duration="48">45.8, 50.7, 55.5, 62.4, 72.7, 79.8, 88, 96, 105.4, 115.9, 128.2, 141.2, 156.6, 172.2, 188.1, 202.8, 218.6, 234, 249.5, 263.8, 279.2, 294.2</Depths>
+        <Depths duration="96">61.3, 67, 72.5, 80.4, 91.8, 99.6, 108.6, 117.1, 126.8, 137.4, 149.6, 162.5, 178, 194.1, 210.5, 225.7, 242.1, 258, 274.1, 288.9, 304.8, 320.3</Depths>
+        <Depths duration="192">90.6, 97.7, 104.2, 113.3, 126.7, 135.7, 145.5, 154.5, 164.5, 174.9, 186.5, 198.8, 213.3, 228.5, 244.9, 260.5, 277.5, 294.2, 311, 326.3, 342.9, 358.9</Depths>
+        <Depths duration="240">105, 112.7, 119.6, 129.4, 143.5, 153, 163.2, 172.5, 182.8, 193.2, 204.6, 216.6, 230.6, 245.3, 261.4, 276.9, 294.1, 310.9, 327.9, 343.4, 360.1, 376.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Graylingwell" name="Lavant" number="41023">
+        <Comments>
+            <Comment type="Station Summary">Flat-V weir gauging an ephemeral stream in a permeable catchment. Baseflow-dominated regime affected by significant groundwater abstraction.</Comment>
+            <Comment type="Hydrometric">Bypassing during extreme events (e.g. Jan 1994 and Nov 2000 when peaks were ~8 cumecs - based on current-meter gaugings). November 2000 event was gauged at 7.925 m3/s; bypassing of the gauge occurred at this time with further groundwater issuing from banks into the stream downstream of the gauge. Severe weed growth especially during summer can cause structure to drown out if not cleared. Structure suffers from velocity problems (underestimation of flow) at higher flows but this has been gauged. Gauge board had levelling problems in the past, this was amended following the rating review, May 2003. Major channel works carried out for Flood Alleviation scheme after 1994 flood; review in 2003 suggested rating should change in 1994 to accommodate channel clearance work. Two ratings applied across period of record, the most recent is valid from August-1994. Hydraulic modelling was used to derive upper limbs of the current rating.</Comment>
+            <Comment type="General">Flat-V weir (crest width 5.0 m, cross-slope 1:10, maximum head 1m, capacity 6 cumecs). The River Lavant has a long history of flooding, the last major events occurring in 1960, 1994-5 and 2000.</Comment>
+            <Comment type="Flow record">Extended periods with zero flow as the stream is spring fed, which can give very low AMAX flows and no POT data are presented. Some years no flow altogether (e.g. WY1995/1996 and WY1996/1997). During summer 1963, low and medium flows were gauged by current meter on portable rods at weekly intervals until the Lavant dried up; gauging was continued on the downstream side of the Marsh Lane Bridge. Complete flow record from the 1970s. Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12).</Comment>
+            <Comment type="Flow regime">A winterbourne stream with baseflow-dominated regime but spring outflows can increase dramatically following exceptional rainfall. Runoff is substantially reduced by groundwater abstraction. Flood alleviation scheme for Chichester had been completed sufficiently by 1992-93 for water to be taken from the Lavant downstream of the weir, through culverts to Church Farm Pit, through Forebridge Rife and discharged to Pagham Harbour through Pagham Rife. The oldest known continuous groundwater level record exists at Chilgrove House, within the catchment. This record, dating back to 1836, gives early warning of flood flows for Chichester. The area to the east and south of Chichester has undergone large scale gravel extraction over the past 50 years, leaving many worked out pits either filled in and developed, or water filled. This has possibly enhanced groundwater levels as the bulk flow is now confined to narrow corridors between former workings.</Comment>
+            <Comment type="Catchment">The Lavant is an ephemeral stream within a permeable catchment, with an upper steep chalk catchment on the South Downs above Westhampnett and a flat, gravel plain lower catchment. Land use is agricultural with significant woodland in the upper catchment; the lower catchment is far more developed, especially close to Graylingwell and Chichester. Church Farm Pit, a water filled worked out gravel pit, is a good indicator of groundwater levels in the lower catchment. The oldest known continuous groundwater level record exists at Chilgrove House, within the catchment. This record, dating back to 1836, gives early warning of flood flows for Chichester.</Comment>
+            <Comment type="Factors affecting runoff">G</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED. Good fit to gaugings." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3. with good fit to rating." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SX5214161175" x="252141" y="61175">
+        <CatchmentCentroid grid="GB" ngr="SX5635366803" x="256353" y="66803"/>
+        <area>79.4975</area>
+        <altbar>277.0</altbar>
+        <aspbar>249.0</aspbar>
+        <aspvar>0.29</aspvar>
+        <bfihost>0.481</bfihost>
+        <bfihost19>0.408</bfihost19>
+        <bfihost19scaled>0.408</bfihost19scaled>
+        <dplbar>11.67</dplbar>
+        <dpsbar>104.0</dpsbar>
+        <draindens>1.188</draindens>
+        <farl>0.95</farl>
+        <farl2015>0.9488</farl2015>
+        <fpext>0.0282</fpext>
+        <fpdbar>0.389</fpdbar>
+        <fploc>0.873</fploc>
+        <ihdtmeasting>252150</ihdtmeasting>
+        <ihdtmnorthing>61200</ihdtmnorthing>
+        <ldp>20.56</ldp>
+        <propwet>0.48</propwet>
+        <rmed_1h>13.3</rmed_1h>
+        <rmed_1d>54.0</rmed_1d>
+        <rmed_2d>68.0</rmed_2d>
+        <saar>1617.0</saar>
+        <saar4170>1588.0</saar4170>
+        <saar9120>1797</saar9120>
+        <sprhost>38.28</sprhost>
+        <urbconc1990>0.502</urbconc1990>
+        <urbext1990>0.0076</urbext1990>
+        <urbloc1990>0.724</urbloc1990>
+        <urbconc2000>0.67</urbconc2000>
+        <urbext2000>0.0067</urbext2000>
+        <urbloc2000>0.683</urbloc2000>
+        <urbext2015>0.0081</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SX5214161175" x="252141" y="61175">
+        <c>-0.02945</c>
+        <d1>0.48852</d1>
+        <d2>0.30953</d2>
+        <d3>0.41965</d3>
+        <e>0.30137</e>
+        <f>2.58888</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SX520610" x="252000" y="61000">
+        <c_1_km>-0.029</c_1_km>
+        <d1_1_km>0.452</d1_1_km>
+        <d2_1_km>0.313</d2_1_km>
+        <d3_1_km>0.403</d3_1_km>
+        <e_1_km>0.295</e_1_km>
+        <f_1_km>2.515</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.7, 3.2, 3.9, 4.8, 6.2, 7.1, 8.1, 9, 10, 10.9, 12, 13.2, 15, 17, 19.8, 22.7, 25.9, 28.9, 31.9, 34.5, 37.2, 39.9</Depths>
+        <Depths duration="0.25">5, 6.1, 7.3, 9.1, 11.8, 13.7, 15.8, 17.8, 20, 22.2, 24.8, 27.7, 31.4, 36.5, 42.9, 49.7, 57.3, 64.8, 72.3, 79.1, 86.6, 93.8</Depths>
+        <Depths duration="0.5">7.1, 8.5, 10.3, 12.7, 16.7, 19.3, 22.5, 25.4, 28.8, 32.3, 36.3, 40.6, 46.5, 54.2, 64.2, 74.8, 86.9, 98.6, 110.8, 121.9, 134.3, 146.3</Depths>
+        <Depths duration="0.75">8.5, 10.3, 12.3, 15.2, 20, 23.2, 27.1, 30.7, 34.9, 39.2, 44.3, 49.7, 57.1, 66.7, 79.2, 92.5, 107.7, 122.6, 138.1, 152.4, 168.1, 183.8</Depths>
+        <Depths duration="1">9.6, 11.7, 14, 17.3, 22.6, 26.4, 30.8, 35, 39.8, 44.8, 50.6, 56.8, 65.3, 76.4, 90.8, 106.2, 123.8, 141.1, 159, 175.7, 194.1, 212.4</Depths>
+        <Depths duration="2">15.4, 18, 20.6, 24.6, 30.6, 34.9, 39.9, 44.6, 50.1, 56, 63.1, 71.2, 82.8, 97.5, 114.3, 131.1, 149.6, 167.9, 186.5, 204, 223.1, 241.9</Depths>
+        <Depths duration="4">23.3, 26.5, 29.7, 34.3, 41.2, 46.1, 51.8, 57.2, 63.7, 71, 80.2, 91.2, 106.6, 124, 142.6, 160.4, 180, 199.2, 218.8, 237, 256.8, 276.3</Depths>
+        <Depths duration="6">29.1, 32.6, 36.1, 41.1, 48.6, 54, 60.1, 66.2, 73.4, 81.8, 92.6, 105.8, 123.2, 141.9, 161.4, 179.8, 200.2, 220.1, 240.2, 258.9, 279.3, 299.4</Depths>
+        <Depths duration="12">40.4, 44.6, 48.7, 54.5, 63.3, 69.5, 76.7, 83.8, 92.6, 103.3, 117.6, 134.3, 154.6, 175.1, 196.1, 215.7, 237.3, 258.3, 279.7, 299.4, 320.8, 341.7</Depths>
+        <Depths duration="18">47.8, 52.4, 56.8, 63.3, 72.8, 79.6, 87.5, 95.4, 105.3, 117.3, 133.4, 151.6, 173.1, 194.5, 216.4, 236.7, 258.9, 280.7, 302.7, 322.9, 344.9, 366.4</Depths>
+        <Depths duration="24">53.4, 58.4, 63.1, 70, 80.2, 87.5, 95.9, 104.4, 114.9, 127.7, 144.7, 163.6, 185.7, 207.7, 230.1, 250.8, 273.4, 295.6, 318.1, 338.7, 361.2, 383.1</Depths>
+        <Depths duration="48">69.3, 75.3, 81, 89.2, 101.3, 109.7, 119.5, 128.9, 140.3, 153.5, 170, 188.4, 210.8, 233.6, 256.9, 278.4, 301.9, 325.1, 348.3, 369.6, 392.7, 415.2</Depths>
+        <Depths duration="96">93.5, 101.1, 108.5, 118.9, 134, 144.3, 155.8, 166.4, 178.2, 190.5, 204.1, 218.2, 235.8, 255.4, 277.2, 298.7, 322.7, 346.1, 369.5, 391.2, 414.6, 437.4</Depths>
+        <Depths duration="192">137.9, 148.7, 159, 173.5, 194.4, 208.4, 223.7, 237.4, 252, 266, 280.2, 293.3, 307.6, 321.8, 336.5, 350.8, 366.7, 382.8, 400.2, 417.2, 436.6, 456.6</Depths>
+        <Depths duration="240">159.8, 172.2, 184, 200.6, 224.5, 240.5, 257.9, 273.4, 289.8, 305.6, 321.3, 335.7, 351.3, 366.4, 381.9, 396.5, 412.4, 427.8, 443.9, 459.1, 475.9, 492.8</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.2, 4, 4.8, 6.3, 7.2, 8.2, 9, 9.9, 10.7, 11.5, 12.4, 13.4, 14.4, 15.7, 17.2, 19.3, 21.5, 23.9, 26, 28.3, 30.4</Depths>
+        <Depths duration="0.25">4.9, 6.1, 7.3, 9.3, 12, 13.9, 15.9, 17.8, 19.8, 21.8, 23.8, 25.9, 28.2, 30.8, 34, 37.7, 42.6, 48.3, 54.3, 59.7, 65.8, 71.5</Depths>
+        <Depths duration="0.5">6.9, 8.5, 10.3, 13, 16.9, 19.6, 22.7, 25.5, 28.6, 31.6, 34.8, 38, 41.7, 45.8, 50.8, 56.7, 64.6, 73.5, 83.1, 92, 102, 111.6</Depths>
+        <Depths duration="0.75">8.3, 10.3, 12.4, 15.5, 20.4, 23.6, 27.4, 30.8, 34.7, 38.4, 42.5, 46.4, 51.1, 56.4, 62.7, 70.1, 80.2, 91.4, 103.6, 115, 127.7, 140.2</Depths>
+        <Depths duration="1">9.4, 11.7, 14.1, 17.6, 23, 26.8, 31.1, 35.1, 39.5, 43.9, 48.5, 53.1, 58.5, 64.6, 71.9, 80.5, 92.1, 105.2, 119.3, 132.6, 147.4, 162</Depths>
+        <Depths duration="2">15.9, 18.8, 21.7, 25.9, 32.3, 36.7, 41.6, 46.1, 51, 56, 61.3, 66.7, 73.2, 80.8, 90.3, 101.4, 115.3, 129.8, 144.9, 159, 174.4, 189.7</Depths>
+        <Depths duration="4">24.4, 27.9, 31.5, 36.5, 43.9, 48.9, 54.5, 59.7, 65.4, 71.2, 77.6, 84.2, 92.6, 103, 116, 129.9, 145.9, 161.7, 177.9, 192.9, 209.3, 225.4</Depths>
+        <Depths duration="6">29.9, 33.9, 37.8, 43.3, 51.3, 56.7, 62.8, 68.4, 74.7, 81.2, 88.5, 96.4, 106.8, 119.7, 135.1, 150.5, 167.4, 184, 200.9, 216.6, 233.6, 250.3</Depths>
+        <Depths duration="12">39.9, 44.5, 49, 55.3, 64.6, 70.8, 77.9, 84.5, 92.1, 100.4, 110.4, 121.8, 137.3, 154.8, 173.3, 190.7, 209.3, 227.4, 245.6, 262.4, 280.6, 298.3</Depths>
+        <Depths duration="18">45.9, 51, 55.8, 62.7, 72.8, 79.7, 87.4, 94.8, 103.5, 113.2, 125.3, 139.5, 157.9, 177.2, 197.1, 215.4, 235, 253.8, 272.9, 290.3, 309.2, 327.6</Depths>
+        <Depths duration="24">50.5, 56, 61.1, 68.5, 79.3, 86.6, 95, 103, 112.5, 123.3, 136.9, 152.8, 172.6, 192.9, 213.4, 232.1, 252.4, 272.1, 291.7, 309.6, 329, 347.9</Depths>
+        <Depths duration="48">64, 70.6, 76.9, 85.7, 98.5, 107.2, 117, 126.4, 137.5, 149.9, 165.2, 182.4, 203.5, 224.9, 246.7, 266.5, 287.9, 308.4, 328.9, 347.7, 367.9, 387.6</Depths>
+        <Depths duration="96">86.8, 95.3, 103.4, 114.7, 131, 141.9, 154, 165, 177.2, 189.7, 203.3, 217.1, 234, 252.6, 273.1, 292.7, 314.2, 335.2, 356.3, 375.6, 396.4, 416.6</Depths>
+        <Depths duration="192">131.7, 144, 155.5, 171.6, 194.6, 209.8, 226.2, 240.7, 255.9, 270.5, 285, 298.3, 312.6, 326.6, 341, 354.6, 369.9, 385.3, 401, 416.3, 433.4, 450.8</Depths>
+        <Depths duration="240">154.6, 168.8, 182.2, 200.8, 227.3, 244.7, 263.5, 280.1, 297.4, 313.9, 330.3, 345.1, 361.1, 376.4, 392, 406.5, 422.5, 438.3, 453.9, 468.8, 485.3, 501.6</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Carn Wood" name="Plym" number="47011">
+        <Comments>
+            <Comment type="Station Summary">Compound Crump weir built in 1971.</Comment>
+            <Comment type="Hydrometric">Modular to around 1.6m, drowning occurs at high flows. One peak flow rating across period of record. Theoretical rating does not apply beyond top of wingwalls are they are very rarely overtopped and by very little. Only bypassed on largest floods of 1979 and 2000. Tailwater recorder added 09/2007. At one time received diversions from the Dart via the Devonport Leat (~0.21 cumec), but this has now ceased. Flows from 2000 (reopening) onward reprocessed in 2007 following datum correction. Rating appears to underestimate flows beyond 0.8m. An Acoustic Doppler device installed in 09/2014 to confirm flows above 0.8m and identify the point and extent of drowning.</Comment>
+            <Comment type="General">Compound crump weir built in 1971. Centre crest of 3.5m and 2 flank crests of 4.5m. Total crest width 12.5m.</Comment>
+            <Comment type="Flow record">Station closed between 01/10/1981-17/04/2000. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).</Comment>
+            <Comment type="Flow regime">Burrator Reservoir influences flows. The headwaters of Plym and Meavy rise on W Dartmoor granite and pass SW onto Upper Devonian slates. Insignificant areas of alluvium and river gravel exist, particularly between gauging station and Meavy-Plym confluence. Land use is moorland, forestry.</Comment>
+            <Comment type="Catchment">The headwaters of Plym and Meavy rise on W Dartmoor granite downstream of Burrator Reservoir and pass SW onto Upper Devonian slates. Insignificant areas of alluvium and river gravel exist, most particularly between the gauging station and the Meavy-Plym confluence. Moorland catchment with forestry. No major changes apart from afforestation.</Comment>
+            <Comment type="Factors affecting runoff">SRPGEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged to within 18% of QMED. Estimates thought to be reasonable." suitable="Yes" type="QMED"/>
+            <Usage notes="Few high flow gaugings. Flows are adjusted for drowning only from 2007." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

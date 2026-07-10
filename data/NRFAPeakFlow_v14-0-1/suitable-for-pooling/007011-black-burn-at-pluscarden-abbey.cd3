@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  7011
+[END]
+[CDS DETAILS]
+NAME,Black Burn
+LOCATION,Pluscarden Abbey
+NOMINAL AREA,   36.38
+NOMINAL NGR,3144,8575
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,314450,857500
+CENTROID NGR,GB,309709,854047
+DTM AREA,   36.38
+ALTBAR, 168
+ASPBAR,  8
+ASPVAR,0.33
+BFIHOST,0.661
+DPLBAR,  7.94
+DPSBAR,111.5
+FARL,0.980
+FPEXT,0.0413
+LDP, 14.81
+PROPWET,0.42
+RMED-1H,  9.0
+RMED-1D, 35.9
+RMED-2D, 46.8
+SAAR, 808
+SAAR4170, 873
+SPRHOST,27.08
+URBEXT1990,0.0001
+URBEXT2000,0.0006
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a coastal catchment in North Scotland. GENERAL: Open channel section with gravel control. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: No cableway. Gauged to AMAX1, all flows contained (bankfull is greater than AMAX1). Multiple peak flow ratings across period of record.
+CATCHMENT,Upper coastal catchment. Arable, pasture, rough grazing, some forestry.
+Qmed Suitability,Gauged to AMAX 1.
+Pooling Suitability,Gauged to AMAX 1.
+[END]

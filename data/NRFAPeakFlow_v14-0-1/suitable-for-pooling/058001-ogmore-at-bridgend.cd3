@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58001
+[END]
+[CDS DETAILS]
+NAME,Ogmore
+LOCATION,Bridgend
+NOMINAL AREA,  157.79
+NOMINAL NGR,2903,1794
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,290400,179450
+CENTROID NGR,GB,290379,188501
+DTM AREA,  157.79
+ALTBAR, 211
+ASPBAR,187
+ASPVAR,0.18
+BFIHOST,0.478
+DPLBAR, 13.93
+DPSBAR,171.3
+FARL,0.998
+FPEXT,0.0378
+LDP, 25.34
+PROPWET,0.52
+RMED-1H, 12.5
+RMED-1D, 54.4
+RMED-2D, 72.3
+SAAR,1775
+SAAR4170,1846
+SPRHOST,36.37
+URBCONC1990, 0.652
+URBEXT1990,0.0392
+URBLOC1990, 0.791
+URBCONC2000, 0.766
+URBEXT2000,0.0565
+URBLOC2000, 0.790
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with Flat V weir (installed in July 1975). GENERAL: Velocity area station with Flat V weir (installed in July 1975). Channel width: 20m. STATION HYDROMETRY: Weir 1:20 cross-slope. Flat V weir installed in August 1975. Wingwalls raised from 1.8m to 3.75m in early/mid 1980s, bankfull prior to mid 1980s was 2.65m. Most events have been in-bank at the station, the exceptions being Dec 1960 (0.37m above bankfull) and Nov 1970 (0.08m above bankfull). FLOW RECORD: Flows estimated for March-April 1986. Before bank levels were raised in early/mid 1980s flows above 1.8m are likely to be slightly underestimated (above wingwalls but in-bank), and above 2.65m more notably underestimated due to out of bank flow (Dec 1960 was 0.37m above bankfull and Nov 1970 was 0.08m above bankfull). FLOW REGIME: Industrial/agricultural abstractions may reduce flows, but runoff also increased by effluent returns. Bridgend Flood defences built in early 1980s are likely to increase peak flows after that date. The last operational coal mines in this area closed in 1985 and minewater recovery is understood to have occurred by the late 1980s. Mine dewatering increased low flows and may have provided some attenuation in flood events. M4 was built approx 4km upstream of this station in 1980 and may hold back flow in higher events.
+CATCHMENT,Mainly Coal Measures, some Boulder Clay and alluvium in valleys. Peaty soils on hills, seasonally wet. Soils in lowland areas have permeable substrate. Land use is mainly grassland supporting livestock farming in uplands to N, dairy farming in S, with some forest cover throughout. Heavy urban and industrial development in valleys, including significant development just u/s of station.
+Qmed Suitability,QMED consistent pre- and post- weir.
+Pooling Suitability,Structure expected to perform well at high flows.
+[END]

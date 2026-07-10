@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25029
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Foxton Bridge
+NOMINAL AREA,  183.86
+NOMINAL NGR,4455,5093
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,445550,509400
+CENTROID NGR,GB,453584,507394
+DTM AREA,  183.86
+ALTBAR, 131
+ASPBAR,299
+ASPVAR,0.23
+BFIHOST,0.382
+DPLBAR, 21.90
+DPSBAR, 76.7
+FARL,0.994
+FPEXT,0.1084
+LDP, 38.19
+PROPWET,0.35
+RMED-1H, 10.2
+RMED-1D, 33.6
+RMED-2D, 44.0
+SAAR, 732
+SAAR4170, 733
+SPRHOST,40.46
+URBCONC1990, 0.560
+URBEXT1990,0.0101
+URBLOC1990, 0.912
+URBCONC2000, 0.738
+URBEXT2000,0.0140
+URBLOC2000, 0.929
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crossed-path, multi-path ultrasonic gauge, replaced 25005 7km downstream. GENERAL: Crossed-path, multi-path ultrasonic flow gauge built under existing road bridge in 14m wide channel. Measures full range of flows. Replaced 25005 which closed in 2008. Station added to peak flows dataset in September 2020 (WINFAP Files v9). STATION HYDROMETRY: Station has a purpose-built broad crested weir control, with a free gap to allow fish passage, to retain minimum levels required for ultrasonic gauge. Full range of flows are measured with no bypassing. Small right bank tributary joins just upstream with high sediment load, causes occasional path failures and sediment deposition. Gauged to around 70% of QMED. FLOW RECORD: Some data quality issues result from sediment deposition under the road bridge, thought to arise from the right bank tributary entering just upstream. Gauge error between July 2009 and July 2010 led to some over-estimation of flows during this period by around 15-30%. A power cut at the site resulted in missing data in late June/ early July 2020. FLOW REGIME: Sensibly natural regime. No known artificial influences.
+CATCHMENT,Headwaters drain from the Cleveland Hills. Mixed geology of mostly Permian/Jurassic age, generally low permeability. Almost all the catchment is overlain by superficial deposits, mainly Boulder Clay. Mixed agriculture, with some moorland and forestry in headwaters, minor urbanisation in Great Ayton, Stokesley and Hutton Rudby. No known catchment changes.
+Qmed Suitability,Gauged to 70% of QMED and ultrasonic gauge generally works well above QMED.
+Pooling Suitability,Only gauged to 50% of AMAX3 but compares well with Leven Bridge in overlap period and ultrasonic gauge performance thought to be reasonable in large floods.
+[END]

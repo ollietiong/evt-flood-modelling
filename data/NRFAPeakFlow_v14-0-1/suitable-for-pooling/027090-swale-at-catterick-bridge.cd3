@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27090
+[END]
+[CDS DETAILS]
+NAME,Swale
+LOCATION,Catterick Bridge
+NOMINAL AREA,  497.56
+NOMINAL NGR,4226,4993
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,422600,499350
+CENTROID NGR,GB,401957,501699
+DTM AREA,  497.56
+ALTBAR, 358
+ASPBAR, 84
+ASPVAR,0.19
+BFIHOST,0.381
+DPLBAR, 32.15
+DPSBAR,119.0
+FARL,0.998
+FPEXT,0.0382
+LDP, 60.72
+PROPWET,0.61
+RMED-1H, 11.0
+RMED-1D, 41.0
+RMED-2D, 52.7
+SAAR,1123
+SAAR4170,1194
+SPRHOST,46.29
+URBEXT1990,0.0041
+URBCONC2000, 0.744
+URBEXT2000,0.0080
+URBLOC2000, 0.318
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with four-path ultrasonics to monitor low flows. Replaced 27024 (closed 1980) from 1992. GENERAL: Velocity area station with cableway and four-path ultrasonic gauge to monitor low flows. Old road bridge d/s acts as control at high flows. Superseded 27024 (Richmond) from 1992. 27024 was closed in 1980. STATION HYDROMETRY: Ultrasonic equipment available to measure low flows but ratings provides a reasonable fit to available gaugings and is used as the primary data source. Two peak flow ratings across period of record. FLOW RECORD: Flows from 1991 reprocessed in 2002 - all flows reduced. New rating in 2014 (applied back to 2009) had no effect on high flows. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Abstraction for MOD camp u/s; otherwise natural regime.
+CATCHMENT,Typical responsive Pennine catchment. Mixed geology, mostly of moderate permeability - overlain by peat in headwaters and Boulder Clay in lower catchment. Mostly upland pasture with some afforestation (and considerable gripping). No known catchment changes.
+Qmed Suitability,Out of bank gaugings confirm rating.
+Pooling Suitability,Although no high flow gaugings, there are few indications that the rating shouldn't be applicable beyond QMED.
+[END]

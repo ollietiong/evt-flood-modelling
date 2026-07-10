@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 77003
+[END]
+[CDS DETAILS]
+NAME,Liddel Water
+LOCATION,Rowanburnfoot
+NOMINAL AREA,  319.30
+NOMINAL NGR,3414,5759
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,341450,575950
+CENTROID NGR,GB,350114,591271
+DTM AREA,  319.30
+ALTBAR, 266
+ASPBAR,184
+ASPVAR,0.14
+BFIHOST,0.314
+DPLBAR, 27.35
+DPSBAR,129.2
+FARL,1.000
+FPEXT,0.0333
+LDP, 45.96
+PROPWET,0.62
+RMED-1H, 10.7
+RMED-1D, 39.3
+RMED-2D, 52.0
+SAAR,1291
+SAAR4170,1398
+SPRHOST,48.06
+URBEXT1990,0.0006
+URBEXT2000,0.0006
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in Liddesdale, southern Scotland. GENERAL: Velocity area station with cableway on straight gravel bedded reach. STATION HYDROMETRY: Gravel shoal gives low flow control. A railway viaduct downstream will contribute to the control during higher events along with other factors. Floodplain inundation about 2km downstream occurs during extreme events where the Liddel joins the Esk and backing up effects may be a factor at Rowanburnfoot. Larger floods overtop right hand floodbank, bypassing is known to start between 3 and 3.5m - this is not gauged. Two peak flow ratings across period of record. The first rating is based on gaugings and extrapolated above (with low confidence in these flows). Second rating developed following bank repair work in 2011, based on fewer gaugings and again low confidence in extrapolated flows. There is limited confidence in flows above QMED. The suitability of the Peak Flow record has been temporarily downgraded from QMED to Neither, until the calibration for flood estimation is fully understood and revised. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Natural flow regime.
+CATCHMENT,Silurian shales, often with peat cover, form the hills; Lower Carboniferous series overlain by Boulder Clay in the valleys. Coal measures with some Silurian in headwaters. Landuse mainly dairy and hill farming with some forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,Gauged to below QMED, but calibration for flood estimation under review.
+Pooling Suitability,Extreme events are poorly understood due to the lack of flood gaugings above QMED and the significant amount of out of bank flow.
+[END]

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 47008
+[END]
+[CDS DETAILS]
+NAME,Thrushel
+LOCATION,Tinhay
+NOMINAL AREA,  112.72
+NOMINAL NGR,2397, 855
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,239750,85500
+DTM AREA,  112.72
+ALTBAR, 162
+ASPBAR,225
+ASPVAR,0.17
+BFIHOST,0.422
+DPLBAR, 11.59
+DPSBAR, 89.5
+FARL,0.890
+LDP, 21.99
+PROPWET,0.50
+RMED-1H, 12.0
+RMED-1D, 38.5
+RMED-2D, 49.1
+SAAR,1144
+SAAR4170,1228
+SPRHOST,39.11
+URBEXT1990,0.0000
+URBEXT2000,0.0010
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump weir with flows since 1988 influenced by the construction of Roadford Reservoir. GENERAL: Three-bay compound Crump profile weir with crests of 3.66m, 10.97m (total) length. A second pre-weir was constructed at the end of 2017 to improve fish passage and a passive eel pass installed within the outer weir face on the right hand bank. STATION HYDROMETRY: Weir assumed to be modular to structure full (2.74m) but this is unverified and downstream levels may back up and influence levels. This is increasingly likley since the construction of the additional pre-weir in 2017 and a downstream level has been installed to evidence/analyse this. All flows contained to date (2020). One peak flow rating has been applied across period of record. Rating fits to gaugings reasonably well but will be reviewed when enough data is available to confirm if drowning is an issue. FLOW RECORD: Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Low flows significantly affected after 1988 by Roadford Reservoir (storage, pumped water transfers and HEP).
+CATCHMENT,Previously natural catchment of moderate relief draining shales and sandstones of Carboniferous Culm Measures. Significant terrace gravels lower down in main valley. Land use is rural, grazing, mixed farming and low grade agriculture. Roadford Reservoir, completed in 1989, with a catchment area of 31.8km2, affects 28.3% of catchment. Data presented is for the post-reservoir period. The post-reservoir FARL should be used and has been set to be the same value as post-reservoir FARL2015 because post-reservoir cannot be calculated from the original FARL water layer. Pre-reservoir FARL and FARL2015 is 0.999 and 0.9866 respectively.
+Qmed Suitability,Gauged to within 13% of QMED. Rating fits well to gaugings.
+Pooling Suitability,Rating is not confirmed for highest flows but all flows contained in bank and theoretical rating expected to perform well.
+[END]

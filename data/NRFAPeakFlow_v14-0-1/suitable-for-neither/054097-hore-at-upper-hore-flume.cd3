@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54097
+[END]
+[CDS DETAILS]
+NAME,Hore
+LOCATION,Upper Hore flume
+NOMINAL AREA,    1.59
+NOMINAL NGR,2830,2869
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,283100,286950
+CENTROID NGR,GB,282330,287685
+DTM AREA,    1.59
+ALTBAR, 588
+ASPBAR,111
+ASPVAR,0.67
+BFIHOST,0.303
+DPLBAR,  1.34
+DPSBAR,224.5
+FARL,1.000
+FPEXT,0.0031
+LDP,  2.40
+PROPWET,0.66
+RMED-1H, 13.5
+RMED-1D, 73.5
+RMED-2D, 98.2
+SAAR,2651
+SAAR4170,2370
+SPRHOST,54.21
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flume structure designed to gauge streams which have supercritical flow regimes. Experimental catchment operated by IH/UKCEH. GENERAL: Flume structure designed to gauge streams which have supercritical flow regimes. Rainfall, evaporation and soil moisture estimates also available from dense monitoring network. Natural catchment nested within 54022 Severn at Plynlimon Flume. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: Rectangular, side contracted critical depth flume. Drowning may occur following big floods owing to sediment deposited d/s. FLOW RECORD: Researchers should note the availability of the primary 15 minute dataset. Missing data Feb-March 2001 due to access restrictions because of Foot and Mouth. Daily mean flows replaced from 07/11/1985 to 31/12/2010, and AMAX series added from 07/11/1985 to 01/10/2010 following detailed QC (August 2025, WINFAP Files v14). Review of post-2010 data pending. FLOW REGIME: Natural flow regime.
+CATCHMENT,Palaeozoic grits and shales. Very steep gradients, ~2500mm rain. The highest and southern lateral fringes of catchment are peat moorland. Remainder of catchment has mature coniferous forest planted in 1958 and 1960.
+Qmed Suitability,Interim, pending full assessment.
+Pooling Suitability,Interim, pending full assessment.
+[END]

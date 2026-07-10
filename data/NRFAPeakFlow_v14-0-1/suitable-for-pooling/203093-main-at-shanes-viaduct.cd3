@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203093
+[END]
+[CDS DETAILS]
+NAME,Main
+LOCATION,Shane's Viaduct
+NOMINAL AREA,  707.79
+NOMINAL NGR,3086,3896
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,308600,389600
+CENTROID NGR,Ireland,313278,407190
+DTM AREA,  707.79
+ALTBAR, 158
+ASPBAR,224
+ASPVAR,0.11
+BFIHOST,0.459
+DPLBAR, 35.09
+DPSBAR, 55.6
+FARL,0.995
+FPEXT,0.1128
+LDP, 61.30
+PROPWET,0.57
+RMED-1H,  9.4
+RMED-1D, 36.4
+RMED-2D, 49.6
+SAAR,1154
+SAAR4170,1186
+SPRHOST,35.68
+URBCONC1990,-9999.000
+URBEXT1990,0.0242
+URBLOC1990, 0.665
+URBCONC2000, 0.819
+URBEXT2000,0.0109
+URBLOC2000, 0.650
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in December 1983. GENERAL: Velocity-area station, previously with cableway which was vandalised in 2016. Masonry hut on right bank housing main and backup instruments present both using pressure probes. Channel width c.36m at station. Major hydro-electric scheme upstream of station has considerable impact on instantaneous data when operational. STATION HYDROMETRY: Natural in-channel control. Contained at all flows. Upper half of Main river was subject to a major arterial drainage scheme, channel deepening and bridge replacement in the 1980s from the confluence with the River Braid to the headwaters. One peak flow rating applied to the period of record. The rating is derived from current meter gaugings. Large boulders in channel makes wade gauging impossible in all but the very lowest of flows. Simple extrapolation occurs above approx. 226 m3/s. Gaugings cover wide range and rating is good. FLOW RECORD: AMAX1 recorded in August 2008 was double QMED. Periods of missing flow in 2010 (July-November) and 2011 (May-June) due to instrument failure. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8) and in August 2024 (WINFAP Files v13). FLOW REGIME: Third largest catchment size (behind 201010 Drumnabuoy House and 203010 Maydown Bridge) of NI stations in Peak Flows dataset at 707km2. T-rise figure of c.17 hours. Clogh, Braid and Kellswater all within catchment and contain a series of small reservoirs used for public water supply. Large hydro-electric scheme upstream of station has impact on instantaneous data when in operation however the peaks and troughs average out over the daily and monthly values.
+CATCHMENT,Significant upland areas, predominantly grassland or heath, limited afforestation. Extensive bogland in the north. Solid geology - the area is underlain predominantly by Palaeogene basalt lava flows. Drift geology - extensive glacial till with limited rock near surface and post-glacial peat cover on high ground. Significant development of river alluvium (terraced) around Clady Water. Contains Ballymena (substantial light industry) and Randalstown.
+Qmed Suitability,Flows are fully contained at QMED.Highest gauging is 1.1 x QMED flow.The rating gives an acceptable fit for the check gaugings, deviations are less than 10%.
+Pooling Suitability,Flows fully contained at all high flows.Good number of high flow gaugings.Growth curve is representative.
+[END]

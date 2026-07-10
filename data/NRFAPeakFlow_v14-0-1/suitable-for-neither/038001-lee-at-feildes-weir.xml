@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="TL3907409193" x="539074" y="209193">
+        <CatchmentCentroid grid="GB" ngr="TL3362020804" x="533620" y="220804"/>
+        <area>1045.1025</area>
+        <altbar>99.0</altbar>
+        <aspbar>151.0</aspbar>
+        <aspvar>0.11</aspvar>
+        <bfihost>0.565</bfihost>
+        <bfihost19>0.603</bfihost19>
+        <bfihost19scaled>0.603</bfihost19scaled>
+        <dplbar>29.56</dplbar>
+        <dpsbar>36.5</dpsbar>
+        <draindens>0.871</draindens>
+        <farl>0.952</farl>
+        <farl2015>0.8986</farl2015>
+        <fpext>0.0701</fpext>
+        <fpdbar>0.556</fpdbar>
+        <fploc>0.889</fploc>
+        <ihdtmeasting>539050</ihdtmeasting>
+        <ihdtmnorthing>209200</ihdtmnorthing>
+        <ldp>64.71</ldp>
+        <propwet>0.29</propwet>
+        <rmed_1h>10.9</rmed_1h>
+        <rmed_1d>30.8</rmed_1d>
+        <rmed_2d>38.3</rmed_2d>
+        <saar>630.0</saar>
+        <saar4170>636.0</saar4170>
+        <saar9120>652</saar9120>
+        <sprhost>34.05</sprhost>
+        <urbconc1990>0.715</urbconc1990>
+        <urbext1990>0.0574</urbext1990>
+        <urbloc1990>1.152</urbloc1990>
+        <urbconc2000>0.854</urbconc2000>
+        <urbext2000>0.0772</urbext2000>
+        <urbloc2000>1.112</urbloc2000>
+        <urbext2015>0.0971</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="TL3907409193" x="539074" y="209193">
+        <c>-0.02611</c>
+        <d1>0.29899</d1>
+        <d2>0.29698</d2>
+        <d3>0.26662</d3>
+        <e>0.31956</e>
+        <f>2.47851</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="TL390090" x="539000" y="209000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.282</d1_1_km>
+        <d2_1_km>0.249</d2_1_km>
+        <d3_1_km>0.284</d3_1_km>
+        <e_1_km>0.319</e_1_km>
+        <f_1_km>2.518</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.7, 4.5, 5.7, 7.5, 8.8, 10.2, 11.3, 12.7, 14.2, 15.9, 17.9, 20.6, 23.6, 26.8, 29.6, 32.6, 35.4, 38.1, 40.5, 43, 45.4</Depths>
+        <Depths duration="0.25">4.7, 6, 7.4, 9.5, 12.7, 14.8, 17.3, 19.7, 22.3, 25.2, 28.6, 32.5, 37.8, 43.8, 50.2, 56.1, 62.4, 68.5, 74.7, 80.2, 86.1, 91.8</Depths>
+        <Depths duration="0.5">6, 7.7, 9.4, 12.1, 16.1, 19, 22.3, 25.4, 28.9, 32.6, 37.3, 42.4, 49.6, 57.7, 66.4, 74.5, 83.3, 91.7, 100.3, 108.1, 116.5, 124.8</Depths>
+        <Depths duration="0.75">6.8, 8.7, 10.6, 13.6, 18.2, 21.4, 25.2, 28.7, 32.8, 37.2, 42.5, 48.4, 56.7, 66, 76.1, 85.3, 95.5, 105.5, 115.5, 124.7, 134.6, 144.3</Depths>
+        <Depths duration="1">7.3, 9.4, 11.5, 14.7, 19.7, 23.2, 27.3, 31.1, 35.6, 40.4, 46.2, 52.7, 61.7, 71.9, 82.9, 93.1, 104.3, 115.2, 126.2, 136.3, 147.3, 158</Depths>
+        <Depths duration="2">11.7, 14.3, 16.9, 20.7, 26.5, 30.5, 35.1, 39.6, 45, 51.1, 59.1, 68.7, 80.8, 93.2, 105.7, 117.1, 129.3, 141.1, 153, 163.8, 175.6, 187</Depths>
+        <Depths duration="4">16.3, 19.3, 22.3, 26.6, 33, 37.5, 42.7, 47.9, 54.2, 62, 72.8, 85.3, 99.6, 113.4, 127.1, 139.3, 152.4, 165.1, 177.7, 189.2, 201.5, 213.6</Depths>
+        <Depths duration="6">18.7, 21.9, 25.1, 29.6, 36.4, 41.2, 46.7, 52.1, 58.9, 67.6, 80, 93.7, 108.9, 123.3, 137.5, 150.2, 163.7, 176.6, 189.6, 201.4, 214.1, 226.4</Depths>
+        <Depths duration="12">22.3, 25.9, 29.3, 34.2, 41.5, 46.5, 52.4, 58.2, 65.7, 75.7, 89.8, 104.9, 121, 136.1, 150.9, 164.1, 178.1, 191.6, 205, 217.1, 230.2, 242.9</Depths>
+        <Depths duration="18">24.4, 28.1, 31.7, 36.8, 44.3, 49.5, 55.5, 61.5, 69.3, 79.5, 94.1, 109.6, 126.1, 141.5, 156.5, 169.9, 184.2, 197.9, 211.4, 223.8, 237, 249.9</Depths>
+        <Depths duration="24">25.9, 29.8, 33.4, 38.7, 46.4, 51.7, 57.9, 64, 71.9, 82.1, 96.8, 112.3, 129, 144.6, 159.8, 173.4, 187.8, 201.6, 215.3, 227.7, 241.1, 254</Depths>
+        <Depths duration="48">30.6, 34.9, 38.9, 44.6, 52.9, 58.6, 65.1, 71.5, 79.3, 89.1, 102.7, 117.9, 134.7, 150.7, 166.2, 180.1, 194.9, 209, 223, 235.7, 249.3, 262.5</Depths>
+        <Depths duration="96">38.8, 43.6, 48.2, 54.6, 63.9, 70.2, 77.2, 83.8, 91.5, 100.4, 111.8, 125, 140.9, 156.8, 172.6, 186.9, 202, 216.5, 230.9, 244, 258, 271.5</Depths>
+        <Depths duration="192">54.2, 60.1, 65.6, 73.3, 84.3, 91.6, 99.5, 106.8, 114.7, 123, 132.3, 142.6, 155.7, 169.9, 185, 198.7, 213.8, 228.5, 243.3, 256.8, 271.3, 285.4</Depths>
+        <Depths duration="240">61.8, 68.2, 74.1, 82.4, 94.2, 102, 110.4, 117.9, 126.1, 134.4, 143.4, 152.9, 164.9, 178.3, 193, 206.6, 221.6, 236.2, 250.9, 264.3, 278.8, 292.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.7, 3.5, 4.4, 5.7, 7.6, 8.8, 10.3, 11.4, 12.7, 14, 15.4, 16.7, 18.5, 20.5, 23.4, 26.5, 30.3, 34.1, 37.9, 41.3, 44.9, 48.4</Depths>
+        <Depths duration="0.25">4.5, 5.8, 7.2, 9.4, 12.8, 15, 17.5, 19.9, 22.3, 24.9, 27.7, 30.4, 33.9, 38.1, 43.7, 50.2, 57.9, 65.9, 74.2, 81.7, 89.9, 98</Depths>
+        <Depths duration="0.5">5.7, 7.4, 9.2, 12, 16.2, 19.1, 22.5, 25.6, 28.9, 32.2, 36, 39.7, 44.5, 50.2, 57.8, 66.6, 77.3, 88.3, 99.6, 110.3, 121.7, 133.2</Depths>
+        <Depths duration="0.75">6.5, 8.4, 10.4, 13.5, 18.3, 21.6, 25.5, 29, 32.8, 36.7, 41, 45.3, 50.8, 57.4, 66.3, 76.4, 88.7, 101.6, 114.7, 127.1, 140.6, 154.1</Depths>
+        <Depths duration="1">7, 9.1, 11.3, 14.6, 19.8, 23.4, 27.6, 31.4, 35.6, 39.9, 44.6, 49.3, 55.3, 62.6, 72.2, 83.3, 96.8, 110.9, 125.4, 139, 153.9, 168.7</Depths>
+        <Depths duration="2">11.2, 13.9, 16.5, 20.5, 26.4, 30.5, 35.1, 39.4, 44.2, 49.1, 54.6, 60.4, 68.4, 78.6, 91.6, 105.1, 120.4, 135.7, 151.2, 165.6, 181.3, 196.7</Depths>
+        <Depths duration="4">15.7, 18.8, 21.9, 26.4, 33, 37.5, 42.6, 47.3, 52.6, 58.2, 64.8, 72.5, 83.5, 97.5, 113.4, 128.5, 145, 161.3, 177.7, 192.8, 209.3, 225.4</Depths>
+        <Depths duration="6">18.1, 21.4, 24.7, 29.4, 36.4, 41.2, 46.5, 51.5, 57.1, 63.2, 70.6, 79.6, 92.8, 108.7, 125.6, 141.3, 158.3, 175.1, 192, 207.5, 224.3, 240.8</Depths>
+        <Depths duration="12">21.7, 25.4, 28.9, 34, 41.5, 46.5, 52.2, 57.6, 63.7, 70.7, 79.5, 90.8, 107, 124.8, 142.8, 159.4, 177.2, 194.6, 212.1, 228.2, 245.6, 262.6</Depths>
+        <Depths duration="18">23.9, 27.6, 31.3, 36.6, 44.3, 49.5, 55.3, 60.8, 67.3, 74.6, 84.1, 96.4, 113.6, 131.9, 150.5, 167.5, 185.7, 203.4, 221.2, 237.5, 255.2, 272.4</Depths>
+        <Depths duration="24">25.5, 29.4, 33.1, 38.5, 46.4, 51.7, 57.7, 63.3, 69.9, 77.4, 87.3, 99.9, 117.5, 136.2, 155, 172.2, 190.7, 208.6, 226.5, 243, 260.8, 278.2</Depths>
+        <Depths duration="48">30.5, 34.8, 38.8, 44.5, 52.8, 58.4, 64.7, 70.6, 77.4, 85.1, 95, 107.4, 125.1, 144, 163.3, 180.9, 199.7, 217.9, 236.2, 253, 271.1, 288.8</Depths>
+        <Depths duration="96">39, 43.7, 48.2, 54.5, 63.5, 69.6, 76.2, 82.3, 89.2, 96.6, 105.5, 116.2, 131.7, 150, 169.4, 187.3, 206.4, 225, 243.6, 260.6, 279, 297</Depths>
+        <Depths duration="192">54.9, 60.5, 65.8, 73.1, 83.4, 90.1, 97.4, 103.8, 110.8, 117.8, 125.5, 133.6, 144.6, 158.7, 176.3, 193.9, 213.4, 232.4, 251.4, 268.8, 287.6, 305.9</Depths>
+        <Depths duration="240">62.6, 68.6, 74.2, 82, 92.8, 99.8, 107.3, 114, 121, 128, 135.5, 143, 152.7, 164.7, 180.2, 197, 216.2, 235.3, 254.5, 272.1, 291, 309.5</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Feildes Weir" name="Lee" number="38001">
+        <Comments>
+            <Comment type="Station Summary">Located in the middle reaches of the River Lee, this station is marked by a complex history of changes to channel controls and bypassing.</Comment>
+            <Comment type="Hydrometric">All flows (bar lockages) now contained but Ryemeads STW effluent bypasses the station. Flood flows on the Lee can cause reverse flows on Stort. Flows up to about 4.7 cumecs discharge over the weir; higher flows enter a flood channel. One rating applied across period of record. Weir rated using a physical model, with flood channel flows computed separately.</Comment>
+            <Comment type="General">Historically the station was a 29m wide thin-plate weir (found to be insensitive) and 3 vertical-lift sluices controlling a parallel flood relief channel. The weir is immediately downstream of the confluence of the rivers Lee and Stort. Building started in 1976 and it completed in 1978 to improve hydrometric range and precision. Pre-1976 there was a barrage of gates/sluices (operation evident on hydrographs, pre-1930 especially) to control flows. From 1/1/97, flows normally the sum of stations 38027 (Stort at Glen Faba) and 38031 (Lee at Rye Bridge). In 2004 flow calculation changed to using a combination of weir and gate levels rather than summation. An ultrasonic station was built d/s and opened on the 01/01/2008.</Comment>
+            <Comment type="Flow record">Occasional erratic performance of the two upstream stations (summed for total flow) can impact on the precision of Feildes Weir flows. Early peak flow data from the 1850s are estimates. Naturalised flows (New River abstraction only) from 1883. Gauging instigated by Beardmore during the 1850s (flood of October 1857 estimated as &gt;250 cumecs, greatly exceeding any subsequent event). Annual calendar year gauged daily flows thereafter. This flow was particularly uncertain. Until 1931, gauged daily flows were calculated as the mean of three daily readings recorded by lock keeper. Chart record from March 1932. Low flows probably under-estimated during this period (especially pre-1930). Measured peak flows post 1965. Station was out of commission in 1976, naturalised flows have been modelled between March 1976 to April 1978 by Envirionment Agency. The quality of the record improved after these dates. Mill operation could produce particularly low flows in the early record (e.g. on Sundays). Flows at Rye Bridge can be affected by lock and boat movements.</Comment>
+            <Comment type="Flow regime">Runoff reduced by abstraction for industry, agriculture and pws. Significant gw abstraction, with net export from catchment. Runoff increased by effluent returns. Effluent from Rymeads STW bypasses measuring structure, as does lockage from the Lee Navigation.</Comment>
+            <Comment type="Catchment">A mainly pervious (Chalk) catchment with extensive Drift cover. Predominantly rural headwaters with significant urban growth in lower valley.</Comment>
+            <Comment type="Factors affecting runoff">PGEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Insufficient known about current rating, leakage, summation of flows from Glen Faba and Rye Bridge. Lack of gaugings to come to a firm conclusion about the flows at this station." suitable="No" type="QMED"/>
+            <Usage notes="Insufficient known about current rating, leakage, summation of flows from Glen Faba and Rye Bridge. Lack of gaugings to come to a firm conclusion about the flows at this station." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 45005
+[END]
+[CDS DETAILS]
+NAME,Otter
+LOCATION,Dotton
+NOMINAL AREA,  202.83
+NOMINAL NGR,3086, 884
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308700,88450
+DTM AREA,  202.83
+ALTBAR, 144
+ASPBAR,195
+ASPVAR,0.11
+BFIHOST,0.549
+DPLBAR, 19.90
+DPSBAR, 85.0
+FARL,0.996
+LDP, 41.11
+PROPWET,0.40
+RMED-1H, 11.4
+RMED-1D, 38.4
+RMED-2D, 49.5
+SAAR, 971
+SAAR4170,1016
+SPRHOST,34.34
+URBCONC1990, 0.777
+URBEXT1990,0.0079
+URBLOC1990, 0.824
+URBCONC2000, 0.749
+URBEXT2000,0.0241
+URBLOC2000, 0.712
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in 1962 and rebuilt after 1968 flood, weir built in 1971. GENERAL: Velocity area station with cableway. Station opened in 10/1962. Hut rebuilt after July 1968 flood. 14m wide informal shallow Flat V weir installed 1971. Initially for Water Resources, more recently considered full range with FCRM interest. STATION HYDROMETRY: Natural control up until weir installed in 1971. Now considered a full range station. Low embankments at field level extend containment. Gabions stabilise bed and banks. Bypassing occurs during exceptional events (>2.1m). Multiple ratings applied across period of record; high flow events in Nov/Dec 2000 altered channel geometry u/s and d/s of station. Ratings after this period include estimates for out of bank flow. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Substantial groundwater and surface water abstractions in catchment for public water supply and industrial/agricultural purposes. Flows increased by effluent returns.
+CATCHMENT,Rises in Greensand and Gault Clay of the Blackdown Hills. Predominantly Keuper sandstones and marls. Extensive alluvium and valley gravels lower down. Some heathland, woodland and pasture, and a wide range of agriculture. No major catchment changes.
+Qmed Suitability,Good fit to gaugings.
+Pooling Suitability,Gauged close to AMAX3. Pre-2000 ratings do not take out of bank flow into account and therefore flows are underestimated.
+[END]

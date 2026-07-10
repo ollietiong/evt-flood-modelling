@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 39056
+[END]
+[CDS DETAILS]
+NAME,Ravensbourne
+LOCATION,Catford Hill
+NOMINAL AREA,  126.18
+NOMINAL NGR,5372,1732
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,537250,173250
+DTM AREA,  126.18
+ALTBAR, 105
+ASPBAR,358
+ASPVAR,0.33
+BFIHOST,0.715
+DPLBAR, 11.83
+DPSBAR, 48.6
+FARL,0.990
+LDP, 23.25
+PROPWET,0.28
+RMED-1H, 11.1
+RMED-1D, 33.7
+RMED-2D, 44.7
+SAAR, 714
+SAAR4170, 712
+SPRHOST,22.24
+URBCONC1990, 0.848
+URBEXT1990,0.2513
+URBLOC1990, 0.661
+URBCONC2000, 0.908
+URBEXT2000,0.3429
+URBLOC2000, 0.691
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume; regime heavily affected by urbanisation. GENERAL: Trapezoidal flume; breadth at the critical section: 4.267m; insensitive. Full range. STATION HYDROMETRY: One rating applied across period of record. Rating adjusted from theoretical to better fit spot flow measurements. Due to flashy nature of channel, EA have been unable to capture flows in third limb of rating and so it remains unproven. Because of this, Limb 3 remains theoretical with no adjustment for spot flow measurements in lower limbs. FLOW RECORD: Full record reprocessed Feb 2019 when new rating was developed. Peak flows marked as rejected between 1986 and 1987 as ascending oscillations are present and appear suspicious. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Artificial influences evident at low flows. Regime heavily affected by urbanisation. Artificial influences (including sewage outflow and urban runoff) very evident at low flows - see June 2009.
+CATCHMENT,The Ravensbourne rises as Tertiary sandstone springs in Keston Park (dry chalk valleys extend into the North Downs). The lower catchment is mainly impervious Eocene deposits. Below the headwaters the catchment is largely within London.
+Qmed Suitability,Gauged to within 50% of QMED and no contra-indications.
+Pooling Suitability,Although all flows contained within bank full, there are few high flow gaugings and rating can not be validated beyond QMED.
+[END]

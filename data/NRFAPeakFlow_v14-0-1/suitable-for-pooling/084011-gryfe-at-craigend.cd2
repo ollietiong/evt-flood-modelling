@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 84011
+[END]
+[CDS DETAILS]
+NAME,Gryfe
+LOCATION,Craigend
+NOMINAL AREA,   86.87
+NOMINAL NGR,2414,6663
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,241450,666350
+DTM AREA,   86.87
+ALTBAR, 176
+ASPBAR, 76
+ASPVAR,0.30
+BFIHOST,0.449
+DPLBAR, 13.71
+DPSBAR, 71.8
+FARL,0.930
+LDP, 25.47
+PROPWET,0.61
+RMED-1H, 11.2
+RMED-1D, 50.2
+RMED-2D, 70.6
+SAAR,1837
+SAAR4170,1745
+SPRHOST,40.97
+URBCONC1990, 0.739
+URBEXT1990,0.0178
+URBLOC1990, 0.408
+URBCONC2000, 0.761
+URBEXT2000,0.0135
+URBLOC2000, 0.430
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows significantly affected by Loch Thom and Gryfe Reservoir in the west. GENERAL: Velocity area station about 20m wide with curving broad-crested masonry weir control on gentle bend. STATION HYDROMETRY: The weir crest is 0.24m high and drowns out at mid to high flows. With respect to flow calibration, the left bank forms the outer bend and hence is more influential than the right bank. The left bank is poorly defined with the profile opening up into a wider section above around 1m, where nearly all the flow is contained within the span of the cableway. The highest flood gauging at 2.145m on 30/12/15, measured a flow of 134.8 cumecs and is thought to have captured nearly all the flow. This flood gauging is over double the flow of the next highest gauging and hence was used to inform the revision of all the ratings through the station history during a period of record rating review exercise carried out in 2024. The insensitivity of the broad crested weir is not conducive to accurate low flow estimation. The limitations of this station producing accurate low flow estimations are further compounded by periods of control instability, with intermittent erosion and bypassing around the left-wing wall and a period of weir collapse. The left bank at the weir has been subject to intermittent periods of erosion, where in between various repair attempts, a small percentage of flow has passed around the weir. These periods where the control is altered are largely compensated by low end rating adjustments. The weir crest began to break up around November 1996 and this prompted mitigating works to create a temporary state of repair between 01/04/1997 and 15/02/2000. This period is marked by an elevated stage, increased gauging scatter and reduced confidence in flow estimation through the entire flow range. The upper end of the calibration in this period is based on the curve of the flood segment over the weir in its normal state with an alpha adjustment to align the rating with the parallel shift observed in the low to mid-range gaugings. Some doubt on the correct trajectory of the rating top end means there is low confidence in the estimation of floods in this period and Peak Flow estimates from WY1996 to WY1999 are flagged as rejected for this reason. Low flows in this period are also of much lower confidence, compounded by a confusing record of stage edits and adjustments to the stage at which gaugings were referenced. There is a record of the gauge datum being lowered from 11.25m to 11.243m around 01/02/1997. The shift was likely applied to allow positive stage recording as the weir crest progressively broke up. This datum shift is not obvious in the stage record and has likely been smoothed out during the stage editing process. Additionally, a significant rating change is applied two months later to reflect the works to repair the weir starting on 01/04/1997. For these reasons, a rating adjustment is not deemed necessary to cover the two-month period between the datum shift and the start of the weir repair. FLOW RECORD: Some monthly naturalised flows (1964-74). Peak flows rejected between Water Year 1996/1997 and Water Year 1999/2000, during weir repair. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Responsive. Significant affect of L. Thom and Gryfe Res. in W. Runoff augmented by compensation flows and spillages from reservoired catchment (11.6 sq.km).
+CATCHMENT,Wet, responsive upland catchment draining from Duchal Moor. Geology: Carboniferous basaltic lavas; isolated pockets of Boulder Clay in valleys. Extensive cover of raised beach deposits W of gauging site. Land use: predominantly grazing, some forestry. Urban development along valley. No significant catchment changes known.
+Qmed Suitability,No comment.
+Pooling Suitability,Flows are mostly contained, and calibration is informed by a flood gauging at 2.145m on 30/12/15, with a measured flow of 134.8 cumecs. Historic ratings have been revised with the optimal flood segment applied.
+[END]

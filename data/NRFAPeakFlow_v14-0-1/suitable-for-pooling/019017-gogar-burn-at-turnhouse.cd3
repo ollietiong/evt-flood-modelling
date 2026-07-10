@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19017
+[END]
+[CDS DETAILS]
+NAME,Gogar Burn
+LOCATION,Turnhouse
+NOMINAL AREA,   40.31
+NOMINAL NGR,3160,6732
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,316050,673300
+CENTROID NGR,GB,314488,669135
+DTM AREA,   40.31
+ALTBAR, 112
+ASPBAR,  5
+ASPVAR,0.38
+BFIHOST,0.510
+DPLBAR, 10.13
+DPSBAR, 43.0
+FARL,0.990
+FPEXT,0.1281
+LDP, 20.77
+PROPWET,0.49
+RMED-1H,  8.6
+RMED-1D, 35.3
+RMED-2D, 45.0
+SAAR, 756
+SAAR4170, 759
+SPRHOST,43.35
+URBCONC1990, 0.909
+URBEXT1990,0.0500
+URBLOC1990, 0.689
+URBCONC2000, 0.911
+URBEXT2000,0.1125
+URBLOC2000, 0.683
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A station located next to Edinburgh airport on a straight reach in a mainly agricultural catchment. GENERAL: Station (rated section with cableway) located on a straight reach in a mainly agricultural catchment (the only development is at Edinburgh Park, development here is still on-going [2015]). Further d/s of the station the river turns a 90 degree bend at the Edinburgh Airport runway just above the confluence with the River Almond. This can back-up at high flows and flood parts of the airport. The river tends to flood u/s of the station with consequent damping of its hydrographs. Station added to peak flows dataset in September 2023 (WINFAP Files v12). STATION HYDROMETRY: Small low flow control and large masonry broad crested weir controlling higher flows. A good site, although an issue of gauging at low flows due to low velocities in the channel; this has been improved by gauging with a Flow Tracker instead of propeller current meter. Station gets silted up so needs regular flushing. There is regular weir cleaning to keep it clear. Sediment was dug our from the left side of the weir on 10/08/2017. FLOW RECORD: Exceptional peak flow in April 2000 followed storm totals exceeding 80mm. FLOW REGIME: Small net impact on runoff due to airport discharges.
+CATCHMENT,Lowland catchment. Bedrock permeable with >95% superficial deposit cover. Catchment includes part of Edinburgh, and the urban fraction is increasing. 1.5km of the river has been culverted because of new development. The remainder of the catchment is mainly arable, grassland, and forest.
+Qmed Suitability,No comment
+Pooling Suitability,Gauged to 1.045m, with a measured flow of 11.5 cumecs. The channel in the station reach is contained and so an extrapolation of the rating above the highest gauging allows this site to be assigned pooling status, albeit tentatively, as the right bank profile has a step that isn't factored into the extrapolation.
+[END]

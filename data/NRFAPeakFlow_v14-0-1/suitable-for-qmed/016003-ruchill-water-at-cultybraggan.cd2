@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 16003
+[END]
+[CDS DETAILS]
+NAME,Ruchill Water
+LOCATION,Cultybraggan
+NOMINAL AREA,  101.07
+NOMINAL NGR,2764,7203
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,276450,720400
+DTM AREA,  101.07
+ALTBAR, 395
+ASPBAR, 56
+ASPVAR,0.14
+BFIHOST,0.433
+DPLBAR, 12.57
+DPSBAR,215.2
+FARL,1.000
+LDP, 22.60
+PROPWET,0.59
+RMED-1H, 10.8
+RMED-1D, 52.3
+RMED-2D, 73.1
+SAAR,1888
+SAAR4170,1924
+SPRHOST,44.13
+URBEXT1990,0.0001
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a mountainous catchment. GENERAL: Velocity area station, about 20m wide. Left bank = 2.5m high, Right bank = 3.5m high. STATION HYDROMETRY: Cableway present. Natural control. All flows contained to date. Flashiness and remoteness hinder flood gauging. Multiple peak flow ratings across period of record up to ~2.5m, simple extrapolation beyond. FLOW RECORD: Early peak flow data rejected due to uncertainty in rating. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Natural regime.
+CATCHMENT,A mountainous catchment with steep slopes, often snowy in winter. Main channel follows a major geological fault, the geology consists of sandstone to its south, metamorphic to its north. More than half is overlain by Boulder Clay. Thick peat on the flatter hill tops. Land is used mainly for rough grazing and army ranges; some woodland. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,Low confidence in high ranking events. AMAX3 estimate = 223m3/s (3.439m). Only gauged to 155m3/s (2.855m).
+[END]

@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27007
+[END]
+[CDS DETAILS]
+NAME,Ure
+LOCATION,Westwick
+NOMINAL AREA,  912.58
+NOMINAL NGR,4355,4670
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,435600,467050
+CENTROID NGR,GB,408676,481763
+DTM AREA,  912.58
+ALTBAR, 273
+ASPBAR, 84
+ASPVAR,0.20
+BFIHOST,0.420
+DPLBAR, 52.98
+DPSBAR, 98.7
+FARL,0.981
+FPEXT,0.0674
+LDP,102.47
+PROPWET,0.41
+RMED-1H, 11.2
+RMED-1D, 41.8
+RMED-2D, 53.8
+SAAR,1120
+SAAR4170,1121
+SPRHOST,43.66
+URBEXT1990,0.0039
+URBCONC2000, 0.692
+URBEXT2000,0.0078
+URBLOC2000, 0.541
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with broad-crested masonry weir. GENERAL: Velocity area station with broad-crested masonry weir (59m wide) rated by gauging at cableway 0.26km d/s. This replaced an earlier rated section d/s of the weir near the canal lock, Boroughbridge weir was thought to act as partial control fore the old station. Location was moved u/s of the (existing) weir in November 1975, initially on the right bank, then moved to current location on left bank in 2010. The weir is now in poor repair. Hydropower scheme installed November 2011 and includes a bypass channel, gauged separately. STATION HYDROMETRY: Some out-of-bank flooding at very high flows - peaks may be underestimated. Pre- 2009, the cableway was inaccessible at very high flows, accessibility improved when moved to the left bank; however, there is still some minor bypassing behind the right bank stantion in very high flood events. Three peak flow ratings have been applied for different periods, daily mean flow ratings are not always the same as for peak flows. Peak rating periods are: d/s gauge 1955-Aug1970 and Aug1970-Nov1975, the gauge u/s of weir (Nov1975-present). The latter was supplemented in 1998 by Hydraulics Research analysis, with a more accurate relationship for stages above 2m. Hydropower bypass channel affects low flow measurement and is gauged separately to the main channel (Acoustic Doppler gauge with velocity-index rating), flows from the main and bypass channel are added together to give a total flow. Gaugings at cableway measure total flow and therefore may not fit well to rating when Hydropower scheme is operating, they should be compared with total flow series. FLOW RECORD: Flows prior to November 1975 have lower confidence due to various changes in rating and changes to condition of Boroughbridge weir (control for early records. Flows are rejected pre-1970 because the earliest rating and data cannot be confirmed. Increased confidence to post November 1975 data after recorder moved to upstream of weir, however still some uncertainty in highest flows due to by-passing of the cableway. This improved after the cableway was moved to the left bank in 2009/10. From November 2011 onwards flows are derived from the rating curve plus addition of measured flow in the hydropower intake channel. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Reservoirs have a significant effect on the Burn and Laver, but have a moderate overall impact; some net export of water. 'Grip' drainage also influential.
+CATCHMENT,Mixed geology of limestone and grits, with significant Boulder Clay cover. The Millstone is hilly, but further downstream the Limestone and Marl form a flat plain. Upstream of Kilgram Bridge the rocks are mainly Carboniferous Limestone and the catchment is steep. Predominantly mixed agriculture catchment draining from moorland headwaters in the Pennines. No known catchment changes.
+Qmed Suitability,Gauged above QMED. Weir remains modular.
+Pooling Suitability,Gauged to high level and hydraulic modelling used to extrapolate curve. More recent gaugings and model suggest highest flows may be over-estimated, station is due for rating review in 2019.
+[END]

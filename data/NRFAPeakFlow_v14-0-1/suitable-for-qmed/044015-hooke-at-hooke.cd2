@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 44015
+[END]
+[CDS DETAILS]
+NAME,Hooke
+LOCATION,Hooke
+NOMINAL AREA,   10.75
+NOMINAL NGR,3537,1000
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,353750,100050
+DTM AREA,   10.75
+ALTBAR, 204
+ASPBAR,157
+ASPVAR,0.24
+BFIHOST,0.605
+DPLBAR,  3.60
+DPSBAR, 80.3
+FARL,0.916
+LDP,  7.27
+PROPWET,0.38
+RMED-1H, 11.6
+RMED-1D, 41.5
+RMED-2D, 51.7
+SAAR,1033
+SAAR4170,1071
+SPRHOST,37.86
+URBEXT1990,0.0002
+URBEXT2000,0.0014
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,GRP flat V Crump weir built in 1989 affected by siltation in upstream section. GENERAL: Station was built in 1989. GRP flat V Crump weir, 3m wide. Station number previously 44801. STATION HYDROMETRY: Frequent silt / gravel accumulation occurs upstream of the weir and in approach channel. No known modularity problems. One peak flow rating applied across period of record. FLOW RECORD: Digital POT and AMAX data (from 01/01/1992) are presented. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in August 2025 (WINFAP Files v14). FLOW REGIME: Some spring abstraction. Fish farm upstream of station.
+CATCHMENT,The catchment area consists mainly of Upper Cretaceous, Upper Chalk and Upper Greendsand. Top end is a chalk stream. Land use mostly rural. No major catchment changes.
+Qmed Suitability,Rating expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

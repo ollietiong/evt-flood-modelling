@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40016
+[END]
+[CDS DETAILS]
+NAME,Cray
+LOCATION,Crayford
+NOMINAL AREA,  123.50
+NOMINAL NGR,5510,1745
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,551050,174550
+CENTROID NGR,GB,546621,166916
+DTM AREA,  123.50
+ALTBAR,  98
+ASPBAR, 11
+ASPVAR,0.26
+BFIHOST,0.856
+DPLBAR, 12.54
+DPSBAR, 45.6
+FARL,0.945
+FPEXT,0.0507
+LDP, 24.10
+PROPWET,0.27
+RMED-1H, 11.4
+RMED-1D, 34.0
+RMED-2D, 43.7
+SAAR, 694
+SAAR4170, 689
+SPRHOST,14.51
+URBCONC1990, 0.837
+URBEXT1990,0.1796
+URBLOC1990, 0.696
+URBCONC2000, 0.892
+URBEXT2000,0.2607
+URBLOC2000, 0.694
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound weir with Larinier Fish Pass on lower crest accompanied by larger Flat-V. GENERAL: Compound structure. Low flow Larinier on left bank has width of 1.5m. Larger Flat-V has width of 9.120 and a crest of 6.449mAOD. Eel tiles also present inside right bank wing wall. Site was rebuilt in 2015. Previously asymmetrical compound Crump profile weir; left bank weir width 3.052m, right bank weir width 7.612 m. The weirs are separated by a 0.23m wide concrete wall and are both contained within wing walls. Located in a very straight reach with some bank encroachment especially in weeded section immediately upstream of the tapping pipe outlet. Crests frequently vandalised. STATION HYDROMETRY: Modular limit ~6 cumecs, occasional drowning. The right bank floodplain is of a lower elevation than the weir crest, however the limits of sections taken up to 840m upstream indicate that no significant bypassing would occur under most flows. Weed growth was a problem before structure was rebuilt. Significant structural instability is an issue. Two peak flow ratings applied across period of record, although no gaugings above 0.3m to confirm rating. FLOW RECORD: Missing data 01/07/2015 to 06/11/2015 due to station re-build. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Major baseflow component but responsive to storms. Flows are substantially affected by artificial influences; surface and groundwater abstractions, storm water overflows and extensive local gravel workings. Considerable net export of water & diminution of runoff. River flows in alluvial tract which has been widely exploited for gravel/sand.
+CATCHMENT,A mainly pervious (Chalk) catchment; the Cray flows in an alluvial tract which has been widely exploited for gravel/sand. Urban land use is extensive and increasing particularly in the lower catchment. Urban land use is significant. Chalk outcrops over a quarter of the area and is covered by permeable drift deposits, producing little or no surface runoff. Lower London Tertiaries comprising Blackheath Beds, Woolwich Beds, London Clay & Thanet Sands, overlie the chalk in the northern basin, occupying around half of the area. These are relatively impermeable deposits, producing some runoff. Mostly pervious catchment. The river appears as chalk springs in Orpington 8km north of the gauging station. During prolonged dry periods the flow virtually ceases.
+Qmed Suitability,Theoretical rating judged to apply beyond QMED, although unverified by gaugings.
+Pooling Suitability,Theoretical rating doesn't adjust for drowning and by-passing which is known to affect higher flows.
+[END]

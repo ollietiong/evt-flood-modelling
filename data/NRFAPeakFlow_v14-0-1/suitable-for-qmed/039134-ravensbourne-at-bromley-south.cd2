@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 39134
+[END]
+[CDS DETAILS]
+NAME,Ravensbourne
+LOCATION,Bromley South
+NOMINAL AREA,    9.77
+NOMINAL NGR,5405,1687
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,540550,168750
+DTM AREA,    9.77
+ALTBAR,  75
+ASPBAR,290
+ASPVAR,0.34
+BFIHOST,0.685
+DPLBAR,  3.38
+DPSBAR, 24.8
+FARL,0.993
+LDP,  7.28
+PROPWET,0.27
+RMED-1H, 11.2
+RMED-1D, 33.8
+RMED-2D, 44.1
+SAAR, 680
+SAAR4170, 700
+SPRHOST,24.99
+URBCONC1990, 0.864
+URBEXT1990,0.3481
+URBLOC1990, 0.751
+URBCONC2000, 0.923
+URBEXT2000,0.4841
+URBLOC2000, 0.816
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir (1:10 cross slope) with vertical wing walls. Very responsive flow regime. GENERAL: Flat V weir (1:10 cross slope) with vertical wing walls. Straight approach with no significant modification to flow regime. Original structure built in 1962 as a critical depth flume. The structure was rebuilt in 1992. STATION HYDROMETRY: Full range station, which has been theoretically rated (standard Flat V weir calculation). Higher gaugings show the structure appears to over-estimate higher flows. More gaugings are needed, but due to responsive regime it is difficult to capture high flow gaugings. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Very responsive flow regime.
+CATCHMENT,The Ravensbourne rises from springs fed by Tertiary Sandstones (in Holwood Park). The majority of the lower catchment is mainly impervious, due to Eocene clay deposits and high levels of urban development (South London).
+Qmed Suitability,All flow is within bankfull. Rating is thought to be reasonably accurate although highest gauging is around 1/3 of QMED. Higher gaugings are within 30% of rating.
+Pooling Suitability,No gaugings close to highest AMAX to validate.
+[END]

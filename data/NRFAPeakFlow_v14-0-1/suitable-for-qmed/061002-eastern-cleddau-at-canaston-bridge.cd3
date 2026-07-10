@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 61002
+[END]
+[CDS DETAILS]
+NAME,Eastern Cleddau
+LOCATION,Canaston Bridge
+NOMINAL AREA,  181.87
+NOMINAL NGR,2072,2152
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,207250,215300
+CENTROID NGR,GB,208852,224687
+DTM AREA,  181.87
+ALTBAR, 152
+ASPBAR,185
+ASPVAR,0.23
+BFIHOST,0.537
+DPLBAR, 15.46
+DPSBAR, 96.0
+FARL,0.967
+FPEXT,0.0413
+LDP, 27.90
+PROPWET,0.44
+RMED-1H, 11.5
+RMED-1D, 43.8
+RMED-2D, 59.9
+SAAR,1437
+SAAR4170,1446
+SPRHOST,35.35
+URBEXT1990,0.0008
+URBEXT2000,0.0035
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Large regulating reservoir affects flows. GENERAL: Velocity area station; artificial control installed in 1974 in the form of a DCWW water pipe. Channel width: 17.4m. STATION HYDROMETRY: Left bank steep and high. Right bank low flood bank on edge of pastoral floodplain. Flow with stage greater than 2.6m spills onto right bank. Pipe weir is known to freeze and elevate levels in winter, not corrected for. Two peak flow ratings applied across period of record. Upper limit set to bank full. Rating fits well to all available gaugings. FLOW RECORD: 1986 POR max triggered by 80-100mm storm but considerable uncertainty in the magnitude of the peak flow (significant rating extrapolation). Atypical recession throughout May - July 1984. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). FLOW REGIME: Regulating reservoir for Public Water Supply on one of the major tributaries of the Eastern Cleddau. This was constructed and filled in the early 1970s.
+CATCHMENT,Mainly lowland with hills to N. Impermeable formations, mainly Ordovician with bands of igneous rock in N. Some Old Red Sandstone on southern boundary. Mainly grassland for dairy farming with some forest and patches of arable in low-lying areas to W.
+Qmed Suitability,Gauged close to QMED, ratings fit gaugings well.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

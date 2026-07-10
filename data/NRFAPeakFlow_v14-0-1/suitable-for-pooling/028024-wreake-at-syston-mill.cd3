@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28024
+[END]
+[CDS DETAILS]
+NAME,Wreake
+LOCATION,Syston Mill
+NOMINAL AREA,  417.01
+NOMINAL NGR,4615,3124
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,461500,312450
+CENTROID NGR,GB,476502,316706
+DTM AREA,  417.01
+ALTBAR, 117
+ASPBAR,240
+ASPVAR,0.03
+BFIHOST,0.403
+DPLBAR, 28.10
+DPSBAR, 40.6
+FARL,0.953
+FPEXT,0.0885
+LDP, 55.23
+PROPWET,0.28
+RMED-1H, 11.1
+RMED-1D, 30.7
+RMED-2D, 40.5
+SAAR, 634
+SAAR4170, 648
+SPRHOST,41.93
+URBCONC1990, 0.687
+URBEXT1990,0.0151
+URBLOC1990, 0.667
+URBCONC2000, 0.805
+URBEXT2000,0.0225
+URBLOC2000, 0.742
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic gauge on the Wreake. GENERAL: Ultrasonic time of flight gauge since October 2018, providing good quality data at low and high flows. Side-looking ADCP gauge 2012-2018. Electromagnetic gauge in use 1982-2012, replacing the original crump weir 4.6m wide which was originally installed in 1967. STATION HYDROMETRY: All flows contained. Site difficult to gauge; very low velocities at low flows and station bypassed at high flows. Three peak flow ratings applied across period of record. FLOW RECORD: Issues with low flow data during ADCP period due to low channel velocities in a deep river section. Levels indicate the March 1975 event may have been higher than the April 1998 event, but the magnitude cannot be verified due to complications with the rating history. FLOW REGIME: Fast response to rainfall and significant augmentation from WRW.
+CATCHMENT,Moderate relief catchment, draining west from the Oolitic Limestone scarp. Predominantly Boulder Clay overlying Liassic clays. Rural catchment, mixed farming, containing Melton Mowbray.
+Qmed Suitability,QMED in bank and confident in rating.
+Pooling Suitability,Post weir flows contained and there is confidence in rating performing well.
+[END]

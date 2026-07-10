@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  6012
+[END]
+[CDS DETAILS]
+NAME,Enrick
+LOCATION,White Bridge
+NOMINAL AREA,   56.20
+NOMINAL NGR,2391,8301
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,239200,830150
+CENTROID NGR,GB,235816,827204
+DTM AREA,   56.20
+ALTBAR, 352
+ASPBAR,344
+ASPVAR,0.22
+BFIHOST,0.392
+DPLBAR,  8.19
+DPSBAR,106.9
+FARL,0.915
+FPEXT,0.0508
+LDP, 18.24
+PROPWET,0.70
+RMED-1H,  9.2
+RMED-1D, 35.3
+RMED-2D, 51.1
+SAAR,1331
+SAAR4170,1412
+SPRHOST,46.36
+URBEXT1990,0.0001
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a natural mountainous catchment. GENERAL: Open channel section with gravel control. Station added to peak flows dataset in October 2018 (WINFAP Files v7). STATION HYDROMETRY: No cableway. High flow gaugings carried out by ADCP boat. Good confidence in high flows. Gauged to around QMED. Two peak flow ratings across period of record. FLOW RECORD: Low flows in July 2013 verified by multiple low flow gaugings during the month, therefore thought to be reliable. FLOW REGIME: Micro-hydropower scheme in operation from mid-2017 onwards.
+CATCHMENT,A natural mountainous catchment with a number of small lochs. Mainly pasture, rough grazing, moorland and peat bog with some forestry.
+Qmed Suitability,Reasonable fit to rating. Gauged above bankfull and to near AMAX 1.
+Pooling Suitability,Reasonable fit to rating. Gauged above bankfull and to near AMAX 1.
+[END]

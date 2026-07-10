@@ -1,0 +1,45 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+201002
+[END]
+[CDS DETAILS]
+NAME,Fairywater
+LOCATION,Dudgeon Bridge
+NOMINAL AREA,  158.24
+NOMINAL NGR,2405,3758
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,240550,375800
+DTM AREA,  158.24
+ALTBAR, 143
+ASPBAR, 85
+ASPVAR,0.08
+BFIHOST,0.419
+DPLBAR, 15.19
+DPSBAR, 74.4
+FARL,0.992
+LDP, 26.62
+PROPWET,0.62
+RMED-1H,  8.7
+RMED-1D, 33.4
+RMED-2D, 45.0
+SAAR,1285
+SAAR4170,1249
+SPRHOST,38.84
+URBCONC1990,-9999.000
+URBEXT1990,0.0044
+URBEXT2000,0.0006
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station opened in November 1971. GENERAL: One of the earliest stations in the Northern Ireland hydrometric network. A velocity area station comprising a wooden hut housing a stilling well. Main and backup instruments both present using shaft encoders with float and weight. Channel width approximately 15m at station. STATION HYDROMETRY: Channel too deep to wade gauge at station, but during low flows in-channel gauging is undertaken at road bridge downstream. The last gauging over 10 cumecs was on 07/08/86, the highest gauging flow recorded since this date was on 18/04/96 when the flow was 8.3 cumecs. Rating derived from current meter gaugings. One peak flow rating across period of record. FLOW RECORD: AMAX1 in November 2015 exceeded the previous long-standing highest flow on record from October 1987. Daily flows from 1977 onwards reprocessed in 2002. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12) and in August 2025 (WINFAP Files v14). FLOW REGIME: Natural regime - no water abstractions or significant returns.
+CATCHMENT,Solid geology - Dalradian schistose sandstone and shale form generally impermeable basement in the south. Much of the area is underlain by Carboniferous, generally indurated conglomerate, Claragh sandstone, mudstone and limestone. Prominent Palaeogene dolerite dykes cross the area. Drift geology - river alluvium overlies glacial sand and gravel deposited on drumlinised glacial till. Rock near surface and post-glacial peat extensive on high ground. Restricted development of river alluvium in valleys. Predominantly grassland with some shrub heath, bog and coniferous woodland. No significant urban development.
+Qmed Suitability,Highest gauging is from 1984 and only comes in at 50% of QMED. Up-to-date and higher gaugings required to verify if station is suitable for QMED.
+Pooling Suitability,Rating extrapolated beyond bankfull, and although unmeasured bypass believed to be around 10% of total flows, not suitable for pooling.
+[END]

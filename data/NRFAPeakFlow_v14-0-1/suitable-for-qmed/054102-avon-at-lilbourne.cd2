@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 54102
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Lilbourne
+NOMINAL AREA,  109.58
+NOMINAL NGR,4563,2777
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,456350,277750
+DTM AREA,  109.58
+ALTBAR, 142
+ASPBAR,256
+ASPVAR,0.13
+BFIHOST,0.354
+DPLBAR, 10.97
+DPSBAR, 35.0
+FARL,0.906
+LDP, 21.51
+PROPWET,0.29
+RMED-1H, 12.0
+RMED-1D, 31.5
+RMED-2D, 38.9
+SAAR, 668
+SAAR4170, 695
+SPRHOST,44.77
+URBCONC1990, 0.014
+URBEXT1990,0.0047
+URBLOC1990, 0.021
+URBCONC2000, 0.712
+URBEXT2000,0.0063
+URBLOC2000, 1.043
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Open channel site with cableway until 17/12/98, when flat V weir constructed. GENERAL: Open channel site suffered heavily from weed growth which led to the installation of the flat-v weir. Cableway no longer in use - flow gaugings carried out by waded, remote control or roped ADCP in the same section as the cableway. STATION HYDROMETRY: Crest tapping and downstream tail recorder installed (from October and November 1999 respectively). Weir is situated under a bridge which helps reduce weed growth in the measuring channel and on the weir crest. Due to the known problems with weed at the site, paired with the low modular limit of the weir, a crest tapping tile was added on the weir crest. An automated pump was installed for flushing the crest tapping on a regular basis, however is now switched off due to technical issues. Two ratings applied accross the period of record following installation of the flat-v weir in 1998. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: Influences are PWS and canal abstractions at low flows and peak flattening effect of Stanford Reservoir at high flows.
+CATCHMENT,Agricultural catchment on Lower Lias, with fairly low relief despite being near the headwaters.
+Qmed Suitability,Confident in flow estimates from ratings pre and post weir.
+Pooling Suitability,No gaugings above bank full since weir installation to validate rating. Pre weir data is suitable.
+[END]

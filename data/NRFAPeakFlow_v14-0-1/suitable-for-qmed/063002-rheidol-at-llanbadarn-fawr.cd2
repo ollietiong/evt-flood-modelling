@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 63002
+[END]
+[CDS DETAILS]
+NAME,Rheidol
+LOCATION,Llanbadarn Fawr
+NOMINAL AREA,  181.88
+NOMINAL NGR,2601,2803
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,260100,280350
+DTM AREA,  181.88
+ALTBAR, 341
+ASPBAR,259
+ASPVAR,0.14
+BFIHOST,0.435
+DPLBAR, 27.44
+DPSBAR,194.0
+FARL,0.898
+LDP, 46.15
+PROPWET,0.66
+RMED-1H, 11.0
+RMED-1D, 52.3
+RMED-2D, 69.3
+SAAR,1756
+SAAR4170,1769
+SPRHOST,43.99
+URBEXT1990,0.0007
+URBEXT2000,0.0012
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Hydro-electric power has significant effect on flows across the range and shoaling affects the gauged section. Station closed in 1984, reopened on 31/10/1995 and bank stabilisation works were carried out in 2012/2013. GENERAL: Velocity area station. Hydro-electric power has significant effect on flows across the range and shoaling affects the gauged section. Station closed in 1984, reopened on 31/10/1995 and bank stabilisation works were carried out in 2012/2013. Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: Cableway was removed in mid-2000s. Bed material is alluvium deposits - mix of boulders and grit. Steep left bank, right bank more gentle with small flood plain. Well gauged to bank full, but not above. Surface velocity measurement and cross section area have been used to calculate flood plain flow at QMED, it is about 2% of rated flow. Two peak flow ratings across period of record. FLOW RECORD: Station closed in 1984, reopened on 31/10/1995 and bank stabilisation works were carried out in 2012/2013. Daily flows should be used with caution due to tidal influence and a very mobile control that can lead to innaccurate low flow measurements. Peak flows rejected as unrepresentative of the catchment from 1963-2001 due to uncertainty in flows before flood banks were constructed in 2001. FLOW REGIME: Impounding reservoirs Cwm Rheidol, Dinas and Nant y Moch for hydro-electric power generation have a significant effect on flows across the range.
+CATCHMENT,Mainly Silurian with some Ordovician on the northern catchment boundary. Soils mainly have permeable substrate. Mostly hill farming in upland areas. Some forest.
+Qmed Suitability,Suitable for QMED from 21/02/2001 (WY 2001/2002).
+Pooling Suitability,High uncertainty in rating above QMED.
+[END]

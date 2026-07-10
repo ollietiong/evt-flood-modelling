@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 13012
+[END]
+[CDS DETAILS]
+NAME,South Esk
+LOCATION,Gella Bridge
+NOMINAL AREA,  130.64
+NOMINAL NGR,3372,7653
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,337250,765400
+DTM AREA,  130.64
+ALTBAR, 557
+ASPBAR,178
+ASPVAR,0.13
+BFIHOST,0.512
+DPLBAR, 18.65
+DPSBAR,247.3
+FARL,0.987
+LDP, 34.70
+PROPWET,0.68
+RMED-1H,  9.6
+RMED-1D, 55.0
+RMED-2D, 73.6
+SAAR,1350
+SAAR4170,1448
+SPRHOST,43.03
+URBEXT1990,0.0000
+URBEXT2000,0.0001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a natural upland catchment. GENERAL: Velocity area station located on straight reach between bridges. Bed and control are mixture of large boulders, sand and bedrock. Opened in Dec 1990 as part of South Esk Flood Warning Scheme, although data prior to Jan 1992 still to be obtained. Old arched bridge on upstream side of station started to collapse in Aug 2007. It was demolished shortly after, but the vertical walls remain which are higher than the top of ramp (2.3m), therefore not impacting the rating. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: Cableway rated, fairly stable natural control. Station located on reach between bridges, contained to 2.3m on right bank, and significantly higher on left bank. No bypassing of station. Ratings revised in 2024 which allowed inclusion in the peak flow dataset. Confident in flows up to 2.22m up to Jan 2016, and then only up to 1.9m from then onwards. FLOW RECORD: Highest peaks in Dec 2015 (3.03m), Oct 2023 (2.51m) and Nov 2022 (2.4m). New high flow rating created after Dec 2015 flow, likely due to deposition under the downstream bridge. FLOW REGIME: Natural flows. Usually experiences significant spring snowmelt.
+CATCHMENT,Upland catchment. Bedrock predominantly Dalradian metamorphics over 50% of which is overlain by superficial deposits. Predominantly mountainous with grassland (long and narrow valley supporting rough grazing), and some forest.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Flow contained. Gauged to 2.22m (112m3/s) which is close to AMAX3, although lower confidence above 1.9m post-Jan 2016.
+[END]

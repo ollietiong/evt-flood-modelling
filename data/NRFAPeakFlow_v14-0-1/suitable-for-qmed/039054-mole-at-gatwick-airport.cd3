@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39054
+[END]
+[CDS DETAILS]
+NAME,Mole
+LOCATION,Gatwick Airport
+NOMINAL AREA,   32.33
+NOMINAL NGR,5260,1398
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,526000,139800
+CENTROID NGR,GB,523535,136000
+DTM AREA,   32.33
+ALTBAR,  88
+ASPBAR, 15
+ASPVAR,0.32
+BFIHOST,0.437
+DPLBAR,  6.60
+DPSBAR, 33.5
+FARL,0.943
+FPEXT,0.1719
+LDP, 11.21
+PROPWET,0.36
+RMED-1H, 11.7
+RMED-1D, 35.8
+RMED-2D, 47.4
+SAAR, 816
+SAAR4170, 829
+SPRHOST,40.94
+URBCONC1990, 0.757
+URBEXT1990,0.0878
+URBLOC1990, 0.873
+URBCONC2000, 0.885
+URBEXT2000,0.1399
+URBLOC2000, 0.878
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic station gauging an impervious catchment with some urban land use. GENERAL: Since 2005, an ultrasonic station 200m downstream of original station - rectangular flume (2.74m broad) in culvert below airport runway plus Crump weir in overflow channel (built in 1984, and appears to influence the homogeneity of the flow record). Station added to peak flows dataset in September 2022 (WINFAP Files v11). STATION HYDROMETRY: Six-path ultrasonic gauge, replacing four-path gauge in September 2019. FLOW RECORD: Ran dry for the first time in summer of 1995. Four-path gauge failed in 2016, no data available until re-opening in September 2019. Multiple years rejected in the Peak Flow Dataset due to missing data. FLOW REGIME: Very limited disturbance to the responsive, natural flow regime (Gatwick Airport is not in the catchment); small net export of water.
+CATCHMENT,Impervious (Weald Clay) catchment; mostly rural but heavy urban development in the eastern third.
+Qmed Suitability,Good confidence that QMED is within 30% of its true value. Confidence gained from gauging on 17/01/2014 at 17.278m3/s which showed good gauge performance.
+Pooling Suitability,No comment
+[END]

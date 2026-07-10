@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 20001
+[END]
+[CDS DETAILS]
+NAME,Tyne
+LOCATION,East Linton
+NOMINAL AREA,  307.26
+NOMINAL NGR,3590,6768
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,359100,676800
+CENTROID NGR,GB,347346,666388
+DTM AREA,  307.26
+ALTBAR, 174
+ASPBAR,  3
+ASPVAR,0.25
+BFIHOST,0.489
+DPLBAR, 25.74
+DPSBAR, 70.2
+FARL,0.987
+FPEXT,0.0503
+LDP, 43.29
+PROPWET,0.43
+RMED-1H,  8.5
+RMED-1D, 34.7
+RMED-2D, 48.9
+SAAR, 713
+SAAR4170, 734
+SPRHOST,35.37
+URBEXT1990,0.0035
+URBCONC2000, 0.767
+URBEXT2000,0.0072
+URBLOC2000, 0.653
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most downstream on the Tyne. GENERAL: Velocity area station. STATION HYDROMETRY: This is an open channel station. The low flow section control being the riffle downstream from the station. For higher flows, the channel control becomes the dominant feature with the road bridge 200m downstream playing a key role. An old mill weir and bedrock cascade further downstream may be influential control features during large floods. The rebuild of the road bridge 200m downstream at an unknown date in 1982 is the most significant event affecting the station calibration, with distinctly different relationships before and after the build. The old bridge had a single span. The current bridge design is double box culvert shaped. Before 1982 the ratings are calibrated using gaugings up to 3.026m, which provide good confidence in the flood estimates before 1982. After 1982 there was a long period with no flood gaugings, until the cableway was recommissioned in 2019. Subsequently some flood gaugings at 2.38m were carried out in June 2019 and these provide some confidence in the post 1982 calibration up to 2.38m. These gaugings at 2.38m coincidently mark the start of a major change in cross sectional bank profile, where there is a footpath inserted along the left bank. Post 1982 flood estimates above 2.38 are based on a crude modelled segment based on knowledge of channel dimensions and with some gravitation to pre 1982 flood gaugings. Lower segments through the period of record have been developed to capture evident changes to the low flow control. These include a pipe construction, first noticeable in gaugings from 01/05/69, periods of weed growth in 1973 and 1974, and a large flood on 07/11/2000. Archive notes for the early part of the record, mention corrections for periods of weed growth and any future revision and recalculation of low to medium flows in this early period would need to investigate and understand this more. FLOW RECORD: During 1982 recorded stage was adjusted during rebuilding of the road bridge 200m d/s. Peaks over threshold prior to September 1992 have a default time of 00:00. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Low flows affected by sewage effluent and abstraction for irrigation d/s of Haddington. Significant floodplain storage throughout lower reaches believed to influence flood frequency curve.
+CATCHMENT,The catchment is characterised by steep headwaters in the Lammermuir Hills and broad flat valleys. Bedrock Silurian and Ordovician sedimentary rocks; predominantly superficial deposit cover. Land use mainly arable in the valleys with grassland in the headwaters. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,There is reasonable confidence in the flood estimates pre 1982 as the rating is based on gaugings up to 3.026m, with a measured flow of 115cumecs.
+[END]

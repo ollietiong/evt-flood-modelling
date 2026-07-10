@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 74003
+[END]
+[CDS DETAILS]
+NAME,Ehen
+LOCATION,Bleach Green
+NOMINAL AREA,   44.59
+NOMINAL NGR,3083,5153
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308400,515400
+DTM AREA,   44.59
+ALTBAR, 372
+ASPBAR,291
+ASPVAR,0.21
+BFIHOST,0.417
+DPLBAR,  7.59
+DPSBAR,323.3
+FARL,0.740
+LDP, 16.28
+PROPWET,0.71
+RMED-1H, 13.2
+RMED-1D, 68.6
+RMED-2D, 94.9
+SAAR,2542
+SAAR4170,2567
+SPRHOST,41.89
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir gauging the outflow from Ennerdale Lake. GENERAL: Compound Crump profile weir from August 1973; 10.6m overall width; centre notch 3.0m wide and 0.3m lower than flanking crests each 3.5m wide. Measures flood discharge and compensation water from Ennerdale Water 800m u/s. The station was formerly known as Ennerdale Weir. Replaced narrow flume with side weir regarded as control for a rated section. Eel pass installed 2016. STATION HYDROMETRY: Wingwalls raised from 1.5m to 2.0m in 1999. However, flow above around 1.4m stage bypasses the station on right bank - observed during the large event in October 2008. Although a baffle plate has been installed, well surging, which can be over 20 mm at higher stages, can be a problem. Eel pass installed 2016. Permanent cableway, but gaugings do not include bypassing flow. Gaugings also carried out 30m downstream of weir. One rating applied, based on gaugings although above 1.5m rating is uncertain due to bypassing. FLOW RECORD: Considerable uncertainty due to bypassing in the largest events, such as October 2008 and November 2009. No data are presented for the earlier station (before 1973). Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Although gauging Ennerdale lake outflow, the regime is much more responsive than other lake outflows in the area. Ennerdale Water (0.8 km u/s) provides public water supply for West Cumbria and industrial supply for Sellafield. Compensation flow.
+CATCHMENT,Catchment geology of completely impervious Skiddaw Slates in the north west, Borrowdale Volcanics in the south east with intrusions in the centre. Mostly rough sheep grazing, with forestry on drift cover along river valley. No catchment changes known.
+Qmed Suitability,Gaugings are a good fit to rating to QMED.
+Pooling Suitability,Uncertainty in top end of rating due to significant ungauged bypass flow.
+[END]

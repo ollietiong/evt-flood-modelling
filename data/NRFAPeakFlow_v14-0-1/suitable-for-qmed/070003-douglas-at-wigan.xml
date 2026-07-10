@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SD5861706027" x="358617" y="406027">
+        <CatchmentCentroid grid="GB" ngr="SD6088412431" x="360884" y="412431"/>
+        <area>67.7175</area>
+        <altbar>156.0</altbar>
+        <aspbar>240.0</aspbar>
+        <aspvar>0.26</aspvar>
+        <bfihost>0.418</bfihost>
+        <bfihost19>0.46</bfihost19>
+        <bfihost19scaled>0.428</bfihost19scaled>
+        <dplbar>13.25</dplbar>
+        <dpsbar>67.9</dpsbar>
+        <draindens>1.122</draindens>
+        <farl>0.778</farl>
+        <farl2015>0.7622</farl2015>
+        <fpext>0.0642</fpext>
+        <fpdbar>0.642</fpdbar>
+        <fploc>0.838</fploc>
+        <ihdtmeasting>358600</ihdtmeasting>
+        <ihdtmnorthing>406000</ihdtmnorthing>
+        <ldp>24.55</ldp>
+        <propwet>0.51</propwet>
+        <rmed_1h>11.4</rmed_1h>
+        <rmed_1d>35.9</rmed_1d>
+        <rmed_2d>48.9</rmed_2d>
+        <saar>1140.0</saar>
+        <saar4170>1108.0</saar4170>
+        <saar9120>1210</saar9120>
+        <sprhost>37.7</sprhost>
+        <urbconc1990>0.762</urbconc1990>
+        <urbext1990>0.0488</urbext1990>
+        <urbloc1990>0.76</urbloc1990>
+        <urbconc2000>0.844</urbconc2000>
+        <urbext2000>0.068</urbext2000>
+        <urbloc2000>0.786</urbloc2000>
+        <urbext2015>0.0874</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SD5861706027" x="358617" y="406027">
+        <c>-0.0242</c>
+        <d1>0.34656</d1>
+        <d2>0.36314</d2>
+        <d3>0.38322</d3>
+        <e>0.29819</e>
+        <f>2.5035</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SD590060" x="359000" y="406000">
+        <c_1_km>-0.025</c_1_km>
+        <d1_1_km>0.346</d1_1_km>
+        <d2_1_km>0.352</d2_1_km>
+        <d3_1_km>0.366</d3_1_km>
+        <e_1_km>0.298</e_1_km>
+        <f_1_km>2.495</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.5, 4.2, 5.3, 6.8, 8, 9.3, 10.4, 11.8, 13.2, 14.8, 16.5, 18.4, 20.3, 22.4, 24.3, 26.4, 28.5, 30.6, 32.5, 34.5, 36.3</Depths>
+        <Depths duration="0.25">5.1, 6.3, 7.4, 9.3, 12.3, 14.4, 16.9, 19.4, 22.2, 25.3, 28.7, 32.1, 36.3, 40.5, 45.2, 49.6, 54.6, 59.6, 64.7, 69.4, 74.4, 79.4</Depths>
+        <Depths duration="0.5">6.8, 8.3, 9.9, 12.5, 16.5, 19.4, 23, 26.3, 30.4, 34.7, 39.7, 44.6, 50.7, 57, 63.9, 70.5, 78, 85.6, 93.3, 100.5, 108.4, 116.2</Depths>
+        <Depths duration="0.75">7.9, 9.7, 11.4, 14.5, 19.2, 22.6, 26.8, 30.9, 35.8, 41, 46.8, 52.9, 60.3, 67.9, 76.2, 84.4, 93.5, 102.8, 112.4, 121.4, 131.2, 141</Depths>
+        <Depths duration="1">8.8, 10.8, 12.8, 16.1, 21.3, 25.2, 29.8, 34.4, 39.8, 45.7, 52.4, 59.2, 67.4, 76.1, 85.6, 94.8, 105.2, 115.8, 126.8, 137.1, 148.4, 159.5</Depths>
+        <Depths duration="2">12.7, 14.9, 17.2, 20.8, 26.4, 30.6, 35.7, 40.8, 46.8, 53.4, 60.8, 68.4, 77.4, 86.9, 96.8, 106.5, 117.4, 128.2, 139.4, 149.9, 161.3, 172.6</Depths>
+        <Depths duration="4">17.2, 19.7, 22.3, 26.1, 32.2, 36.7, 42.3, 47.8, 54.4, 61.7, 69.9, 78.2, 87.9, 97.9, 108.4, 118.4, 129.6, 140.6, 152, 162.6, 174.2, 185.7</Depths>
+        <Depths duration="6">20.3, 23, 25.6, 29.6, 36, 40.7, 46.5, 52.3, 59.2, 66.9, 75.5, 84.2, 94.2, 104.5, 115.3, 125.5, 136.8, 148, 159.5, 170.1, 181.9, 193.4</Depths>
+        <Depths duration="12">26.7, 29.5, 32.3, 36.7, 43.4, 48.5, 54.7, 60.9, 68.4, 76.6, 85.8, 95.1, 105.7, 116.5, 127.6, 138.1, 149.7, 161.1, 172.8, 183.8, 195.7, 207.4</Depths>
+        <Depths duration="18">31.2, 34.2, 37.2, 41.7, 48.7, 54, 60.4, 66.8, 74.7, 83.3, 92.9, 102.4, 113.4, 124.4, 135.8, 146.4, 158.2, 169.8, 181.7, 192.7, 204.8, 216.6</Depths>
+        <Depths duration="24">35, 38.1, 41.2, 45.9, 53.2, 58.6, 65.2, 71.8, 79.9, 88.8, 98.7, 108.7, 119.9, 131.1, 142.6, 153.4, 165.3, 177, 189, 200.1, 212.2, 224.2</Depths>
+        <Depths duration="48">46.5, 50, 53.4, 58.6, 66.6, 72.6, 79.8, 87.1, 96, 105.7, 116.5, 127.1, 139, 151, 163.2, 174.6, 187.1, 199.3, 211.8, 223.3, 235.9, 248.2</Depths>
+        <Depths duration="96">63.2, 67.2, 71.1, 77, 86.3, 93.3, 101.7, 110.3, 120.8, 132.1, 144.4, 156.2, 169.3, 182.2, 195.4, 207.6, 220.9, 233.9, 247.2, 259.4, 272.8, 285.9</Depths>
+        <Depths duration="192">88.6, 93.6, 98.3, 105.7, 117.5, 126.6, 137.9, 149.3, 162.8, 176.7, 191.3, 204.9, 219.7, 234.1, 248.7, 262.1, 276.7, 290.9, 305.3, 318.6, 332.9, 347</Depths>
+        <Depths duration="240">99.8, 105.2, 110.3, 118.4, 131.7, 142.1, 155.1, 167.9, 182.7, 197.6, 213, 227.3, 242.8, 257.9, 273.1, 287.1, 302.1, 316.9, 331.8, 345.5, 360.4, 374.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">3, 3.5, 4.1, 5.1, 6.4, 7.4, 8.4, 9.2, 10.1, 11, 12.1, 13.1, 14.2, 15.4, 16.9, 18.4, 20.4, 22.5, 24.7, 26.7, 28.9, 30.9</Depths>
+        <Depths duration="0.25">5.2, 6.3, 7.3, 9, 11.5, 13.3, 15.3, 17.1, 19.1, 21.2, 23.3, 25.4, 28, 30.7, 34.1, 37.6, 42.2, 47.1, 52.3, 57.1, 62.4, 67.6</Depths>
+        <Depths duration="0.5">7, 8.3, 9.8, 12, 15.4, 17.8, 20.7, 23.2, 26.2, 29.1, 32.3, 35.3, 39.1, 43.2, 48.1, 53.5, 60.3, 67.6, 75.4, 82.8, 90.9, 99</Depths>
+        <Depths duration="0.75">8.1, 9.7, 11.4, 14, 18, 20.8, 24.2, 27.3, 30.8, 34.4, 38.1, 41.8, 46.5, 51.5, 57.5, 64, 72.2, 81.2, 90.8, 99.9, 110, 120.1</Depths>
+        <Depths duration="1">9, 10.8, 12.7, 15.5, 19.9, 23.2, 26.9, 30.4, 34.3, 38.3, 42.6, 46.8, 52, 57.7, 64.5, 71.9, 81.3, 91.5, 102.5, 112.9, 124.4, 135.9</Depths>
+        <Depths duration="2">12.8, 14.8, 16.9, 20, 24.8, 28.2, 32.2, 35.9, 40.1, 44.4, 49.2, 54.1, 60.1, 67, 75.4, 84.2, 94.8, 105.6, 117, 127.7, 139.4, 151.1</Depths>
+        <Depths duration="4">17.4, 19.6, 21.9, 25.3, 30.4, 34.1, 38.4, 42.4, 47, 51.8, 57.3, 63.1, 70.4, 78.9, 88.8, 98.7, 110, 121.4, 133.1, 144.1, 156, 167.9</Depths>
+        <Depths duration="6">20.5, 22.9, 25.3, 28.8, 34.2, 38.1, 42.5, 46.8, 51.7, 57, 63.1, 69.6, 77.9, 87.3, 98, 108.4, 120.1, 131.7, 143.6, 154.7, 166.9, 178.8</Depths>
+        <Depths duration="12">26.6, 29.3, 31.9, 35.8, 41.8, 46, 51, 55.9, 61.7, 68.1, 75.7, 83.8, 93.9, 104.8, 116.4, 127.5, 139.8, 152, 164.3, 175.8, 188.3, 200.7</Depths>
+        <Depths duration="18">30.9, 33.7, 36.5, 40.7, 47.1, 51.6, 57, 62.4, 68.8, 76.1, 84.7, 94, 105.1, 116.7, 128.8, 140.3, 153, 165.7, 178.4, 190.2, 203.1, 215.8</Depths>
+        <Depths duration="24">34.4, 37.4, 40.4, 44.7, 51.5, 56.3, 62.1, 67.8, 74.7, 82.7, 92.3, 102.3, 114.2, 126.3, 138.8, 150.6, 163.7, 176.9, 190.2, 202.3, 215.5, 228.4</Depths>
+        <Depths duration="48">45, 48.5, 51.9, 56.9, 64.7, 70.3, 77.1, 84, 92.5, 102.4, 113.9, 125.7, 139.1, 152.4, 166.1, 178.8, 192.8, 206.5, 220.4, 233.4, 247.6, 261.3</Depths>
+        <Depths duration="96">61.4, 65.6, 69.6, 75.6, 84.9, 91.5, 99.5, 107.7, 118, 129.7, 143, 156.2, 171.2, 186.1, 201.3, 215.5, 230.9, 246, 261.4, 275.6, 291.2, 306.4</Depths>
+        <Depths duration="192">89.9, 95.1, 100.2, 107.8, 119.3, 127.6, 137.4, 147.3, 159.6, 173.4, 188.5, 203.6, 220.6, 237.8, 255.4, 271.9, 289.9, 307.5, 325.2, 341.6, 359.3, 376.6</Depths>
+        <Depths duration="240">103.2, 108.9, 114.4, 122.7, 135.3, 144.3, 154.9, 165.7, 179, 193.8, 209.9, 225.9, 243.9, 261.9, 280.6, 298, 317.1, 335.9, 354.7, 372, 390.9, 409.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Wigan" name="Douglas" number="70003">
+        <Comments>
+            <Comment type="Station Summary">Ultrasonic station (from end Feb 1995) with earlier flows using levels and rating for Central Park Wigan. Flow regime affected by reservoirs.</Comment>
+            <Comment type="Hydrometric">No bypassing reported. Check gaugings suggest the ultrasonic station may under-estimate the higher flows. Wigan Flood Alleviation Scheme (approx 750m upstream of the gauging station) was finally completed around November 2011. The scheme has two large hydrobrake devices which restrict outlet flows through the hydrobrakes to around 20 cumecs. Peak flow ratings and derivation of flows reflect the changes at the station.</Comment>
+            <Comment type="General">Original station, Central Park, Wigan was a velocity-area station opened 1973 in rectangular channel with pipe as low-flow control. Variable bed profile (silt, debris and redistribution) gave poor data. In 1995 an ultrasonic gauge was installed with four transducers (cross-path at two heights) under a footbridge approx. 100m downstream. Dual running from 1995 until December 1999 when consolidated at ultrasonic site and station renamed as Wigan. More transducers at higher levels added May/June 2012. Station photos provided show the ultrasonic station. Ultrasonic flows are only produced up to a stage of 1.53m, beyond this modelled flow data is used due to obstruction caused by footbridge soffit.</Comment>
+            <Comment type="Flow record">Flow events are generally affected by the two hydrobrakes in the Wigan Flood Alleviation Scheme. However, the December 2015 event filled the reservoir and flowed over the embankment spillway. Peak flow data from water year 2011/12 are rejected as unrepresentative due to the effect of the flood alleviation scheme on flows. Gaps in data June 2020 and April 2023 due to equipment faults.</Comment>
+            <Comment type="Flow regime">Flow regime and effective catchment significantly modified by the Integrated complex of eight reservoirs at Rivington which diverts flow from the Yarrow headwaters to the River Douglas.</Comment>
+            <Comment type="Catchment">Moderate relief catchment. Geology is Coal Measures wholly blanketed by Boulder Clay. Land use mostly rural with some urban development. No significant catchment changes.</Comment>
+            <Comment type="Factors affecting runoff">SRPEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Ultrasonics thought to have under-estimated higher flows, so will give too low a growth curve. However, gaugings extend to 80% of AMAX1, though with considerable scatter." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>1.84</value>
+            <significance comment="Significant at the 10% level">10</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

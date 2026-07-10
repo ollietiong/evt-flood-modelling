@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+  7012
+[END]
+[CDS DETAILS]
+NAME,Lossie
+LOCATION,Ballachraggan
+NOMINAL AREA,   31.60
+NOMINAL NGR,3131,8496
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,313200,849600
+DTM AREA,   31.60
+ALTBAR, 322
+ASPBAR,  2
+ASPVAR,0.41
+BFIHOST,0.363
+DPLBAR,  6.56
+DPSBAR, 77.6
+FARL,0.964
+LDP, 13.37
+PROPWET,0.42
+RMED-1H,  9.6
+RMED-1D, 41.5
+RMED-2D, 53.5
+SAAR, 941
+SAAR4170, 965
+SPRHOST,50.67
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, opened to replace 7006 (Torwinny). GENERAL: Velocity area station, opened to replace Torwinny gauging station (7006). Station added to peak flows dataset in August 2024 (WINFAP Files v13). STATION HYDROMETRY: The ratings are informed by fluvial modelling which improves the confidence in flow estimation for larger flood events beyond the range of gaugings. Multiple peak flow ratings across the period of record. FLOW REGIME: Natural regime, no abstractions.
+CATCHMENT,Small upland catchment. Impermeable catchment developed on Moinian metamorphics with significant superficial deposits. Heavily forested; some rough moorland remains in headwaters. No significant catchment changes known.
+Qmed Suitability,Rating well supported by gaugings to QMED.
+Pooling Suitability,Gauged to 1.468m with 20.6 cumecs measured. The rating extension above the highest gauging is based on hydraulic modelling, that provides some confidence in the estimation of the larger floods.
+[END]

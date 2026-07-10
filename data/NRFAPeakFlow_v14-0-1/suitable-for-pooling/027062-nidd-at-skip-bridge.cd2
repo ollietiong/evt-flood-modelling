@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27062
+[END]
+[CDS DETAILS]
+NAME,Nidd
+LOCATION,Skip Bridge
+NOMINAL AREA,  523.47
+NOMINAL NGR,4482,4560
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,448250,456100
+DTM AREA,  523.47
+ALTBAR, 185
+ASPBAR, 91
+ASPVAR,0.22
+BFIHOST,0.416
+DPLBAR, 51.02
+DPSBAR, 71.8
+FARL,0.950
+LDP, 91.82
+PROPWET,0.36
+RMED-1H, 11.4
+RMED-1D, 38.3
+RMED-2D, 48.3
+SAAR, 945
+SAAR4170, 951
+SPRHOST,39.36
+URBCONC1990, 0.777
+URBEXT1990,0.0244
+URBLOC1990, 0.749
+URBCONC2000, 0.847
+URBEXT2000,0.0308
+URBLOC2000, 0.767
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Full range ultrasonic station since 1999. Previously a flat-V weir, intended to measure low flows to complement high flow measurement at 27001. GENERAL: Full-range multi-path ultrasonic operating since 1999, replaced previous flat-V weir. The weir was for low flow measurement in conjunction with high flow data from Hunsingore (27001), which is insensitive at low flows. The weir was removed in 1999 and station converted to ultrasonic to improve fish passage. Ultrasonic gauge originally only set to measure up to 100 cumecs, but range extended after June 2000 event (and before October 2000 event) to cover full range. Station suffered problems from siltation affecting low flows, until the trapezoidal channel was built in 2017/18. STATION HYDROMETRY: Crossed-path multi-path ultrasonic in trapezoidal channel (installed 2018), replaced previous two-stage channel configuration (from 2001), rectangular channel configuration (from 1999) and earlier Flat V weir (12m wide, from 1979). Weir suffered from variable backwater from the Ouse downstream. Original ultrasonic gauge suffered from siltation, mainly affected low flows which are thought to be too high as a result. Section modified and downstream weir removed to reduce sediment deposition (by increasing velocity) but only partially successful. Full rebuild, converting channel to a trapezoid in 2017/18 appears to have resolved this problem. Significant attenuation of peak flows between Hunsingore and Skip Bridge because of flood plain inundation. Flow measured directly by ultrasonic gauge, no rating available since weir removal. Several gaugings >75 cumecs give close agreement with ultrasonic gauge flow. Level measurement by pressure transducer. FLOW RECORD: Original Flat V weir rating modified to try to take account of drowning, flows from 1979 reprocessed and high flows substantially reduced. High flows from this period (1979-1999) are still considered unsuitable for flood estimation and are not presented with the peak flows, only ultrasonic peak flow data is presented (from 1999). Low flow data 1999-2018 considered less reliable due to impact of sediment deposition in measuring section, several data gaps in this period also a result of sediment problems. Significant gaps 11/2001 to 05/2002 and 05/2017 to 09/2018 due to site refurbishment. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Heavily reservoired headwaters of the Nidd valley significantly affect flows; Gouthwaite Reservoir outflows especially significant in low flow conditions.
+CATCHMENT,Geology: Carboniferous Millstone Grits, Permian Marls and Triassic Sandstones. Predominantly rural, rugged in headwaters. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Comparison between gaugings and ultrasonic gauge is reasonable; flows are lower than those at Hunsingore but this is attributed to attenuation and storage between the two sites.
+[END]

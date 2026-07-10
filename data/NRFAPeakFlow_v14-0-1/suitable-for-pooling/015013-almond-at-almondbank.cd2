@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 15013
+[END]
+[CDS DETAILS]
+NAME,Almond
+LOCATION,Almondbank
+NOMINAL AREA,  173.28
+NOMINAL NGR,3067,7258
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,306700,725800
+DTM AREA,  173.28
+ALTBAR, 408
+ASPBAR,126
+ASPVAR,0.17
+BFIHOST,0.466
+DPLBAR, 28.84
+DPSBAR,196.9
+FARL,0.996
+LDP, 51.25
+PROPWET,0.61
+RMED-1H,  9.8
+RMED-1D, 44.8
+RMED-2D, 61.0
+SAAR,1394
+SAAR4170,1460
+SPRHOST,42.65
+URBEXT1990,0.0004
+URBEXT2000,0.0014
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station draining the south east Grampians. Station is the lowest tributary on the Tay above the tidal limit. GENERAL: Control and bank instability and various engineering works have impacted the performance since 2008. From around 2008 there was bank erosion on the right bank opposite the stilling well hut and there was further washing out of the old stone mill weir that is located downstream of station and downstream confluence of East Pow. Flood protection works (phase 1) were on going from circa 2010 to repair bank erosion and weir. Weir was rebuilt to include fish pass. Flood Protection work ongoing since 2016 (phase 2). STATION HYDROMETRY: Cableway present. Natural control. Channel affected by ice during prolonged periods of low temperature. Weir downstream could be control for high flows. Ratings derived from current meter gaugings up to 2.3m (about 1.1QMED), simple extrapolation beyond. Several ratings across period of record. FLOW RECORD: Daily read gauge boards from January 1955 to January 1973. Naturalised monthly flows available from 1973-1985. December 1971/Jan 1972 flows removed from the NRFA; December 2009/January 2010 and December 2010 flows considered suspect due to ice formation. 1993 highest flow checked by slope area method. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). FLOW REGIME: Very flashy. 30 sq.km controlled for HEP. Minor abstraction from Fendoch Burn for water supply - affecting only low and medium flows.
+CATCHMENT,Mountainous, often snowy in winter. Long, narrow, steeply sloping catchment draining Glen Almond in southeast of Grampians. Two thirds of bedrock is metamorphic the remainder is sandstone. Over half of the catchment is overlain by superficial deposits. Land use is heather moor, rough grazing in upper parts with some cattle in the lower, some forest cover. Hydro-electric power schemes have developed within the catchment.
+Qmed Suitability,No comment.
+Pooling Suitability,No comment.
+[END]

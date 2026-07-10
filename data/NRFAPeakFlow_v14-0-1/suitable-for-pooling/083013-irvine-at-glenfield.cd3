@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 83013
+[END]
+[CDS DETAILS]
+NAME,Irvine
+LOCATION,Glenfield
+NOMINAL AREA,  211.89
+NOMINAL NGR,2429,6369
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,243000,637000
+CENTROID NGR,GB,252534,636317
+DTM AREA,  211.89
+ALTBAR, 167
+ASPBAR,249
+ASPVAR,0.22
+BFIHOST,0.348
+DPLBAR, 20.17
+DPSBAR, 63.9
+FARL,0.986
+FPEXT,0.0704
+LDP, 39.30
+PROPWET,0.59
+RMED-1H,  9.3
+RMED-1D, 37.0
+RMED-2D, 52.9
+SAAR,1222
+SAAR4170,1221
+SPRHOST,41.73
+URBCONC1990, 0.799
+URBEXT1990,0.0150
+URBLOC1990, 0.402
+URBCONC2000, 0.785
+URBEXT2000,0.0158
+URBLOC2000, 0.407
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad crested masonry weir on the River Irvine. GENERAL: The stage record between 1913 and 1981 was recorded by Glenfield and Kennedy engineering works, who manufactured charts recorders and other water engineering components. Although the charts have been digitised by SEPA, there is a significant amount of work required to quality control and prepare the early record for Peak Flow calculation and hence the Peak Flow record is currently only recommended from 1982. Peaks in the 1913 to 1981 period were derived manually from the charts for the original flood studies project and although these records remain published in the Peak Flow dataset, the record will remain flagged as 'rejected' until a full QC can be carried out. Stage recording in the Water Tower was handed over to the Clyde River Purification Board (predecessor of SEPA) in 1982. After issues with the engineering works occasionally closing the inlet pipe of the Water Tower during floods, CRPB installed a second stage recorder in 2002 slightly upstream on a footbridge. The footbridge location initially failed to record lower levels due to siltation of the stilling well (plastic pipe attached to the bridge) and so the two sites worked in tandem until 2010 when recording ceased from the water tower. This was possible after the plastic pipe at the footbridge was replaced with a pressure transducer in 2004. The period of tandem operation had the consequence of two stations being created in SEPA hydrometric database; called Glenfield Water Tower and Glenfield Footbridge. To facilitate the calculation of a single flow archive, a third unified site was created in the SEPA database called Glenfield, which merged all the stage record. This single site approach is consistent with the NRFA holdings where there has only ever been one station called 'Glenfield'. Although the digital record starts on 01/05/1982, significant gaps in the early years mean that a POT series is currently not available before 01/10/1992; a gap between 18/05/85 and 11/07/1985 likely has two missing POT events, a gap between 01/10/86 and 01/11/86 likely has one missing POT event and a gap between 01/01/1992 and 05/02/1992 likely has two missing POT events as well as missing the AMAX event for WY1991. The credible AMAX record begins from 01/10/1982 but with the AMAX figure for 1991 missing. STATION HYDROMETRY: The control through the record is a masonry weir, originally constructed for a sluice and lade system for power generation, which is now redundant. Routine sluice openings until the 1970s caused evident dropouts in stage records. The flat-crested weir is inadequate for low flow estimation, so flows below 0.3m are flagged as suspect. The published datum history reflects available notes and understanding as of August 2024. The early period of operation by Glenfield and Kennedy between 1913 and 1981 recorded levels above the crest of the weir. There was an old imperial gauge board opposite the original location of stage recording (water tower) that is assumed to have been zeroed to the weir crest. The weir crest itself consists of large masonry blocks with gaps in-between. The station record review by SEPA in 2024 concluded that the figure of 20.78 mAOD should remain as the gauge zero figure for the period between 1913 and 1981, which is thought to reflect the weir crest and the imperial gauge board zero. A new gauge board was installed at the onset of operation by the River Clyde Purification Board in 1982 and the gauge zero is recorded as 20.589mAOD. The station operation was transferred to SEPA in 1996 who replaced the gauge board with a ramp gauge in September 2004. The gauge zero remained unchanged during this upgrade to a ramp gauge. The gauging station section is lined by flood defence walls that were raised around 2000 to effectively contain the highest events. The exact date and stage of the flood defence works needs to be further investigated. Until this information is available, an estimation of 01/01/2000 will be adopted as the date when the flood walls were raised. The earlier date when the original lower walls were built also needs to be determined so that the differences in channel containment can be reflected in the calibration through the flow record. Rating 3.2 provides confident flood estimations after the flood defence walls were raised, being informed by gaugings up to 2.3m (measured at 113.2 cumecs) and by fluvial modelling for the out of bank segment up to the top of the flood defence walls. Rating 2.1 is applied prior to the second phase of engineering works to convey the reduced confidence in calibration, being a copy of rating 3.2 with the upper limits lowered to flag the out of bank flows as suspect. The segment change point of rating 3.2 indicates the top of the channel to be around 2.048m, but this needs to be further checked by survey. Although rating 2.1 is currently flagged as suspect after 2.048m, this is probably a precautionary approach as the original walls form the foundation of the current wall and the flows will have been contained for a decent height above 2.048m. The original Peak Flow calculations between 1913 and 1981 were derived by a hydraulic formula with correction for drowning and skewness of the weir and with checks against medium range gaugings. The in-channel calibration from rating 3.1 (up to ~ 2m) is deemed an improved rating for this period, and considering the continuity that the weir control provides, it is the intention to recalculate the flows between 1913 and 1981 using a datum adjusted version of rating 3.1. This can only be done after the early-stage record has been quality controlled and until then the flow estimates will be marked as excluded in the Peak Flow record. Largest events in the early period inundated the inside of the meander where the station is positioned, with water flowing across the meander neck and bypassing the station. This is noted as happening during the floods of 03/01/1932 and 08/08/1961. The construction of flood walls means that bypassing is less of a feature after around 1990. Peaks in the 1913 to 1981 period were derived manually from the charts for the original flood studies project and although these records remain published in the peak flow dataset, the record will remain flagged as rejected until a full QC can be carried out. FLOW RECORD: Peaks in the 1913 to 1981 period were derived manually from the charts for the original flood studies project and although these records remain published in the peak flow dataset, the record will remain flagged as rejected until a full QC can be carried out. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: A largely natural flow regime but the extent of agricultural flood levees in the catchment will likely have increased from the start of the record.
+CATCHMENT,Mostly lowland catchment. Predominantly Carboniferous and igneous bedrock, with localised ORS; extensively overlain by superficial deposits (mainly Boulder Clay). Rural catchment with forested areas in NE and urbanisation along main valley (Darvel, Newmilns, Galston and Kilmarnock). Flood walls built approximately spring 1998.
+Qmed Suitability,Gauged up to bankfull.
+Pooling Suitability,Informed by gaugings up to 2.3m (measured at 113.2 cumecs) and by fluvial modelling for the out of bank segment up to the top of the flood defence walls.
+[END]

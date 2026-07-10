@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28060
+[END]
+[CDS DETAILS]
+NAME,Dover Beck
+LOCATION,Lowdham
+NOMINAL AREA,   62.67
+NOMINAL NGR,4652,3479
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,465300,347950
+CENTROID NGR,GB,460975,351551
+DTM AREA,   62.67
+ALTBAR,  88
+ASPBAR,119
+ASPVAR,0.25
+BFIHOST,0.751
+DPLBAR,  8.15
+DPSBAR, 54.0
+FARL,0.953
+FPEXT,0.0630
+LDP, 16.55
+PROPWET,0.27
+RMED-1H, 11.0
+RMED-1D, 33.0
+RMED-2D, 42.6
+SAAR, 683
+SAAR4170, 686
+SPRHOST,24.62
+URBCONC1990, 0.637
+URBEXT1990,0.0293
+URBLOC1990, 0.951
+URBCONC2000, 0.812
+URBEXT2000,0.0379
+URBLOC2000, 0.954
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir in a trapezoidal channel draining a baseflow dominated catchment affected by significant abstractions. GENERAL: Crump profile flat V weir (1:10) in a trapezoidal (1:1) channel. Subject to weed growth; low modular limit. Shallow flow upstream and downstream of the weir. STATION HYDROMETRY: Two ratings applied across period of record, the most recent adjusting the non-modular limb based on new high flow gaugings up to 2007, re-processed back to January-1990. Older high flow gaugings have better fit to the previous curve. The same theoretical flat-V weir equation for modular flows applies over whole period of record. High deviation at low flows may be accounted for by increased gauging error at low flows and silt accumulation. Subject to weed growth; low modular limit but rating has high flow component. FLOW RECORD: Daily flow peak on 4th August 2018 caused by burst water main in the area which caused water to enter the river from the nearby areas. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). and in August 2024 (WINFAP Files v13). FLOW REGIME: Baseflow dominated. Affected by spray irrigation abstraction and minor WRW effluent.
+CATCHMENT,The river drains SE from a moderate to low relief catchment. The bulk of the catchment comprises outcrop Triassic sandstone. Flanking hills nearer the gauge are of Mercia Mudstone. Predominantly rural catchment with mixed farming.
+Qmed Suitability,Structure drowns at low threshold compared to historically.
+Pooling Suitability,Structure drowns at low threshold compared to historically.
+[END]

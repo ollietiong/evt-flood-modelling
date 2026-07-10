@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76023
+[END]
+[CDS DETAILS]
+NAME,Dacre Beck
+LOCATION,Dacre Bridge
+NOMINAL AREA,   33.91
+NOMINAL NGR,3460,5262
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,346000,526250
+CENTROID NGR,GB,341782,525858
+DTM AREA,   33.91
+ALTBAR, 287
+ASPBAR, 59
+ASPVAR,0.20
+BFIHOST,0.457
+DPLBAR,  7.55
+DPSBAR,101.3
+FARL,0.999
+FPEXT,0.0723
+LDP, 12.91
+PROPWET,0.64
+RMED-1H, 10.9
+RMED-1D, 46.2
+RMED-2D, 64.3
+SAAR,1429
+SAAR4170,1526
+SPRHOST,36.35
+URBEXT1990,0.0005
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station opened in 1999. Flashy regime in a small north-eastern Lake District catchment. Previously station number 76811. GENERAL: Station opened in November 1997 as levels-only for flood warning purposes. Closed September 1998 and re-opened January 1999 using velocity area method for flow measurement. STATION HYDROMETRY: Cableway present. Bridge downstream forms a control at high flows and prevents bypassing. Calibration difficult because of very turbulent velocity profiles. One peak flow rating applied across period of record. Rating based on gaugings at low and medium flows, with modelled top end. FLOW RECORD: Data are presented from August 2000 when continuous flow calculation began. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Flashy regime, with no known artificial influences.
+CATCHMENT,An upland area in the north-east of the Lake District, receiving high annual rainfall. No significant catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged above QMED. Good fit to gaugings.
+[END]

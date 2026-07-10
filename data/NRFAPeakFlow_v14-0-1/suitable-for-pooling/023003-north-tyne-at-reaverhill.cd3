@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23003
+[END]
+[CDS DETAILS]
+NAME,North Tyne
+LOCATION,Reaverhill
+NOMINAL AREA, 1012.98
+NOMINAL NGR,3905,5732
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,390550,573200
+CENTROID NGR,GB,377080,589424
+DTM AREA, 1012.98
+ALTBAR, 278
+ASPBAR,125
+ASPVAR,0.14
+BFIHOST,0.310
+DPLBAR, 37.97
+DPSBAR, 92.3
+FARL,0.991
+FPEXT,0.0471
+LDP, 66.25
+PROPWET,0.50
+RMED-1H,  9.8
+RMED-1D, 34.7
+RMED-2D, 46.3
+SAAR,1023
+SAAR4170,1091
+SPRHOST,50.69
+URBEXT1990,0.0005
+URBEXT2000,0.0005
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, replaced 23015. Flow regime influenced by Kielder reservoir. GENERAL: Velocity area station (63m wide at bank full) with natural channel control on a straight, stable reach with a stony bed. Replaced earlier station at Barrasford (23015) which was unreliable. STATION HYDROMETRY: Velocity area station with natural channel control, some out of bank flow in very big events but no by-passing. Subject to regulation from Kielder reservoir since 1980. Ratings fitted to current meter gaugings at on site cableway, gauged to within 30% of AMAX1, some spread in gaugings but generally good fit and extrapolation is reasonable. Flood Studies Report grade A1. Three ratings applied over period of record. FLOW RECORD: Post-reservoir data marked as rejected. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Kielder Reservoir impounds approximately 24 per cent of the catchment to Reaverhill, flow regime is impacted by regulation releases to support downstream abstractions in dry weather and by regular releases of between 3 and 16 cumecs for hydropower generation. Hydropower releases have little influence on high flows, however reservoir does have a significant impact on flood flows due to drawdown and attenuation. Catcleugh Reservoir also in the catchment, impounds 40 km2 in the headwaters of the Rede catchment with some net export of water from here to support Colt Crag and Hallington reservoirs.
+CATCHMENT,A very responsive upland catchment. Developed mainly on formations of the Carboniferous series (Fell Sandstone, Scremerston Group and Lower Limestone), around half of the catchment is overlain by Boulder Clay and peat in the headwaters. A predominantly natural regime until construction of Kielder reservoir (impounded 1982) which controls 24% of top of North Tyne catchment. Land use is rugged moorland and upland pasture, with significant afforestation in the west of the catchment since 1926. Pre-reservoir FARL2015 (for WINFAP 5.3 or later) or FARL (for earlier versions of WINFAP) should be used with these records because the peak flow data after the reservoir started impounding is rejected. Pre- and post-reservoir values for FARL2015 are 0.9762 and 0.9161, respectively. Pre- and post-reservoir values for FARL are 0.991 and 0.936, respectively.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged above QMED. The hydraulic properties of the channel are not expected to change significantly above bank full.
+[END]

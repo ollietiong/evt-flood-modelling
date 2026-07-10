@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+205008
+[END]
+[CDS DETAILS]
+NAME,Lagan
+LOCATION,Drumiller
+NOMINAL AREA,   84.97
+NOMINAL NGR,3236,3524
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,323650,352500
+DTM AREA,   84.97
+ALTBAR, 168
+ASPBAR,337
+ASPVAR,0.18
+BFIHOST,0.403
+DPLBAR, 11.70
+DPSBAR, 86.5
+FARL,0.992
+LDP, 19.21
+PROPWET,0.53
+RMED-1H, 10.7
+RMED-1D, 40.9
+RMED-2D, 53.0
+SAAR,1016
+SAAR4170,1082
+SPRHOST,44.90
+URBCONC1990,-9999.000
+URBEXT1990,0.0135
+URBLOC1990, 0.747
+URBEXT2000,0.0013
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in March 1974. Station located at top of Lagan catchment between villages of Dromara and Dromore. GENERAL: Velocity-area station opened March 1974 with open channel control. Masonry hut housing stilling well situated on right bank. Main and backup instruments present both using shaft encoders with float & weight. Concrete Flat V weir installed in 1991. Channel width c.10m at station. STATION HYDROMETRY: Prior to weir installation in 1991 rating based solely on gaugings. Low flow gauging conducted by wade gauging with high flow gaugings carried out on downstream side road bridge at station. Road bridge rebuilt in January 2014 but impact on flows deemed minimal. Minor floodplain flow on left bank at very high flows. Simple extrapolation used above highest gauged flow of 30.77m3/s (gauged on 07/11/2000). One peak flow rating across period of record. FLOW RECORD: Daily flows from 1978 onwards reprocessed in 2002. Late December 2010 flows considered suspect due to likely freezing in stilling well. Gap in data between August and November 1991 when flat V weir was installed. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in August 2024 (WINFAP Files v13). FLOW REGIME: Natural regime - no water abstractions or significant effluent returns.
+CATCHMENT,Predominantly upland heath rising to over 500m, some grassland used for sheep grazing. Solid geology - Silurian greywacke sandstones and shale form indurated bedrock. Drift geology - rock near surface, drumlinised glacial till and river alluvium. Catchment contains one large village (Dromara).
+Qmed Suitability,Maximum gauged flow is greater than QMED for both pre and post weir record. QMED flows are contained within the channel however weir is not believed to be modular but the current meter gaugings are approximately 1.2 times QMED.
+Pooling Suitability,Station gets out of bank on the left bank during high flows but at the highest recorded level the estimated floodplain flow is less than 10%.
+[END]

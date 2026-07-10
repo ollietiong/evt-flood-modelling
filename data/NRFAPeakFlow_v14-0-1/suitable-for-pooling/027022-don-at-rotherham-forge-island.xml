@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SK4268292768" x="442682" y="392768">
+        <CatchmentCentroid grid="GB" ngr="SK3419784597" x="434197" y="384597"/>
+        <area>824.43</area>
+        <altbar>186.0</altbar>
+        <aspbar>75.0</aspbar>
+        <aspvar>0.21</aspvar>
+        <bfihost>0.464</bfihost>
+        <bfihost19>0.477</bfihost19>
+        <bfihost19scaled>0.47</bfihost19scaled>
+        <dplbar>28.48</dplbar>
+        <dpsbar>85.2</dpsbar>
+        <draindens>1.0</draindens>
+        <farl>0.915</farl>
+        <farl2015>0.9157</farl2015>
+        <fpext>0.0454</fpext>
+        <fpdbar>0.491</fpdbar>
+        <fploc>0.806</fploc>
+        <ihdtmeasting>442650</ihdtmeasting>
+        <ihdtmnorthing>392750</ihdtmnorthing>
+        <ldp>57.2</ldp>
+        <propwet>0.38</propwet>
+        <rmed_1h>10.6</rmed_1h>
+        <rmed_1d>37.2</rmed_1d>
+        <rmed_2d>48.3</rmed_2d>
+        <saar>864.0</saar>
+        <saar4170>860.0</saar4170>
+        <saar9120>900</saar9120>
+        <sprhost>32.36</sprhost>
+        <urbconc1990>0.773</urbconc1990>
+        <urbext1990>0.1197</urbext1990>
+        <urbloc1990>0.692</urbloc1990>
+        <urbconc2000>0.885</urbconc2000>
+        <urbext2000>0.1405</urbext2000>
+        <urbloc2000>0.732</urbloc2000>
+        <urbext2015>0.1619</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SK4268292768" x="442682" y="392768">
+        <c>-0.02549</c>
+        <d1>0.38288</d1>
+        <d2>0.44686</d2>
+        <d3>0.27232</d3>
+        <e>0.30058</e>
+        <f>2.39209</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SK430930" x="443000" y="393000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.348</d1_1_km>
+        <d2_1_km>0.451</d2_1_km>
+        <d3_1_km>0.219</d3_1_km>
+        <e_1_km>0.296</e_1_km>
+        <f_1_km>2.386</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.4, 4.2, 5.2, 6.8, 7.9, 9.2, 10.3, 11.6, 13.1, 14.9, 16.6, 18.9, 21.4, 24, 26.5, 29.2, 31.8, 34.3, 36.6, 39, 41.3</Depths>
+        <Depths duration="0.25">4.9, 6, 7.1, 9, 11.9, 14, 16.4, 18.8, 21.4, 24.6, 28.1, 31.8, 36.6, 41.8, 47.5, 53, 59, 65, 71, 76.6, 82.6, 88.5</Depths>
+        <Depths duration="0.5">6.4, 7.9, 9.4, 11.8, 15.8, 18.6, 22, 25.1, 28.9, 33.2, 38.2, 43.4, 50.1, 57.6, 65.7, 73.6, 82.6, 91.3, 100.3, 108.6, 117.7, 126.7</Depths>
+        <Depths duration="0.75">7.4, 9.1, 10.9, 13.6, 18.2, 21.4, 25.4, 29.2, 33.7, 38.7, 44.6, 50.9, 58.8, 67.8, 77.5, 87, 97.7, 108.3, 119, 129.2, 140.4, 151.4</Depths>
+        <Depths duration="1">8.1, 10, 12, 15, 20, 23.6, 28, 32.2, 37.3, 42.9, 49.4, 56.4, 65.3, 75.3, 86.2, 96.8, 108.8, 120.7, 132.9, 144.4, 156.9, 169.4</Depths>
+        <Depths duration="2">12, 14.2, 16.4, 19.8, 25.3, 29.3, 34.1, 38.9, 44.8, 51.4, 59.3, 67.8, 78.2, 89.2, 100.8, 111.9, 124.1, 136.3, 148.7, 160.4, 173.1, 185.7</Depths>
+        <Depths duration="4">16.8, 19.3, 21.8, 25.6, 31.6, 36.1, 41.6, 47.2, 54.2, 62.2, 71.7, 81.5, 92.9, 104.6, 116.7, 128.1, 140.7, 153.1, 165.9, 177.7, 190.7, 203.5</Depths>
+        <Depths duration="6">20.2, 22.8, 25.5, 29.5, 36, 40.8, 46.8, 53, 60.8, 69.7, 80, 90.4, 102.3, 114.4, 126.8, 138.4, 151.2, 163.8, 176.7, 188.7, 201.8, 214.7</Depths>
+        <Depths duration="12">26.9, 30, 33, 37.5, 44.9, 50.5, 57.5, 64.9, 74.2, 84.5, 96.1, 107.3, 119.9, 132.5, 145.4, 157.4, 170.5, 183.5, 196.7, 209, 222.4, 235.6</Depths>
+        <Depths duration="18">31.5, 34.8, 38.1, 43, 51, 57.1, 64.9, 73.1, 83.2, 94.4, 106.5, 118.2, 131.2, 144, 157.2, 169.4, 182.8, 196, 209.4, 221.9, 235.5, 248.9</Depths>
+        <Depths duration="24">35.1, 38.5, 42, 47.2, 55.7, 62.3, 70.6, 79.4, 90.2, 101.8, 114.3, 126.3, 139.5, 152.6, 166, 178.4, 191.9, 205.3, 218.9, 231.5, 245.3, 258.8</Depths>
+        <Depths duration="48">44.8, 48.8, 52.8, 58.9, 68.9, 76.7, 86.5, 96.5, 108.5, 121.1, 134.4, 147, 160.8, 174.5, 188.4, 201.2, 215.2, 229, 243, 255.9, 270.1, 284</Depths>
+        <Depths duration="96">56.9, 61.7, 66.4, 73.6, 85.2, 94.1, 105.1, 116.1, 128.9, 142.1, 156, 169, 183.4, 197.6, 212, 225.3, 239.9, 254.1, 268.6, 282, 296.5, 310.8</Depths>
+        <Depths duration="192">74.3, 80.1, 85.8, 94.3, 107.5, 117.3, 128.8, 140, 152.9, 166.1, 179.9, 193.1, 207.7, 222.2, 236.9, 250.7, 265.7, 280.5, 295.5, 309.4, 324.4, 339.2</Depths>
+        <Depths duration="240">82, 88.2, 94.3, 103.3, 117.2, 127.1, 138.8, 150, 162.6, 175.6, 189.2, 202.2, 216.7, 231.1, 245.9, 259.6, 274.8, 289.7, 304.8, 318.8, 334, 349</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.9, 3.5, 4.3, 5.3, 7, 8.1, 9.3, 10.4, 11.5, 12.8, 14.2, 15.4, 16.8, 18.5, 20.3, 22.1, 24.2, 26.3, 28.5, 30.5, 32.6, 34.6</Depths>
+        <Depths duration="0.25">4.9, 6.1, 7.3, 9.2, 12.2, 14.4, 16.7, 19, 21.3, 24, 26.8, 29.5, 32.6, 36.1, 40.1, 44.2, 49, 53.9, 59, 63.8, 69, 74.1</Depths>
+        <Depths duration="0.5">6.5, 8, 9.6, 12.1, 16.2, 19, 22.4, 25.4, 28.7, 32.4, 36.3, 40.2, 44.7, 49.8, 55.6, 61.5, 68.5, 75.8, 83.4, 90.5, 98.4, 106.1</Depths>
+        <Depths duration="0.75">7.4, 9.3, 11.1, 14, 18.7, 21.9, 25.9, 29.5, 33.5, 37.8, 42.4, 47.1, 52.5, 58.6, 65.5, 72.6, 81.1, 89.8, 99, 107.7, 117.3, 126.8</Depths>
+        <Depths duration="1">8.2, 10.2, 12.3, 15.4, 20.5, 24.2, 28.5, 32.5, 37.1, 41.9, 47, 52.2, 58.3, 65.1, 72.9, 80.8, 90.3, 100.1, 110.5, 120.3, 131.1, 141.9</Depths>
+        <Depths duration="2">12.3, 14.7, 17, 20.5, 26.1, 30.1, 34.7, 39.2, 44.3, 49.6, 55.5, 61.5, 68.8, 76.9, 86.1, 95.1, 105.5, 116, 126.9, 137.1, 148.2, 159.3</Depths>
+        <Depths duration="4">17.4, 20.1, 22.7, 26.7, 32.8, 37.3, 42.5, 47.5, 53.3, 59.6, 66.7, 74.1, 83, 92.7, 103.2, 113.2, 124.4, 135.5, 146.8, 157.4, 168.9, 180.3</Depths>
+        <Depths duration="6">20.9, 23.7, 26.5, 30.8, 37.4, 42.1, 47.8, 53.3, 59.8, 66.9, 75, 83.5, 93.5, 104.1, 115.2, 125.8, 137.4, 148.8, 160.5, 171.3, 183.2, 194.8</Depths>
+        <Depths duration="12">27.3, 30.6, 33.8, 38.7, 46.2, 51.8, 58.5, 65.3, 73.6, 82.7, 93, 103.4, 115.2, 127, 139.1, 150.4, 162.8, 174.9, 187.2, 198.5, 210.9, 223</Depths>
+        <Depths duration="18">31.4, 35, 38.5, 43.7, 52.1, 58.2, 65.9, 73.7, 83.3, 93.8, 105.4, 116.7, 129.2, 141.7, 154.3, 166.1, 178.9, 191.4, 204, 215.7, 228.4, 240.8</Depths>
+        <Depths duration="24">34.5, 38.2, 42, 47.5, 56.5, 63.2, 71.6, 80.2, 90.7, 102.1, 114.4, 126.2, 139.3, 152.1, 165.2, 177.2, 190.3, 203, 216, 227.9, 240.8, 253.4</Depths>
+        <Depths duration="48">42.8, 47.2, 51.5, 58.1, 68.7, 76.8, 86.9, 97.3, 109.5, 122.3, 135.8, 148.5, 162.4, 176.1, 189.8, 202.5, 216.3, 229.6, 243.1, 255.5, 269, 282.1</Depths>
+        <Depths duration="96">54.2, 59.5, 64.8, 72.6, 84.9, 94.1, 105.1, 116, 128.6, 141.6, 155.2, 168.1, 182.4, 196.4, 210.7, 223.8, 238, 251.9, 265.9, 278.8, 292.8, 306.4</Depths>
+        <Depths duration="192">73.5, 80.3, 86.9, 96.6, 111.3, 121.6, 133.3, 144.1, 156.1, 168.1, 180.5, 192.3, 205.4, 218.5, 232, 244.6, 258.6, 272.4, 286.4, 299.5, 313.7, 327.7</Depths>
+        <Depths duration="240">82.7, 90.2, 97.5, 108.1, 124, 134.9, 147.2, 158.4, 170.6, 182.7, 195, 206.5, 219.1, 231.7, 244.6, 256.7, 270.1, 283.3, 296.8, 309.5, 323.3, 337</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Rotherham Forge Island" name="Don" number="27022">
+        <Comments>
+            <Comment type="Station Summary">A large masonry weir at an angle to the u/s channel. Heavily influenced by headwater reservoirs. Station closed in December 1971. Reopened in 2005, initially as a level only station but subsequently re-rated and flows calculated again from 8/11/2005.</Comment>
+            <Comment type="Hydrometric">Good measuring reach enclosed by steep riverbanks and weir not thought to drown. One peak flow rating applied across original period of record (1960-1970). Rating derived from multipoint current meter gaugings from cableway. Flood Studies Report grade A2 at all flows. New rating developed following re-opening of gauge and applied to period from 11/2005 to date. Gauged up to bankfull stage and rating gives a good fit to gaugings.</Comment>
+            <Comment type="General">A large masonry weir 61m wide calibrated at a velocity area station 360m d/s. The weir is at an angle to the upstream channel. Recorders u/s and d/s of the weir (the d/s gauge was removed in 1966). Chart records from u/s recorder since 1924. New recorder installed in 1958 and flow calculated from October 1960. Station closed in 1971. The station was reinstated in 2005 as a level only station when a level recorder and an H-ADVP in a 24m wide channel ~80m upstream of the weir were installed. The H-ADVP gauge has since been removed but a new rating was established and used to calculate flows again from November 2005.</Comment>
+            <Comment type="Flow record">Record thought to be of little use before 1961. Records pre-1947 now thought lost. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7).</Comment>
+            <Comment type="Flow regime">Headwaters are heavily reservoired with around two thirds of the catchment draining through some 27 impoundments and valleys are highly developed. The Rother has significant washlands (although few were controlled by 1971). Traditional industries including steel and mining are now in decline. Sewage effluent augmentation with approximately 2/3 of abstraction to public water supply returned to Rother above gauge. Import from Derwent Valley, but overall net loss of water from Don to Dearne. Abstraction into the Sheffield and South Yorkshire Navigation canal just upstream of the gauge.</Comment>
+            <Comment type="Catchment">Mixed geology: Millstone Grit (headwaters), Coal Measures, Magnesian Limestone and Triassic Sandstones. Moorland headwaters, mixed agriculture in valleys with significant urban areas, including Sheffield. Headwaters are heavily reservoired. Decline of coal mining and manufacturing industries throughout the period of record. Extensive urban development around Sheffield (with several large green field developments during the 1970s) and Chesterfield during period of record.</Comment>
+            <Comment type="Factors affecting runoff">SPEI</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged beyond QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged beyond AMAX3, and all flow contained. Weir reported to remain modular throughout." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

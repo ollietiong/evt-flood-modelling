@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15023
+[END]
+[CDS DETAILS]
+NAME,Braan
+LOCATION,Hermitage
+NOMINAL AREA,  210.72
+NOMINAL NGR,3013,7421
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,301300,742150
+CENTROID NGR,GB,290065,739933
+DTM AREA,  210.72
+ALTBAR, 408
+ASPBAR, 71
+ASPVAR,0.07
+BFIHOST,0.437
+DPLBAR, 18.02
+DPSBAR,147.0
+FARL,0.929
+FPEXT,0.0335
+LDP, 35.28
+PROPWET,0.65
+RMED-1H,  9.3
+RMED-1D, 39.7
+RMED-2D, 53.3
+SAAR,1326
+SAAR4170,1489
+SPRHOST,39.88
+URBEXT1990,0.0001
+URBEXT2000,0.0001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a natural catchment in the Grampians. Replacement for 15017. GENERAL: Velocity area station, 30m wide. Supersedes Ballinloan (15017) 5km u/s (197 sq.km). Station added to peak flows dataset in August 2021 (WINFAP Files v10). STATION HYDROMETRY: Cableway present. Flows fully contained, gauged to the median annual flood, approx 120 cumecs. The low flow control, a derelict stone weir, is sometimes altered by children. Site prone to ice issues during periods of low temperatures. FLOW RECORD: Dec 2010 flows severely affected by ice and should be treated with caution. FLOW REGIME: Flows are natural.
+CATCHMENT,Catchment is in the Grampians (rising up to > 800m) and has steep or moderate slopes. Metamorphic bedrock geology with just over half overlain by superficial deposits. Mainly open moorland with rough grazing; some forestry.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,All flows contained and site is well gauged.
+[END]

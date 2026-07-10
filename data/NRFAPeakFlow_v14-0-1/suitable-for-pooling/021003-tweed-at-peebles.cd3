@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21003
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Peebles
+NOMINAL AREA,  698.12
+NOMINAL NGR,3258,6400
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,325850,640000
+CENTROID NGR,GB,314088,636305
+DTM AREA,  698.12
+ALTBAR, 355
+ASPBAR, 25
+ASPVAR,0.05
+BFIHOST,0.517
+DPLBAR, 25.22
+DPSBAR,181.0
+FARL,0.974
+FPEXT,0.0506
+LDP, 49.87
+PROPWET,0.56
+RMED-1H,  9.4
+RMED-1D, 37.7
+RMED-2D, 49.7
+SAAR,1140
+SAAR4170,1199
+SPRHOST,37.16
+URBEXT1990,0.0019
+URBEXT2000,0.0025
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The old gauging station at Peebles from 1939 was attached onto Priorsford suspension bridge 360m upstream from the current station and was operated by the Department of Agriculture. In 1959 the station was moved 360m downstream to its present location. It is a velocity area station in a natural 45m wide section with a stable gravel bed control. There are two water supply reservoirs in the upper Tweed Catchment. GENERAL: Velocity area station with cableway. From 1939 to 1959 levels measured at Priorsford Bridge about 360m upstream. STATION HYDROMETRY: Priorsford gauging station began operation on 28/05/1939 located 360 meters upstream from the present station in Peebles. The well and hut were positioned on the downstream side of the Priorsford suspension bridge, with the gauge board on the opposite left buttress. Stage recording was via a Glenfield and Kennedy chart recorder. The station was relocated downstream on 14/07/1959 to its present location, which is a natural channel 45m wide with a stable gravel control. The stilling well historically has bottomed out during very low water levels. The installation of an instream transducer from 2017 shows that the well suffers from drawdown causing flood peaks to be under recorded by around 0.3m. Older station notes indicate this has been a long-term issue for the station and likely effects the flood record since the station was bult in 1959. Hence flood peaks from 1959 will likely be an underestimation of the actual river flow by about 10%. The amount of draw down varies between peaks and so a simple edit to all peaks before 2017 is not a simple exercise, but hopefully a correction will be done to allow a future revision of the flow record. Recording at Priorsford paused between 28/12/1940 and 13/08/1948 during WWII, hastily resuming in time to record the significant August 1948 flood thanks to recorder Mr. Scott. The records from 1939 to 1969 were digitized by Mallon Technology Ltd directly from the original charts, while microfilm records from 1969 to 1986 were digitized in-house by an intern in 2016 using Un-Scanit software. This process created a continuous 15-minute digital record from 13/08/1948 to the present. The period from 18/12/1968 to 01/01/1986 underwent detailed quality control, focusing on records captured from microfilm. A reduced quality control process was applied to the earlier period 1948-1968, which focused on AMAX peaks only and entailed visual inspections and comparisons with other data sources. Significant floods in 1948 and 1949 required corrections, with the most reliable stage figures derived from observer records and other sources. The August 1948 flood was a significant event that saw the station being hastily reactivated. The digitized peak for 11/08/1948 was later adjusted to align with a contemporary observer record, which indicated the peak occurred on 13/08/1948 at a stage of 3.658 meters. The digitized trace initially recorded a higher peak but was corrected based on more reliable observer notes. The January 1949 flood had a truncated chart trace, flat lining at a stage of 3.353 meters due to mechanical limitation of the station. Handwritten annotations on the chart suggested higher peak levels, with 4.115 meters being adopted after editing, though another figure of 4.318 meters could also be justified. The peak recorded for the 1954 flood closely matched the observers notes, requiring no further adjustments. For water year 1966/1967, the peak event recorded on 27/02/1967 was manually inserted into the record, as the chart for that period was missing. Due to the absence of actual flow gauging data at Priorsford, flow records for the station were generated using hydraulic modelling conducted by JBA in 2022. This model also accounted for a rail bridge that existed downstream of the Priorsford suspension bridge for the duration of the stage recording at Priorsford. The bridge span was removed early 1962 and the piers were removed in the early 1970s. There is a large floodplain flow at the current station that has been fluvial modelled and captured in the calibration of the flow record from 1959. Multiple peak flow ratings across period of record. FLOW RECORD: Digitising and flow modelling work in 2022 allowed the revision of flows from 1948 to 1959 and the combined record from the old and new station provides a continuous flow record from 1948. The addition of these 11 years from the old station was significant as it included three of the largest flood events on record. For the current station post 1959, the optimal flood rating with a modelled floodplain segment was applied through the station record for the 2017 data submission. More accurate floodplain modelling allowed a further revision of peak flows for the 2024 data submission. There is lower confidence in the POT record prior to 18/12/1968 as only the AMAX events have been quality controlled from the chart digitising process. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Storage in Talla (1905), Fruid, Baddinsgill and West Water Reservoirs for public water supply - overall runoff is diminished. Monthly naturalised flows available. Fruid Reservoir was built in the upper catchment in 1967, part-way through the station record.
+CATCHMENT,Upland catchment. Bedrock mostly impervious Palaeozoic and igneous formations with substantial superficial deposits in the valleys. Hill grazing predominates; some improved grassland to N; elsewhere some forest and arable. Notable floodplains. Fruid Reservoir (1968).
+Qmed Suitability,Rating well supported by gaugings to QMED.
+Pooling Suitability,Higher events calibrated from an in-depth fluvial modelling exercise. Gauged to 3.153m in 2018, with a measured flow of 346 cumecs, including a crude estimation for floodplain flow that bypassed the station. Flood flows from 1959 may be underestimating by around 10% due to well draw down.
+[END]

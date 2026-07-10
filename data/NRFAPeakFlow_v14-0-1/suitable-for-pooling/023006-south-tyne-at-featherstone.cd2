@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 23006
+[END]
+[CDS DETAILS]
+NAME,South Tyne
+LOCATION,Featherstone
+NOMINAL AREA,  323.05
+NOMINAL NGR,3672,5610
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,367200,561100
+DTM AREA,  323.05
+ALTBAR, 429
+ASPBAR, 12
+ASPVAR,0.19
+BFIHOST,0.270
+DPLBAR, 20.00
+DPSBAR,123.5
+FARL,0.995
+LDP, 35.88
+PROPWET,0.64
+RMED-1H, 10.7
+RMED-1D, 41.4
+RMED-2D, 56.8
+SAAR,1331
+SAAR4170,1465
+SPRHOST,52.86
+URBEXT1990,0.0008
+URBEXT2000,0.0015
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir with high wingwalls, remains modular and all flows contained. GENERAL: Compound Crump weir in 45m wide channel, built 1966. STATION HYDROMETRY: Compound Crump profile weir (1:2 and 1:5 slopes) with low crest 15.2m wide and high crest 0.3m higher and 29.5m wide. High wingwalls and divide pier contain all flows, weir is u/s of natural rock outcrop and thought to remain modular throughout range. D/s pool level raised to improve fish passage in May 1971, weir is prone to gravel accumulation, removed intermittently. Theoretical rating applied to daily and peak flow period of record, temporary cableway in early 1970s allowed high flow check gaugings close to QMED. Cast iron crest units have deteriorated over time. FLOW RECORD: Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Generally natural flow regime but operation of hydropower scheme at Nenthead can affect hydrograph at low levels.
+CATCHMENT,Linear, north trending catchment in northern Pennines. Geology: mainly Carboniferous Limestone, around two thirds of the catchment is overlain by superficial deposits of peat and Boulder Clay. Land use is predominantly grassland and upland heath. No known catchment changes.
+Qmed Suitability,Gauged to within 7% of QMED. All flows are contained in the structure and there is no drowning. Rating extrapolation is expected to be reasonable.
+Pooling Suitability,Gauged to within 36% of AMAX3. No significant bypassing reported and rating extrapolation beyond QMED should be reasonable, with no expected change in control.
+[END]

@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23002
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Eddys Bridge
+NOMINAL AREA,  118.11
+NOMINAL NGR,4041,5507
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,404100,550800
+CENTROID NGR,GB,396342,549463
+DTM AREA,  118.11
+ALTBAR, 363
+ASPBAR, 49
+ASPVAR,0.28
+BFIHOST,0.316
+DPLBAR, 11.34
+DPSBAR, 96.9
+FARL,0.996
+FPEXT,0.0203
+LDP, 23.06
+PROPWET,0.59
+RMED-1H, 10.4
+RMED-1D, 41.2
+RMED-2D, 52.1
+SAAR, 943
+SAAR4170, 960
+SPRHOST,48.18
+URBEXT1990,0.0003
+URBEXT2000,0.0007
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested weir with central low flow flume. Heavily influenced by Derwent reservoir. GENERAL: Broad-crested weir with central low flow flume; total width 15m, central flume 1.8m, no dividing walls. Low flow crest at 180.935 mAOD, broad crests are 0.75m higher. Model calibration. From 1965 flows controlled by Derwent Reservoir 2km upstream, stark contrast with previous natural regime. A good control, situated in a well-defined, straight channel; flat agricultural land on one side, steep wooded slope on the other. STATION HYDROMETRY: All flows contained within structure. Only gauged at lower flows below 10 cumecs. Original peak flow rating by flume formula, refined with physical model test and applied throughout record. Flood Studies Report grade A1. FLOW RECORD: Post-reservoir data marked as rejected. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Data is heavily influenced by Derwent reservoir (impounded 1965) and therefore peak flows are marked as rejected. Substantial net export of water. Burnhope Burn enters the Derwent downstream of the reservoir; flows from this are partly diverted to reservoir.
+CATCHMENT,Catchment description:An upland moorland catchment used for rough grazing. Construction of Derwent reservoir early 1960s. Geology is a mixture of Carboniferous Limestone and Millstone Grit partially overlain by Boulder Clay in lower valley and peat in headwaters. Pre-reservoir FARL2015 (for WINFAP 5.3 or later) or FARL (for earlier versions of WINFAP) should be used with these records because the peak flow data after the reservoir started impounding is rejected. Pre- and post-reservoir values for FARL2015 are 0.9988 and 0.8391, respectively. Pre- and post-reservoir values for FARL are 0.996 and 0.835, respectively.
+Qmed Suitability,Although not gauged to QMED, rating checked using physical model test.
+Pooling Suitability,Flow always contained within structure and rating believed to be satisfactory.
+[END]

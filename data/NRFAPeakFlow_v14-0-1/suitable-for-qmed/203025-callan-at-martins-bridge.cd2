@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+203025
+[END]
+[CDS DETAILS]
+NAME,Callan
+LOCATION,Martin's Bridge
+NOMINAL AREA,  166.70
+NOMINAL NGR,2891,3524
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,289200,352400
+DTM AREA,  166.70
+ALTBAR, 128
+ASPBAR,330
+ASPVAR,0.19
+BFIHOST,0.385
+DPLBAR, 20.93
+DPSBAR, 71.9
+FARL,0.958
+LDP, 35.56
+PROPWET,0.53
+RMED-1H,  9.7
+RMED-1D, 33.1
+RMED-2D, 44.8
+SAAR, 933
+SAAR4170, 983
+SPRHOST,38.22
+URBCONC1990,-9999.000
+URBEXT1990,0.0281
+URBLOC1990, 0.647
+URBCONC2000, 0.791
+URBEXT2000,0.0190
+URBLOC2000, 0.689
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in December 1974. GENERAL: Velocity-area station with cableway. Wooden hut housing stilling well and cableway winch situated on left bank. Main and backup instruments present both using shaft encoders with float & weight. Channel width c.7m at station. STATION HYDROMETRY: Natural bed control. Channel in and around staff gauge susceptible to silting up after flood events. High flows truncated by a road bridge immediately upstream of station. Multiple ratings across period of record derived from current meter gaugings. Low flow gauging conducted by wade gauging, high flows gauged using cableway. Simple extrapolation occurs above 40m3/s. FLOW RECORD: Daily flows from 1975 onwards reprocessed in 2002. Station was rejected from the FEH analysis but has been included in the Peak Flows dataset. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12). FLOW REGIME: Reservoir storage in catchment (Seagahan 13.64Ml/d) with abstractions for public water supply and industrial use; minor net effect.
+CATCHMENT,Solid geology - southern area underlain by indurated Ordovician/Silurian greywacke sandstones and shales. North-western area underlain by indurated Permian and Carboniferous conglomerates, sandstone and shale, that are overlain in turn by permeable Triassic sandstone (Sherwood) at the north-eastern margin of the catchment. Drift geology - glacial till (drumlinised) covers much of the area with sand and gravel. Alluvium is common to inter-drumlin lows. Rock near surface and peat associated with Ordovician/Silurian bedrock area. Predominantly grassland and heath, limited arable use. Small amount of upland with limited afforestation. Urban area Armagh with some light industry and Keady.
+Qmed Suitability,Gauged above QMED. Bridge causes some scatter in gaugings but maximum gauging agrees with rating and is therefore thought to provide reasonable estimates of QMED.
+Pooling Suitability,Flows are altered by upstream bridge, not suitable.
+[END]

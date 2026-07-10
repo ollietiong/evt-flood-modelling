@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27073
+[END]
+[CDS DETAILS]
+NAME,Brompton Beck
+LOCATION,Snainton Ings
+NOMINAL AREA,    7.51
+NOMINAL NGR,4936,4794
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,493650,479550
+CENTROID NGR,GB,492579,482806
+DTM AREA,    7.51
+ALTBAR, 110
+ASPBAR,167
+ASPVAR,0.63
+BFIHOST,0.892
+DPLBAR,  5.60
+DPSBAR, 45.2
+FARL,0.997
+FPEXT,0.0798
+LDP,  9.27
+PROPWET,0.40
+RMED-1H, 10.5
+RMED-1D, 32.8
+RMED-2D, 41.9
+SAAR, 752
+SAAR4170, 735
+SPRHOST,13.92
+URBCONC1990, 0.486
+URBEXT1990,0.0126
+URBLOC1990, 0.568
+URBCONC2000, 0.674
+URBEXT2000,0.0145
+URBLOC2000, 0.879
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir in a permeable catchment. Flow regime strongly dependent on groundwater contribution. GENERAL: Formal Crump Weir, 5.5m wide, built over a drainage culvert. There is a concrete apron 3-4m u/s of the weir. A drain runs beneath the gauge, receiving drainage from low lying land adjacent to Brompton Beck. STATION HYDROMETRY: Full range and modular. No drowning due to a large (>3m) d/s drop to the Derwent. Single theoretical peak flow rating applied across period of record. Gauged to within 25% of AMAX1, all flow contained within wing walls. FLOW RECORD: Artificial drop in flow in July 2003; cause unknown but upstream damming or abstraction likely, investigation failed to identify the cause. Gap in data Aug-Oct 1988, cause unknown. Gap Jul-Aug 2002, suspect data was deleted. Short gap Jun 2003 due to instrument fault. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Stable and sensibly natural regime, although groundwater abstraction may influence the regime. The flow is largely dependent on flow from two Corallian Limestone springs in Brompton, augmented in wet weather by land drainage inflow.
+CATCHMENT,A mainly permeable (Corallian) catchment, with Jurassic Calcareous grits in the upper part of the catchment, Alluvium in the Vale of Pickering overlying Kimmeridge clay. Rural, predominantly arable. Surface and groundwater catchments may differ considerably due to a large groundwater component to the catchment. No known catchment changes.
+Qmed Suitability,Gauged well above QMED. Small range in flow means all levels are contained.
+Pooling Suitability,Fully contained with no likelihood of drowning. Theoretical rating should apply for the full range.
+[END]

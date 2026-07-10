@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 26017
+[END]
+[CDS DETAILS]
+NAME,Ings Beck
+LOCATION,South Newbald
+NOMINAL AREA,   14.20
+NOMINAL NGR,4909,4361
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,490950,436100
+DTM AREA,   14.20
+ALTBAR, 107
+ASPBAR,287
+ASPVAR,0.16
+BFIHOST,0.985
+DPLBAR,  3.99
+DPSBAR, 73.7
+FARL,1.000
+LDP,  6.67
+PROPWET,0.26
+RMED-1H, 11.7
+RMED-1D, 31.9
+RMED-2D, 40.9
+SAAR, 704
+SAAR4170, 725
+SPRHOST, 3.27
+URBCONC1990, 0.637
+URBEXT1990,0.0063
+URBLOC1990, 0.188
+URBCONC2000, 0.693
+URBEXT2000,0.0094
+URBLOC2000, 0.238
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir in mainly rural catchment draining south western edge of Yorkshire Wolds. GENERAL: Low head Crump weir (0.2m high, 1.45m wide) built as monitoring for Newbald Becksies wetland nature reserve. Several boreholes and an automatic raingauge provide additional monitoring data for the wetland. Station added to peak flows dataset in September 2022 (WINFAP Files v11). STATION HYDROMETRY: Concrete Crump weir with steel crest plate and 0.4m high concrete wing walls. Sometimes affected by downstream weed growth causing levels to back up at the weir. Site also prone to interference from third parties building stone dams affecting flows in summer. Theoretical weir rating supported by gaugings up to 65% of QMED. FLOW RECORD: Some gaps in record due to logger faults; some data marked suspect or deleted due to stone dams being built in channel or result of weedgrowth affecting levels; July 2007 peak possibly reduced due to bypass channel cut around weir in attempt to reduce upstream flood levels; several spurious peaks at start of record are not reflected at downstream gauge (26008) and have been excluded. FLOW REGIME: Natural regime; strong baseflow signal but peaks are usually result of flashy response to rainfall.
+CATCHMENT,Catchment drains the southwest edge of the Yorkshire Wolds, elevation varies from 160mAOD down to around 36mAOD at the gauging station. Rainfall is relatively low at 700mm per year. Bedrock geology is primarily chalk with thin bands of sandstone and limestone close to the catchment outlet. Soils are well drained calcareous coarse and fine loamy soils over chalk rubble. The chalk in the catchment is a principal aquifer. Land use is primarily arable with a small amount of pasture and a small urban area at North Newbald village.
+Qmed Suitability,Gauged to around 70% of QMED, flow contained within structure.
+Pooling Suitability,Gauged to around 70% of QMED, flow contained within structure.
+[END]

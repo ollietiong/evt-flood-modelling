@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 40010
+[END]
+[CDS DETAILS]
+NAME,Eden
+LOCATION,Penshurst / Vexour Bridge
+NOMINAL AREA,  224.41
+NOMINAL NGR,5520,1436
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,552000,143700
+DTM AREA,  224.41
+ALTBAR,  82
+ASPBAR,136
+ASPVAR,0.11
+BFIHOST,0.424
+DPLBAR, 21.25
+DPSBAR, 47.4
+FARL,0.920
+LDP, 35.70
+PROPWET,0.35
+RMED-1H, 11.4
+RMED-1D, 32.9
+RMED-2D, 44.1
+SAAR, 742
+SAAR4170, 764
+SPRHOST,41.20
+URBCONC1990, 0.556
+URBEXT1990,0.0160
+URBLOC1990, 1.225
+URBCONC2000, 0.797
+URBEXT2000,0.0334
+URBLOC2000, 1.218
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Combined flow series from two separate stations Penshurst (low flows) and Vexour Bridge (high flows). Gauges a predominantly impervious catchment with some settlements. GENERAL: Combination of low flows from Penshurst (Flat V weir) and high flows Vexour Bridge (time of flight ultrasonic) 3km upstream. Out of bank flows at Vexour calculated via high flow rating when stage rises above 3.3m at Vexour. The ultrasonic gauge was installed in 2003 to quantify hysteresis effects due to water impoundment at the Leigh Barrier (13 km d/s). STATION HYDROMETRY: The River Eden is a meandering channel where bank erosion and accretion continually change the channel morphology. Some siltation problems within measuring channel at Ultrasonic station affecting lower paths. All but exceptional flows contained. Rating is a good fit to gaugings (not held because flows are combined from Penshurst and Vexour). High confidence to bankfull (large number & range of flow gaugings), reasonable confidence above. FLOW RECORD: Post-1995 low and high flows combined (with adjustment for catchment area) but combination of earlier gauged daily flows is incomplete. Evidence of draining and refilling Hever Castle lake in daily flow record - e.g. March 2014 and September 2016. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Large areas of on-field storage exist during flood events, floodplain is approx. 400m wide at the gauge site. Offtake for Bough Beech Reservoir is upstream - occupying <1% of the total catchment area, it causes a small net export of water but does not operate during summer periods. Some slight regulation by Hever Castle Lake 3.2km upstream. Leigh Flood Barrier, constructed 1981, d/s can cause some hysteresis at the gauge. Consists of a flood storage reservoir capable of retaining up to 5.58 million cubic metres of water and is the largest on line flood storage reservoir of its kind in the UK. Vexour Bridge is one of the main flood warning stations used for input to the Leigh Barrier. Possible change in channel dimensions over time. Large areas of on-field storage exist during flood events (floodplain is approx. 400m wide at the gauge site).
+CATCHMENT,Catchment developed on sands and clays of the Wealden Series - impervious types predominate. Includes mostly Weald Clay and Upper and Lower Tunbridge Wells Sand, with the remainder made up of Upper Greensand, Ashdown Sand, Folkestone Beds, Sandgate Beds, Hythe Beds, and Atherfield, Grinstead, Gault and Wadhurst Clays. Resulting in a responsive flow regime in a small baseflow supported from the Upper Greensand. Predominantly rural catchment with scattered settlements including Edenbridge, Godstone, Lingfield and East Grinstead (which occupy approx. 3% of the total catchment area). With a catchment area u/s of Penshurst of 224km2, with Penshurst G/S only 2.8km U/S of the confluence with the River Medway.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Some scatter in gaugings at high flow.
+[END]

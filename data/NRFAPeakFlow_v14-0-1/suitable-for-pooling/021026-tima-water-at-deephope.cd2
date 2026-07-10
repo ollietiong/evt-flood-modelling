@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21026
+[END]
+[CDS DETAILS]
+NAME,Tima Water
+LOCATION,Deephope
+NOMINAL AREA,   31.00
+NOMINAL NGR,3278,6137
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,327650,614050
+DTM AREA,   31.00
+ALTBAR, 389
+ASPBAR, 67
+ASPVAR,0.11
+BFIHOST,0.370
+DPLBAR,  6.56
+DPSBAR,172.8
+FARL,1.000
+LDP, 12.52
+PROPWET,0.72
+RMED-1H, 11.4
+RMED-1D, 48.5
+RMED-2D, 63.4
+SAAR,1498
+SAAR4170,1815
+SPRHOST,45.12
+URBEXT1990,0.0000
+URBEXT2000,0.0002
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A velocity area station in a small flashy upland catchment. The station contributes to the SEPA flood warning service. GENERAL: A fluvial modelling exercise of the floodplain in 2023 improved the confidence of the rating for higher flow estimation and allowed the station to be included in the peak flow dataset. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: Control is gravel bed; unstable - sensitive to rearrangement of bed material (even in modest flows). Frequent low flow gaugings are necessary to define rating and low flows should be treated with caution as a result. Can ice up in winter. Calibration of higher flows based on gaugings up to around 1.2m, 18 cumecs, and then modelled segments for the out of bank component. FLOW REGIME: Natural flow regime.
+CATCHMENT,Grazed upland moor.
+Qmed Suitability,No comment
+Pooling Suitability,Improved confidence from modelled rating segments above the higher gaugings around 1.2m, 18 cumecs, allows a tentative proposal for pooling status.
+[END]

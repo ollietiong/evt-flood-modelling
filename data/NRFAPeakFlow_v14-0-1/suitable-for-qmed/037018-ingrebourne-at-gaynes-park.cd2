@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 37018
+[END]
+[CDS DETAILS]
+NAME,Ingrebourne
+LOCATION,Gaynes Park
+NOMINAL AREA,   44.74
+NOMINAL NGR,5551,1861
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,555150,186150
+DTM AREA,   44.74
+ALTBAR,  62
+ASPBAR,204
+ASPVAR,0.09
+BFIHOST,0.283
+DPLBAR,  9.78
+DPSBAR, 43.3
+FARL,0.985
+LDP, 17.36
+PROPWET,0.27
+RMED-1H, 11.1
+RMED-1D, 31.1
+RMED-2D, 37.9
+SAAR, 594
+SAAR4170, 609
+SPRHOST,45.45
+URBCONC1990, 0.780
+URBEXT1990,0.1157
+URBLOC1990, 0.834
+URBCONC2000, 0.831
+URBEXT2000,0.1658
+URBLOC2000, 0.855
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Essex profile modified Flat V Crump weir situated in a rural headwater with artificial influences from urban land uses. GENERAL: Essex profile (modified Flat V Crump) weir in 9.5m wide section, operated as a rated section. Used for both Water Resource and Flood Incident management. Only gauging station on the Ingrebourne river, approximately 7km upstream of confluence with the Thames. STATION HYDROMETRY: All but exceptional floods contained. Operated as a rated section but rating based on modelled equation for Essex weirs. Model-based calibration assumes modularity; however, non-modular flow can occur as low as 0.4mASD depending on downstream conditions. Rating estimates of modular flow thought to be reasonable but tendancy to overestimate below Q70. No gaugings beyond QMED. One peak flow rating applied across period of record. FLOW RECORD: Naturalised flow available for period 1970-75. Bypassing thought to have occurred during the three highest peaks in AMAX series. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Runoff increased by effluent returns but reduced by industrial/agricultural abstraction. Minor net augmentation of runoff through transfer from River Beam. Reservoir(s) in the catchment affect runoff.
+CATCHMENT,Largely impermeable catchment (London Clay/glacial deposits). Rural headwaters but substantial urban development around lower reaches.
+Qmed Suitability,Rating is stable, with good fit to available gaugings. Available gaugings only extend to 48% of QMED. Non modular flow can occur as low as 0.4m depending on downstream conditions.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+202002
+[END]
+[CDS DETAILS]
+NAME,Faughan
+LOCATION,Drumahoe
+NOMINAL AREA,  273.03
+NOMINAL NGR,2464,4150
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,246400,415100
+CENTROID NGR,Ireland,254565,407467
+DTM AREA,  273.03
+ALTBAR, 188
+ASPBAR,338
+ASPVAR,0.12
+BFIHOST,0.426
+DPLBAR, 19.38
+DPSBAR, 98.9
+FARL,1.000
+FPEXT,0.0411
+LDP, 36.95
+PROPWET,0.61
+RMED-1H,  8.3
+RMED-1D, 37.4
+RMED-2D, 50.0
+SAAR,1219
+SAAR4170,1173
+SPRHOST,41.10
+URBCONC1990,-9999.000
+URBEXT1990,0.0106
+URBLOC1990, 0.383
+URBCONC2000, 0.300
+URBEXT2000,0.0044
+URBLOC2000, 0.117
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in August 1976. Steel cabinet kiosk installed in December 2017 to replace original masonry hut and cableway destroyed in August 2017 flood. GENERAL: Velocity-area station comprised of steel cabinet kiosk on right bank housing main and backup instruments both using pressure probes. Original masonry hut housing stilling well and cableway winch destroyed on 23 August 2017 when floodwaters eroded right bank and undercut station hut which fell into the Faughan. New station sited c.20 m upstream of original station. Channel width c.22m at station. STATION HYDROMETRY: Natural control c.50m downstream of station altered in 1985. Floodwall constructed on left bank in 1995. Ratings derived from current meter gaugings. All low and high flow gaugings prior to August 2017 were conducted using cableway as channel is too deep to wade gauge even during low flows. Simple extrapolation used beyond maximum gauged level of 2.998m. FLOW RECORD: Highest flow recorded in August 2017 eclipsed previous, long-held peak flow recorded in October 1987. Daily flows not shown after this event as channel changes necessitates rating revision. Peak flows not affected. Flows for full period of record reprocessed in 2002. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12). FLOW REGIME: No significant abstractions or returns.
+CATCHMENT,Drumahoe is a suburban development near the coast - some light industry; otherwise agricultural, upland basin. Solid geology - Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Drift geology - Extensive glacial till with sand and gravel and lake alluvium in valleys. Post-glacial peat cover extensive with restricted development of river alluvium.
+Qmed Suitability,Gauge performs well up to and above QMED.
+Pooling Suitability,Full range of flows contained and growth curve appears representative of a Northern Ireland catchment.
+[END]

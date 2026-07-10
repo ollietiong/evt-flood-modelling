@@ -1,0 +1,47 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+201007
+[END]
+[CDS DETAILS]
+NAME,Burn Dennet
+LOCATION,Burndennet
+NOMINAL AREA,  147.14
+NOMINAL NGR,2372,4047
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,237250,404750
+CENTROID NGR,Ireland,246002,401613
+DTM AREA,  147.14
+ALTBAR, 167
+ASPBAR,307
+ASPVAR,0.13
+BFIHOST,0.455
+DPLBAR, 16.43
+DPSBAR, 98.3
+FARL,0.994
+FPEXT,0.0460
+LDP, 31.70
+PROPWET,0.61
+RMED-1H,  8.2
+RMED-1D, 35.5
+RMED-2D, 48.7
+SAAR,1186
+SAAR4170,1156
+SPRHOST,40.72
+URBCONC1990,-9999.000
+URBEXT1990,0.0044
+URBEXT2000,0.0004
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control opened in May 1975. GENERAL: Velocity-area station with cableway. Masonry hut housing cableway winch situated on top of floodbank on right bank. Main and backup instruments present both using pressure probes. Channel width c.11m at station. Instruments re-sited directly in channel in December 2017 as inlet pipe to stilling well is now sitting up out of the water in low flows as channel bed has lowered in recent years. STATION HYDROMETRY: Natural in-channel control. Major bed shift in recent years has rendered lower end of rating equation as inadequate and in need of review. Bed also prone to movement at high flows prohibiting accurate ADCP gauging at the station. Ratings derived from traditional current meter gaugings with recent check gaugings using in-channel electromagnetic current meter. Highest gauging to date (45 m3/s) in 2009 was c.1 m below top of floodbank. Simple extrapolation used beyond 65m3/s. Two peak flow ratings across period of record. FLOW RECORD: Daily flows from October 2013 are not available as a result of a shifting bed effecting gauging at low flows. Peak flows unaffected. Water year 1974/1975 rejected because AMAX from partial water year at start of station record. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10) and in August 2024 (WINFAP Files v13). FLOW REGIME: No water abstractions or significant returns. Discharge through the underlying gravels may be significant.
+CATCHMENT,Predominantly improved grassland, some bog and heath rising to above 500 mAOD. Solid geology - Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Drift geology - upstream, glacial till is overlain by significant sand and gravel and more restricted river alluvium. Downstream, sand and gravel may be absent or hidden by laterally more extensive river alluvium. Rock near surface and post-glacial peat cover extensive on high ground with restricted development of river alluvium in valleys.
+Qmed Suitability,Good range of gaugings at the site, with maximum at 4.7m, which is well above bank full. Temporary reduction to Neither until rating can be revised.
+Pooling Suitability,Gauged to 1.945m, measured at 63.8 cumecs, and largely contained. A tentative Pooling status considering there is out of bank flow that is not factored into the simple extrapolation and also the rating shifts are significant and nor clear cut, likely reflecting varying states of the rubble control.
+[END]

@@ -1,0 +1,47 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203033
+[END]
+[CDS DETAILS]
+NAME,Upper Bann
+LOCATION,Bannfield
+NOMINAL AREA,  101.64
+NOMINAL NGR,3233,3340
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,323400,334050
+CENTROID NGR,Ireland,324615,329707
+DTM AREA,  101.64
+ALTBAR, 202
+ASPBAR,328
+ASPVAR,0.22
+BFIHOST,0.471
+DPLBAR,  9.84
+DPSBAR,118.3
+FARL,0.951
+FPEXT,0.0616
+LDP, 17.71
+PROPWET,0.53
+RMED-1H, 11.4
+RMED-1D, 51.9
+RMED-2D, 70.3
+SAAR,1261
+SAAR4170,1341
+SPRHOST,36.86
+URBCONC1990,-9999.000
+URBEXT1990,0.0049
+URBEXT2000,0.0012
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in March 1975. Flat V control installed in 1989 replacing previous natural control. GENERAL: Velocity-area station with cableway. Masonry hut housing stilling well and cableway winch situated on right bank. Main and backup instruments present both using shaft encoders with float & weight. Channel width c.10 metres at station. Flat V weir constructed in September/October 1989 to monitor prescribed flow of 18Ml/d. STATION HYDROMETRY: For high flows, the station is treated as velocity-area as weir drowns at moderate flows. The same high flow rating is therefore applied to the full period of record, with level adjustment for the datum shift due to the weir. Rating is derived from current meter gaugings. Simple extrapolation occurs above approx 46 cumecs. FLOW RECORD: Major flood event in August 2008. Periods of missing flows between Sep and Oct 1989 during construction of Flat V weir and between Jan and Apr 2009 due to instrument failure. Flows for late Dec 2010 considered suspect due to freezing in stilling well. Gaugings show good agreement with the rating equation between 1989-1998. However since Apr 2000 all gaugings have demonstrated a negative deviation indicating that the current rating equation is over-estimating flows. Until this can be investigated and rectified all data post-1999 has been rejected from the Peak Flows data holdings. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12). FLOW REGIME: Reservoir storage (Spelga Dam) in catchment with abstractions for public water supply the net effect of which is minor. The station is used to monitor a prescribed flow designated for the river below which compensation flows are received from Spelga Dam and Lough Island Reavey.
+CATCHMENT,The Upper Bann drains the Mourne Mountains. The catchment is predominantly grassland with some shrub heath; no significant urban fraction. Solid geology - area underlain by indurated Silurian greywacke sandstones and shales intruded by Devonian and Palaeogene granites impermeable (granite and quartzite). Drift geology - rock near surface, drumlinised glacial till is overlain by river alluvium. Peaty alluvium is common to inter-drumlin lows.
+Qmed Suitability,Highest recent gaugings (two at 2.66m) suggest that rating overestimates flow. Extrapolation to QMED is thought to be reasonable.
+Pooling Suitability,Overtopping and backing up on the Muddock River that joins the Upper Bann just above the Bannfield gauging station and substantial floodplain flow that is impossible to accurately gauge. This only appears to be an issue for those very highest events with floodplain flow at QMED levels significantly lower.
+[END]

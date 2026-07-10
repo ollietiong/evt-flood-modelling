@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+203022
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Derrymeen Bridge
+NOMINAL AREA,  183.94
+NOMINAL NGR,2625,3530
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,262500,353050
+DTM AREA,  183.94
+ALTBAR, 140
+ASPBAR, 84
+ASPVAR,0.10
+BFIHOST,0.460
+DPLBAR, 16.07
+DPSBAR, 78.2
+FARL,0.977
+LDP, 29.18
+PROPWET,0.58
+RMED-1H,  9.0
+RMED-1D, 32.0
+RMED-2D, 42.4
+SAAR,1142
+SAAR4170,1143
+SPRHOST,37.20
+URBCONC1990,-9999.000
+URBEXT1990,0.0056
+URBLOC1990, 0.827
+URBEXT2000,0.0009
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station originally opened in 1971. GENERAL: Velocity-area station originally opened in May 1971 but closed in November 1971 due to political climate in Northern Ireland (station is located c.500m from border with ROI). Station reopened October 1979. Channel deepened in 1986 as part of River Blackwater Drainage Scheme. Masonry hut housing stilling well situated on right bank. Main and backup instruments present both using shaft encoders with float & weight. Channel width c.11m at station. STATION HYDROMETRY: Fisheries boulders may cause blockage and affect lower end of rating equation. Good range of gaugings (50m3/s). Unusual catchment geology means station has flat growth curve; does not often get out of bank upstream. Ratings derived from current meter gaugings. Simple extrapolation occurs above 50m3/s. FLOW RECORD: Highest flows recorded in 2011 & 2015. Data prior to completion of arterial drainage scheme in 1990 not presented in Peak Flows dataset due to the significant change on channel and flow regime. POT threshold revised in 2017 using entire period of record data up to 2015 water year. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in September 2023 (WINFAP Files v12). FLOW REGIME: Major arterial drainage scheme deepened channel and drastically lowered levels and altered existing rating equation. The stage/discharge relationship was so significantly altered that data from before scheme completion is excluded from the Peak Flows dataset.
+CATCHMENT,Catchment contains town of Coalisland. Currently brickmaking and agricultural land use, formerly mining area. Solid geology - bedrock composed of generally indurated Maydown Carboniferous Limestone Formation with some Lower Old Red Sandstone. Drift geology - upstream, drumlinised glacial till and an area of sand and gravel are overlain by river alluvium. Extensive rock near surface with some peat on high ground.
+Qmed Suitability,Maximum gauged flow is similar to QMED (ratio = 1.0). However not contained at this flow. It has been estimated that the unmeasured floodplain flow is 13% of the total flow hence the site has been accepted for QMED analysis.
+Pooling Suitability,Not contained at high flows however rating is still applicable at out of bank flows.
+[END]

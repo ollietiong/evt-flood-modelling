@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27097
+[END]
+[CDS DETAILS]
+NAME,Aire
+LOCATION,Bingley
+NOMINAL AREA,  464.82
+NOMINAL NGR,4104,4394
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,410450,439450
+DTM AREA,  464.82
+ALTBAR, 240
+ASPBAR,143
+ASPVAR,0.10
+BFIHOST,0.379
+DPLBAR, 27.70
+DPSBAR,102.7
+FARL,0.975
+LDP, 53.08
+PROPWET,0.62
+RMED-1H, 10.5
+RMED-1D, 38.5
+RMED-2D, 51.9
+SAAR,1124
+SAAR4170,1113
+SPRHOST,42.36
+URBCONC1990, 0.679
+URBEXT1990,0.0208
+URBLOC1990, 0.500
+URBCONC2000, 0.777
+URBEXT2000,0.0357
+URBLOC2000, 0.563
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station upstream of long, broad-crested mill weir. GENERAL: Velocity area station, with an approximately 150m wide broad crested mill weir set at a shallow angle to river flow just downstream. A H-ADVP velocity meter was also operated at the site from 2009 to 2017 with a velocity index rating. Station added to peak flows dataset in September 2019 (WINFAP Files v8). STATION HYDROMETRY: Relatively straight approach channel to the level gauge located on the right bank. However the width and shallow angle of the weir are likely to lead to a variation in head between the right (upstream) and left (downstream) sides of the structure and it is relatively insensitive to changes in flow. Modular range is uncertain but rated by check gaugings up to QMED and extrapolated above. A single rating curve applies to period of record and gives a good fit to the gaugings. FLOW REGIME: Fairly natural regime, rural headwaters but with increasing urbanisation in the lower valley (including Skipton, Crosshills, Keighley) and several small reservoirs in the catchment. Washlands with raised embankments around Skipton and Cononley provide attenuation to some flood peaks.
+CATCHMENT,Catchment draining the east side of the Pennines. Geology comprises predominantly Carboniferous Limestone in the headwaters down to Skipton with Millstone Grit in the lower catchment. Largely rural headwaters, more urban and industrial development in the lower catchment. Some influence from reservoirs and flood attenuation washlands.
+Qmed Suitability,Gauged up to QMED and stable control section downstream gives good confidence in QMED estimate.
+Pooling Suitability,Gauged up to 75% of AMAX3 but significant extrapolation is required for the AMAX1 and AMAX2 so further gaugings required before confidence in the highest peaks can be improved.
+[END]

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 21025
+[END]
+[CDS DETAILS]
+NAME,Ale Water
+LOCATION,Ancrum
+NOMINAL AREA,  173.79
+NOMINAL NGR,3634,6244
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,363400,624450
+DTM AREA,  173.79
+ALTBAR, 242
+ASPBAR, 82
+ASPVAR,0.17
+BFIHOST,0.391
+DPLBAR, 26.49
+DPSBAR, 87.2
+FARL,0.948
+LDP, 48.28
+PROPWET,0.58
+RMED-1H,  9.3
+RMED-1D, 32.7
+RMED-2D, 42.5
+SAAR, 926
+SAAR4170, 993
+SPRHOST,46.62
+URBEXT1990,0.0002
+URBEXT2000,0.0003
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in the Scottish Borders. GENERAL: Velocity area station at natural river section, approx. 15m wide. STATION HYDROMETRY: Low flow control by solid rock bar very close to gauge. Bypassing could possibly occur on rb, but was never witnessed. Peak flow ratings derived from current meter gaugings up to 2.4m (about 1.4 QMED), simple extrapolation beyond. FLOW RECORD: Monthly naturalised flows available. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Runoff is marginally diminished by Alemoor Loch in the headwaters, which is used for public water supplies. Also some small lochs in headwaters.
+CATCHMENT,An upland catchment - mostly Silurian shale; mix of high and predominantly low permeability with most of catchment covered by superficial deposits. Hill pasture predominates; some forest cover. No significant catchment changes known.
+Qmed Suitability,No comment.
+Pooling Suitability,Sufficent flood gaguings to provide decent confidence in the estimation of higher events.
+[END]

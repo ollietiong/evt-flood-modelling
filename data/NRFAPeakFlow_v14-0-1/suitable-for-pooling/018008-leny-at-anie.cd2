@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 18008
+[END]
+[CDS DETAILS]
+NAME,Leny
+LOCATION,Anie
+NOMINAL AREA,  192.41
+NOMINAL NGR,2585,7096
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,258450,710000
+DTM AREA,  192.41
+ALTBAR, 420
+ASPBAR,115
+ASPVAR,0.10
+BFIHOST,0.462
+DPLBAR, 21.96
+DPSBAR,305.9
+FARL,0.784
+LDP, 38.85
+PROPWET,0.75
+RMED-1H, 11.3
+RMED-1D, 55.9
+RMED-2D, 82.1
+SAAR,2191
+SAAR4170,2256
+SPRHOST,41.70
+URBEXT1990,0.0001
+URBEXT2000,0.0001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Located within Loch Lomond and The Trossachs National Park downstream from the Loch Lubnaig. Steep upland catchment with flows dampened by loch storage. GENERAL: Well-sited station on a natural section of an upland gravel bed river draining steep slopes. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: The station has natural channel control with the gravel bed acting as the low flow section control and the downstream bedrock cascades providing a stable channel control at mid to high flows. Older station notes describe the adjacent land as being a popular picnic area and the gravel control was often rearranged by children. However, there has been reduced public access in recent years and the low flow control is remarkably stable, perhaps assisted by reduced upstream sediment movement passing through Loch Lubnaig. The downstream cascades provide a stable flood control through the record and most flows are contained. Cableway and gauged to 2.236m, measured at 110 cumecs. FLOW REGIME: Scottish Highland catchment with mountains, lochs, mixed forestry and grazed heather moorland.
+CATCHMENT,Catchment rising up to ~1150m; rugged topography. Catchment is underlain by metamorphic rocks with igneous intrusions; approx. 50% is overlain by superficial deposits. Land use mostly open heather moorland; some forest.
+Qmed Suitability,No comment
+Pooling Suitability,Sufficiently gauged and most flows contained in-channel.
+[END]

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 55033
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Gwy flume
+NOMINAL AREA,    3.83
+NOMINAL NGR,2824,2853
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,282400,285350
+DTM AREA,    3.83
+ALTBAR, 558
+ASPBAR,146
+ASPVAR,0.49
+BFIHOST,0.329
+DPLBAR,  2.03
+DPSBAR,200.6
+FARL,1.000
+LDP,  3.52
+PROPWET,0.66
+RMED-1H, 13.5
+RMED-1D, 75.9
+RMED-2D,102.0
+SAAR,2576
+SAAR4170,2418
+SPRHOST,52.21
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular, side contracted critical depth flume. Long term IH/UKCEH research catchment. Natural flow regime. GENERAL: Rectangular, side contracted critical depth flume designed by Hydraulics Research Ltd, suitable for streams with steep gradients, heavy sediment loads and high flood/drought flow ratios. Catchment nested within Cefn Brwyn (55008). Primary 15 minute dataset available. STATION HYDROMETRY: Shoal formation common, requiring prompt removal to avoid drowning. Check gauged by c/m, and volumetrically for lowest flows. FLOW RECORD: Daily mean flows replaced from 01/10/1973 to 31/12/2010, and AMAX flows from 01/10/1973 to 01/10/2010 following detailed QC (August 2025, WINFAP Files v14). FLOW REGIME: Responsive regime. Natural to within 10% at Q95.
+CATCHMENT,Very wet catchment; drains highest area of Plynlimon upland massif. Composed of Ordovician massive grits (unconfined aquifer maintaining baseflow), slates and Silurian mudstones. Heath on peaty plateau; grassland on free draining slopes (supporting sheep grazing) and mires in valley bottoms.
+Qmed Suitability,No rating or gaugings available.
+Pooling Suitability,No rating or gaugings available.
+[END]

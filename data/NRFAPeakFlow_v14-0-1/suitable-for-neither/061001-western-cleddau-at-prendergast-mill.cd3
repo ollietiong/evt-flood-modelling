@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 61001
+[END]
+[CDS DETAILS]
+NAME,Western Cleddau
+LOCATION,Prendergast Mill
+NOMINAL AREA,  197.83
+NOMINAL NGR,1954,2177
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,195400,217700
+CENTROID NGR,GB,195049,226903
+DTM AREA,  197.83
+ALTBAR, 108
+ASPBAR,203
+ASPVAR,0.10
+BFIHOST,0.560
+DPLBAR, 16.45
+DPSBAR, 67.9
+FARL,0.996
+FPEXT,0.0444
+LDP, 30.57
+PROPWET,0.44
+RMED-1H, 11.6
+RMED-1D, 42.5
+RMED-2D, 57.7
+SAAR,1276
+SAAR4170,1282
+SPRHOST,32.56
+URBEXT1990,0.0012
+URBEXT2000,0.0043
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Generally natural flow regime - affected by tides and backwater issues. GENERAL: Velocity area station. Channel width: 10.5m. STATION HYDROMETRY: Left bank is steep and high, right bank has low flood bank that allows overtopping to an extensive floodplain. Natural heavy shoaling causing frequent rating changes. Current rating overestimates flows - rating review pending. One peak rating applied across period of record - significant scatter in gaugings with too low a gauging frequency to be able to determine temporal changes or to improve rating history. FLOW RECORD: Tidally affected but this is edited out. Flow data was merged with 61004 Redhill to produce a continuous record, held as 61001 (Jan 74 - May 90 data is from 61004). Appears to be a trend in the early peak flow record. Reason unknown, though has been suggested related to land drainage schemes upstream in late 1960's & early 1970's. Peak flow data before Oct 1971 excluded suspect data. High flows known to spill onto extensive floodplain so underestimation likely e.g. 18/12/1992, 12/06/1993, 18/11/1997, 08/12/2000. Daily flows are held until 2004, with confidence in peak flows maintained until 2014. FLOW REGIME: Generally natural flow regime, some effects of abstractions and effluent returns. Also affected by tides and backwater issues.
+CATCHMENT,Mostly lowland catchment. Impermeable, Ordovician formations with igneous intrusions. Soils in southern area have permeable substrates. Predominantly grassland with dairy farming, patchy arable in lower areas.
+Qmed Suitability,Higher than 30% uncertainty at QMED.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED.
+[END]

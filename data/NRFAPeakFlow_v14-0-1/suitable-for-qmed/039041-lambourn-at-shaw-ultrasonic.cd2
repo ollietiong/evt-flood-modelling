@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 39041
+[END]
+[CDS DETAILS]
+NAME,Lambourn
+LOCATION,Shaw Ultrasonic
+NOMINAL AREA,  235.43
+NOMINAL NGR,4473,1683
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,447300,168300
+DTM AREA,  235.43
+ALTBAR, 163
+ASPBAR,134
+ASPVAR,0.22
+BFIHOST,0.839
+DPLBAR, 19.61
+DPSBAR, 59.2
+FARL,0.979
+LDP, 34.46
+PROPWET,0.32
+RMED-1H, 10.3
+RMED-1D, 34.3
+RMED-2D, 43.5
+SAAR, 736
+SAAR4170, 737
+SPRHOST,16.08
+URBCONC1990, 0.471
+URBEXT1990,0.0049
+URBLOC1990, 0.626
+URBCONC2000, 0.648
+URBEXT2000,0.0051
+URBLOC2000, 0.522
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Situated on the River Lambourn to measure the input into the River Kennet. Installed to replace Shaw GS (39019) which was removed in 2019 to aid fish passage. GENERAL: Installed during October 2014, alongside the Spout Ditch channel to be dual run with the original Shaw gauging station (39019) until it was decommissioned. Situated on the River Lambourn to measure the input into the River Kennet. The ultrasonic station is situated about 2.6km upstream of the confluence with the River Thames. The Lambourn catchment geology is predominantly Chalk, providing a high baseflow component to the hydrograph at Shaw. The Spout Ditch channel was not commissioned, and all equipment was removed. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: Ultrasonic gauging station. 10 interleaved crossed paths in racks. Gauge reports water height above a mean bed datum of zero. Gaugeboard offset 75m. Base of duct bracket above gaugeboard: 76.975mAOD. Electricity is routed in from a feeder pillar located adjacent to public footpath (upstream). FLOW RECORD: There was a known issue with the ultrasonic gauge during August and September 2022, the gauge was very noisy and thus the flow was marked as suspect. The gauge may have been overestimating flow at this time. FLOW REGIME: Groundwater-dominated flow. Flows affected by augmentation from West Berks groundwater scheme.
+CATCHMENT,A rural catchment in the Chalk of the Berkshire Downs. However there are significant Clay-with-Flints cover with alluvium in the valleys. Local suburban growth near the gauging station but it is primarily a rural catchment dominated by agricultural land use (predominantly arable and grassland).
+Qmed Suitability,Gaugings across a good range and a few above QMED.
+Pooling Suitability,Assessment pending.
+[END]

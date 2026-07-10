@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23005
+[END]
+[CDS DETAILS]
+NAME,North Tyne
+LOCATION,Tarset
+NOMINAL AREA,  283.38
+NOMINAL NGR,3776,5861
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377650,586100
+CENTROID NGR,GB,365544,590724
+DTM AREA,  283.38
+ALTBAR, 325
+ASPBAR,115
+ASPVAR,0.13
+BFIHOST,0.274
+DPLBAR, 21.38
+DPSBAR,108.9
+FARL,1.000
+FPEXT,0.0250
+LDP, 36.36
+PROPWET,0.62
+RMED-1H, 10.5
+RMED-1D, 39.0
+RMED-2D, 51.2
+SAAR,1230
+SAAR4170,1319
+SPRHOST,54.54
+URBEXT1990,0.0000
+URBEXT2000,0.0004
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Closed in 1987 and replaced by 23022. GENERAL: Velocity area station with informal flat V low flow control and cableway in straight, stable reach 35m wide. Superceded by Ugly Dub (23022) in 1983 (daily flows only) and station closed 1987, although chart maintained until December 1993. STATION HYDROMETRY: Velocity area station with informal flat V low flow control (1:2 upstream and downstream slopes, 1:50 cross-slopes) installed in 1973. Left bank occasionally overtopped, right bank is higher. Kielder Reservoir built upstream, major influence on flows from 1981 with regulation for hydropower and downstream river support and attenuation of flood flows. Three ratings applied over period of record, established by current meter gauging and applied to periods before, during and after construction of weir. Gauged beyond QMED and within 20% of AMAX3. Flood Studies Report grade A1. FLOW RECORD: Data since impoundment of Kielder Reservoir has been excluded from the Peak Flow dataset. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10) and in September 2023 (WINFAP Files v12). FLOW REGIME: Natural flow regime until the construction of Kielder Reservoir (impounded 1982) which controls 80% of the catchment; very artificial regime from 1981. Hydrographs are well peaked.
+CATCHMENT,Catchment description:Upland catchment developed mainly on Carboniferous Limestone, Scremerston and Fell Sandstone (thick Boulder Clay in the valleys). Moorland headwaters, significant afforestation below since 1926. Land use is two thirds forest, the rest scrub, moorland and rough grazing. Pre-reservoir FARL2015 (for WINFAP 5.3 or later) or FARL (for earlier versions of WINFAP) should be used with these records because the peak flow data after the reservoir started impounding is rejected. Pre- and post-reservoir values for FARL2015 are 0.9857 and 0.7845, respectively. Pre- and post-reservoir values for FARL are 1 and 0.815, respectively.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 19% of AMAX3. Possibly a small amount of bypassing and low-flow weir drowns, but gaugings above QMED support rating extrapolation.
+[END]

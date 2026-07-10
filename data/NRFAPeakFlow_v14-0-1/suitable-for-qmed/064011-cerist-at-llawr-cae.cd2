@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 64011
+[END]
+[CDS DETAILS]
+NAME,Cerist
+LOCATION,Llaw'r Cae
+NOMINAL AREA,    5.35
+NOMINAL NGR,2819,3163
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,281950,316300
+DTM AREA,    5.35
+ALTBAR, 419
+ASPBAR, 66
+ASPVAR,0.22
+BFIHOST,0.459
+DPLBAR,  2.00
+DPSBAR,433.3
+FARL,1.000
+LDP,  4.11
+PROPWET,0.66
+RMED-1H, 12.4
+RMED-1D, 66.9
+RMED-2D, 84.9
+SAAR,2159
+SAAR4170,2333
+SPRHOST,42.06
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir 4m wide. Small upland catchment with largely natural flow regime. GENERAL: Crump profile weir 4m wide. Small upland catchment with largely natural flow regime. Station opened in 1997, mainly as a result of increased interest in hydropower development in the area and a lack of gauged data from small upland catchments. STATION HYDROMETRY: Single theoretical rating valid since station built in 1997. Some scatter in low flow check gaugings, largely due to gravel accumulation (and removal) and weed growth. Check gaugings tighten up at mid-high range flows. Gravel removed annually from gravel trap. QMED contained within wingwalls, however flows do go out of bank upstream causing some ponding, which is not thought to be significant. Lack of high flow gaugings (and therefore rating extrapolation) mean this station is probably borderline in terms of meeting Peak Flow FEH QMED criteria. Further high flow gaugings are being targeted to calibrate the high flow rating limb. No tail measurement or cableway. FLOW RECORD: Station added to peak flows dataset in October 2018 (WINFAP Files v7). FLOW REGIME: Largely natural flow regime, only one small licensed abstraction upstream. Hydrological response is flashy, with higher than average baseflows for this type of catchment - possibly supported by springs (Q95 is approx 20% of Qmean).
+CATCHMENT,Small, wet, mountainous, upland catchment. Bedrock largely consists of Ordovician mudstone and siltstone, with glacial deposits in the valley bottom.
+Qmed Suitability,Although not gauged up to QMED, theoretical rating is expected to perform OK at this level. Flows are contained within wingwalls, with minimal out of bank flow / storage upstream.
+Pooling Suitability,Lack of high flow gaugings and uncertainty regarding non-modularity and extent of out of bank flow at very high flows.
+[END]

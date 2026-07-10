@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SD517931" x="351700" y="493100">
+        <CatchmentCentroid grid="GB" ngr="NY5045200549" x="350452" y="500549"/>
+        <area>183.22</area>
+        <altbar>257.0</altbar>
+        <aspbar>177.0</aspbar>
+        <aspvar>0.17</aspvar>
+        <bfihost>0.496</bfihost>
+        <bfihost19>0.451</bfihost19>
+        <bfihost19scaled>0.45</bfihost19scaled>
+        <dplbar>13.64</dplbar>
+        <dpsbar>165.5</dpsbar>
+        <draindens>1.198</draindens>
+        <farl>0.972</farl>
+        <farl2015>0.9795</farl2015>
+        <fpext>0.0712</fpext>
+        <fpdbar>1.031</fpdbar>
+        <fploc>0.761</fploc>
+        <ihdtmeasting>351750</ihdtmeasting>
+        <ihdtmnorthing>493100</ihdtmnorthing>
+        <ldp>25.83</ldp>
+        <propwet>0.71</propwet>
+        <rmed_1h>11.7</rmed_1h>
+        <rmed_1d>55.7</rmed_1d>
+        <rmed_2d>77.2</rmed_2d>
+        <saar>1787.0</saar>
+        <saar4170>1824.0</saar4170>
+        <saar9120>1976</saar9120>
+        <sprhost>39.87</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0038</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>0.653</urbconc2000>
+        <urbext2000>0.0052</urbext2000>
+        <urbloc2000>0.219</urbloc2000>
+        <urbext2015>0.0116</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SD517931" x="351700" y="493100">
+        <c>-0.02437</c>
+        <d1>0.47216</d1>
+        <d2>0.4631</d2>
+        <d3>0.40296</d3>
+        <e>0.27781</e>
+        <f>2.51069</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SD520930" x="352000" y="493000">
+        <c_1_km>-0.026</c_1_km>
+        <d1_1_km>0.451</d1_1_km>
+        <d2_1_km>0.409</d2_1_km>
+        <d3_1_km>0.419</d3_1_km>
+        <e_1_km>0.285</e_1_km>
+        <f_1_km>2.409</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.5, 3, 3.5, 4.3, 5.3, 6, 6.7, 7.4, 8, 8.8, 9.5, 10.4, 11.8, 13.3, 15.3, 17.2, 19.2, 21.1, 23, 24.7, 26.5, 28.1</Depths>
+        <Depths duration="0.25">4.8, 5.8, 6.8, 8.2, 10.4, 11.9, 13.4, 14.9, 16.5, 18.2, 20.3, 22.5, 25.4, 29.3, 33.9, 38.5, 43.7, 48.7, 53.6, 58.3, 63.2, 68</Depths>
+        <Depths duration="0.5">7, 8.2, 9.7, 11.7, 14.9, 17.1, 19.6, 21.9, 24.5, 27.2, 30.4, 33.8, 38.6, 44.8, 52.2, 59.7, 68.2, 76.4, 84.9, 92.7, 101.3, 109.7</Depths>
+        <Depths duration="0.75">8.4, 10.1, 11.8, 14.4, 18.2, 21, 24, 26.9, 30.1, 33.7, 37.7, 42.1, 48.2, 56, 65.5, 75, 85.9, 96.7, 107.6, 117.9, 129.1, 140.2</Depths>
+        <Depths duration="1">9.7, 11.6, 13.6, 16.4, 20.8, 24, 27.5, 30.9, 34.7, 38.8, 43.5, 48.6, 55.7, 64.8, 75.9, 87.1, 99.7, 112.3, 125.2, 137.3, 150.5, 163.6</Depths>
+        <Depths duration="2">16.1, 18.5, 20.9, 24.3, 29.5, 33.1, 37.2, 41, 45.5, 50.3, 56, 62.6, 71.9, 83.2, 95.8, 108, 121.4, 134.6, 148.1, 160.7, 174.5, 188.1</Depths>
+        <Depths duration="4">25.3, 28.3, 31.1, 35.2, 41.3, 45.5, 50.2, 54.8, 60, 65.8, 73, 81.4, 93, 106.1, 120.1, 133.2, 147.5, 161.5, 175.8, 189.1, 203.5, 217.7</Depths>
+        <Depths duration="6">32, 35.3, 38.4, 43, 49.6, 54.2, 59.4, 64.4, 70.2, 76.7, 84.7, 94.4, 107.3, 121.4, 136.1, 149.7, 164.6, 179.2, 194, 207.7, 222.5, 237.1</Depths>
+        <Depths duration="12">45.1, 49, 52.7, 58, 65.8, 71.1, 77.1, 82.9, 89.7, 97.5, 107.3, 119, 133.9, 149.5, 165.5, 180.1, 196, 211.5, 227.2, 241.7, 257.3, 272.7</Depths>
+        <Depths duration="18">53.3, 57.7, 61.7, 67.5, 76, 81.8, 88.4, 94.7, 102.2, 110.7, 121.6, 134.3, 150.2, 166.5, 183.2, 198.5, 215, 231.1, 247.3, 262.2, 278.4, 294.3</Depths>
+        <Depths duration="24">59.5, 64.1, 68.5, 74.7, 83.7, 89.9, 96.8, 103.5, 111.5, 120.7, 132.4, 145.7, 162.3, 179.2, 196.4, 212.1, 229.1, 245.7, 262.3, 277.6, 294.2, 310.4</Depths>
+        <Depths duration="48">76.3, 81.9, 87.1, 94.4, 105.1, 112.4, 120.7, 128.6, 137.9, 148.6, 161.7, 176.4, 194.3, 212.5, 231.1, 248, 266.2, 283.8, 301.6, 317.9, 335.6, 352.7</Depths>
+        <Depths duration="96">100.5, 107.5, 114.1, 123.4, 136.8, 145.9, 156.2, 165.9, 177.2, 189.6, 204.3, 220.1, 239.4, 259.3, 279.6, 298.3, 318.4, 337.9, 357.4, 375.2, 394.5, 413.2</Depths>
+        <Depths duration="192">142.9, 152.6, 161.7, 174.6, 193.3, 205.9, 220, 233.1, 248, 263.7, 281.4, 299.6, 321.4, 344.1, 367.4, 389, 412.3, 434.9, 457.4, 478, 500.2, 521.8</Depths>
+        <Depths duration="240">163.4, 174.4, 184.7, 199.5, 220.8, 235.1, 251.1, 266, 282.8, 300.3, 319.8, 339.6, 362.9, 386.9, 411.8, 434.8, 459.6, 483.7, 507.7, 529.7, 553.3, 576.2</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.1, 3.7, 4.6, 5.7, 6.5, 7.2, 8, 8.7, 9.4, 10.2, 10.9, 11.8, 12.8, 14, 15.3, 16.8, 18.4, 20, 21.4, 23, 24.4</Depths>
+        <Depths duration="0.25">5, 6.1, 7.2, 8.9, 11.2, 12.8, 14.6, 16.2, 17.9, 19.6, 21.6, 23.4, 25.6, 28.1, 31.2, 34.4, 38.4, 42.4, 46.6, 50.7, 54.9, 59</Depths>
+        <Depths duration="0.5">7.2, 8.7, 10.2, 12.6, 16.1, 18.5, 21.3, 23.8, 26.6, 29.3, 32.4, 35.3, 38.9, 43, 47.9, 53.3, 59.8, 66.6, 73.9, 80.6, 87.9, 95.2</Depths>
+        <Depths duration="0.75">8.8, 10.6, 12.4, 15.4, 19.6, 22.6, 26.1, 29.2, 32.7, 36.3, 40.1, 44, 48.6, 53.8, 60.1, 66.9, 75.4, 84.3, 93.6, 102.5, 112.1, 121.7</Depths>
+        <Depths duration="1">10.1, 12.2, 14.3, 17.6, 22.5, 25.9, 29.9, 33.6, 37.7, 41.8, 46.3, 50.7, 56.1, 62.2, 69.7, 77.7, 87.5, 97.9, 108.9, 119.3, 130.7, 142</Depths>
+        <Depths duration="2">16.7, 19.3, 21.9, 25.7, 31.4, 35.4, 39.9, 44, 48.7, 53.5, 58.7, 64, 70.7, 78.6, 88, 97.7, 108.9, 120.4, 132.2, 143.2, 155.2, 167</Depths>
+        <Depths duration="4">26.1, 29.3, 32.4, 36.9, 43.6, 48.2, 53.5, 58.3, 63.8, 69.6, 76.2, 83.3, 92.4, 102.9, 114.7, 126.2, 138.9, 151.5, 164.2, 175.9, 188.7, 201.2</Depths>
+        <Depths duration="6">32.9, 36.5, 39.9, 44.9, 52.3, 57.4, 63.1, 68.6, 74.8, 81.7, 89.7, 98.5, 109.8, 122.2, 135.5, 148, 161.6, 174.8, 188.1, 200.4, 213.7, 226.8</Depths>
+        <Depths duration="12">46.2, 50.5, 54.6, 60.5, 69.3, 75.4, 82.5, 89.6, 98.3, 108.5, 121.3, 134.8, 150.3, 165.6, 181, 195.2, 210.4, 225, 239.6, 253.1, 267.7, 281.9</Depths>
+        <Depths duration="18">54.8, 59.5, 64, 70.5, 80.3, 87.2, 95.5, 104.2, 115.6, 129.6, 146.2, 162.3, 179.6, 196.3, 212.9, 228.1, 244.4, 260.1, 275.7, 290, 305.4, 320.3</Depths>
+        <Depths duration="24">61.1, 66.2, 71.1, 78.1, 88.7, 96.4, 105.9, 116.1, 130.4, 147.8, 166.7, 184.2, 202.7, 220.4, 237.8, 253.6, 270.6, 287.1, 303.4, 318.3, 334.3, 349.9</Depths>
+        <Depths duration="48">78.4, 84.6, 90.6, 99.1, 112.2, 122, 134.9, 150.3, 172.3, 195.8, 218.9, 239.2, 260.4, 280.4, 300.1, 317.8, 336.7, 354.9, 373.2, 389.9, 407.8, 425.1</Depths>
+        <Depths duration="96">103.3, 111.2, 118.7, 129.5, 146.1, 158.5, 174.9, 194.1, 220.1, 247.3, 273.7, 297, 321.1, 343.8, 366, 386.1, 407.5, 428.1, 448.6, 467.2, 486.8, 506</Depths>
+        <Depths duration="192">146.9, 157.7, 168, 182.7, 204.7, 220.5, 239.7, 259.5, 284.3, 311.5, 340.2, 366.4, 394.2, 420.5, 446.3, 469.6, 494.4, 518.2, 541.9, 563.3, 586.3, 608.4</Depths>
+        <Depths duration="240">167.9, 180.1, 191.8, 208.3, 232.9, 250.1, 270.4, 290.4, 314.5, 340.6, 368.9, 395.6, 424.4, 452, 479.4, 504, 530.3, 555.6, 580.8, 603.5, 627.8, 651.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Victoria Bridge" name="Kent" number="73012">
+        <Comments>
+            <Comment type="Station Summary">Velocity area station opened in 1974 to replace Nether Bridge. Flows pre-1978 affected by Kendal flood alleviation scheme.</Comment>
+            <Comment type="Hydrometric">High flows affected by Stramongate Bridge and Stramongate Weir just downstream. Kendal flood alleviation scheme (1972-1978) improved conveyance through Kendal. Gravel trap upstream of Kendal, constructed as part of the flood relief scheme, is believed to have reduced gravel input, causing significant scour through the gauging section, with a deeper channel. Although there were no works to Stramongate Weir itself, and little change between Stramongate Weir and the gauging station, flow data before the scheme agrees less well with Sedgwick downstream. Few gaugings before 1995. Portable cableway used for rating in the early 1980s, but few gaugings and some uncertainty in results. One rating applied to period of record (although no reliable high-flow rating available pre-scheme to 1978) valid post-scheme, based on gaugings and hydraulic modelling, and compared with Sedgwick. Few gaugings to confirm use of rating for lower flows before 1991.</Comment>
+            <Comment type="General">Velocity area station in a stone wall lined open channel. Opened January 1974, replacing an earlier station at Nether Bridge (1963-1981) downstream. Data shown are for Victoria Bridge (EA number 730507) which opened in 1974 and closed in 2022 (30th November), although no peak flow data was produced beyond 07/05/2019. This in turn was replaced by a new site (EA number 73506, Victoria Bridge New) which opened some 40m downstream (on 23/02/2010, with a temporary site being used from 2007 to 2010) but Victoria Bridge New is predominantly used for river level.</Comment>
+            <Comment type="Flow record">Peak flow data pre-1978 has been marked as rejected due to Kendal flood alleviation scheme. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Catchment">A steep, very wet catchment draining the south of the Lake District massif. Geology is predominately impervious Ordovician Silurian Slate with bands of flags and shale, small patches of Carboniferous Limestone and basal conglomerate. Patchy boulder clay cover in the middle and lower reaches. Sheep grazing with peat moorland in the extreme north.</Comment>
+            <Comment type="Factors affecting runoff"/>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged above QMED." suitable="Yes" type="QMED"/>
+            <Usage notes="From 1978. Post-scheme rating extended by modelling and compared with Sedgwick. Gauged well above QMED. Confident in model derived rating." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

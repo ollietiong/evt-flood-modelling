@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 85001
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Linnbrane
+NOMINAL AREA,  786.11
+NOMINAL NGR,2394,6803
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,239400,680350
+DTM AREA,  786.11
+ALTBAR, 238
+ASPBAR,188
+ASPVAR,0.13
+BFIHOST,0.436
+DPLBAR, 31.32
+DPSBAR,179.6
+FARL,0.681
+LDP, 64.99
+PROPWET,0.71
+RMED-1H, 10.7
+RMED-1D, 50.3
+RMED-2D, 69.7
+SAAR,2023
+SAAR4170,2040
+SPRHOST,44.00
+URBEXT1990,0.0025
+URBEXT2000,0.0037
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station substantially regulated during summer. GENERAL: Velocity area station, about 35m wide. STATION HYDROMETRY: Stable open channel control with low flow recalibration only required after suspected erosion from the 1990 floods, and then another low-end adjustment following the 2006 flood. The peak flow rating is calibrated using gaugings up to 2.536m, with a measured flow of 156 cumecs. Flows are largely contained in the channel. The datum was raised by 1m in June 1982 during the installation of the first metric ramp, raising the gauge zero from 4.298 mAOD to 5.298 mAOD. The stage record has been edited to show the datum shift at midnight on 01/07/1982. The ramp was replaced on 07/06/1984. A survey in 2003 measured the gauge zero of the 1984 ramp as being 5.264 mAOD. This slight difference in value from the previous figure by -0.034m may reflect the error band around the surveys of 1982 and 2003, or it may indicate that the 1984 gauge was installed to a different level. There no gaugings between 1982 and 1984 to evaluate this and the contemporary ratings do not show a shift in the expected direction. As there is no obvious shift in the stage record on 07/06/1984, the notion of datum shift on 07/06/1984 can effectively be ignored. FLOW RECORD: A problem with the gauging winch was identified, which means that all gaugings between 1991-2000 should be viewed as suspect. Naturalised monthly flows available (1963-74). Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Natural regime until loch outfall control weir built in 1971, now substantially regulated during summer. Barrage does not operate in winter, and does not affect high flows. Three main lochs are located in catchment - Loch Sloy with a hydroelectric power scheme, Loch Lomond with barrage (which may affect flow) and Loch Arklet. All three provide a PWS.
+CATCHMENT,Large, wet, upland catchment with mountainous headwaters, often snowy in winter. Bedrock geology dominated by ancient metamorphic formations - overlain by superficial deposits in the west. The land use is rough pasture and moorland u/s, improved pasture d/s, small amount of arable land, some forestry. Several water bodies. The catchment outflow is controlled by Loch Lomond (surface area 71sq.km).
+Qmed Suitability,Rating well supported by gaugings.
+Pooling Suitability,Gauged to 2.536m, with a measured flow of 156 cumecs. Stable bed control and flows largely contained in channel.
+[END]

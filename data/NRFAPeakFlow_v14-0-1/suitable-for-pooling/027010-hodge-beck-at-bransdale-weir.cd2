@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27010
+[END]
+[CDS DETAILS]
+NAME,Hodge Beck
+LOCATION,Bransdale Weir
+NOMINAL AREA,   18.82
+NOMINAL NGR,4627,4944
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,462700,494450
+DTM AREA,   18.82
+ALTBAR, 323
+ASPBAR,161
+ASPVAR,0.22
+BFIHOST,0.341
+DPLBAR,  5.20
+DPSBAR,149.8
+FARL,1.000
+LDP, 10.13
+PROPWET,0.40
+RMED-1H, 10.4
+RMED-1D, 36.0
+RMED-2D, 47.4
+SAAR, 987
+SAAR4170,1038
+SPRHOST,50.58
+URBEXT1990,0.0026
+URBEXT2000,0.0007
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound thin plate and broad crested weir, theoretical rating, in responsive upland catchment in the North York Moors. Station closed December 1979. GENERAL: Three-stage thin-plate rectangular weir (6.1m wide overall) with short broad-crested flanks (4.55m wide) and concrete overall. Built for water resources purposes for proposed reservoir (never built). Station closed 31/12/1979, replaced by 27054 Cherrytree Farm from 30/12/1976. STATION HYDROMETRY: Three-stage rectangular thin plate weir with broad crested flanks in incised valley, no bypassing and believed to remain modular (but no downstream recorder to confirm this). Site affected by sand and gravel accumulation upstream of low flow crest, this was periodically removed and mainly impacted on low flow measurement. Intake pipe to stilling well also suffered from blockage at times. Theoretical rating, calibrated flow chart by Lea Recorder Co up to 195 MGD (10.26m3/s) and water level recorded above this to 1.98m, maximum chart level only exceeded once (23/06/1946) and estimate of peak flow (590MGD) was noted on chart. Latterly a PTR was installed (thought to be from May 1972) with a rating table (rating B) based on the original Lea calibration developed by the Water Resources Board. Peak flows extracted by Flood Studies team, all appear to be taken directly from original chart flows and converted to m3/s. Few current meter gaugings mainly at low flows, suggest gauge over-estimates at very low flow but closer agreement above around 1.5m3/s. FSR grade A2. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Responsive catchment, no known artificial influences.
+CATCHMENT,Small, upland catchment in Yorkshire moors, with steep slopes rising to flat moor tops above. Geology consists of bed of the Lias and lower Oolite dipping south, and the whole succession exposed down the sides of the valley. Mostly shales and sandstone. Moorland and upland grass, some woodland. No known catchment changes.
+Qmed Suitability,Only gauged to around 40% of QMED but theoretical rating should be acceptable.
+Pooling Suitability,No high flow gaugings but only one peak exceeded structure limits and flows are thought to be reasonable.
+[END]

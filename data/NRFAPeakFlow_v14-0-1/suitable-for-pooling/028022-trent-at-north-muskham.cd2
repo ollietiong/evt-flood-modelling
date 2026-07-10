@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 28022
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,North Muskham
+NOMINAL AREA, 8209.43
+NOMINAL NGR,4804,3605
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,480450,360500
+DTM AREA, 8209.43
+ALTBAR, 134
+ASPBAR,122
+ASPVAR,0.06
+BFIHOST,0.502
+DPLBAR,129.73
+DPSBAR, 51.6
+FARL,0.946
+LDP,202.13
+PROPWET,0.30
+RMED-1H, 10.6
+RMED-1D, 32.3
+RMED-2D, 40.9
+SAAR, 747
+SAAR4170, 756
+SPRHOST,34.76
+URBCONC1990, 0.796
+URBEXT1990,0.0735
+URBLOC1990, 1.065
+URBCONC2000, 0.896
+URBEXT2000,0.0994
+URBLOC2000, 1.074
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station built in 1968 and replaced by ultrasonic gauge in 1996: the station provides the lowest Trent gauge above the tidal limit and drains a highly industrial catchment with substantial flow modifications. GENERAL: Velocity area station from 1968 to 1996. An ultrasonic gauge was installed in 1996. Highest transducer 7m. The station provides the most downstream gauge on the Fluvial Trent and lies immediately upstream of Cromwell Weir (Trent tidal limit). STATION HYDROMETRY: Single rating applied to period of record. Station flows form a hybrid record after August 1996 when the time of flight ultrasonic flow meter is used to measure flows below a stage of 3.0 metres. Out of bank flows are calculated from the rating above this stage when the transducers are bypassed on the right bank. Floodplain becomes active from a stage above 3.0 mASD. FLOW RECORD: Station record at low flows prior to 1996 processed using rating equation and are less accurate than the Ultrasonic Record. At high flows the rating has been fit to gaugings up to a stage of 3.693 metres taken at Holme where the full river can be measured before the channel bypasses on the right bank. Events in 1977 and 2000 were gauged via a cableway but did not included bypass flow. The rating has carefully estimated the extent of bypass and is considered as accurate to the highest level observed in November 2000. Significant hysteresis is evident in the flow record between flows of 300 and 500 m3/s due to variable drowning of Cromwell Weir caused by tidal effects. The high flow rating has been fit to the rising limb gaugings so represents an over estimation of flows on the falling limb of the hydrograph at the flows. Hysteresis becomes less dominate at flows in excess of 500 m3/s. Corrections to the falling limb hydrograph have been made from 1996 onwards as the ultrasonic flow gauge shows the extent of hysteresis. Prior to 1996 no correction for hysteresis is possible on the falling limb of the flood hydrograph. Full period of record peak flow data reviewed and released in August 2024 (WINFAP Files v13). FLOW REGIME: Very substantial flow modifications owing to imports, WRW, cooling water and industrial usage. Reservoir(s) in catchment affect runoff. Regulation from surface water and/or ground water. Runoff reduced by public water supply abstraction and increased by effluent returns. Runoff influenced by groundwater abstraction/recharge.
+CATCHMENT,Largest gauged catchment on Trent, with range of land use. Predominantly impervious owing to glacial clay and Mercia Mudstone, but some sandstone and limestone (Dove, Derwent and downstream of Nottingham).
+Qmed Suitability,Well rated up to the level of the highest recorded floods.Since 1996 the US gauge appears to be performing well and flows bypassing the gauge are accounted for by the rating curve.
+Pooling Suitability,Well rated up to the level of the highest recorded floods.Since 1996 the US gauge appears to be performing well and flows bypassing the gauge are accounted for by the rating curve.
+[END]

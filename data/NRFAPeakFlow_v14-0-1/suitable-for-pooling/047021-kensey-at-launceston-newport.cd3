@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47021
+[END]
+[CDS DETAILS]
+NAME,Kensey
+LOCATION,Launceston Newport
+NOMINAL AREA,   34.83
+NOMINAL NGR,2330, 851
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,233000,85150
+CENTROID NGR,GB,226707, 85525
+DTM AREA,   34.83
+ALTBAR, 166
+ASPBAR, 64
+ASPVAR,0.23
+BFIHOST,0.584
+DPLBAR,  8.33
+DPSBAR,101.3
+FARL,0.998
+FPEXT,0.0218
+LDP, 16.03
+PROPWET,0.50
+RMED-1H, 12.4
+RMED-1D, 41.4
+RMED-2D, 56.7
+SAAR,1298
+SAAR4170,1273
+SPRHOST,32.41
+URBCONC1990, 0.719
+URBEXT1990,0.0209
+URBLOC1990, 0.355
+URBCONC2000, 0.788
+URBEXT2000,0.0174
+URBLOC2000, 0.258
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Open channel rated section in canalised channel. GENERAL: Velocity area station, initially installed to collect data for feasibility studies surrounding flood defence scheme and was then upgraded to a permanent station forming part of the flood warning system for River Kensey. STATION HYDROMETRY: As the station is within a defended reach, flood flows are contained to a high level and all flows contained to date. Bankfull discharge is around 37m3/s. Two peak flow ratings across the period of record to take into account changes in the natural bed control. Rating developed by gaugings. Gauged to QMED and to around half of AMAX 1 but extrapolation considered reasonable as flows in bank. Some uncertainty exists in the low flow data due to the stony mobile bed conditions but flows are generally within 15-20%. FLOW RECORD: Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Predominantly rural catchment.
+CATCHMENT,The River Kensey catchment overlies Shale and Grit. Over this area, extensive mechanical deformation has taken place resulting in minor folding and faulting. Igneous activity in the form of Spilitic Lavas and intrusive Dolerite and Diabase is also evident within the catchment. From its source it flows through gently undulating or relatively level land with a fairly wide level valley floor. The Kensey flows from its source in a westerly direction towards Launceston. Just upstream of the town, the river passes under the rail embankment and then flows through a narrow, well defined floodplain. No major changes to catchment.
+Qmed Suitability,Well gauged to around QMED.
+Pooling Suitability,Despite some extrapolation all flows contained to date.
+[END]

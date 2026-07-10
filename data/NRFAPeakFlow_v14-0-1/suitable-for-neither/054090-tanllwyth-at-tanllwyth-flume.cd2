@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 54090
+[END]
+[CDS DETAILS]
+NAME,Tanllwyth
+LOCATION,Tanllwyth Flume
+NOMINAL AREA,    1.10
+NOMINAL NGR,2842,2876
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,284250,287650
+DTM AREA,    1.10
+ALTBAR, 482
+ASPBAR,108
+ASPVAR,0.75
+BFIHOST,0.328
+DPLBAR,  1.20
+DPSBAR,155.0
+FARL,1.000
+LDP,  2.58
+PROPWET,0.66
+RMED-1H, 13.5
+RMED-1D, 76.1
+RMED-2D,102.7
+SAAR,2462
+SAAR4170,2270
+SPRHOST,52.30
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,IH/UKCEH research catchment. Responsive natural flow regime. GENERAL: Catchment nested within 54022 Severn at Plynlimon Flume. Rainfall, evaporation and soil moisture estimates also available from dense monitoring network. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: Rectangular, side contracted critical depth flume designed to gauge streams which have supercritical flow regimes. Upstream sediment trap for sediment yield studies assists in maintaining performance. FLOW RECORD: Primary 15 minute dataset available. Daily mean flows and AMAX series replaced from 01/10/1973 to 31/12/2010 following detailed quality control (August 2025, WINFAP Files v14). Review of post-2010 data pending. FLOW REGIME: Responsive natural flow regime.
+CATCHMENT,Steep and very wet (~2500mm). Mature coniferous plantations cover catchment. Geology: Silurian shales and grits.
+Qmed Suitability,Interim, pending full assessment.
+Pooling Suitability,Interim, pending full assessment.
+[END]

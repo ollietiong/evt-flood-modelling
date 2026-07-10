@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57006
+[END]
+[CDS DETAILS]
+NAME,Rhondda
+LOCATION,Trehafod
+NOMINAL AREA,  102.70
+NOMINAL NGR,3052,1909
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,305300,190950
+CENTROID NGR,GB,296994,196345
+DTM AREA,  102.70
+ALTBAR, 328
+ASPBAR,116
+ASPVAR,0.16
+BFIHOST,0.365
+DPLBAR, 14.22
+DPSBAR,210.3
+FARL,0.986
+FPEXT,0.0372
+LDP, 25.70
+PROPWET,0.49
+RMED-1H, 13.7
+RMED-1D, 71.8
+RMED-2D, 94.9
+SAAR,2183
+SAAR4170,2208
+SPRHOST,47.76
+URBCONC1990, 0.641
+URBEXT1990,0.0591
+URBLOC1990, 0.707
+URBCONC2000, 0.743
+URBEXT2000,0.0761
+URBLOC2000, 0.712
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; concrete trapezoidal channel with armoured side slopes. GENERAL: Originally opened Sep 1968 as open channel. Velocity area station formalised concrete trapezoidal channel (constructed Dec 1980 - Sept 1981). STATION HYDROMETRY: Velocity area station; concrete trapezoidal channel with armoured side slope 1:1.5, bed width 18m, bankfull width 28m. FLOW RECORD: Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). 02/11/1980 to 07/10/1981 rejected due to weir construction. Data 2020-2021 has high uncertatinty due to well blockage. FLOW REGIME: Flows affected by Trehafod Flood Alleviation Scheme after construction completed in 1981 and also small impounding reservoir for public water supply in upper catchment. The last operational coal mines in this area closed in 1985. Minewater recovery is understood to have occurred by the late 1980s. Mine dewatering increased low flows and mines may have provided some attenuation in flood events.
+CATCHMENT,Coal Measures with alluvial deposits and Boulder Clay in valleys, peat in upper catchment. Upland area with livestock farming and heathland on hills, around a quarter forest cover (mainly on high ground to NW). Extensive urban and industrial development in valleys.
+Qmed Suitability,Ratings have good fit to respective gaugings.
+Pooling Suitability,Gauged to within 20% of AMAX3. which lend confidence to rating.
+[END]

@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  6007
+[END]
+[CDS DETAILS]
+NAME,Ness
+LOCATION,Ness-side
+NOMINAL AREA, 1830.73
+NOMINAL NGR,2645,8427
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,264500,842750
+CENTROID NGR,GB,234149,812963
+DTM AREA, 1830.73
+ALTBAR, 375
+ASPBAR, 12
+ASPVAR,0.07
+BFIHOST,0.418
+DPLBAR, 55.82
+DPSBAR,178.6
+FARL,0.679
+FPEXT,0.0409
+LDP,106.94
+PROPWET,0.71
+RMED-1H, 10.7
+RMED-1D, 47.8
+RMED-2D, 68.2
+SAAR,1765
+SAAR4170,1809
+SPRHOST,49.23
+URBEXT1990,0.0003
+URBEXT2000,0.0003
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; flow regime affected by Loch Ness and other storage within the catchment. GENERAL: Velocity area station 80m wide. Station added to peak flows dataset in August 2025 (WINFAP Files v14). STATION HYDROMETRY: Fully calibrated to maximum recorded flow. Frequent recalibration of low flow rating due to alteration of stop-log configuration on weir which forms control. Ratings vary in mid-sections, the one shown is the common upper limb. FLOW RECORD: 1975, 1976, 1977 notably dry summers. FLOW REGIME: Hydrograph damped by influence of Loch Ness. Caledonian Canal lockages bypass station but, overall, small net impact. Hydro-electric power schemes on Garry, Moriston and Foyers tributaries utilise runoff from 56% of catchment, can cause abrupt changes in flow e.g. July 2000.
+CATCHMENT,Large SW/NE trending Highland catchment. Predominantly impermeable bedrock, less than half with superficial deposits. Mountainous with significant afforestation and grasslands.
+Qmed Suitability,No comment
+Pooling Suitability,Gauged and calibrated to 3.324m, with a measured flow of 795 cumecs.
+[END]

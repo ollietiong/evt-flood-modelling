@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 18003
+[END]
+[CDS DETAILS]
+NAME,Teith
+LOCATION,Bridge of Teith
+NOMINAL AREA,  515.61
+NOMINAL NGR,2725,7011
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,272500,701150
+DTM AREA,  515.61
+ALTBAR, 338
+ASPBAR,151
+ASPVAR,0.12
+BFIHOST,0.458
+DPLBAR, 33.18
+DPSBAR,234.3
+FARL,0.755
+LDP, 59.75
+PROPWET,0.67
+RMED-1H, 10.7
+RMED-1D, 50.6
+RMED-2D, 72.2
+SAAR,2001
+SAAR4170,2011
+SPRHOST,41.58
+URBEXT1990,0.0002
+URBEXT2000,0.0011
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A velocity-area station located upstream of Stirling with headwaters in the Loch Lomond and The Trossachs National Park. GENERAL: Well sited station on straight, natural river section 70m wide. On 06/06/1956 recorder was moved d/s to its current position. An earlier station by the same name existed somewhere upstream from 1939. SEPA holds copies of the chart record from this earlier station but has no details of the exact location, any gauging history, or rating details from the earlier station. Station added to peak flows dataset in August 2021 (WINFAP Files v10). STATION HYDROMETRY: Steep banks of ~3m have contained all recorded floods. Low flow control is long gravel riffle: high flow control is channel geometry, including downstream bend and mid-stream island. Station suffers from occasional ice build up. Multiple ratings accross period of record. No gaugings or ratings available for period prior to 01/04/1970. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Six large lochs in catchment - some supplying water to Glasgow: flows <75%ile elevated above natural and flows >75%ile are less than expected naturally.
+CATCHMENT,Catchment rising from near sea level up to ~1150m. Complex bedrock, predominantly impermeable (metamorphic) with approx. 60% superficial deposit cover. Land use mainly grassland and forest. The Teith drains from the Trossachs.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,All flows contained and station is gauged above QMED.
+[END]

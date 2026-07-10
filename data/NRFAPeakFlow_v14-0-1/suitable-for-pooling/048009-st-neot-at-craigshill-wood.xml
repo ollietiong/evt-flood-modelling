@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SX1843665995" x="218436" y="65995">
+        <CatchmentCentroid grid="GB" ngr="SX1818871257" x="218188" y="71257"/>
+        <area>22.9725</area>
+        <altbar>230.0</altbar>
+        <aspbar>187.0</aspbar>
+        <aspvar>0.32</aspvar>
+        <bfihost>0.463</bfihost>
+        <bfihost19>0.388</bfihost19>
+        <bfihost19scaled>0.387</bfihost19scaled>
+        <dplbar>7.24</dplbar>
+        <dpsbar>78.8</dpsbar>
+        <draindens>1.378</draindens>
+        <farl>0.982</farl>
+        <farl2015>0.9622</farl2015>
+        <fpext>0.0226</fpext>
+        <fpdbar>0.258</fpdbar>
+        <fploc>0.972</fploc>
+        <ihdtmeasting>218400</ihdtmeasting>
+        <ihdtmnorthing>66000</ihdtmnorthing>
+        <ldp>13.43</ldp>
+        <propwet>0.45</propwet>
+        <rmed_1h>12.2</rmed_1h>
+        <rmed_1d>45.0</rmed_1d>
+        <rmed_2d>64.0</rmed_2d>
+        <saar>1511.0</saar>
+        <saar4170>1612.0</saar4170>
+        <saar9120>1558</saar9120>
+        <sprhost>39.93</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0034</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0023</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0043</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SX1843665995" x="218436" y="65995">
+        <c>-0.02858</c>
+        <d1>0.44636</d1>
+        <d2>0.37209</d2>
+        <d3>0.38281</d3>
+        <e>0.29326</e>
+        <f>2.53954</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SX180660" x="218000" y="66000">
+        <c_1_km>-0.029</c_1_km>
+        <d1_1_km>0.438</d1_1_km>
+        <d2_1_km>0.341</d2_1_km>
+        <d3_1_km>0.383</d3_1_km>
+        <e_1_km>0.295</e_1_km>
+        <f_1_km>2.498</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.8, 3.5, 4.1, 5, 6.5, 7.5, 8.6, 9.5, 10.7, 11.8, 13.2, 14.7, 16.8, 19.4, 22.6, 25.7, 29, 32.2, 35.4, 38.2, 41.2, 44</Depths>
+        <Depths duration="0.25">5.4, 6.6, 7.8, 9.6, 12.5, 14.6, 16.8, 18.9, 21.4, 24, 27.1, 30.5, 35.3, 41.4, 48.6, 55.9, 63.9, 71.8, 79.7, 87, 95, 102.7</Depths>
+        <Depths duration="0.5">7.6, 9.3, 11, 13.5, 17.6, 20.6, 23.9, 27.2, 30.9, 34.9, 39.6, 45, 52.4, 61.8, 73.3, 84.6, 97.5, 110.1, 123.2, 135.4, 148.6, 161.7</Depths>
+        <Depths duration="0.75">9, 11.1, 13.1, 16.2, 21.3, 24.8, 29, 33, 37.7, 42.7, 48.6, 55.3, 64.5, 76.4, 90.7, 105.2, 121.4, 137.6, 154.4, 170.1, 187.2, 204.3</Depths>
+        <Depths duration="1">10.3, 12.6, 14.9, 18.4, 24.1, 28.2, 33, 37.6, 43, 48.8, 55.7, 63.4, 74.1, 87.8, 104.4, 121.2, 140.3, 159.1, 178.7, 197.1, 217.4, 237.6</Depths>
+        <Depths duration="2">15.1, 17.7, 20.3, 24.2, 30.3, 34.8, 40, 45.2, 51.3, 58.3, 67, 77.3, 91.7, 108.4, 126.8, 144.7, 164.4, 183.9, 204, 222.8, 243.5, 264</Depths>
+        <Depths duration="4">21.1, 24, 26.9, 31.2, 37.9, 42.9, 48.7, 54.6, 62, 70.8, 82.3, 95.9, 113.2, 131.6, 151, 169.7, 190.2, 210.3, 230.9, 249.9, 270.9, 291.7</Depths>
+        <Depths duration="6">25.3, 28.4, 31.5, 36.1, 43.2, 48.5, 54.9, 61.4, 69.7, 80, 93.4, 108.7, 127.2, 146.2, 166.1, 184.9, 206, 226.5, 247.4, 266.8, 288, 308.8</Depths>
+        <Depths duration="12">34, 37.6, 41, 46.2, 54.4, 60.4, 67.9, 75.7, 86.2, 99.2, 115.6, 133, 152.9, 172.9, 193.5, 212.9, 234.5, 255.9, 277.5, 297.4, 319.2, 340.5</Depths>
+        <Depths duration="18">40.3, 44.1, 47.9, 53.5, 62.4, 69, 77.2, 86, 97.7, 112.2, 130, 148.2, 168.8, 189.4, 210.5, 230.2, 252.1, 274.1, 296.1, 316.4, 338.5, 360.1</Depths>
+        <Depths duration="24">45.4, 49.5, 53.5, 59.5, 68.9, 76, 84.8, 94.2, 106.8, 122.2, 140.7, 159.4, 180.5, 201.5, 223, 243.1, 265.3, 287.6, 309.9, 330.4, 352.7, 374.4</Depths>
+        <Depths duration="48">60.3, 65.2, 69.9, 77, 88, 96.2, 106.2, 116.8, 130.3, 146.4, 165.5, 184.9, 206.8, 228.6, 250.8, 271.6, 294.3, 317, 340.1, 361.3, 384.2, 406.6</Depths>
+        <Depths duration="96">81.9, 88, 93.9, 102.6, 115.9, 125.3, 136.3, 147.1, 160, 174.4, 191.3, 208.9, 230, 251.8, 274.4, 295.5, 318.6, 341.4, 364.6, 386.4, 410, 433</Depths>
+        <Depths duration="192">119.1, 127.4, 135.3, 146.8, 164, 175.8, 189.1, 201.3, 214.7, 228.1, 242.1, 255.7, 271.2, 287.4, 305, 322.6, 343, 364.1, 386.3, 407.6, 430.9, 454.1</Depths>
+        <Depths duration="240">136.8, 146.1, 155.1, 168, 187.3, 200.5, 215.2, 228.5, 243, 257.2, 271.7, 285.4, 300.5, 315.7, 331.5, 346.9, 364.4, 382.4, 401.6, 420.5, 441.7, 463.3</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 3, 3.7, 4.7, 6.1, 7.1, 8.2, 9.1, 10.1, 11.1, 12.1, 13.1, 14.2, 15.3, 16.8, 18.5, 20.5, 22.8, 25.2, 27.3, 29.6, 31.7</Depths>
+        <Depths duration="0.25">4.5, 5.7, 7, 8.9, 11.8, 13.9, 16.1, 18.1, 20.3, 22.5, 24.8, 27.1, 29.8, 32.7, 36.2, 40.2, 45.1, 50.8, 56.6, 62.2, 68.2, 74.1</Depths>
+        <Depths duration="0.5">6.3, 8, 9.8, 12.5, 16.6, 19.6, 22.8, 25.9, 29.3, 32.8, 36.4, 40, 44.2, 48.8, 54.5, 60.8, 68.8, 77.8, 87.5, 96.7, 106.8, 116.7</Depths>
+        <Depths duration="0.75">7.5, 9.6, 11.7, 14.9, 20, 23.6, 27.6, 31.5, 35.7, 40.1, 44.6, 49.1, 54.4, 60.4, 67.5, 75.5, 85.7, 97.3, 109.7, 121.5, 134.5, 147.4</Depths>
+        <Depths duration="1">8.6, 10.9, 13.3, 17, 22.7, 26.8, 31.5, 35.9, 40.8, 45.8, 51.1, 56.3, 62.5, 69.4, 77.7, 87, 99, 112.5, 127, 140.8, 156.2, 171.4</Depths>
+        <Depths duration="2">14.2, 17.1, 19.9, 24.2, 30.7, 35.3, 40.5, 45.4, 50.8, 56.4, 62.4, 68.4, 75.9, 84.6, 95.3, 107.1, 121.6, 136.5, 152, 166.5, 182.4, 198.1</Depths>
+        <Depths duration="4">21.2, 24.6, 28, 32.9, 40.3, 45.4, 51.3, 56.8, 62.9, 69.4, 76.5, 84, 93.8, 105.5, 119.5, 133.8, 150, 166.2, 182.8, 198.1, 214.9, 231.3</Depths>
+        <Depths duration="6">25.9, 29.6, 33.2, 38.5, 46.5, 52, 58.2, 64.1, 70.9, 78, 86.3, 95.3, 107.3, 121.4, 137.3, 152.7, 169.7, 186.6, 203.7, 219.6, 237, 254</Depths>
+        <Depths duration="12">34.4, 38.6, 42.7, 48.7, 57.6, 63.8, 71, 77.9, 86.1, 95.4, 106.9, 120.1, 136.8, 154.5, 172.7, 189.7, 208, 226.1, 244.4, 261.2, 279.6, 297.4</Depths>
+        <Depths duration="18">39.8, 44.4, 48.7, 55.1, 64.6, 71.3, 79, 86.7, 96.1, 107.3, 121.5, 137.3, 156.3, 175.3, 194.6, 212.3, 231.5, 250.2, 269, 286.4, 305.2, 323.6</Depths>
+        <Depths duration="24">44.2, 49, 53.6, 60.2, 70.2, 77.2, 85.4, 93.7, 104.1, 116.7, 132.8, 150.3, 170.4, 190.3, 210.2, 228.5, 248.3, 267.5, 286.8, 304.6, 323.9, 342.8</Depths>
+        <Depths duration="48">57.5, 62.9, 68.1, 75.4, 86.5, 94.2, 103.5, 112.8, 124.8, 139.7, 158.5, 178.1, 200, 221.2, 242.5, 261.9, 283, 303.2, 323.3, 341.9, 362, 381.7</Depths>
+        <Depths duration="96">80.2, 86.6, 92.5, 101, 113.2, 121.7, 131.5, 141, 152.6, 166.2, 183.4, 202.3, 224.6, 246.7, 268.9, 289.1, 310.9, 331.9, 353.1, 372.4, 393.3, 413.6</Depths>
+        <Depths duration="192">122.4, 130.1, 137.2, 147.3, 161.5, 170.9, 181.3, 190.8, 201.2, 211.8, 223.6, 236, 251.8, 270.1, 290.9, 311.2, 333.5, 355.3, 377.1, 397.1, 418.6, 439.6</Depths>
+        <Depths duration="240">143.5, 151.7, 159.4, 170.2, 185.3, 195.2, 206, 215.7, 226.1, 236.5, 247.4, 258.2, 271, 285.2, 301.9, 319.6, 340.8, 362.3, 384.2, 404.3, 426.1, 447.3</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Craigshill Wood" name="St Neot" number="48009">
+        <Comments>
+            <Comment type="Station Summary">Three-bay compound Crump weir. Flows regulated and influenced by PWS from Colliford Reservoir since construction in 1983.</Comment>
+            <Comment type="Hydrometric">Flood banks contain flows up to wingwalls. Fully modular. Pre-1983 catchment had a natural flow regime; post-1983, flows are attenuated by Colliford reservoir. Now no bypassing as flows are moderated/contained by the reservoir. One theoretical peak flow rating applied across period of record. Confirmed by gaugings to 0.6m.</Comment>
+            <Comment type="General">Three-bay compound Crump profile weir, middle crest lengths 1.75m and side crests 2.75m (total 7.25m). Wing walls at 1.7m.</Comment>
+            <Comment type="Flow record">Suggest only the pre-1983 record is used for flood frequency estimation and as such Peak Flow data are rejected post-1983. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9).</Comment>
+            <Comment type="Flow regime">Since filling of Colliford Reservoir river has been subject to flow regulation and public water supply exports. Runoff increased by effluent returns.</Comment>
+            <Comment type="Catchment">Majority of upper catchment on granite intrusion of Bodmin Moor. Hill tops are rounded with some peat; valleys can be steep. Lower part of catchment underlain by metamorphosed Devonian slates. Entirely rural before reservoir built; some abandoned china clay pits. Baseflow high from storage in kaolinised granite. Colliford reservoir began to fill in 1983. Pre-reservoir FARL2015 (for WINFAP 5.3 or later) or FARL (for earlier versions of WINFAP) should be used with these records because the peak flow data after the reservoir started impounding is rejected. Pre- and post-reservoir values for FARL2015 are 0.9622 and 0.9392, respectively. Pre- and post-reservoir values for FARL are 0.982 and 0.635, respectively.</Comment>
+            <Comment type="Factors affecting runoff">SRPE</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Although no check gaugings taken within 30% of QMED, theoretical weir rating expected to perform well to QMED for data pre reservoir (1983)." suitable="Yes" type="QMED"/>
+            <Usage notes="Structure believed to stay modular. Pre-reservoir data can be used for pooling (with caution), post reservoir flow suffers from attenuation." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends/>
+</FEHDescriptors>

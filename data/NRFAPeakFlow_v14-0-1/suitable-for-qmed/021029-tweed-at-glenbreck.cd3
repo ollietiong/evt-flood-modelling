@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21029
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Glenbreck
+NOMINAL AREA,   34.40
+NOMINAL NGR,3063,6215
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,306300,621550
+CENTROID NGR,GB,305785,617315
+DTM AREA,   34.40
+ALTBAR, 420
+ASPBAR, 10
+ASPVAR,0.08
+BFIHOST,0.353
+DPLBAR,  6.40
+DPSBAR,165.1
+FARL,1.000
+FPEXT,0.0212
+LDP, 12.46
+PROPWET,0.72
+RMED-1H, 10.8
+RMED-1D, 43.7
+RMED-2D, 61.2
+SAAR,1532
+SAAR4170,1703
+SPRHOST,49.11
+URBEXT1990,0.0000
+URBEXT2000,0.0000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Tweed in the Scottish Borders. GENERAL: The station was originally operated by Lothian Regional Council (Department of Water and Drainage) who produced the early record from January 1964 to October 1977 using a Lea chart recorder. SEPA reopened the station on 10/10/2008 with potential utility stemming from the small upland natural catchment. Pressures on resource meant that the station was closed on 20/06/2024. The channel reach was surveyed and hydraulically modelled prior to closure in 2024, which allowed the development of a high flow rating and an improved flow record. On closure the well and hut was removed, but the weir remains in place. STATION HYDROMETRY: The control is a simple flat concrete broad crest weir with stone pitching on the flanks. There is a historic note that gravel had built up on the upstream side, although this will not have affected mid to high flows at least and the weir has effectively been a constant control through the record. All flows are contained in the channel with the standout event of December 2015 (Storm Frank) reaching 2.154m compared to a bankfull estimate of 2.7m. The early operation (1964-75) produced a rating and flow record that survives on the NRFA archive. The notes on NRFA stated that the flows were derived from current meter gaugings at low flows, with simple extrapolation beyond. SEPA do not hold any of the gaugings or calibration notes from this early period and so from 2008 SEPA calibrated the station from scratch. The SEPA rating 2.2 is based on low flow gaugings up to 2.3 cumecs and then hydraulic modelling. The Council and SEPA ratings are quite similar and when combined with control continuity and all flows being fully contained in the channel, there is optimism of decent flood estimations, although confidence is ultimately curbed by an absence of mid to high flow gaugings. Two peak flow ratings across period of record. FLOW RECORD: Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Natural regime.
+CATCHMENT,Impermeable bedrock. Mainly hill grazing. No significant catchment changes known.
+Qmed Suitability,All flows contained in-channel and stable control. Flood estimates should be used with caution, being based on hydraulic modelling with no gaugings in the mid to high flow range.
+Pooling Suitability,Confidence in higher events based on hydraulic modelling only.
+[END]

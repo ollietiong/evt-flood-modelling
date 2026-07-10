@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="SE4082825695" x="440828" y="425695">
+        <CatchmentCentroid grid="GB" ngr="SE1332220300" x="413322" y="420300"/>
+        <area>950.1825</area>
+        <altbar>205.0</altbar>
+        <aspbar>87.0</aspbar>
+        <aspvar>0.16</aspvar>
+        <bfihost>0.525</bfihost>
+        <bfihost19>0.543</bfihost19>
+        <bfihost19scaled>0.533</bfihost19scaled>
+        <dplbar>54.88</dplbar>
+        <dpsbar>104.6</dpsbar>
+        <draindens>0.964</draindens>
+        <farl>0.922</farl>
+        <farl2015>0.9065</farl2015>
+        <fpext>0.0598</fpext>
+        <fpdbar>1.004</fpdbar>
+        <fploc>0.629</fploc>
+        <ihdtmeasting>440850</ihdtmeasting>
+        <ihdtmnorthing>425750</ihdtmnorthing>
+        <ldp>88.74</ldp>
+        <propwet>0.39</propwet>
+        <rmed_1h>10.8</rmed_1h>
+        <rmed_1d>39.5</rmed_1d>
+        <rmed_2d>53.3</rmed_2d>
+        <saar>1024.0</saar>
+        <saar4170>1026.0</saar4170>
+        <saar9120>1062</saar9120>
+        <sprhost>30.07</sprhost>
+        <urbconc1990>0.736</urbconc1990>
+        <urbext1990>0.0883</urbext1990>
+        <urbloc1990>0.762</urbloc1990>
+        <urbconc2000>0.817</urbconc2000>
+        <urbext2000>0.1063</urbext2000>
+        <urbloc2000>0.796</urbloc2000>
+        <urbext2015>0.1466</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="SE4082825695" x="440828" y="425695">
+        <c>-0.02556</c>
+        <d1>0.38675</d1>
+        <d2>0.42431</d2>
+        <d3>0.31983</d3>
+        <e>0.30413</e>
+        <f>2.42827</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="SE410260" x="441000" y="426000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.348</d1_1_km>
+        <d2_1_km>0.379</d2_1_km>
+        <d3_1_km>0.251</d3_1_km>
+        <e_1_km>0.296</e_1_km>
+        <f_1_km>2.368</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 3.1, 3.8, 4.7, 6.3, 7.4, 8.7, 9.8, 11.1, 12.6, 14.1, 15.8, 17.8, 19.9, 22.2, 24.4, 26.8, 29.1, 31.5, 33.6, 35.9, 38</Depths>
+        <Depths duration="0.25">4.3, 5.4, 6.6, 8.4, 11.3, 13.5, 15.9, 18.3, 20.9, 24, 27.2, 30.7, 35, 39.6, 44.7, 49.8, 55.5, 61, 66.7, 72.1, 77.7, 83.3</Depths>
+        <Depths duration="0.5">5.7, 7.3, 8.8, 11.2, 15.2, 18.1, 21.5, 24.9, 28.6, 33, 37.7, 42.7, 48.8, 55.6, 63.1, 70.6, 79.1, 87.4, 96.2, 104.3, 113.1, 121.9</Depths>
+        <Depths duration="0.75">6.6, 8.5, 10.3, 13.1, 17.7, 21.2, 25.2, 29.2, 33.7, 38.8, 44.5, 50.6, 58, 66.2, 75.3, 84.4, 94.7, 105, 115.6, 125.7, 136.6, 147.5</Depths>
+        <Depths duration="1">7.4, 9.4, 11.4, 14.5, 19.7, 23.5, 28, 32.4, 37.6, 43.3, 49.7, 56.5, 64.9, 74.2, 84.5, 94.8, 106.3, 118, 130.2, 141.6, 154.1, 166.6</Depths>
+        <Depths duration="2">11.5, 13.7, 16, 19.6, 25.2, 29.4, 34.4, 39.4, 45.3, 51.8, 59.3, 67.2, 76.9, 87.3, 98.5, 109.3, 121.4, 133.5, 145.9, 157.6, 170.4, 183</Depths>
+        <Depths duration="4">16.6, 19.2, 21.8, 25.7, 32, 36.6, 42.2, 47.9, 54.7, 62.2, 70.9, 80, 90.8, 102.2, 114.1, 125.4, 138, 150.4, 163.1, 175, 188, 200.8</Depths>
+        <Depths duration="6">20.2, 23, 25.8, 30, 36.7, 41.7, 47.7, 53.8, 61.1, 69.3, 78.8, 88.5, 99.9, 111.7, 124, 135.6, 148.4, 161.1, 174, 186, 199.2, 212.1</Depths>
+        <Depths duration="12">27.8, 31, 34.1, 38.9, 46.4, 52, 58.9, 65.9, 74.4, 83.8, 94.5, 105.2, 117.5, 130, 142.9, 155, 168.2, 181.3, 194.6, 206.9, 220.4, 233.6</Depths>
+        <Depths duration="18">33.1, 36.5, 39.9, 45, 53.2, 59.3, 66.8, 74.4, 83.7, 93.8, 105.1, 116.3, 129.1, 142, 155.3, 167.6, 181.2, 194.5, 208.1, 220.6, 234.3, 247.8</Depths>
+        <Depths duration="24">37.2, 40.8, 44.4, 49.9, 58.5, 65.1, 73.1, 81.2, 91, 101.6, 113.4, 125, 138.1, 151.3, 164.8, 177.3, 191.1, 204.7, 218.5, 231.3, 245.1, 258.8</Depths>
+        <Depths duration="48">48.7, 52.9, 57.1, 63.3, 73.5, 81.1, 90.5, 100, 111.1, 123, 135.9, 148.4, 162.4, 176.3, 190.6, 203.8, 218.1, 232.3, 246.6, 259.8, 274.1, 288.3</Depths>
+        <Depths duration="96">63.1, 68.1, 73, 80.5, 92.6, 101.7, 112.8, 123.8, 136.6, 149.9, 164.1, 177.7, 192.8, 207.6, 222.7, 236.6, 251.9, 266.7, 281.7, 295.7, 310.8, 325.7</Depths>
+        <Depths duration="192">84.4, 90.5, 96.6, 105.8, 120.6, 131.5, 144.6, 157.4, 172, 187.2, 203.1, 218, 234.2, 250.2, 266.5, 281.6, 298.1, 314.1, 330.4, 345.4, 361.6, 377.4</Depths>
+        <Depths duration="240">94, 100.7, 107.3, 117.3, 133.1, 144.7, 158.6, 172, 187.3, 203, 219.4, 234.8, 251.5, 268, 284.8, 300.4, 317.4, 333.9, 350.7, 366.1, 382.8, 399.1</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.3, 3.9, 4.9, 6.5, 7.5, 8.7, 9.6, 10.8, 11.9, 13, 14.2, 15.5, 16.9, 18.5, 20.1, 22.1, 24, 26.1, 28, 30, 31.9</Depths>
+        <Depths duration="0.25">4.6, 5.7, 6.9, 8.7, 11.5, 13.6, 15.9, 18, 20.2, 22.6, 25.1, 27.6, 30.5, 33.6, 37.2, 41.1, 45.7, 50.3, 55.3, 60, 65, 70</Depths>
+        <Depths duration="0.5">6.1, 7.7, 9.2, 11.6, 15.5, 18.3, 21.4, 24.5, 27.7, 31.1, 34.8, 38.3, 42.6, 47.2, 52.6, 58.3, 65.1, 72.1, 79.7, 86.8, 94.6, 102.4</Depths>
+        <Depths duration="0.75">7.1, 8.9, 10.8, 13.6, 18.1, 21.4, 25.1, 28.8, 32.6, 36.7, 41.1, 45.4, 50.5, 56.2, 62.7, 69.6, 77.9, 86.6, 95.8, 104.7, 114.2, 123.9</Depths>
+        <Depths duration="1">7.9, 9.9, 11.9, 15.1, 20.1, 23.7, 27.9, 31.9, 36.4, 40.9, 45.9, 50.7, 56.6, 63, 70.4, 78.2, 87.5, 97.4, 107.9, 117.9, 128.9, 139.9</Depths>
+        <Depths duration="2">12.2, 14.6, 16.9, 20.5, 26.1, 30.1, 34.7, 39, 44, 49.1, 54.7, 60.4, 67.4, 75.2, 84.2, 93.2, 103.7, 114.4, 125.5, 135.9, 147.3, 158.6</Depths>
+        <Depths duration="4">17.8, 20.5, 23.2, 27.3, 33.5, 37.9, 43.1, 48.1, 53.7, 59.8, 66.6, 73.7, 82.5, 92.1, 102.7, 112.9, 124.3, 135.7, 147.4, 158.3, 170.1, 181.8</Depths>
+        <Depths duration="6">21.6, 24.5, 27.5, 31.8, 38.6, 43.4, 49, 54.4, 60.8, 67.7, 75.6, 83.9, 94, 104.8, 116.2, 127.1, 139, 150.8, 162.8, 173.9, 186.1, 198.1</Depths>
+        <Depths duration="12">28.8, 32.2, 35.6, 40.6, 48.4, 54.1, 60.9, 67.6, 75.8, 84.9, 95.4, 106, 118.2, 130.6, 143.3, 155.1, 168, 180.5, 193.3, 205.1, 217.9, 230.5</Depths>
+        <Depths duration="18">33.4, 37.1, 40.8, 46.3, 54.9, 61.2, 69, 76.9, 86.5, 97.3, 109.3, 121.1, 134.3, 147.5, 160.8, 173.1, 186.5, 199.6, 212.8, 225, 238.2, 251.2</Depths>
+        <Depths duration="24">36.8, 40.8, 44.7, 50.6, 59.8, 66.7, 75.2, 84, 94.9, 106.7, 119.7, 132.2, 146, 159.6, 173.4, 186.1, 199.8, 213.2, 226.8, 239.3, 252.9, 266.2</Depths>
+        <Depths duration="48">46.3, 51, 55.6, 62.5, 73.5, 81.9, 92.3, 103, 116, 129.7, 144.1, 157.8, 172.8, 187.4, 202.1, 215.6, 230.1, 244.3, 258.5, 271.6, 285.8, 299.6</Depths>
+        <Depths duration="96">59.8, 65.6, 71.3, 79.7, 92.8, 102.3, 113.9, 125.4, 138.8, 152.7, 167.5, 181.5, 196.8, 212, 227.4, 241.6, 257, 272, 287.1, 300.8, 315.7, 330.2</Depths>
+        <Depths duration="192">83.3, 91, 98.4, 109.2, 125.6, 136.9, 149.7, 161.5, 174.5, 187.6, 201.3, 214.4, 228.8, 243.3, 258.3, 272.5, 288, 303.2, 318.7, 333.1, 348.7, 364</Depths>
+        <Depths duration="240">94.5, 103.1, 111.4, 123.4, 141.3, 153.6, 167.3, 179.7, 193.2, 206.6, 220.5, 233.5, 247.8, 262, 276.7, 290.5, 305.7, 320.7, 336.1, 350.4, 366.1, 381.5</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Methley" name="Calder" number="27079">
+        <Comments>
+            <Comment type="Station Summary">Sidelooker that replaced a multi-path ultrasonic station opened in 1986, replacing 27004. Catchment is heavily reservoired and affected by complex water transfers.</Comment>
+            <Comment type="Hydrometric">Multi-path ultrasonic gauge in 45m wide section with raised embankments to 4m stage, no known by-passing. No formal control and variable backwater from confluence with Aire 1.8km downstream. Very low velocities at low flow affecting check gauging accuracy, also thermal stratification affecting ultrasonic gauge in summer. Regular pulsing in velocity observed at low flows, possibly due to boat movements. High suspended solids and long path lengths can cause signal attenuation at high flow, a number of periods infilled from back up rating. Various gauging locations over period of record, originally at cableway at Newlands, subsequently from road bridge d/s of gauge and recently by ArcBoat in gauge section. Some variability in gaugings due to lack of formal control but rating is considered reasonable to use as back up for data infilling when required. Gauged to 70% of AMAX1. Gauge may have been affected by mining subsidence during the period of operation.</Comment>
+            <Comment type="General">Sidelooker since Nov 2021. Previously, multi-path ultrasonic gauging station positioned on a long straight reach around 45m wide, between flood banks. Primary gauging station on the River Calder, measures full range of flow. Constructed in 1986 but ultrasonic gauge records only available from June 1988, replaced earlier station at Newlands (27004) which closed in 1975.</Comment>
+            <Comment type="Flow record">Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11).</Comment>
+            <Comment type="Flow regime">Heavy influence of reservoirs, estimated 9.3% of catchment area drains through 21 impoundments. Complicated water transfer plan and significant effluent returns. Sluice/weir systems on the River Aire may influence levels at Methley.</Comment>
+            <Comment type="Catchment">Catchment draining the eastern flank of the Pennines. The impermeable geology is predominantly Upper Carboniferous Millstone Grit. Headwaters rise from rough-grazed, peat-covered moorland. Very steep, often-wooded headwater valleys cut down through Millstone Grit. The valley floors are strongly urbanised and industrialised. Significant urbanisation throughout period of record. Coal mining activity in the lower reaches but this has subsequently declined in recent years. Flood relief channel built at Dewsbury.</Comment>
+            <Comment type="Factors affecting runoff">SR</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Gauged beyond QMED, flow record is considered reliable." suitable="Yes" type="QMED"/>
+            <Usage notes="Gauged to 70% of AMAX1 and 80% of AMAX3, flood banks contain all flow." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>1.93</value>
+            <significance comment="Significant at the 10% level">10</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,44 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 28031
+[END]
+[CDS DETAILS]
+NAME,Manifold
+LOCATION,Ilam
+NOMINAL AREA,  148.15
+NOMINAL NGR,4139,3507
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,414000,350700
+DTM AREA,  148.15
+ALTBAR, 308
+ASPBAR, 98
+ASPVAR,0.18
+BFIHOST,0.455
+DPLBAR, 19.50
+DPSBAR,117.1
+FARL,1.000
+LDP, 34.07
+PROPWET,0.44
+RMED-1H, 10.1
+RMED-1D, 36.3
+RMED-2D, 46.4
+SAAR,1098
+SAAR4170,1087
+SPRHOST,33.31
+URBEXT1990,0.0022
+URBEXT2000,0.0034
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir somewhat insensitive but good quality data throughout the range of flows but difficult to gauge at higher flows. GENERAL: Crump profile weir, 12.5m wide in a straight reach - modular to bankfull. Rocky bed, somewhat insensitive but good quality data throughout the range. Gaugings possible with ADCP just upstream of weir at levels up to around 0.8m after which it becomes increasingly more difficult due to turbulent flow. Gaugings can also be performed in Ilam village however are not always reliable. Located downstream of Ilam town and 700m upstream of Manifold/Dove confluence. Fish baffles and eel pass installed on weir in July 2015. Modular style eel bristles added to right bank side of weir, on downstream face in July 2024. STATION HYDROMETRY: One rating applied across period of record. Top section derived from gaugings. High flow gaugings since 2007 informed new rating applied to flows above 0.465m - leading to slight increases in high flows across period of record. Digitised record prior to 01/11/1970 is considered unsuitable for derivation of reliable peak flows. FLOW RECORD: Water Year 1971/1972 is rejected as the true AMAX occurs during missing period and likely to be substantially higher. Drop in flow August 2022 due to debris being cleared from the weir. Full period of record peak flow data reviewed and released in August 2021 (WINFAP Files v10). FLOW REGIME: Minimal interference from PWS.
+CATCHMENT,Headwaters of moderate relief and drain sandstone and mudstone of the Millstone Grit; middle reach has cut deep gorges through Carboniferous Limestone. Responsive catchment. Sheep grazing and moorland.
+Qmed Suitability,Good fit to gaugings approaching QMED.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED. No information on rating above bankfull.
+[END]

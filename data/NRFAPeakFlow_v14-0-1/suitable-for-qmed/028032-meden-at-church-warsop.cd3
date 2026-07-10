@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28032
+[END]
+[CDS DETAILS]
+NAME,Meden
+LOCATION,Church Warsop
+NOMINAL AREA,   59.92
+NOMINAL NGR,4558,3680
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,455800,368000
+CENTROID NGR,GB,451180,364612
+DTM AREA,   59.92
+ALTBAR, 126
+ASPBAR, 83
+ASPVAR,0.32
+BFIHOST,0.821
+DPLBAR,  8.27
+DPSBAR, 41.6
+FARL,0.976
+FPEXT,0.0625
+LDP, 16.70
+PROPWET,0.38
+RMED-1H, 10.9
+RMED-1D, 33.0
+RMED-2D, 40.8
+SAAR, 699
+SAAR4170, 710
+SPRHOST,13.60
+URBCONC1990, 0.741
+URBEXT1990,0.0909
+URBLOC1990, 1.002
+URBCONC2000, 0.869
+URBEXT2000,0.0972
+URBLOC2000, 1.038
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard pre 2015. Flat-V from 2015 onwards. GENERAL: Flat-V weir installed in Jan 2015 to replace the trapezoidal flume built in 1964. 1972-2015 flume was unsatisfactory so site used as velocity area except 1984-1990 when station was inactive. Built to measure flows entering Sherwood Sandstone outcrop. STATION HYDROMETRY: Theoretical Flat-V equation applies from 2015 onwards with tail water corrections above modular limit of structure. Two ratings applied to pre-2015 period of record, one post-2015. Mining subsidence in 1976 caused permanent drowning of flume until downstream channel was regraded in 1981. FLOW RECORD: 15 minute derived data starts 1972, only summary and daily mean data prior to this. Station closed between 1984 and 1990. June 2007 and October 2023 high flows beyond limit of rating curve. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14). FLOW REGIME: Significant proportion of low flows are comprised of effluent.
+CATCHMENT,Ribbon-like, SW-NE catchment of moderate relief, rising on Magnesian Limestone, subordinate Permian Marl and Sherwood Sandstone. Mining was dominant industry; many spoil tips. Sutton in Ashfield in headwaters, also part of Mansfield Woodhouse.
+Qmed Suitability,QMED in bank and confident in rating.
+Pooling Suitability,Too much emphasis on suspect high flow gauging.
+[END]

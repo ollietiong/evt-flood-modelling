@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="Ireland" ngr="IJ1974785394" x="319747" y="385394">
+        <CatchmentCentroid grid="Ireland" ngr="IJ1930889737" x="319308" y="389737"/>
+        <area>22.4975</area>
+        <altbar>150.0</altbar>
+        <aspbar>197.0</aspbar>
+        <aspvar>0.45</aspvar>
+        <bfihost>0.429</bfihost>
+        <bfihost19>0.428</bfihost19>
+        <bfihost19scaled>0.427</bfihost19scaled>
+        <dplbar>6.41</dplbar>
+        <dpsbar>57.9</dpsbar>
+        <draindens>1.21</draindens>
+        <farl>1.0</farl>
+        <farl2015>1.0</farl2015>
+        <fpext>0.0723</fpext>
+        <fpdbar>0.599</fpdbar>
+        <fploc>0.771</fploc>
+        <ihdtmeasting>319750</ihdtmeasting>
+        <ihdtmnorthing>385400</ihdtmnorthing>
+        <ldp>11.12</ldp>
+        <propwet>0.52</propwet>
+        <rmed_1h>10.2</rmed_1h>
+        <rmed_1d>35.0</rmed_1d>
+        <rmed_2d>45.3</rmed_2d>
+        <saar>1043.0</saar>
+        <saar4170>1065.0</saar4170>
+        <saar9120>1098</saar9120>
+        <sprhost>36.88</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0123</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="Ireland" ngr="IJ1974785394" x="319747" y="385394">
+        <c>-0.0228</c>
+        <d1>0.39312</d1>
+        <d2>0.48733</d2>
+        <d3>0.26426</d3>
+        <e>0.26299</e>
+        <f>2.31183</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="Ireland" ngr="IJ200850" x="320000" y="385000">
+        <c_1_km>-0.024</c_1_km>
+        <d1_1_km>0.384</d1_1_km>
+        <d2_1_km>0.481</d2_1_km>
+        <d3_1_km>0.256</d3_1_km>
+        <e_1_km>0.266</e_1_km>
+        <f_1_km>2.302</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 3, 3.5, 4.4, 5.9, 7, 8.2, 9.6, 11, 12.8, 14.6, 16.7, 19.1, 21.8, 24.7, 27.2, 29.7, 32.3, 34.9, 37.5, 40, 42.7</Depths>
+        <Depths duration="0.25">4.2, 5.2, 6.3, 7.9, 10.6, 12.7, 15.1, 17.7, 20.6, 23.9, 27.8, 31.9, 37, 42.6, 48.5, 53.8, 59.5, 65.2, 71.3, 77, 83.2, 89.4</Depths>
+        <Depths duration="0.5">5.6, 6.9, 8.3, 10.6, 14.2, 17, 20.3, 23.7, 27.8, 32.4, 37.7, 43.4, 50.4, 58.2, 66.4, 73.9, 81.8, 89.9, 98.5, 106.7, 115.5, 124.4</Depths>
+        <Depths duration="0.75">6.5, 8.1, 9.8, 12.3, 16.6, 19.7, 23.6, 27.5, 32.3, 37.4, 43.4, 49.9, 57.9, 66.8, 76.2, 84.5, 93.5, 102.7, 112.2, 121.3, 131.2, 141.2</Depths>
+        <Depths duration="1">7.2, 9, 10.8, 13.7, 18.3, 21.9, 26.1, 30.4, 35.5, 41.2, 47.8, 54.8, 63.5, 73.3, 83.4, 92.3, 102, 111.9, 122.1, 131.8, 142.4, 153</Depths>
+        <Depths duration="2">10.8, 12.8, 14.9, 18.1, 23.3, 27.2, 31.9, 36.8, 42.7, 49.2, 56.7, 64.4, 73.5, 82.9, 92.9, 102.7, 113.3, 123.5, 134, 143.8, 154.7, 165.4</Depths>
+        <Depths duration="4">15.3, 17.6, 19.9, 23.5, 29.2, 33.6, 39, 44.6, 51.2, 58.5, 66.8, 75.2, 84.8, 94.6, 104.8, 114.5, 125.2, 135.8, 146.5, 156.4, 167.3, 178.1</Depths>
+        <Depths duration="6">18.3, 20.8, 23.3, 27.1, 33.3, 38, 43.9, 49.8, 56.9, 64.7, 73.5, 82.2, 92, 102, 112.4, 122.3, 133, 143.7, 154.5, 164.4, 175.5, 186.5</Depths>
+        <Depths duration="12">24.7, 27.5, 30.3, 34.6, 41.5, 46.9, 53.5, 60.2, 68.3, 77.1, 86.6, 95.8, 106.1, 116.5, 127.2, 137.1, 148, 158.7, 169.7, 180, 191.2, 202.2</Depths>
+        <Depths duration="18">29.1, 32.1, 35.1, 39.7, 47.3, 53.1, 60.3, 67.5, 76.2, 85.4, 95.3, 104.9, 115.4, 126, 136.8, 146.9, 157.9, 168.8, 179.9, 190.2, 201.5, 212.6</Depths>
+        <Depths duration="24">32.5, 35.7, 38.9, 43.8, 51.8, 57.9, 65.6, 73.3, 82.3, 91.9, 102.1, 111.8, 122.6, 133.2, 144.2, 154.4, 165.6, 176.6, 187.8, 198.2, 209.6, 220.8</Depths>
+        <Depths duration="48">42.1, 45.8, 49.6, 55.4, 64.9, 72.2, 81.1, 89.9, 100.1, 110.6, 121.6, 131.8, 143.1, 154.1, 165.4, 176, 187.7, 199.1, 210.7, 221.4, 233, 244.5</Depths>
+        <Depths duration="96">54.7, 59.1, 63.7, 70.6, 81.9, 90.3, 100.5, 110.5, 121.8, 133.2, 144.9, 155.8, 167.7, 179.3, 191.1, 202.3, 214.4, 226.3, 238.3, 249.4, 261.6, 273.4</Depths>
+        <Depths duration="192">73.4, 78.8, 84.1, 92.2, 105, 114.3, 125.4, 136, 148, 159.9, 172.3, 183.8, 196.3, 208.7, 221.4, 233.1, 245.9, 258.4, 271, 282.7, 295.3, 307.8</Depths>
+        <Depths duration="240">82, 87.7, 93.2, 101.5, 114.5, 123.8, 134.8, 145.2, 157, 169, 181.3, 192.9, 205.6, 218.2, 231, 242.9, 256, 268.7, 281.6, 293.5, 306.3, 319</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.4, 3, 3.6, 4.7, 6.6, 7.9, 9.3, 10.7, 12.1, 13.7, 15.2, 16.6, 18.2, 19.8, 21.6, 23.2, 24.8, 26.4, 28, 29.5, 31, 32.6</Depths>
+        <Depths duration="0.25">4.2, 5.3, 6.5, 8.4, 11.8, 14.1, 17, 19.6, 22.6, 25.7, 28.8, 31.8, 35.2, 38.7, 42.5, 46, 49.7, 53.2, 57.1, 60.6, 64.4, 68.2</Depths>
+        <Depths duration="0.5">5.6, 7, 8.5, 11.2, 15.8, 19, 22.8, 26.4, 30.5, 34.7, 39.1, 43.2, 48, 52.9, 58.1, 63.2, 68.4, 73.5, 78.9, 83.9, 89.5, 94.9</Depths>
+        <Depths duration="0.75">6.5, 8.2, 10, 13.1, 18.4, 22, 26.5, 30.6, 35.4, 40.1, 45.1, 49.7, 55.2, 60.7, 66.7, 72.2, 78.1, 83.9, 89.9, 95.4, 101.6, 107.8</Depths>
+        <Depths duration="1">7.2, 9.1, 11.1, 14.5, 20.3, 24.4, 29.3, 33.8, 38.9, 44.2, 49.6, 54.5, 60.5, 66.6, 73, 78.9, 85.2, 91.4, 97.8, 103.7, 110.3, 116.8</Depths>
+        <Depths duration="2">10.6, 12.9, 15.2, 19, 25.2, 29.6, 34.6, 39.4, 44.7, 50.2, 56, 61.7, 68.1, 74.2, 80.4, 86.3, 92.8, 99.2, 105.7, 111.7, 118.4, 124.9</Depths>
+        <Depths duration="4">14.9, 17.5, 20, 23.9, 30.8, 35.5, 40.8, 45.9, 51.9, 57.9, 64.3, 70.1, 76.4, 82.7, 89.2, 95.2, 101.9, 108.4, 115.1, 121.3, 128, 134.7</Depths>
+        <Depths duration="6">17.8, 20.7, 23.4, 27.5, 34.6, 39.6, 45.3, 50.9, 57.2, 63.6, 70.1, 76, 82.5, 89, 95.7, 101.9, 108.6, 115.3, 122, 128.3, 135.2, 141.9</Depths>
+        <Depths duration="12">23.7, 27, 30.2, 35.1, 43.3, 49.1, 55.9, 62.3, 69.3, 76.2, 83.1, 89.6, 96.6, 103.5, 110.6, 117.1, 124.2, 131.4, 138.6, 145.5, 152.8, 160.1</Depths>
+        <Depths duration="18">27.9, 31.5, 35, 40.7, 49.7, 56.3, 63.8, 70.7, 78.3, 85.6, 93, 99.9, 107.3, 114.8, 122.2, 129, 136.5, 144, 151.6, 158.9, 166.6, 174.3</Depths>
+        <Depths duration="24">31.1, 34.9, 38.8, 45, 54.9, 62, 70.1, 77.5, 85.4, 93.1, 100.9, 108, 115.7, 123.2, 130.9, 138.2, 145.9, 153.6, 161.4, 168.7, 176.6, 184.4</Depths>
+        <Depths duration="48">40.9, 45.3, 49.9, 57.5, 69.5, 77.9, 87.2, 95.6, 104.5, 113.3, 121.9, 129.8, 138.2, 146.4, 154.7, 162.3, 170.5, 178.5, 186.8, 195, 203.8, 212.4</Depths>
+        <Depths duration="96">53.3, 58.4, 63.9, 72.7, 86.3, 95.8, 106.2, 115.6, 125.6, 135.2, 144.9, 153.6, 162.9, 172, 181.1, 189.4, 198.6, 207.9, 217.5, 226.5, 236, 245.2</Depths>
+        <Depths duration="192">72.5, 78.1, 83.9, 93.1, 107.6, 117.8, 129.4, 139.9, 151.1, 162, 172.7, 182.5, 193.1, 203.4, 214, 224, 234.8, 245.4, 256, 265.8, 276.3, 286.5</Depths>
+        <Depths duration="240">81.6, 87.1, 92.9, 102, 116.5, 126.8, 138.7, 149.6, 161.3, 172.6, 183.9, 194.2, 205.3, 216.1, 227.2, 237.7, 249.1, 260.2, 271.4, 281.7, 292.7, 303.5</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Rathmore Bridge" name="Rathmore Burn" number="203046">
+        <Comments>
+            <Comment type="Station Summary">Velocity-area station opened in November 1981. Predominantly rural catchment and the smallest catchment of all the NI stations in the Peak Flows dataset at 22.5km2.</Comment>
+            <Comment type="Hydrometric">Arches of road bridge downstream are liable to collect branches and debris particularly after high flows so backing-up can be an issue. Flows fully contained at QMED but anything above 2.6m does get out of bank. One rating applied across period of record.</Comment>
+            <Comment type="General">Velocity-area station comprised of steel cabinet kiosk on left bank housing main and backup instruments both using pressure probes upstream of double-arched road bridge. Channel width c.4.6m at station. Station located c.1km upstream of confluence with the Sixmilewater. Stable cobble channel bed with well defined straight banks reinforced by tree roots.</Comment>
+            <Comment type="Flow record">Highest flow recorded on 16th August 2008 when 3 inches of rain fell in 12 hours on already saturated ground during what the Met Office termed "Awful August". Late December 2010 flows considered suspect due to likely freezing in stilling well. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8) and in August 2024 (WINFAP Files v13).</Comment>
+            <Comment type="Flow regime">One of the faster-responding catchments in the NI subset of the Peak Flows stations with a t-rise figure of 9 hours. Some minor abstractions upstream associated with agriculture.</Comment>
+            <Comment type="Catchment">Solid geology - the area is underlain predominantly by Palaeogene basalt and rhyolite lava flows. Drift geology - extensive glacial till with an area of lacustrine clay. Limited rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. Predominantly improved grassland, but rock outcrops also; some horticulture (mainly potatoes). No significant urban centres.</Comment>
+            <Comment type="Factors affecting runoff">N</Comment>
+        </Comments>
+        <Usages>
+            <Usage notes="Highest gauging is only ~2/3 of QMED, but given flows are contained at QMED, stable bed and little deviation in spot gaugings over time the station is assigned suitable for QMED estimation." suitable="Yes" type="QMED"/>
+            <Usage notes="Not enough high flow gaugings to be considered suitable for Pooling." suitable="No" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-1.5</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

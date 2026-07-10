@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 49002
+[END]
+[CDS DETAILS]
+NAME,Hayle
+LOCATION,St Erth
+NOMINAL AREA,   48.58
+NOMINAL NGR,1548, 341
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,154900,34200
+DTM AREA,   48.58
+ALTBAR,  80
+ASPBAR,267
+ASPVAR,0.19
+BFIHOST,0.642
+DPLBAR,  7.85
+DPSBAR, 61.2
+FARL,0.977
+LDP, 15.77
+PROPWET,0.44
+RMED-1H, 11.2
+RMED-1D, 38.1
+RMED-2D, 47.3
+SAAR,1076
+SAAR4170,1050
+SPRHOST,25.57
+URBCONC1990, 0.442
+URBEXT1990,0.0144
+URBLOC1990, 0.965
+URBCONC2000, 0.670
+URBEXT2000,0.0079
+URBLOC2000, 0.998
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir with some issues from weed growth. Flows can be affected by mine drainage. GENERAL: Compound Crump profile weir. Width of middle crest of 1.22m and the two side crests of 1.675m each. Piers and wingwalls at a height of 1.83m with floodbanks at 3.8m. In 2023, eel pass tiles were installed along the left hand bank outer weir and fish bristles on the centre weir. STATION HYDROMETRY: High flows may go out of bank, but a flood channel ensures flow is contained. May drown at high flows. Weir was built in 1968 and superseded a velocity-area station for which it was not possible to derive a satisfactory rating curve because of variable weed growth. Weeds subsequently controlled by occasional cutting, but remained an issue. One peak flow rating valid across the Crump period of record. Rating confirmed by gaugings to 1.26 m. Max gauging during 12/2012 flood. Although weir drowned during this event existing rating was good. As this is the highest flood peak since the station opened, record can assumed to be good throughout. FLOW RECORD: Peak flows rejected pre-Crump (for 1957-1968) because variable weed growth made derivation of a satisfactory velocity-area rating impossible. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and in August 2024 (WINFAP Files v13). FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Abstraction for industrial/agricultural purposes. Mine drainage may moderately affect flows.
+CATCHMENT,Headwaters drain two moorland granite outcrops. Majority of the catchment is underlain by grits and shales of Devonian age, crossed by dyke swarms. Mining spoil in the floodplain. Generally low-grade agricultural use. Slow responding catchment with much storage. Historically some mining in catchment.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauging during the highest event on record in 2012 supports the rating.
+[END]

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="GB" ngr="TQ3871099982" x="538710" y="199982">
+        <CatchmentCentroid grid="GB" ngr="TL4275302544" x="542753" y="202544"/>
+        <area>38.785</area>
+        <altbar>71.0</altbar>
+        <aspbar>254.0</aspbar>
+        <aspvar>0.14</aspvar>
+        <bfihost>0.223</bfihost>
+        <bfihost19>0.245</bfihost19>
+        <bfihost19scaled>0.245</bfihost19scaled>
+        <dplbar>7.75</dplbar>
+        <dpsbar>44.4</dpsbar>
+        <draindens>1.104</draindens>
+        <farl>0.997</farl>
+        <farl2015>0.9698</farl2015>
+        <fpext>0.058</fpext>
+        <fpdbar>0.45</fpdbar>
+        <fploc>0.66</fploc>
+        <ihdtmeasting>538700</ihdtmeasting>
+        <ihdtmnorthing>200000</ihdtmnorthing>
+        <ldp>13.76</ldp>
+        <propwet>0.29</propwet>
+        <rmed_1h>11.1</rmed_1h>
+        <rmed_1d>32.8</rmed_1d>
+        <rmed_2d>40.5</rmed_2d>
+        <saar>616.0</saar>
+        <saar4170>609.0</saar4170>
+        <saar9120>648</saar9120>
+        <sprhost>49.52</sprhost>
+        <urbconc1990>0.799</urbconc1990>
+        <urbext1990>0.0378</urbext1990>
+        <urbloc1990>0.736</urbloc1990>
+        <urbconc2000>0.823</urbconc2000>
+        <urbext2000>0.0514</urbext2000>
+        <urbloc2000>0.768</urbloc2000>
+        <urbext2015>0.0776</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="GB" ngr="TQ3871099982" x="538710" y="199982">
+        <c>-0.02433</c>
+        <d1>0.29763</d1>
+        <d2>0.25891</d2>
+        <d3>0.23612</d3>
+        <e>0.32088</e>
+        <f>2.54083</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="GB" ngr="TL390000" x="539000" y="200000">
+        <c_1_km>-0.025</c_1_km>
+        <d1_1_km>0.3</d1_1_km>
+        <d2_1_km>0.252</d2_1_km>
+        <d3_1_km>0.276</d3_1_km>
+        <e_1_km>0.326</e_1_km>
+        <f_1_km>2.506</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.6, 3.5, 4.4, 5.7, 7.8, 9.1, 10.7, 12, 13.6, 15.2, 17.1, 19.1, 21.7, 24.5, 27.5, 30.1, 32.9, 35.4, 37.9, 40.2, 42.4, 44.5</Depths>
+        <Depths duration="0.25">4.3, 5.6, 7.2, 9.5, 13, 15.4, 18.2, 20.7, 23.7, 26.9, 30.5, 34.5, 39.5, 45.2, 51.1, 56.6, 62.5, 68.1, 73.7, 78.7, 84.1, 89.2</Depths>
+        <Depths duration="0.5">5.3, 7.1, 9, 11.9, 16.3, 19.4, 23.1, 26.6, 30.5, 34.6, 39.5, 44.8, 51.6, 59.2, 67.2, 74.6, 82.6, 90.4, 98.3, 105.4, 113, 120.3</Depths>
+        <Depths duration="0.75">6, 8, 10.2, 13.4, 18.4, 21.9, 26.1, 29.9, 34.5, 39.2, 44.7, 50.9, 58.7, 67.4, 76.5, 85.1, 94.5, 103.5, 112.6, 120.8, 129.8, 138.5</Depths>
+        <Depths duration="1">6.5, 8.7, 11, 14.5, 19.9, 23.7, 28.2, 32.4, 37.3, 42.5, 48.6, 55.2, 63.7, 73.1, 83.2, 92.6, 102.8, 112.7, 122.6, 131.7, 141.5, 151</Depths>
+        <Depths duration="2">11, 13.8, 16.6, 20.8, 27.2, 31.7, 36.9, 41.9, 47.8, 54.7, 63.3, 73.2, 85.2, 97.2, 109.2, 119.9, 131.3, 142.2, 153, 162.9, 173.5, 183.9</Depths>
+        <Depths duration="4">15.7, 19.1, 22.4, 27.1, 34.3, 39.3, 45.1, 50.9, 58.1, 67.1, 79.3, 92.6, 107.2, 120.8, 134, 145.7, 158, 169.9, 181.6, 192.2, 203.6, 214.6</Depths>
+        <Depths duration="6">18.3, 21.9, 25.4, 30.4, 38, 43.2, 49.4, 55.5, 63.4, 73.7, 87.9, 102.7, 118.2, 132.5, 146.1, 158.3, 171.1, 183.3, 195.5, 206.5, 218.3, 229.6</Depths>
+        <Depths duration="12">22.1, 26.1, 29.9, 35.3, 43.5, 49.1, 55.6, 62.3, 71.1, 83.2, 100.1, 116.4, 133, 148.1, 162.5, 175.3, 188.7, 201.5, 214.2, 225.6, 237.8, 249.7</Depths>
+        <Depths duration="18">24.2, 28.4, 32.3, 38, 46.4, 52.2, 59, 65.8, 74.9, 87.6, 105.4, 122.3, 139.4, 154.8, 169.5, 182.6, 196.3, 209.3, 222.2, 233.8, 246.2, 258.2</Depths>
+        <Depths duration="24">25.8, 30, 34.1, 40, 48.6, 54.5, 61.4, 68.3, 77.5, 90.3, 108.5, 125.7, 143, 158.7, 173.6, 186.8, 200.7, 213.9, 226.9, 238.6, 251.2, 263.3</Depths>
+        <Depths duration="48">30.5, 35.1, 39.6, 45.8, 54.9, 61.1, 68.2, 75.4, 84.6, 97, 114.8, 132.4, 150.3, 166.4, 181.8, 195.4, 209.7, 223.2, 236.5, 248.6, 261.5, 273.9</Depths>
+        <Depths duration="96">38.4, 43.6, 48.5, 55.3, 65.2, 71.8, 79.3, 86.6, 95.5, 106.7, 122.2, 139.3, 157.6, 174.3, 190.3, 204.4, 219.1, 233.1, 246.9, 259.4, 272.7, 285.5</Depths>
+        <Depths duration="192">53.5, 59.6, 65.2, 73, 84.1, 91.4, 99.4, 106.9, 115.5, 125, 137.1, 151.2, 168.8, 186.1, 203, 218, 233.7, 248.6, 263.2, 276.4, 290.4, 304</Depths>
+        <Depths duration="240">61, 67.4, 73.4, 81.7, 93.2, 100.8, 109.1, 116.7, 125.2, 134.4, 145.4, 157.9, 174.4, 191.7, 208.9, 224.3, 240.5, 255.7, 270.8, 284.3, 298.8, 312.7</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.7, 3.6, 4.5, 5.8, 7.8, 9.1, 10.7, 11.9, 13.4, 14.9, 16.4, 18.1, 20.2, 22.7, 25.8, 28.9, 32.4, 35.7, 39, 42, 45.1, 48</Depths>
+        <Depths duration="0.25">4.5, 5.8, 7.4, 9.6, 13.1, 15.4, 18.2, 20.6, 23.3, 26.2, 29.3, 32.6, 36.8, 41.9, 48, 54.4, 61.6, 68.6, 75.8, 82.3, 89.5, 96.2</Depths>
+        <Depths duration="0.5">5.6, 7.4, 9.3, 12.1, 16.5, 19.5, 23.1, 26.4, 30, 33.8, 38, 42.3, 47.9, 54.9, 63.1, 71.7, 81.4, 91.2, 101.1, 110.2, 120.2, 129.8</Depths>
+        <Depths duration="0.75">6.3, 8.3, 10.4, 13.6, 18.6, 22, 26.1, 29.8, 33.9, 38.2, 43, 48.1, 54.6, 62.5, 71.9, 81.8, 93.2, 104.3, 115.9, 126.4, 138.1, 149.4</Depths>
+        <Depths duration="1">6.8, 9, 11.3, 14.7, 20.1, 23.8, 28.2, 32.2, 36.7, 41.5, 46.7, 52.1, 59.2, 67.8, 78.2, 89, 101.3, 113.6, 126.2, 137.8, 150.5, 162.9</Depths>
+        <Depths duration="2">11.2, 13.9, 16.7, 20.8, 26.9, 31.3, 36.2, 40.8, 46.1, 51.8, 58.4, 65.8, 76, 88, 101.3, 113.9, 127.6, 141.1, 154.6, 167.1, 180.6, 193.8</Depths>
+        <Depths duration="4">15.6, 18.8, 22, 26.7, 33.6, 38.4, 43.9, 49.2, 55.3, 62.3, 71.1, 81.7, 95.8, 110.7, 125.8, 139.7, 154.4, 168.9, 183.3, 196.6, 211.1, 225.1</Depths>
+        <Depths duration="6">18, 21.5, 24.8, 29.7, 37, 42.1, 47.9, 53.5, 60.2, 68.1, 78.5, 91.1, 107.1, 123, 138.9, 153.3, 168.6, 183.5, 198.6, 212.4, 227.2, 241.6</Depths>
+        <Depths duration="12">21.7, 25.5, 29.1, 34.4, 42.2, 47.6, 53.9, 60, 67.6, 76.8, 89.8, 105.3, 123.1, 140.2, 156.9, 172, 188.2, 204, 219.7, 234.1, 249.4, 264.4</Depths>
+        <Depths duration="18">23.8, 27.7, 31.5, 37, 45.1, 50.7, 57.2, 63.5, 71.4, 81.3, 95.3, 111.7, 130.2, 147.8, 164.9, 180.4, 196.9, 213, 229, 243.6, 259.3, 274.5</Depths>
+        <Depths duration="24">25.4, 29.4, 33.4, 39, 47.3, 53, 59.6, 66.1, 74.1, 84.2, 98.6, 115.5, 134.3, 152.1, 169.5, 185.1, 201.8, 218, 234.2, 248.9, 264.8, 280.1</Depths>
+        <Depths duration="48">30.4, 34.8, 39, 45, 53.9, 59.9, 66.7, 73.4, 81.6, 91.6, 105.8, 122.6, 141.9, 160.3, 178.1, 194.2, 211.3, 227.8, 244.3, 259.4, 275.6, 291.3</Depths>
+        <Depths duration="96">38.9, 43.8, 48.5, 55.2, 64.7, 71.2, 78.4, 85.2, 93.2, 102.4, 114.6, 129.5, 148.4, 167.1, 185.5, 202, 219.6, 236.5, 253.4, 268.9, 285.4, 301.5</Depths>
+        <Depths duration="192">55, 60.9, 66.3, 73.9, 84.7, 91.8, 99.5, 106.6, 114.5, 122.8, 132.4, 143.3, 158.5, 176.2, 194.9, 212.1, 230.4, 248, 265.5, 281.5, 298.7, 315.3</Depths>
+        <Depths duration="240">63, 69.3, 75.1, 83.1, 94.4, 101.7, 109.7, 117, 124.9, 133, 142, 151.8, 164.9, 181, 199.3, 216.5, 235.1, 253, 270.9, 287.2, 304.7, 321.7</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Sewardstone Road" name="Cobbins Brook" number="38020">
+        <Comments>
+            <Comment type="Station Summary">This station, opened in June 1971, is on a small tributary of the River Lee within a suburban area. The station has a relatively large capacity gauging structure and has a flow record in excess of forty years.</Comment>
+            <Comment type="Hydrometric">Drowning and damage to the exit transition (repaired in 1992) influences the performance of the station. Two ratings have been applied across the POR. The most recent is valid from October 1982. This post M25 construction rating was derived by hydraulic modelling (Halcrow). It includes backwater effects from the M25 culvert (350m d/s of the station) and a double pipe crossing (500m d/s). Two existing ratings are very similar up to 1m.</Comment>
+            <Comment type="General">Trapezoidal critical-depth flume with an overall width of 10m.</Comment>
+            <Comment type="Flow record">A gap in the record from June 1982 to May 1983 inclusive was due to the building of the M25 motorway; flows could not be estimated as the river was diverted through two pipes which were too small for the purpose. In January 1992 repairs were carried out to the exit transit which was damaged and affecting performance - datum unaffected. There was also a gap of 2 months - August to September 1994 - for repairs to the weir. Recorded flows may be overestimates and the structure is insensitive at low flows. Data suspect during summer months 2014-2022 due to stilling well blockage (notably 08/03/2014 - 09/07/2014, 08/03/2015 - 02/08/2015, 15/02/2016 - 27/06/2016, 12/05/2018 - 01/06/2018, 22/05/2020 - 23/07/2020, 11/03/2022 - 23/09/2022). Station records very low flows, but zero flows in 2020 and 2022 thought to result from siltation of the inlet pipe. Full period of record peak flow data reviewed and released in August 2025 (WINFAP Files v14).</Comment>
+            <Comment type="Flow regime">The net impact of PWS abstractions and discharges on the natural responsive flow pattern is minimal. M25 motorway runoff can, however, be significant. In 2010 a large flood storage area was built near Cobbins Brook to protect Waltham Abbey and so will reduce flood peaks at Sewardstone Road.</Comment>
+            <Comment type="Catchment">Cobbins Brook drains an impervious (London Clay) catchment which includes part of Epping Forest. Substantial urban development occurs in the vicinity of the gauging station but this constitutes a small percentage of the overall catchment landuse.</Comment>
+            <Comment type="Factors affecting runoff"/>
+        </Comments>
+        <Usages>
+            <Usage notes="Although all gaugings are taken at low flows, model-derived rating is thought to be reliable and weir is of standard design." suitable="Yes" type="QMED"/>
+            <Usage notes="Although all gaugings are taken at low flows, model-derived rating is thought to be reliable and weir is of standard design." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>-1.04</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21013
+[END]
+[CDS DETAILS]
+NAME,Gala Water
+LOCATION,Galashiels
+NOMINAL AREA,  205.45
+NOMINAL NGR,3479,6373
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,347950,637350
+CENTROID NGR,GB,341475,648495
+DTM AREA,  205.45
+ALTBAR, 340
+ASPBAR, 83
+ASPVAR,0.16
+BFIHOST,0.531
+DPLBAR, 23.73
+DPSBAR,148.6
+FARL,0.999
+FPEXT,0.0348
+LDP, 42.61
+PROPWET,0.44
+RMED-1H,  9.3
+RMED-1D, 36.2
+RMED-2D, 48.2
+SAAR, 930
+SAAR4170, 992
+SPRHOST,34.69
+URBEXT1990,0.0010
+URBEXT2000,0.0008
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the Gala Water draining from the Moorfoot Hills. GENERAL: Velocity area station, about 15m wide. STATION HYDROMETRY: Concrete-lined reach in industrial part of Galashiels. Gravel bed with control formed by concrete haunching over sewage pipe. Control was repaired and heightened by 120mm on 01/08/68, hence the rating change on this date. The station reach is straight with well defined banks. The channel cross section at the footbridge is slightly narrowed and this will likely be the primary control during large events. There is some confidence in extrapolating flows up to bank full at 2.5m considering the channel is well defined and the highest gauging is at 1.862m (measured flow of 83.7 cumecs). The dervied flow at 2.5m using rating QHigh1968 is 144.54 cumecs. Only the AMAX1 in 1984 was higher than bankfull, but only marginally and floodplain flow would have been negligible. The 1982 flood would have hit the footbridge and this may have impeded the flow. There is also the possibility that woody debris was trapped on the bridge during the event. The station hut, well and ramp gauge was completely rebuilt in 2016 following works to reinstate the Waverly Railway line. The control (concrete haunching over pipe) was compromised by bank erosion on the left hand side and this was repaired in 2016. As of October 2017, the control is in a bad state with concrete apron breaking up and water starting to undermine it. The upper limits of post 2015 ratings reflect this lower confidence and Peak Flow data currently is excluded from this time until the rating calibration is improved. FLOW RECORD: Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7) and September 2022 (WINFAP Files v11). Peak flows removed after 01/10/2015 due to erosion around side of weir. FLOW REGIME: Natural regime.
+CATCHMENT,Natural upland catchment draining from the Moorfoot Hills. Bedrock mainly impervious (Silurian); some overlain by superficial deposits. Land use is hill grazing with some forest and arable areas. No significant catchment changes known. Notable floodplains.
+Qmed Suitability,No comment.
+Pooling Suitability,There is some confidence in extrapolating flows up to bank full at 2.5m considering the channel is well defined and the highest gauging is at 1.862m (measured flow of 83.7 cumecs). The derived flow at 2.5m using rating QHigh1968 is 144.54 cumecs. Only the AMAX1 in 1982 was higher than bankfull, but only marginally and floodplain flow would have been negligible.
+[END]

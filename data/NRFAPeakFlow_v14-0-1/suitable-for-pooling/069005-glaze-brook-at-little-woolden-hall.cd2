@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 69005
+[END]
+[CDS DETAILS]
+NAME,Glaze Brook
+LOCATION,Little Woolden Hall
+NOMINAL AREA,  160.15
+NOMINAL NGR,3684,3938
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,368500,393900
+DTM AREA,  160.15
+ALTBAR,  50
+ASPBAR,178
+ASPVAR,0.27
+BFIHOST,0.390
+DPLBAR, 13.03
+DPSBAR, 20.4
+FARL,0.927
+LDP, 29.07
+PROPWET,0.41
+RMED-1H, 11.5
+RMED-1D, 33.5
+RMED-2D, 46.6
+SAAR, 965
+SAAR4170, 953
+SPRHOST,37.91
+URBCONC1990, 0.767
+URBEXT1990,0.1114
+URBLOC1990, 1.034
+URBCONC2000, 0.863
+URBEXT2000,0.1479
+URBLOC2000, 1.051
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station gauging a low relief catchment in south Wigan. Replaced velocity area station in 1995. GENERAL: Twin-path ultrasonic gauge installed in 1995 which replaced a velocity area station. Station used for flood warning. Operated as level-only from 1983 - 1995. STATION HYDROMETRY: No stable rating due to the effects of weed growth. No bypassing reported. FLOW RECORD: Some gaps in record, particularly in early years. Velocity area record unreliable as very badly affected by weed growth throughout the year and suffered backwater effects from the Ship Canal. AMAX and POT data are entirely from ultrasonic gauge (February 1996 onwards). Gaps in ultrasonic record from 2003 onwards due to equipment failure and debris. Full period of record peak flow data reviewed and released in October 2018 (WINFAP Files v7). Missing data Nov-Dec 2021 whilst ultrasonics upgraded. FLOW REGIME: Catchment contains Pennington Flash and other smaller flashes. Bedford Park Storage Basin in upper reach - part of flood control scheme.
+CATCHMENT,Low relief catchment with headwaters in South Wigan with three major flashes (instream lakes created from mining subsidence). No catchment changes known. Solid geology: Coal Measures in the headwaters, otherwise Sherwood Sandstone with some Marl. Extensively draped with Boulder Clay, some peat and glacial gravels south of Leigh. Many urban centres, much effluent, motorway drainage and potential mine drainage pollution. Much of the catchment is relatively flat agricultural land. Some tributaries extend into mining and industrial areas.
+Qmed Suitability,Since the ultrasonic was installed there is confidence of flows up to and beyond QMED.
+Pooling Suitability,Since the ultrasonic was installed there is confidence of flows up to and beyond QMED.
+[END]

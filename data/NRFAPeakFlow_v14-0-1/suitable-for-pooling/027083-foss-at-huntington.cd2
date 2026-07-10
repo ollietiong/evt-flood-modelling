@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 27083
+[END]
+[CDS DETAILS]
+NAME,Foss
+LOCATION,Huntington
+NOMINAL AREA,  126.35
+NOMINAL NGR,4612,4543
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,461200,454350
+DTM AREA,  126.35
+ALTBAR,  39
+ASPBAR,195
+ASPVAR,0.28
+BFIHOST,0.478
+DPLBAR, 17.47
+DPSBAR, 20.0
+FARL,0.990
+LDP, 33.85
+PROPWET,0.32
+RMED-1H, 11.1
+RMED-1D, 29.7
+RMED-2D, 38.9
+SAAR, 637
+SAAR4170, 644
+SPRHOST,34.29
+URBCONC1990, 0.714
+URBEXT1990,0.0239
+URBLOC1990, 0.370
+URBCONC2000, 0.830
+URBEXT2000,0.0343
+URBLOC2000, 0.397
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Side-looking H-ADVP gauging station 4km u/s of the Foss barrier. GENERAL: Side-looking H-ADVP gauging station 4km u/s of the Foss barrier. Until 2009, the station was an electromagnetic gauge - a buried coil in an insulated trapezoidal channel. The side-looker and electromagnetic gauge ran in parallel; and from 2009 the H-ADVP data are used for daily flows. Stage-discharge rating for peak flows. No cableway. STATION HYDROMETRY: Open channel section. Most flood events contained with just some minor out of bank flow on right bank, exception is December 2015 which had extensive spill on both banks. Original records were from electromagnetic gauge, supplemented with stage-discharge rating for some high flow events. Side looking H-ADVP gauge with velocity-index rating from 2009. A peak flow rating, checked independently with current meter gauging, is used for peak flows. FLOW RECORD: Daily mean flow records are from the EM gauge (with occasional infill from stage-discharge rating) until Sep 2009, after which the velocity-index gauge is used. Peak flows taken from rating curve for period of record. Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8). Drops in summer flows (for example, June 2018, July 2019, May 2020 and Sept 2020) are likely due to weed growth so these flows should be treated as suspect. FLOW REGIME: Low lying rural headwaters give relatively slow response to rainfall, urban development in lower reaches causes some addition from surface water drainage diverted into catchment at high flows and effluent discharges via Walbutts STW.
+CATCHMENT,Relatively low lying catchment. Headwaters on Yearsley Moor but catchment is mostly located in Vale of York. Mixed geology overlain with Boulder Clay and lacustrine clays. Predominantly arable, with some urban development above station. No known catchment changes.
+Qmed Suitability,Gauged to well beyond QMED.
+Pooling Suitability,Gauged to 50% of AMAX1, rating extrapolation informed by velocity index gauge and considered reliable.
+[END]

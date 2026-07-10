@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 17004
+[END]
+[CDS DETAILS]
+NAME,Ore
+LOCATION,Balfour Mains
+NOMINAL AREA,  159.19
+NOMINAL NGR,3329,6996
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,332950,699650
+DTM AREA,  159.19
+ALTBAR, 125
+ASPBAR, 96
+ASPVAR,0.17
+BFIHOST,0.359
+DPLBAR, 19.90
+DPSBAR, 54.2
+FARL,0.905
+LDP, 39.89
+PROPWET,0.45
+RMED-1H,  8.7
+RMED-1D, 33.9
+RMED-2D, 44.7
+SAAR, 874
+SAAR4170, 883
+SPRHOST,41.73
+URBCONC1990, 0.761
+URBEXT1990,0.0211
+URBLOC1990, 1.037
+URBCONC2000, 0.837
+URBEXT2000,0.0484
+URBLOC2000, 0.835
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a lowland catchment with some urban land use. GENERAL: Open river section. A railway embankment forms the rb, whilst the lb is steep to the floodplain at 1.6m. Station added to peak flows dataset in August 2021 (WINFAP Files v10). STATION HYDROMETRY: Stable rock bar low flow control, has shown instability at right bank. Although an open channel, the gradual growth and capsizing of a tree just downstream of the station is a key factor in understanding the stage-discharge relationship. Its evolution is pretty well documented by pictures. Its size and extent to which it slumps in the channel increases through the station period of record until it collapses completely and falls into the channel in February 2020. The impact of the tree is evident in the ratings from 2012, where the second segment parameters are not typical of open channel hydraulics. Two peak flow ratings across period of record. FLOW RECORD: May 1994 flows affected by work at the Loch Fitty outlet. Record frozen after 30/09/2019 due to tree fall onto station control. Full period of record peak flow data reviewed and released in September 2022 (WINFAP Files v11). FLOW REGIME: Low flows moderately affected by pumping from collieries.
+CATCHMENT,Lowland catchment in the coal mining area of W Fife. Bedrock Carboniferous rocks, >90% overlain by superficial deposits, mainly boulder clay. Land use predominantly grassland, forest, and arable with urban development.
+Qmed Suitability,Gauged to QMED.
+Pooling Suitability,Suitable although with caution due to large stage difference between two highest gaugings. Therefore uppermost limbs are very reliant on highest gauging in 1992. Also, impact of overhanging tree, see station description.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27002
+[END]
+[CDS DETAILS]
+NAME,Wharfe
+LOCATION,Wetherby Flint Mill
+NOMINAL AREA,  759.05
+NOMINAL NGR,4422,4473
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,442250,447300
+CENTROID NGR,GB,408604,459310
+DTM AREA,  759.05
+ALTBAR, 273
+ASPBAR,136
+ASPVAR,0.13
+BFIHOST,0.386
+DPLBAR, 59.47
+DPSBAR,111.4
+FARL,0.927
+FPEXT,0.0532
+LDP,107.50
+PROPWET,0.43
+RMED-1H, 11.1
+RMED-1D, 40.7
+RMED-2D, 53.4
+SAAR,1163
+SAAR4170,1171
+SPRHOST,42.75
+URBCONC1990, 0.646
+URBEXT1990,0.0103
+URBLOC1990, 0.544
+URBCONC2000, 0.778
+URBEXT2000,0.0162
+URBLOC2000, 0.572
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested masonry mill weir in a rural catchment with some net export of water to the Aire Valley. GENERAL: Broad-crested masonry mill weir (47m wide), rated by check gaugings. Tadcaster ultrasonic gauge (27089) installed 1990, intended to replace Flint Mill but station retained primarily for high flow measurement. Check gauged at cableway 1.5km u/s but this was moved to 27089 in 1990. Flow was originally recorded on a flow chart up to the level of weir by-passing (1.6m), and level thereafter. Mill sluice operation in 1990s and modification of weir in 2010 affect low flow measurements. STATION HYDROMETRY: Cableway built 1954 0.75 miles upstream of weir. More accurate flow recorder installed in 1959. Station recalibrated 1965 due to insensitivity at low flows; control was deteriorating, but without known change in gauge zero. Weir control insensitive at low flows. Unlikely to drown at high flows, though small amount of bypassing on the right bank possible. Two peak flow ratings applied across period of record, Rating B originally derived by weir formula then checked by current meter with good fit to gaugings. Current rating from 2010, reflects reconstruction of weir crest to a higher level (raised by 0.08m) in summer 2010 but gauge zero not changed, difference is incorporated into rating offset. FSR rated excellent for high flows. Fish pass construction from late 2019 affects rating at low flows and another change will be required once sufficient data available for recalibration. FLOW RECORD: For early records, chart zero was often set 0.3m below the weir crest to allow for the weir crest drying up due to leakage. This practice stopped in the 1960s. Flow charts from 1936-1955 considered unreliable and have not been digitised. Flow charts from 1955 to 1965 are digitised but have not been reprocessed with revised rating. Records since 1965 have been reprocessed with revised rating and are considered reliable for high flows, pre-1965 data is less reliable. Rating reviewed in 2022 and data reprocessed from 2009. Gap in data in 2010 due to weir repairs carried out by the landowner. Closed to daily flows in 2010 due to ongoing issues. Peaks flows are unaffected and held post-2010. Full period of record peak flow data reviewed and released in September 2020 (WINFAP Files v9). FLOW REGIME: Regulation effect of headwater reservoirs evident at low flows. Small net export of water to the Aire Valley (including Bradford supply).
+CATCHMENT,Mixed geology of moderate permeability - mainly Carboniferous Limestone, grits and Coal Measures with just under half the catchment overlain by superficial deposits. Predominantly mixed rural catchment, two thirds of the catchment is grassland, with moorland headwaters. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 28% of AMAX3. Weir does not drown and bypassing is insignificant.
+[END]

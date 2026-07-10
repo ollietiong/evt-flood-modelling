@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><FEHDescriptors xmlns="https://fehweb.ceh.ac.uk/descriptors" created="2025-08-21T10:19:32+01:00" creator="NRFA" version="5.0.2">
+    <CatchmentDescriptors grid="Ireland" ngr="IJ350231" x="335000" y="323100">
+        <CatchmentCentroid grid="Ireland" ngr="IJ3390425199" x="333904" y="325199"/>
+        <area>14.4375</area>
+        <altbar>385.0</altbar>
+        <aspbar>146.0</aspbar>
+        <aspvar>0.28</aspvar>
+        <bfihost>0.336</bfihost>
+        <bfihost19>0.267</bfihost19>
+        <bfihost19scaled>0.266</bfihost19scaled>
+        <dplbar>3.44</dplbar>
+        <dpsbar>270.8</dpsbar>
+        <draindens>1.184</draindens>
+        <farl>0.981</farl>
+        <farl2015>0.9931</farl2015>
+        <fpext>0.023</fpext>
+        <fpdbar>0.292</fpdbar>
+        <fploc>0.82</fploc>
+        <ihdtmeasting>334950</ihdtmeasting>
+        <ihdtmnorthing>323100</ihdtmnorthing>
+        <ldp>7.04</ldp>
+        <propwet>0.53</propwet>
+        <rmed_1h>11.6</rmed_1h>
+        <rmed_1d>61.4</rmed_1d>
+        <rmed_2d>76.9</rmed_2d>
+        <saar>1704.0</saar>
+        <saar4170>1565.0</saar4170>
+        <saar9120>1731</saar9120>
+        <sprhost>51.72</sprhost>
+        <urbconc1990>-9999.0</urbconc1990>
+        <urbext1990>0.0</urbext1990>
+        <urbloc1990>-9999.0</urbloc1990>
+        <urbconc2000>-9999.0</urbconc2000>
+        <urbext2000>0.0</urbext2000>
+        <urbloc2000>-9999.0</urbloc2000>
+        <urbext2015>0.0</urbext2015>
+    </CatchmentDescriptors>
+    <CatchmentAverageDDFValues grid="Ireland" ngr="IJ350231" x="335000" y="323100">
+        <c>-0.02052</c>
+        <d1>0.5298</d1>
+        <d2>0.47989</d2>
+        <d3>0.24022</d3>
+        <e>0.26095</e>
+        <f>2.53178</f>
+    </CatchmentAverageDDFValues>
+    <PointDDFValues grid="Ireland" ngr="IJ350230" x="335000" y="323000">
+        <c_1_km>-0.02</c_1_km>
+        <d1_1_km>0.526</d1_1_km>
+        <d2_1_km>0.484</d2_1_km>
+        <d3_1_km>0.239</d3_1_km>
+        <e_1_km>0.26</e_1_km>
+        <f_1_km>2.375</f_1_km>
+    </PointDDFValues>
+    <CatchmentAverageDDF2013Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.2, 3, 3.7, 4.9, 7, 8.5, 10.1, 11.6, 13.3, 14.9, 16.6, 18, 19.8, 21.4, 23, 24.6, 26.3, 27.9, 29.5, 31.1, 32.7, 34.4</Depths>
+        <Depths duration="0.25">4, 5.5, 7, 9.4, 13.4, 16.3, 19.7, 22.8, 26.4, 29.9, 33.7, 37, 40.8, 44.7, 48.7, 52.5, 56.6, 60.7, 64.8, 68.9, 73.2, 77.6</Depths>
+        <Depths duration="0.5">5.7, 7.7, 9.9, 13.3, 18.8, 22.9, 27.6, 32.2, 37.1, 42.1, 47.2, 51.8, 57.2, 62.5, 68, 73.2, 78.9, 84.6, 90.4, 95.9, 101.9, 107.9</Depths>
+        <Depths duration="0.75">7, 9.4, 11.9, 16, 22.6, 27.5, 33, 38.2, 44, 49.9, 55.8, 61.2, 67.3, 73.5, 79.8, 85.6, 92, 98.5, 104.9, 111, 117.7, 124.3</Depths>
+        <Depths duration="1">7.9, 10.7, 13.6, 18.2, 25.6, 31, 37.3, 43.1, 49.5, 55.9, 62.4, 68.4, 75.1, 81.7, 88.5, 94.8, 101.7, 108.5, 115.4, 121.9, 128.9, 135.9</Depths>
+        <Depths duration="2">14.6, 18.1, 21.7, 27.1, 35.7, 41.7, 48.6, 55, 61.9, 68.7, 75.7, 82.2, 89.3, 96.3, 103.5, 110.1, 117.4, 124.5, 131.9, 138.7, 146.1, 153.4</Depths>
+        <Depths duration="4">24.1, 28.4, 32.8, 39.3, 49.2, 56.2, 64, 71.2, 78.9, 86.6, 94.3, 101.6, 109.5, 117.3, 125.2, 132.6, 140.6, 148.4, 156.5, 163.9, 172, 180</Depths>
+        <Depths duration="6">31.2, 36.1, 41.1, 48.3, 59.4, 67.1, 75.8, 83.7, 92.4, 100.9, 109.5, 117.5, 126.2, 134.8, 143.5, 151.6, 160.4, 169.1, 177.8, 185.9, 194.7, 203.3</Depths>
+        <Depths duration="12">45.8, 51.9, 57.9, 66.8, 80.5, 90.4, 101.7, 112.2, 123.8, 135, 146.2, 156.4, 167.5, 178.2, 189, 199, 209.8, 220.1, 230.3, 239.5, 249.5, 259.4</Depths>
+        <Depths duration="18">55.4, 62.1, 68.8, 78.9, 95.1, 106.9, 120.9, 133.9, 148, 161.3, 174.5, 186.2, 198.7, 210.7, 222.7, 233.7, 245.1, 256.2, 267.1, 277.1, 287.9, 298.2</Depths>
+        <Depths duration="24">62.5, 69.7, 76.9, 87.9, 106.1, 119.9, 136.4, 151.7, 167.7, 182.7, 197, 209.8, 223.2, 236.1, 248.7, 260, 272.2, 283.8, 295.4, 305.9, 317.2, 328</Depths>
+        <Depths duration="48">79.9, 88.1, 96.4, 109.4, 132.8, 152.3, 175.7, 195.8, 215.4, 232.8, 249.5, 263.9, 279.1, 293.3, 307.1, 319.8, 333.1, 345.8, 358.6, 370.1, 382.4, 394.1</Depths>
+        <Depths duration="96">100.4, 109.8, 119.3, 134.7, 163.1, 187.8, 216.8, 240, 261.9, 281.2, 299.6, 315.6, 332.1, 347.4, 362.3, 375.8, 390, 403.7, 417.2, 429.5, 442.5, 455.2</Depths>
+        <Depths duration="192">132.8, 144.3, 155.9, 174, 206.2, 232.9, 264, 288, 311.7, 332.8, 352.5, 369.6, 387.3, 404, 420.5, 435.1, 450.3, 464.9, 479.3, 492.4, 506.4, 519.9</Depths>
+        <Depths duration="240">148.2, 160.7, 173.1, 192.4, 225.9, 252.2, 282.8, 306.7, 330.6, 352.2, 372.4, 389.9, 408.1, 425.2, 442.1, 457.1, 472.7, 487.6, 502.4, 515.9, 530.2, 543.9</Depths>
+    </CatchmentAverageDDF2013Values>
+    <CatchmentAverageDDF2022Values>
+        <ReturnPeriods>1.3, 1.58, 2, 3, 6, 10, 18, 31, 56, 100, 180, 310, 560, 1000, 1800, 3100, 5600, 10000, 18000, 31000, 56000, 100000</ReturnPeriods>
+        <Depths duration="0.083">2.2, 2.9, 3.6, 4.8, 7, 8.4, 10.1, 11.6, 13.3, 14.9, 16.5, 18.1, 20.1, 21.9, 23.7, 25.5, 27.3, 29.2, 30.9, 32.7, 34.5, 36.4</Depths>
+        <Depths duration="0.25">4, 5.4, 6.8, 9.1, 13.2, 16.2, 19.7, 22.9, 26.6, 29.9, 33.5, 37.2, 41.5, 45.8, 50.1, 54.3, 58.8, 63.4, 67.9, 72.4, 77.1, 82</Depths>
+        <Depths duration="0.5">5.7, 7.6, 9.6, 12.9, 18.6, 22.8, 27.6, 32.2, 37.3, 42, 46.9, 52.1, 58.2, 64, 70, 75.8, 82, 88.3, 94.7, 100.8, 107.4, 114</Depths>
+        <Depths duration="0.75">7, 9.2, 11.6, 15.5, 22.3, 27.3, 33, 38.3, 44.3, 49.8, 55.5, 61.5, 68.4, 75.2, 82.1, 88.6, 95.6, 102.8, 109.9, 116.7, 124.1, 131.3</Depths>
+        <Depths duration="1">7.9, 10.5, 13.2, 17.7, 25.3, 30.8, 37.3, 43.2, 49.8, 55.8, 62.1, 68.8, 76.3, 83.6, 91.1, 98.1, 105.7, 113.3, 120.9, 128.1, 135.9, 143.6</Depths>
+        <Depths duration="2">14.7, 18, 21.3, 26.9, 35.5, 41.7, 48.7, 55.2, 62.2, 68.6, 75.9, 83.1, 91, 98.7, 106.6, 113.8, 121.8, 129.7, 137.7, 145.1, 153.2, 161.2</Depths>
+        <Depths duration="4">24.5, 28.6, 32.7, 39.3, 49.4, 56.4, 64.3, 71.5, 79, 86.5, 94.8, 102.5, 111, 119.2, 127.6, 135.4, 143.8, 152.1, 160.6, 168.3, 176.9, 185.2</Depths>
+        <Depths duration="6">31.9, 36.6, 41.2, 48.5, 59.6, 67.3, 75.9, 83.7, 91.8, 100.3, 109.2, 117.5, 126.4, 135.1, 144, 152.2, 161, 169.8, 178.6, 186.7, 195.6, 204.3</Depths>
+        <Depths duration="12">46.8, 52.6, 58.4, 67.2, 80.9, 90.5, 101.2, 110.8, 121.1, 131.9, 142.6, 152.5, 163.1, 173.4, 183.7, 193.1, 203.3, 213.3, 223.3, 232.4, 242.3, 252</Depths>
+        <Depths duration="18">56.5, 63, 69.5, 79.4, 95.2, 106.3, 118.7, 130.4, 143.6, 156.3, 168.8, 180.1, 192.1, 203.7, 215.1, 225.6, 236.7, 247.5, 258.3, 268.2, 278.8, 289.1</Depths>
+        <Depths duration="24">63.6, 70.6, 77.5, 88.5, 105.1, 117.7, 132.8, 147, 162.2, 176.4, 190.3, 202.7, 215.8, 228.2, 240.5, 251.6, 263.5, 274.9, 286.3, 296.8, 307.9, 318.8</Depths>
+        <Depths duration="48">81.3, 89.4, 97.4, 109.9, 131.7, 148.8, 170.1, 190.7, 210.7, 228.2, 244.3, 258.2, 0, 286.5, 300.1, 312.5, 325.7, 338.3, 350.7, 362, 374.1, 385.9</Depths>
+        <Depths duration="96">102.1, 111.9, 121.9, 137.4, 164.3, 186.1, 212.4, 237.8, 261.6, 281.6, 300.1, 315.9, 332.3, 347.4, 361.7, 374.8, 389.1, 403, 416.8, 429.4, 442.7, 455.4</Depths>
+        <Depths duration="192">138.2, 149.9, 161.5, 179.7, 210.4, 233.8, 261.5, 286.2, 310.8, 332.7, 353, 370.7, 389.1, 406.4, 423.3, 438.3, 454.2, 469.4, 484.5, 498.2, 512.9, 527</Depths>
+        <Depths duration="240">155.4, 167.9, 180.4, 199.9, 231.7, 254.9, 281.4, 305, 329.2, 351.3, 372.1, 390.4, 409.4, 427.3, 444.7, 460.3, 476.8, 492.6, 508.3, 522.5, 537.8, 552.4</Depths>
+    </CatchmentAverageDDF2022Values>
+    <GaugingStation location="Recorder" name="Annalong" number="206006">
+        <Comments>
+            <Comment type="Station Summary">Station operated by Belfast City &amp; District Water Commissioners opened in February 1895.</Comment>
+            <Comment type="Hydrometric">Weir has been classified as good with an A2 grade given in the FSR. The rating for this station is not available but it is thought that the discharge measurements are probably theoretical.</Comment>
+            <Comment type="General">Station composed of steel plate weir with end contractions and rectangular notch to accommodate low flows. Levels recorded from stilling pool transmitted to standpipe in which a float is connected to a clockwork recorder and flows registered on chart mounted on a cylindrical drum. Station opened in February 1895. Station decommissioned in 1943 when a tunnel upstream to the the Silent Valley reservoir was opened rendering the records no longer natural.</Comment>
+            <Comment type="Flow record">Concerns regarding the accuracy of the weir were raised c.1900 and were found to be unfounded following investigation.</Comment>
+            <Comment type="Flow regime">Upland, responsive and natural flow regime.</Comment>
+            <Comment type="Catchment">The catchment lies within the quartzose granites of the Mourne Complex. The Annalong Valley has deep deposits of glacial silts, sands, gravels and boulders.</Comment>
+            <Comment type="Factors affecting runoff"/>
+        </Comments>
+        <Usages>
+            <Usage notes="No information on rating or gaugings, flows provided by Belfast Water commissioners. Station was given an A2 rating in FSR, implying a high quality rating." suitable="Yes" type="QMED"/>
+            <Usage notes="In the absence of any data relating to gaugings or containment of flows the station has been recommended for pooling given its representative growth curve." suitable="Yes" type="Pooling"/>
+        </Usages>
+    </GaugingStation>
+    <Trends>
+        <MannKendall type="AMAX">
+            <value>2.25</value>
+            <significance comment="Not significant">0</significance>
+        </MannKendall>
+    </Trends>
+</FEHDescriptors>

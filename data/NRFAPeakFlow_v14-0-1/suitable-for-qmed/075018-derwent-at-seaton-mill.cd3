@@ -1,0 +1,46 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75018
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Seaton Mill
+NOMINAL AREA,  665.80
+NOMINAL NGR,3018,5294
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,301900,529400
+CENTROID NGR,GB,320953,523776
+DTM AREA,  665.80
+ALTBAR, 270
+ASPBAR,312
+ASPVAR,0.13
+BFIHOST,0.437
+DPLBAR, 38.63
+DPSBAR,207.7
+FARL,0.845
+FPEXT,0.0756
+LDP, 71.23
+PROPWET,0.63
+RMED-1H, 11.7
+RMED-1D, 54.3
+RMED-2D, 72.9
+SAAR,1805
+SAAR4170,1909
+SPRHOST,41.90
+URBEXT1990,0.0031
+URBEXT2000,0.0042
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Most downstream station on the Derwent, opened to replace Camerton (75002). GENERAL: The station was built to replace Camerton which was destroyed in the flood Nov 2009. Station added to peak flows dataset in September 2019 (WINFAP Files v8). STATION HYDROMETRY: Levels at the station are subject to surging during windy conditions which can impact levels by 20-30mm. Major floods such as November 2009 and December 2015 have significant bypassing flows on the right bank, which have been assessed by hydraulic modelling and comparison with upstream stations. A cableway is installed and all gaugings are done at the station. Control is Yearl Weir 300m downstream which incorporates two fish passes and a broad crested weir section. An offtake sluice is located close to the weir left bank which can be opened to aid fish passage with an effect on the rating at low flows. One peak flow rating valid across period of record. FLOW RECORD: Low flows are difficult to measure as velocities are very low.
+CATCHMENT,The river Derwent starts at Styhead Tarn beneath Scafell Pike and runs north through the Borrowdale valley into Derwentwater then Bassenthwaite lake and eventually joins the sea at Workington. Once it leaves Bassenthwaite it is joined by some significant tributaries (Cocker and Marron). The catchment is predominantly rural but many of the rivers and streams have been artificially straightened and modified in the past.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Too much uncertainty in extension of rating beyond gaugings.
+[END]

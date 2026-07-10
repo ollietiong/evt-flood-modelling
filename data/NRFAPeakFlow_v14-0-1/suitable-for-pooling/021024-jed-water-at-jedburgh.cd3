@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21024
+[END]
+[CDS DETAILS]
+NAME,Jed Water
+LOCATION,Jedburgh
+NOMINAL AREA,  139.95
+NOMINAL NGR,3655,6213
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,365600,621350
+CENTROID NGR,GB,365677,610876
+DTM AREA,  139.95
+ALTBAR, 253
+ASPBAR,  6
+ASPVAR,0.25
+BFIHOST,0.437
+DPLBAR, 18.67
+DPSBAR,111.6
+FARL,0.997
+FPEXT,0.0284
+LDP, 33.79
+PROPWET,0.57
+RMED-1H,  9.5
+RMED-1D, 32.7
+RMED-2D, 43.2
+SAAR, 914
+SAAR4170, 975
+SPRHOST,43.99
+URBEXT1990,0.0045
+URBCONC2000, 0.677
+URBEXT2000,0.0062
+URBLOC2000, 0.219
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows are largely natural and uncontrolled. GENERAL: Velocity area station on straight reach, about 16m wide. This station replaces one 0.5km downstream, installed in 1959, with rather poor and variable daily level readings. STATION HYDROMETRY: Natural channel control. The low flow control is a rock ledge and then at higher flows the control transitions to a downstream channel bar. The peak flow ratings are derived by current meter gaugings up to 2.577mm, measured at 69.6 cumecs (about 1.1 QMED). Higher flood estimates are based on simple extrapolation above the highest gauging, which provides some confidence in flows estimates up to bank full around 3m. Above 3m, the flow breaks out on the left bank into the industrial park. The peak flow rating QHigh1972 is applied throughout the record, with the exception of a two-year period between 27/01/2016 and 24/01/2018, when a bank collapsed downstream at a location where the river cuts into a steep bluff. Subsequent high flows eventually washed out the debris and the channel control returned to the pre slip state by 24/01/2018. The channel control is thought to have recovered in steps when flows were high enough to erode material from the landslip. The initial state after the slip from 27/01/2016 is represented by rating 17, which is based on gauging up to 1.671m/23.3 cumecs measured. Gauging evidence shows that the higher flow on 22/11/2016 caused sufficient erosion to produce a clear control shift and hence rating 18 was developed using available gaugings up to 1.478m/18.998 cumecs measured. A transition calculation has been used around ratings 17 and 18 to represent the ongoing erosion of material during several smaller peaks until the flood of 23/01/2018, where a flood gauging indicates the river control had returned to the pre-slip state. Higher ranking events are around 1m above the highest gauging and 0.5m above bankfull. Considering the high flow estimates are based in simple extrapolation, this station is tentatively assigned pooling status with the knowledge that the banks are well defined and uniform up to bankfull. Additionally, the out-of-bank spill out is largely ponding rather than flow. Some user discretion on suitability is recommended. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12) and in August 2024 (WINFAP Files v13). FLOW REGIME: Flows are largely natural and uncontrolled.
+CATCHMENT,An upland, mainly Old Red Sandstone catchment (approx. 2/3 overlain by superficial deposits). Land use mainly hill grazing with some forestry. No significant catchment changes known.
+Qmed Suitability,Rating well supported by gaugings to QMED.
+Pooling Suitability,Tentative Pooling suitability.Simple extrapolation to higher ranking events around 1m above the highest gauging and 0.5m above bankfull.Out-of-bank spill is largely ponding rather than flow.
+[END]

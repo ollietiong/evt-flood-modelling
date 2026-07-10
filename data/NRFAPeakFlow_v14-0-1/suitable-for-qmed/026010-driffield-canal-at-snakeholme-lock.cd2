@@ -1,0 +1,48 @@
+[FILE FORMAT]
+TYPE,CD2
+VERSION,2.0
+[END]
+[STATION NUMBER]
+ 26010
+[END]
+[CDS DETAILS]
+NAME,Driffield Canal
+LOCATION,Snakeholme Lock
+NOMINAL AREA,   49.48
+NOMINAL NGR,5066,4555
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,506700,455600
+DTM AREA,   49.48
+ALTBAR,  78
+ASPBAR,153
+ASPVAR,0.40
+BFIHOST,0.858
+DPLBAR, 11.07
+DPSBAR, 49.0
+FARL,0.986
+LDP, 19.71
+PROPWET,0.31
+RMED-1H, 10.6
+RMED-1D, 32.5
+RMED-2D, 42.0
+SAAR, 699
+SAAR4170, 729
+SPRHOST,12.59
+URBCONC1990, 0.776
+URBEXT1990,0.0263
+URBLOC1990, 0.499
+URBCONC2000, 0.833
+URBEXT2000,0.0248
+URBLOC2000, 0.487
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Electromagnetic station in a permeable Chalk catchment draining the Yorkshire Wolds. GENERAL: Electromagnetic gauge in narrowed section of canal, 5.5m wide. Catchment nested within the West Beck, which flows alongside and is gauged separately (26009). Station replaced with velocity index station at Wansford Bridge 530m upstream, from 2010. STATION HYDROMETRY: Electromagnetic gauge with buried coil, rectangular section, no known bypassing. Level control is from disused lock 170m downstream. Very low velocities lead to problems with sedimentation and excessive weed / reed growth. No stage-discharge relationship for this gauge and difficult gauging section due to weed. Since 2011 gaugings carried out upstream at Wansford Bridge. Gauged close to AMAX1. FLOW RECORD: Full period of record peak flow data reviewed and released in September 2023 (WINFAP Files v12). FLOW REGIME: Dominated by groundwater with seasonal winter maxima. Some artificial influences, including fish farm abstractions (non-consumptive) and spray irrigation (trivial overall impact).
+CATCHMENT,A small, rural catchment draining the Yorkshire Wolds, nested within the catchment of the West Beck. Land use is predominantly agricultural. Catchment is underlain by Chalk (Lower Cretaceous / Jurassic) but is notably harder than Chalk of Southern England. Drift to the east. No known catchment changes. NRFA catchment definition changed in 2015, previously included within West Beck (26009) now separated to show streams artificially captured to feed the Driffield Canal (includes Nafferton Beck and Water Forlornes).
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to 65% of AMAX2.
+[END]

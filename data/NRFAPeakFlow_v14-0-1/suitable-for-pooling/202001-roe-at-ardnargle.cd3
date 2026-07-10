@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+202001
+[END]
+[CDS DETAILS]
+NAME,Roe
+LOCATION,Ardnargle
+NOMINAL AREA,  365.73
+NOMINAL NGR,2673,4246
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,267350,424650
+CENTROID NGR,Ireland,270044,412247
+DTM AREA,  365.73
+ALTBAR, 194
+ASPBAR,335
+ASPVAR,0.14
+BFIHOST,0.403
+DPLBAR, 22.23
+DPSBAR, 89.6
+FARL,0.993
+FPEXT,0.0595
+LDP, 44.42
+PROPWET,0.61
+RMED-1H,  8.3
+RMED-1D, 38.2
+RMED-2D, 51.5
+SAAR,1250
+SAAR4170,1241
+SPRHOST,42.01
+URBCONC1990,-9999.000
+URBEXT1990,0.0149
+URBLOC1990, 0.355
+URBCONC2000, 0.842
+URBEXT2000,0.0064
+URBLOC2000, 0.415
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station with cableway opened in January 1975. Very flashy flow regime in spite of large catchment and reservoir in headlands. GENERAL: Velocity-area station with cableway. Masonry hut housing cableway winch situated on top of floodbank on left bank. Main and backup instruments present both using pressure probes. Channel width c.17m at station. Channel stabilisation work completed in October 2010 saw bank protection and concrete bed installed and control established. STATION HYDROMETRY: Control comprised of tiered rock olives established in October 2010 as part of bed stabilisation work. Multiple ratings apply to period of record with differences at low flows due to bed movements. High spring tides intrude up to the station. Very large range in water level (6m) although fully contained at high flows by extensive floodbanks. FLOW RECORD: Daily flows not archived on the NRFA since October 2010 - pending rating review to account for bed stabilisation works. Highest flow recorded on 16th August 2008 when 3 inches of rain fell in 12 hours on already saturated ground during what the Met Office termed "Awful August". Full period of record peak flow data reviewed and released in September 2019 (WINFAP Files v8) and in August 2024 (WINFAP Files v13). FLOW REGIME: Flow regime characterised as flashy despite relatively large catchment area. Headwaters contain Altnaheglish reservoir yielding 32Ml/d.
+CATCHMENT,Predominantly grassland headwaters with some shrub heath, bog and coniferous woodland. Intensively cultivated alluvial plain. High upland headwater area sloping fairly steeply onto an intensively cultivated alluvial plain. Contains towns of Limavady and Dungiven. Solid geology - bedrock is very varied with metamorphic, sedimentary and contemporaneous igneous rocks. Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologyies. Carboniferous conglomerates, sandstones and mudstone are generally indurated. Permeable Triassic sandstone (Sherwood) overlain by impermeable Triassic mudstone. Thin Cretaceous chalk is indurated and overlain by Palaeogene basalt lava flows. Drift geology - glacial till covers much of the area with extensive sand and gravel at the northern end of the catchment. Post-glacial peat cover extensive with restricted development of river alluvium.
+Qmed Suitability,All high flows fully contained.Gauged at QMED in 2012.
+Pooling Suitability,All high flows fully contained.Growth curve is quite flat however - may be due to catchment topography and varied geology.
+[END]
