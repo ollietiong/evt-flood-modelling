@@ -44,7 +44,7 @@ Data is retrieved programmatically through the NRFA API using Python's urllib an
 
 ### Methodology
 
-1. Data acquisition and validation
+#### 1. Data acquisition and validation
 
 The notebook retrieves daily flow measurements from the NRFA API and converts the response into a Pandas DataFrame.
 
@@ -58,7 +58,7 @@ Chronological ordering.
 
 Continuity of the daily record.
 
-2. Exploratory data analysis
+#### 2. Exploratory data analysis
 
 Time-series plots and histograms are used to investigate the distribution and temporal behaviour of daily river flows.
 
@@ -66,13 +66,13 @@ Summary statistics include the mean, median, standard deviation, skewness and 99
 
 The daily flow distribution is strongly right-skewed, highlighting the influence of relatively infrequent high-flow events and motivating the use of extreme value methods.
 
-3. Annual block maxima
+#### 3. Annual block maxima
 
 The block maxima approach is used to extract the largest daily flow in each calendar year.
 
 This produces 52 annual maximum observations for the period 1973–2024. Annual maxima provide a way to focus the analysis on extreme flows rather than the bulk of the daily flow distribution.
 
-4. Stationarity assessment
+#### 4. Stationarity assessment
 
 The notebook investigates whether annual maximum flows exhibit temporal trends using:
 
@@ -84,7 +84,7 @@ The Augmented Dickey–Fuller (ADF) test.
 
 These analyses provide an initial assessment of temporal behaviour. The stationarity assumption remains an important consideration when extrapolating extreme flow estimates to long return periods.
 
-5. Empirical return periods
+#### 5. Empirical return periods
 
 Annual maxima are ranked and assigned empirical exceedance probabilities using the Gringorten plotting-position formula.
 
@@ -92,7 +92,7 @@ The reciprocal of the estimated annual exceedance probability gives the correspo
 
 These empirical estimates provide a reference for comparison with the fitted extreme value distributions.
 
-6. Extreme value modelling
+#### 6. Extreme value modelling
 
 A Generalised Extreme Value (GEV) distribution is fitted to the annual maxima using SciPy.
 
@@ -102,7 +102,7 @@ Model behaviour is examined using quantile–quantile plots and comparisons of e
 
 The fitted GEV shape parameter is close to zero, suggesting behaviour broadly similar to a Gumbel distribution for this dataset.
 
-Technologies
+#### Technologies
 
 Python
 
@@ -120,7 +120,7 @@ NRFA API
 
 Jupyter Notebook
 
-Key findings
+### Key findings
 
 Daily river flows exhibit substantial right skew, with a small number of high-flow observations contributing disproportionately to the upper tail.
 
@@ -132,7 +132,7 @@ At the 90th, 98th and 99th percentiles of the fitted annual maximum distribution
 
 These results illustrate how extreme value distributions can be used to model high-flow behaviour and estimate the magnitude of rare events.
 
-Future work
+### Future work
 
 Planned extensions include:
 
@@ -148,7 +148,7 @@ Investigate seasonality and potential non-stationarity more rigorously.
 
 Quantify uncertainty in extreme return-level estimates.
 
-Limitations
+### Limitations
 
 The analysis uses annual maxima from a single river gauging station, providing a relatively small sample for estimating rare extremes. Estimates associated with long return periods are therefore sensitive to model assumptions and parameter uncertainty.
 
@@ -156,7 +156,7 @@ The stationarity assessment is exploratory, and the fitted distribution should n
 
 Return periods describe probabilities under the assumed statistical model; they do not imply that an event will occur at regular intervals.
 
-References
+### References
 
 National River Flow Archive (NRFA)
 
